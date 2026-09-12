@@ -80,3 +80,8 @@ ENABLED_SCRAPERS = {
 # --- Output ---
 SAVE_RESULTS_TO_FILE = True
 OUTPUT_DIR = "results"
+
+# Immowelt uzywa wewnetrznych kodow lokalizacji (nie PLZ). AD08DE2123 = Emmerich am Rhein.
+# Dodaj wiecej kodow tutaj jesli zdobedziesz je dla Kleve/Rees/itd (skopiuj z URL po recznym wyszukaniu).
+IMMOWELT_LOCATION_CODES = ["AD08DE2123"]
+

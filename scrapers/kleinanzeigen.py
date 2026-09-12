@@ -21,6 +21,7 @@ wyślij outerHTML jednej karty żeby to dopracować (art.aditem to najlepsza
 dotychczasowa hipoteza, ale mogła się zmienić).
 """
 import logging
+import re
 from typing import List
 
 from bs4 import BeautifulSoup
@@ -54,34 +55,51 @@ def _build_search_url(slug: str, location_id: str, radius_km: int, page: int = 1
 
 def _parse_cards(html: str, slug: str) -> List[Listing]:
     soup = BeautifulSoup(html, "html.parser")
-    # TODO: zweryfikować selektor na realnym HTML-u (wyślij outerHTML karty ogłoszenia)
-    cards = soup.select("article.aditem")
+    cards = soup.select("article[data-adid]")
     listings = []
 
     for card in cards:
-        link_el = card.select_one("a.ellipsis")
-        if not link_el:
+        href = card.get("data-href")
+        if not href:
+            link_el = card.select_one("h3 a")
+            href = link_el.get("href") if link_el else None
+        if not href:
             continue
 
-        price_el = card.select_one(".aditem-main--middle--price-shipping--price")
-        location_el = card.select_one(".aditem-main--top--left")
-        desc_el = card.select_one(".aditem-main--middle--description")
-        attrs_text = card.get_text(" ", strip=True)
+        title_el = card.select_one("h3 a")
+        price_el = card.select_one("p.my-xsmall.text-title3.font-strong.text-secondary")
+        meta_el = card.select_one("p.font-strong.text-onSurfaceSubdued")  # np. "70 m² · 2 Zi."
+        desc_el = card.select_one("p.mb-xsmall.text-bodyRegular.text-onSurfaceSubdued")
+        location_container = card.select_one("div.text-onSurfaceNonessential")
 
-        href = link_el.get("href", "")
+        meta_text = meta_el.get_text(" ", strip=True) if meta_el else ""
+        desc_text = desc_el.get_text(" ", strip=True) if desc_el else ""
+
+        location_text = slug.replace("-", " ")
+        distance_km = None
+        if location_container:
+            spans = location_container.select("span")
+            if spans:
+                location_text = spans[0].get_text(strip=True)
+            if len(spans) > 1:
+                dist_match = re.search(r"(\d+(?:[.,]\d+)?)", spans[1].get_text())
+                if dist_match:
+                    distance_km = float(dist_match.group(1).replace(",", "."))
+
         full_url = href if href.startswith("http") else BASE_URL + href
 
         listings.append(Listing(
             source="Kleinanzeigen",
-            title=link_el.get_text(strip=True),
+            title=title_el.get_text(strip=True) if title_el else "(bez tytułu)",
             url=full_url,
-            price_eur=parse_price(price_el.get_text(strip=True) if price_el else attrs_text),
-            rooms=parse_rooms(attrs_text),
-            size_sqm=parse_size(attrs_text),
-            location_text=location_el.get_text(strip=True) if location_el else slug.replace("-", " "),
-            has_bathroom=guess_bathroom(attrs_text),
-            has_kitchen=guess_kitchen(attrs_text),
-            raw_description=desc_el.get_text(strip=True) if desc_el else attrs_text,
+            price_eur=parse_price(price_el.get_text(strip=True) if price_el else meta_text),
+            rooms=parse_rooms(meta_text),
+            size_sqm=parse_size(meta_text),
+            location_text=location_text,
+            distance_km=distance_km,  # Kleinanzeigen sam podaje odległość od centrum wyszukiwania
+            has_bathroom=guess_bathroom(desc_text),
+            has_kitchen=guess_kitchen(desc_text),
+            raw_description=desc_text,
         ))
 
     return listings

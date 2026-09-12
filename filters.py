@@ -53,6 +53,10 @@ def _kitchen_ok(listing: Listing) -> bool:
 
 
 def _location_ok(listing: Listing) -> bool:
+    # Niektóre portale (np. Kleinanzeigen) już podają odległość od centrum wyszukiwania -
+    # jeśli tak, ufamy tej wartości zamiast dogeokodowywać adres od nowa.
+    if listing.distance_km is not None:
+        return listing.distance_km <= config.MAX_DISTANCE_KM
     ok, distance = within_radius(listing.location_text)
     listing.distance_km = distance
     return ok
