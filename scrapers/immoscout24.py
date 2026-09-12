@@ -1,45 +1,41 @@
 """
 Scraper dla immobilienscout24.de
 
-WERSJA 2 - poprawiona na podstawie realnego URLa wygenerowanego przez ręczne
-wyszukiwanie w przeglądarce:
+WERSJA 3 - selektory dopasowane do realnego HTML karty ogłoszenia:
 
-    https://www.immobilienscout24.de/en/search/de/nordrhein-westfalen/
-    kleve-kreis/emmerich-am-rhein/apartments-for-rent
-    ?numberofrooms=-3.0&price=-770.0&pricetype=calculatedtotalrent&enteredFrom=result_list
+    <div class="grid-item font-ellipsis one-half grid grid-flex row-gap-2">
+      <h2 data-testid="headline" ...>50 m² maisonette apartment...</h2>
+      <div class="grid ... listing-card__attributes" data-testid="attributes">
+        <dl><dd>€680</dd></dl><dl><dd>50 m²</dd></dl><dl><dd><span>2 rms</span></dd></dl>
+      </div>
+      <div data-testid="hybridViewAddress">Kleve, Kleve (Kreis)</div>
+    </div>
 
-Wniosek: promień (`radius=`) w URL dawał 401 Unauthorized - ImmoScout24 najwyraźniej
-nie wspiera tego tak jak wcześniej zakładałem. Zamiast tego przeszukujemy listę
-konkretnych miejscowości z config.IMMOSCOUT24_LOCATION_SLUGS (Emmerich + sąsiednie
-gminy w promieniu ~15 km w stronę Kleve).
-
-`numberofrooms=-3.0` w przykładzie znaczy "maks. 3 pokoje, bez minimum". Dla
-dokładnie 2 pokoi używamy zakresu `2.0-2.0`.
-
-`pricetype=calculatedtotalrent` = Warmmiete (czynsz z opłatami). Domyślnie (bez
-tego parametru) ImmoScout24 filtruje po Kaltmiete - to chcemy, więc go pomijamy.
-Jeśli jednak wolisz filtrować po Warmmiete, dodaj pricetype=calculatedtotalrent
-do PARAMS_EXTRA poniżej.
-
-Selektory HTML kart ogłoszeń NIE zostały jeszcze zweryfikowane na żywym HTML-u -
-to następny krok (wyślij mi outerHTML jednej karty ogłoszenia z wyników).
+TODO: brakuje jeszcze linku do ogłoszenia (href="/expose/...") - ten fragment
+najwyraźniej nie zawiera go bezpośrednio, musi być na elemencie-rodzicu (prawdopodobnie
+<a> lub <article> opakowujący cały ten <div class="grid-item...">). Selektor CARD_SELECTOR
+poniżej zakłada, że rodzicem jest <a href="/expose/...">, ale to wymaga potwierdzenia na
+żywym HTML-u - jeśli po aktualizacji nadal 0 wyników, to jest najbardziej prawdopodobna
+przyczyna.
 """
 import logging
-from typing import List
+import re
+from typing import List, Optional
 
 from bs4 import BeautifulSoup
 
 import config
 from models import Listing
-from scrapers.base import (
-    make_session, polite_get, parse_price, parse_rooms, parse_size,
-    guess_bathroom, guess_kitchen,
-)
+from scrapers.base import make_session, polite_get
 
 logger = logging.getLogger("immo-bot")
 
 BASE_URL = "https://www.immobilienscout24.de"
 PARAMS_EXTRA = ""  # np. "&pricetype=calculatedtotalrent" jeśli wolisz filtrować po Warmmiete
+
+# Zakładany selektor karty - element <a> (lub inny) opakowujący cały wpis.
+# TODO: potwierdzić po otrzymaniu HTML-a jeden poziom wyżej.
+CARD_SELECTOR = "a[href*='/expose/']"
 
 
 def _build_search_url(location_slug: str, page: int = 1) -> str:
@@ -59,36 +55,58 @@ def _build_search_url(location_slug: str, page: int = 1) -> str:
     return url
 
 
+def _extract_number(text: str) -> Optional[float]:
+    if not text:
+        return None
+    match = re.search(r"(\d+(?:[.,]\d+)?)", text.replace(".", "").replace(",", "."))
+    return float(match.group(1)) if match else None
+
+
+def _parse_card(card) -> Optional[Listing]:
+    href = card.get("href", "")
+    if not href:
+        return None
+    full_url = href if href.startswith("http") else BASE_URL + href
+
+    title_el = card.select_one("h2[data-testid='headline']")
+    address_el = card.select_one("[data-testid='hybridViewAddress']")
+    attr_dds = card.select("[data-testid='attributes'] dd")
+
+    price_eur = rooms = size_sqm = None
+    for dd in attr_dds:
+        text = dd.get_text(" ", strip=True)
+        if "€" in text:
+            price_eur = _extract_number(text.replace("€", ""))
+        elif "m²" in text:
+            size_sqm = _extract_number(text.replace("m²", ""))
+        elif "rm" in text.lower() or "zi" in text.lower():
+            rooms = _extract_number(text)
+
+    return Listing(
+        source="ImmoScout24",
+        title=title_el.get_text(strip=True) if title_el else "(bez tytułu)",
+        url=full_url,
+        price_eur=price_eur,
+        rooms=rooms,
+        size_sqm=size_sqm,
+        location_text=address_el.get_text(strip=True) if address_el else "",
+        has_bathroom=None,
+        has_kitchen=None,
+        raw_description=title_el.get_text(strip=True) if title_el else "",
+    )
+
+
 def _parse_cards(html: str, location_slug: str) -> List[Listing]:
     soup = BeautifulSoup(html, "html.parser")
-    # TODO: zweryfikować selektor na realnym HTML-u (wyślij outerHTML karty ogłoszenia)
-    cards = soup.select("article, div.result-list-entry, li[data-item='result']")
+    cards = soup.select(CARD_SELECTOR)
     listings = []
-
     for card in cards:
-        link_el = card.select_one("a[href*='/expose/']")
-        if not link_el:
+        # karta musi zawierać headline, inaczej to inny link (np. do agencji, mapy itp.)
+        if not card.select_one("h2[data-testid='headline']"):
             continue
-
-        title_el = card.select_one("h5, [data-testid='result-list-entry-brand-title']")
-        attrs_text = card.get_text(" ", strip=True)
-
-        href = link_el.get("href", "")
-        full_url = href if href.startswith("http") else BASE_URL + href
-
-        listings.append(Listing(
-            source="ImmoScout24",
-            title=title_el.get_text(strip=True) if title_el else "(bez tytułu)",
-            url=full_url,
-            price_eur=parse_price(attrs_text),
-            rooms=parse_rooms(attrs_text),
-            size_sqm=parse_size(attrs_text),
-            location_text=location_slug.split("/")[-1].replace("-", " "),
-            has_bathroom=guess_bathroom(attrs_text),
-            has_kitchen=guess_kitchen(attrs_text),
-            raw_description=attrs_text,
-        ))
-
+        listing = _parse_card(card)
+        if listing:
+            listings.append(listing)
     return listings
 
 
