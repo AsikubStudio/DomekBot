@@ -24,6 +24,9 @@ jobs:
       - name: Zainstaluj zależności
         run: pip install -r requirements.txt
 
+      - name: Zainstaluj przeglądarkę dla Playwright (ImmoScout24)
+        run: playwright install --with-deps chromium
+
       - name: Uruchom bota
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
