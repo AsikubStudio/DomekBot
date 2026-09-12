@@ -75,6 +75,75 @@
   .empty .icon { font-size: 34px; margin-bottom: 10px; }
   .empty p { margin: 4px 0; font-size: 14.5px; }
   footer { text-align: center; color: var(--ink-soft); font-size: 12.5px; margin-top: 36px; }
+
+  .push-panel {
+    background: var(--bg-raised);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 16px 18px;
+    margin-bottom: 22px;
+  }
+  .push-panel .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .push-panel p.label { margin: 0; font-size: 14px; font-weight: 500; }
+  .push-panel p.hint { margin: 4px 0 0; font-size: 13px; color: var(--ink-soft); }
+  .push-btn {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 13.5px;
+    font-weight: 500;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .push-btn:hover { opacity: 0.9; }
+  .push-btn.secondary {
+    background: none;
+    color: var(--brick);
+    border: 1px solid var(--border);
+  }
+  .push-status {
+    font-size: 13px;
+    color: var(--accent-ink);
+    font-weight: 500;
+  }
+  .subscription-box {
+    margin-top: 12px;
+    background: var(--accent-soft);
+    border-radius: 8px;
+    padding: 12px;
+  }
+  .subscription-box textarea {
+    width: 100%;
+    min-height: 90px;
+    font-family: ui-monospace, monospace;
+    font-size: 11.5px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px;
+    background: var(--bg-raised);
+    color: var(--ink);
+    resize: vertical;
+  }
+  .subscription-box ol {
+    margin: 10px 0 0;
+    padding-left: 18px;
+    font-size: 13px;
+    color: var(--ink-soft);
+  }
+  .subscription-box code {
+    background: var(--bg-raised);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 12px;
+  }
   @media (max-width: 520px) {
     .listing-top { flex-direction: column; }
     .listing-price { font-size: 18px; }
@@ -98,6 +167,25 @@
     <span>łazienka preferowana</span>
   </div>
 
+  <div class="push-panel" id="pushPanel">
+    <div class="row">
+      <div>
+        <p class="label">🔔 Powiadomienia push</p>
+        <p class="hint" id="pushHint">Dostawaj powiadomienie na telefon, gdy pojawi się nowa oferta.</p>
+      </div>
+      <button class="push-btn" id="pushBtn">Włącz powiadomienia</button>
+    </div>
+    <div class="subscription-box" id="subscriptionBox" style="display:none;">
+      <p class="hint" style="margin-bottom:8px;">
+        Skopiuj poniższy tekst i wklej jako wartość sekretu <code>PUSH_SUBSCRIPTION</code>
+        w repo na GitHubie (Settings → Secrets and variables → Actions). To jednorazowa czynność —
+        potem bot będzie mógł wysyłać Ci powiadomienia.
+      </p>
+      <textarea id="subscriptionText" readonly></textarea>
+      <button class="push-btn secondary" id="copyBtn" style="margin-top:8px;">Kopiuj</button>
+    </div>
+  </div>
+
   <div id="resultsArea"><div class="empty"><p>Ładowanie ofert...</p></div></div>
 
   <footer>Aktualizowane automatycznie przez GitHub Actions co ok. 3 godziny.</footer>
@@ -107,6 +195,9 @@
 (function() {
   const DATA_URL = './data/latest.json';
   const NEW_SINCE_KEY = 'immo-last-seen-visit';
+  // Klucz publiczny VAPID - bezpieczny do trzymania jawnie w kodzie strony (to standard Web Push).
+  const VAPID_PUBLIC_KEY = 'BNLmcmvWSJCKohdIFdaNQl8hfILZuwLCPoCZV0hIq6UerW1wodTBXd9OMe8VfDIcrfINc6p19KY7Y0LNRkVeJ1A';
+
   let allListings = [];
   let activeSource = 'Wszystkie';
   let sortMode = 'price-asc';
@@ -262,6 +353,68 @@
   loadData();
   // Auto-odświeżanie co 5 minut, gdyby strona została otwarta na dłużej.
   setInterval(loadData, 5 * 60 * 1000);
+
+  // ---------- Powiadomienia push ----------
+  const pushBtn = document.getElementById('pushBtn');
+  const pushHint = document.getElementById('pushHint');
+  const subscriptionBox = document.getElementById('subscriptionBox');
+  const subscriptionText = document.getElementById('subscriptionText');
+  const copyBtn = document.getElementById('copyBtn');
+
+  function urlBase64ToUint8Array(base64String) {
+    const padding = '='.repeat((4 - (base64String.length % 4)) % 4);
+    const base64 = (base64String + padding).replace(/-/g, '+').replace(/_/g, '/');
+    const rawData = atob(base64);
+    return Uint8Array.from([...rawData].map((c) => c.charCodeAt(0)));
+  }
+
+  async function initPush() {
+    if (!('serviceWorker' in navigator) || !('PushManager' in window)) {
+      pushHint.textContent = 'Ta przeglądarka nie wspiera powiadomień push (na iOS: dodaj stronę do ekranu głównego i otwórz ją stamtąd).';
+      pushBtn.disabled = true;
+      return;
+    }
+
+    const registration = await navigator.serviceWorker.register('sw.js');
+    const existing = await registration.pushManager.getSubscription();
+
+    if (existing) {
+      pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
+      pushHint.textContent = 'Powiadomienia są włączone w tej przeglądarce.';
+    }
+
+    pushBtn.addEventListener('click', async () => {
+      try {
+        let subscription = await registration.pushManager.getSubscription();
+        if (!subscription) {
+          const permission = await Notification.requestPermission();
+          if (permission !== 'granted') {
+            pushHint.textContent = 'Nie udzielono zgody na powiadomienia w przeglądarce.';
+            return;
+          }
+          subscription = await registration.pushManager.subscribe({
+            userVisibleOnly: true,
+            applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY),
+          });
+        }
+        subscriptionText.value = JSON.stringify(subscription.toJSON(), null, 2);
+        subscriptionBox.style.display = 'block';
+        pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
+        pushHint.textContent = 'Powiadomienia włączone - dokończ konfigurację poniżej (jednorazowo).';
+      } catch (err) {
+        pushHint.textContent = 'Nie udało się włączyć powiadomień: ' + err.message;
+      }
+    });
+  }
+
+  copyBtn.addEventListener('click', () => {
+    subscriptionText.select();
+    document.execCommand('copy');
+    copyBtn.textContent = 'Skopiowano ✓';
+    setTimeout(() => { copyBtn.textContent = 'Kopiuj'; }, 1500);
+  });
+
+  initPush();
 })();
 </script>
 </body>

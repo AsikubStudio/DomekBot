@@ -92,6 +92,7 @@ immo-bot/
 ├── data/seen_ids.json              # pamięć bota między uruchomieniami (commitowane)
 └── docs/                            # strona GitHub Pages
     ├── index.html                   # frontend - czyta data/latest.json, auto-odświeża się
+    ├── sw.js                         # Service Worker - obsługa powiadomień push
     ├── manifest.json                 # PWA - "dodaj do ekranu głównego"
     ├── icon-192.png / icon-512.png
     └── data/latest.json              # wyniki bota - nadpisywane przez GitHub Actions
@@ -148,6 +149,31 @@ Po chwili strona będzie dostępna pod `https://<twoj-login>.github.io/immo-bot/
 
 Jeśli pominiesz ten krok, wszystko inne działa normalnie - po prostu nie dostaniesz powiadomień
 (bot wykrywa brak tych zmiennych i po cichu pomija wysyłkę).
+
+### Krok 3b - (opcjonalnie) prawdziwe powiadomienia push na telefon
+
+Zamiast/obok Telegrama możesz dostawać powiadomienia wyglądające jak z natywnej appki -
+banner na ekranie telefonu, bez pośrednictwa Telegrama. To wymaga jednorazowej konfiguracji:
+
+1. Otwórz stronę (`https://<twoj-login>.github.io/immo-bot/`) **na telefonie**, najlepiej
+   po dodaniu jej do ekranu głównego (patrz Krok 5) - na iOS powiadomienia push działają
+   tylko gdy strona jest otwarta jako dodana ikona, nie w zwykłej karcie Safari.
+2. Kliknij **"Włącz powiadomienia"** w panelu na górze strony i zaakceptuj zgodę przeglądarki.
+3. Pojawi się pole tekstowe z danymi subskrypcji (JSON) - skopiuj całość.
+4. W repo na GitHubie dodaj sekrety (Settings → Secrets and variables → Actions):
+   - `PUSH_SUBSCRIPTION` - wklej to, co skopiowałeś w kroku 3
+   - `VAPID_PRIVATE_KEY_PEM` - klucz prywatny wygenerowany specjalnie dla tej appki (wygenerowany
+     razem z kluczem publicznym już wpisanym w `docs/index.html` - **nie zmieniaj jednego bez
+     drugiego**, muszą być parą). Poproś o niego w rozmowie z Claude, jeśli go nie zapisałeś.
+   - `VAPID_CLAIMS_EMAIL` *(opcjonalnie)* - dowolny adres w formacie `mailto:ty@example.com`,
+     wymagany formalnie przez specyfikację Web Push. Jeśli pominiesz, użyty zostanie placeholder.
+
+Uwaga: subskrypcja jest przypisana do jednej przeglądarki/urządzenia. Jeśli zmienisz telefon
+albo wyczyścisz dane przeglądarki, powtórz kroki 1-4 z nowym urządzeniem.
+
+**iOS (iPhone):** Web Push na Safari wymaga iOS 16.4+ i strony dodanej do ekranu głównego
+("Do ekranu początkowego" w menu udostępniania) - powiadomienia nie zadziałają z poziomu
+zwykłej karty przeglądarki.
 
 ### Krok 4 - pierwsze uruchomienie
 
