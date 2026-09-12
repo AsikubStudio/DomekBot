@@ -4,11 +4,11 @@ Windows Task Scheduler) - NIE w GitHub Actions.
 
 Dlaczego osobny plik: potwierdziliśmy, że ekran "Ich bin kein Roboter" pojawia
 się tylko z adresów IP centrów danych (GitHub Actions). Z domowego adresu IP +
-prawdziwej przeglądarki (undetected-chromedriver) strona działa normalnie - trzeba
-tylko zaakceptować baner cookies (Usercentrics), co robią funkcje poniżej.
+prawdziwej przeglądarki strona działa normalnie - trzeba tylko zaakceptować
+baner cookies (Usercentrics), co robią funkcje poniżej.
 
-Wymaga pakietów, których NIE MA w requirements.txt (celowo - to lokalny wyjątek):
-    pip install undetected-chromedriver selenium
+Wymaga pakietu, którego NIE MA w requirements.txt (celowo - to lokalny wyjątek):
+    pip install seleniumbase
 
 Rejestracja: scrapers/__init__.py rejestruje to pod kluczem "immoscout24_local",
 którego NIE MA w config.ENABLED_SCRAPERS - dzięki temu ani zwykłe `python main.py`,
@@ -21,7 +21,15 @@ i README.md (sekcja "ImmoScout24 lokalnie").
 
 Logika parsowania HTML (_build_search_url, _parse_cards) jest importowana z
 scrapers/immoscout24.py, żeby nie duplikować kodu - obie wersje różnią się TYLKO
-sposobem pobierania strony (Playwright w chmurze vs. undetected-chromedriver lokalnie).
+sposobem pobierania strony (Playwright w chmurze vs. przeglądarka lokalnie).
+
+HISTORIA (12.09.2026): pierwotnie ten plik używał pakietu "undetected-chromedriver"
+bezpośrednio, ale po aktualizacji Chrome do wersji 153.x przestał się łączyć
+z przeglądarką ("cannot connect to chrome") - problem występował niezależnie od
+wersji Pythona (3.13/3.14), wersji selenium, czy własnych opcji Chrome, a więc
+leżał w samym mechanizmie uruchamiania tego pakietu. Przełączenie na SeleniumBase
+(SB(uc=True)) - osobny, aktywniej rozwijany projekt oparty na tej samej idei -
+rozwiązało problem od razu.
 """
 import logging
 import time
@@ -83,33 +91,23 @@ def _accept_cookies(driver) -> bool:
 
 def search() -> List[Listing]:
     try:
-        import undetected_chromedriver as uc
+        from seleniumbase import SB
     except ImportError:
-        logger.warning("ImmoScout24 (lokalnie): brak pakietu 'undetected-chromedriver' - "
-                        "zainstaluj: pip install undetected-chromedriver selenium. Pomijam.")
+        logger.warning("ImmoScout24 (lokalnie): brak pakietu 'seleniumbase' - "
+                        "zainstaluj: pip install seleniumbase. Pomijam.")
         return []
 
     results: List[Listing] = []
     seen_urls = set()
 
-    options = uc.ChromeOptions()
-    options.add_argument("--disable-blink-features=AutomationControlled")
-    options.add_argument("--disable-infobars")
-    options.add_argument("--disable-popup-blocking")
-    options.add_argument("--window-size=1920,1080")
-    options.add_argument(
-        "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
-    )
-
-    # UWAGA: headless=True zostało przetestowane i wywołuje CAPTCHA (obrazkowy test
+    # UWAGA: headless zostało przetestowane i wywołuje CAPTCHA (obrazkowy test
     # "Ich bin kein Roboter"), mimo dzialania w trybie zwyklym (widocznym oknem) z
     # tego samego adresu IP. Dlatego NIE uzywamy headless - zamiast tego, zeby uruchamiac
     # to w tle bez pokazywania okna, skonfiguruj Windows Task Scheduler z opcja
     # "Uruchom niezaleznie od tego, czy uzytkownik jest zalogowany" (patrz README) -
     # wtedy okno przegladarki nie pojawi sie na pulpicie, mimo ze to nie headless.
-    driver = uc.Chrome(options=options)
-    try:
+    with SB(uc=True, headless=False) as sb:
+        driver = sb.driver
         driver.execute_cdp_cmd("Page.addScriptToEvaluateOnNewDocument", {"source": STEALTH_INIT_SCRIPT})
 
         # Pierwsze wejście - żeby obsłużyć baner cookies raz, na początku.
@@ -160,8 +158,6 @@ def search() -> List[Listing]:
                         results.append(listing)
 
                 time.sleep(config.REQUEST_DELAY_SECONDS)
-    finally:
-        driver.quit()
 
     logger.info("ImmoScout24 (lokalnie): znaleziono %d ofert łącznie (przed filtrowaniem).", len(results))
     return results
