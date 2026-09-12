@@ -28,6 +28,25 @@ def make_session() -> requests.Session:
     return session
 
 
+def make_impersonated_session():
+    """
+    Sesja HTTP, ktora podszywa sie pod prawdziwy "odcisk palca" TLS (JA3/JA4)
+    przegladarki Chrome, przy pomocy curl_cffi. Zwykly `requests` ma inny
+    handshake TLS niz prawdziwa przegladarka, co niektore portale (np. ImmoScout24)
+    wykrywaja i blokuja (401/403) jeszcze zanim przeczytaja jakiekolwiek naglowki.
+
+    Zwraca obiekt zgodny z API requests.Session (ma .get(), .headers, itd.),
+    wiec dziala z ta sama funkcja polite_get() co zwykle sesje.
+    """
+    from curl_cffi import requests as curl_requests
+    session = curl_requests.Session(impersonate="chrome124")
+    session.headers.update({
+        "Accept-Language": "de-DE,de;q=0.9,en;q=0.8",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+    })
+    return session
+
+
 def polite_get(session: requests.Session, url: str) -> Optional[str]:
     """GET z opóźnieniem i podstawową obsługą błędów. Zwraca None zamiast wywalać cały bot."""
     time.sleep(config.REQUEST_DELAY_SECONDS)
@@ -41,9 +60,19 @@ def polite_get(session: requests.Session, url: str) -> Optional[str]:
         # Wymuszamy wykrywanie kodowania na podstawie zawartosci (chardet/charset_normalizer),
         # bo niektore portale nie deklaruja poprawnie charsetu w naglowku HTTP, przez co polskie
         # i niemieckie znaki (ä, ö, ü, ß) laduja jako "mojibake" typu "GroÃe" zamiast "Große".
-        resp.encoding = resp.apparent_encoding
+        # curl_cffi (uzywane dla ImmoScout24) moze nie miec .apparent_encoding, wiec robimy to
+        # bezpiecznie i po cichu pomijamy jesli sie nie uda - lepszy "krzywy" tekst niz crash.
+        try:
+            resp.encoding = resp.apparent_encoding
+        except AttributeError:
+            pass
         return resp.text
     except requests.RequestException as exc:
+        logger.warning(f"Błąd pobierania {url}: {exc}")
+        return None
+    except Exception as exc:
+        # curl_cffi (ImmoScout24) zglasza wlasne typy wyjatkow, niekoniecznie
+        # requests.RequestException - lapiemy szeroko, zeby nic nie wywalilo bota.
         logger.warning(f"Błąd pobierania {url}: {exc}")
         return None
 
