@@ -24,6 +24,9 @@ jobs:
       - name: Zainstaluj zależności
         run: pip install -r requirements.txt
 
+      - name: Zainstaluj przeglądarkę dla Playwright (ImmoScout24)
+        run: playwright install --with-deps chromium
+
       - name: Uruchom bota
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
@@ -32,6 +35,14 @@ jobs:
           VAPID_PRIVATE_KEY_PEM: ${{ secrets.VAPID_PRIVATE_KEY_PEM }}
           VAPID_CLAIMS_EMAIL: ${{ secrets.VAPID_CLAIMS_EMAIL }}
         run: python main.py --no-save
+
+      - name: Zapisz zrzut ekranu ImmoScout24 (debug)
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: immoscout24-debug-screenshot
+          path: immoscout24_debug.png
+          if-no-files-found: ignore
 
       - name: Zapisz wyniki z powrotem do repo (dla GitHub Pages)
         run: |

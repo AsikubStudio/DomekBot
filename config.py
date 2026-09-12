@@ -71,8 +71,8 @@ KLEINANZEIGEN_LOCATIONS = [
 
 # Które portale mają być przeszukiwane (można wyłączyć pojedynczo do debugowania)
 ENABLED_SCRAPERS = {
-    "immoscout24": True,
-    "immowelt": False,
+    "immoscout24": False,  # blokada "Ich bin kein Roboter" dla IP centrow danych - nie do obejscia etycznie
+    "immowelt": False,  # wyjebane - stabilnie 403, nie warto walczyc
     "kleinanzeigen": True,
     "wg_gesucht": False,  # pomijamy - zbyt uciążliwy do naprawy (paywall/login-wall)
 }
@@ -84,6 +84,15 @@ OUTPUT_DIR = "results"
 # --- Publikacja wynikow (dla strony GitHub Pages) i sledzenie nowych ofert ---
 PUBLISH_JSON_PATH = "docs/data/latest.json"   # czyta to strona w docs/index.html
 SEEN_IDS_PATH = "data/seen_ids.json"          # pamiec "co juz widzielismy" miedzy uruchomieniami
+
+# Co ile godzin (w teorii) kazde zrodlo sie odswieza - uzywane TYLKO do wyswietlenia
+# odliczania na stronie ("kolejne sprawdzenie za..."), nie steruje samym scraperem.
+# Kleinanzeigen: harmonogram GitHub Actions (.github/workflows/scrape.yml).
+# ImmoScout24: harmonogram Windows Task Scheduler na komputerze uzytkownika.
+SOURCE_REFRESH_INTERVAL_HOURS = {
+    "Kleinanzeigen": 3,
+    "ImmoScout24": 1,
+}
 
 # Immowelt uzywa wewnetrznych kodow lokalizacji (nie PLZ). AD08DE2123 = Emmerich am Rhein.
 # Dodaj wiecej kodow tutaj jesli zdobedziesz je dla Kleve/Rees/itd (skopiuj z URL po recznym wyszukaniu).
