@@ -50,13 +50,53 @@ def split_new_listings(listings: List[Listing], seen_ids: Set[str]) -> Tuple[Lis
 
 
 def write_latest_json(listings: List[Listing], path: str = None) -> None:
+    """
+    Zapisuje wyniki do pliku, ktory czyta strona GitHub Pages.
+
+    WAZNE: to MERGE po polu "Portal", a nie zwykle nadpisanie. Dzieki temu jesli
+    ten sam plik jest aktualizowany z dwoch niezaleznych miejsc (np. Kleinanzeigen
+    z GitHub Actions w chmurze i ImmoScout24 lokalnie z Twojego komputera przez
+    Windows Task Scheduler), kazde z nich nadpisuje TYLKO wlasne wyniki, a wyniki
+    innego zrodla, wpisane przy poprzednim uruchomieniu, zostaja nietkniete.
+
+    Dodatkowo zapisuje w kluczu "sources" znacznik czasu OSTATNIEGO zapisu KAZDEGO
+    zrodla z osobna (nie tylko globalny "generated_at") - dzieki temu strona moze
+    pokazac osobny zegar "ostatnio sprawdzono / kolejne sprawdzenie za..." dla
+    Kleinanzeigen i dla ImmoScout24, mimo ze aktualizuja sie w zupelnie innym rytmie.
+    """
     path = path or config.PUBLISH_JSON_PATH
     os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+
+    existing_rows = []
+    existing_sources = {}
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as f:
+                existing_data = json.load(f)
+                existing_rows = existing_data.get("listings", [])
+                existing_sources = existing_data.get("sources", {})
+        except (json.JSONDecodeError, OSError) as exc:
+            logger.warning("Nie udało się wczytać istniejącego %s (%s) - zaczynam od zera.", path, exc)
+
+    sources_in_this_run = {l.source for l in listings}
+    kept_rows = [row for row in existing_rows if row.get("Portal") not in sources_in_this_run]
+    new_rows = [l.as_row() for l in listings]
+    combined_rows = kept_rows + new_rows
+
+    now_iso = datetime.now(timezone.utc).isoformat()
+    for source in sources_in_this_run:
+        existing_sources[source] = {
+            "last_updated": now_iso,
+            "interval_hours": config.SOURCE_REFRESH_INTERVAL_HOURS.get(source, 3),
+        }
+
     payload = {
-        "generated_at": datetime.now(timezone.utc).isoformat(),
-        "count": len(listings),
-        "listings": [l.as_row() for l in listings],
+        "generated_at": now_iso,
+        "count": len(combined_rows),
+        "sources": existing_sources,
+        "listings": combined_rows,
     }
     with open(path, "w", encoding="utf-8") as f:
         json.dump(payload, f, ensure_ascii=False, indent=2)
-    logger.info("Zapisano %d ofert do %s (dla strony GitHub Pages).", len(listings), path)
+    logger.info("Zapisano %d ofert (%d nowych z tego przebiegu + %d zachowanych z innych źródeł) do %s.",
+                len(combined_rows), len(new_rows), len(kept_rows), path)
