@@ -1,41 +1,44 @@
 """
 Scraper dla immobilienscout24.de
 
-WERSJA 3 - selektory dopasowane do realnego HTML karty ogłoszenia:
+WERSJA 4 - uzywa prawdziwej przegladarki (Playwright), nie zwyklych zapytan HTTP.
 
-    <div class="grid-item font-ellipsis one-half grid grid-flex row-gap-2">
-      <h2 data-testid="headline" ...>50 m² maisonette apartment...</h2>
-      <div class="grid ... listing-card__attributes" data-testid="attributes">
-        <dl><dd>€680</dd></dl><dl><dd>50 m²</dd></dl><dl><dd><span>2 rms</span></dd></dl>
-      </div>
-      <div data-testid="hybridViewAddress">Kleve, Kleve (Kreis)</div>
-    </div>
+Historia prob: zwykly `requests` dawal 401 nawet na samej stronie glownej.
+Podszycie sie pod TLS fingerprint Chrome (`curl_cffi`) rowniez dalo 401 - to
+sugeruje, ze ochrona wymaga faktycznego wykonania JavaScriptu (typowe dla
+Akamai/PerimeterX/Datadome), czego zadna biblioteka HTTP nie jest w stanie
+zrobic. Stad przejscie na prawdziwa przegladarke headless.
 
-TODO: brakuje jeszcze linku do ogłoszenia (href="/expose/...") - ten fragment
-najwyraźniej nie zawiera go bezpośrednio, musi być na elemencie-rodzicu (prawdopodobnie
-<a> lub <article> opakowujący cały ten <div class="grid-item...">). Selektor CARD_SELECTOR
-poniżej zakłada, że rodzicem jest <a href="/expose/...">, ale to wymaga potwierdzenia na
-żywym HTML-u - jeśli po aktualizacji nadal 0 wyników, to jest najbardziej prawdopodobna
-przyczyna.
+UWAGA: to nie gwarantuje sukcesu - adres IP GitHub Actions to nadal adres
+chmurowy, ktory moze dostac dodatkowe wyzwanie (CAPTCHA) niezaleznie od tego,
+ze to prawdziwa przegladarka. Traktuj to jako eksperyment.
+
+Selektory HTML kart (funkcje _parse_card/_parse_cards) sa identyczne jak w
+poprzedniej wersji - zmienil sie tylko SPOSOB pobierania HTML-a (search()).
 """
 import logging
 import re
+import time
 from typing import List, Optional
 
 from bs4 import BeautifulSoup
 
 import config
 from models import Listing
-from scrapers.base import make_session, polite_get
 
 logger = logging.getLogger("immo-bot")
 
 BASE_URL = "https://www.immobilienscout24.de"
 PARAMS_EXTRA = ""  # np. "&pricetype=calculatedtotalrent" jeśli wolisz filtrować po Warmmiete
 
-# Zakładany selektor karty - element <a> (lub inny) opakowujący cały wpis.
-# TODO: potwierdzić po otrzymaniu HTML-a jeden poziom wyżej.
 CARD_SELECTOR = "a[href*='/expose/']"
+
+# Maskuje najbardziej oczywiste slady automatyzacji, zanim strona zdazy je sprawdzic.
+STEALTH_INIT_SCRIPT = """
+Object.defineProperty(navigator, 'webdriver', {get: () => undefined});
+Object.defineProperty(navigator, 'languages', {get: () => ['de-DE', 'de', 'en-US', 'en']});
+Object.defineProperty(navigator, 'plugins', {get: () => [1, 2, 3, 4, 5]});
+"""
 
 
 def _build_search_url(location_slug: str, page: int = 1) -> str:
@@ -101,7 +104,6 @@ def _parse_cards(html: str, location_slug: str) -> List[Listing]:
     cards = soup.select(CARD_SELECTOR)
     listings = []
     for card in cards:
-        # karta musi zawierać headline, inaczej to inny link (np. do agencji, mapy itp.)
         if not card.select_one("h2[data-testid='headline']"):
             continue
         listing = _parse_card(card)
@@ -111,32 +113,70 @@ def _parse_cards(html: str, location_slug: str) -> List[Listing]:
 
 
 def search() -> List[Listing]:
-    session = make_session()
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        logger.warning("ImmoScout24: pakiet 'playwright' nie jest zainstalowany "
+                        "(pip install playwright && playwright install chromium) - pomijam.")
+        return []
+
     results: List[Listing] = []
     seen_urls = set()
 
-    # "Rozgrzewka" - odwiedzamy strone glowna zeby dostac ciasteczka sesji.
-    # Bez tego endpoint wyszukiwania konsekwentnie zwraca 401 Unauthorized,
-    # nawet z domowego adresu IP - wyglada na wymog sesji, nie blokade anty-bot.
-    polite_get(session, BASE_URL)
+    with sync_playwright() as p:
+        browser = p.chromium.launch(
+            headless=True,
+            args=[
+                "--disable-blink-features=AutomationControlled",
+                "--disable-infobars",
+                "--no-sandbox",
+                "--disable-dev-shm-usage",
+            ],
+        )
+        context = browser.new_context(
+            user_agent=config.USER_AGENT,
+            locale="de-DE",
+            viewport={"width": 1366, "height": 900},
+        )
+        context.add_init_script(STEALTH_INIT_SCRIPT)
+        page = context.new_page()
 
-    for location_slug in config.IMMOSCOUT24_LOCATION_SLUGS:
-        for page in range(1, config.MAX_PAGES_PER_SITE + 1):
-            url = _build_search_url(location_slug, page)
-            html = polite_get(session, url)
-            if not html:
-                break
+        # "Rozgrzewka" - naturalny wzorzec przegladania: najpierw strona glowna.
+        try:
+            page.goto(BASE_URL, timeout=30000, wait_until="domcontentloaded")
+            time.sleep(1.5)
+        except Exception as exc:
+            logger.warning("ImmoScout24 (Playwright): błąd ładowania strony głównej: %s", exc)
 
-            listings = _parse_cards(html, location_slug)
-            if not listings:
-                logger.info("ImmoScout24 [%s]: 0 kart na stronie %s - koniec lub zmieniony HTML.",
-                            location_slug.split("/")[-1], page)
-                break
+        for location_slug in config.IMMOSCOUT24_LOCATION_SLUGS:
+            for page_num in range(1, config.MAX_PAGES_PER_SITE + 1):
+                url = _build_search_url(location_slug, page_num)
+                try:
+                    page.goto(url, timeout=30000, wait_until="domcontentloaded")
+                    try:
+                        page.wait_for_selector(CARD_SELECTOR, timeout=8000)
+                    except Exception:
+                        pass  # moze po prostu nie byc wynikow - sprawdzimy przez parsowanie
+                    time.sleep(1.5)  # bufor na ewentualny JS challenge anty-bot
+                    html = page.content()
+                except Exception as exc:
+                    logger.warning("ImmoScout24 (Playwright): błąd ładowania %s: %s", url, exc)
+                    break
 
-            for listing in listings:
-                if listing.url not in seen_urls:
-                    seen_urls.add(listing.url)
-                    results.append(listing)
+                listings = _parse_cards(html, location_slug)
+                if not listings:
+                    logger.info("ImmoScout24 [%s]: 0 kart na stronie %s - koniec, blokada, lub zmieniony HTML.",
+                                location_slug.split("/")[-1], page_num)
+                    break
+
+                for listing in listings:
+                    if listing.url not in seen_urls:
+                        seen_urls.add(listing.url)
+                        results.append(listing)
+
+                time.sleep(config.REQUEST_DELAY_SECONDS)
+
+        browser.close()
 
     logger.info("ImmoScout24: znaleziono %d ofert łącznie (przed filtrowaniem).", len(results))
     return results
