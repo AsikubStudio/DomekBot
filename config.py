@@ -72,7 +72,7 @@ KLEINANZEIGEN_LOCATIONS = [
 # Które portale mają być przeszukiwane (można wyłączyć pojedynczo do debugowania)
 ENABLED_SCRAPERS = {
     "immoscout24": True,
-    "immowelt": True,
+    "immowelt": False,
     "kleinanzeigen": True,
     "wg_gesucht": False,  # pomijamy - zbyt uciążliwy do naprawy (paywall/login-wall)
 }
