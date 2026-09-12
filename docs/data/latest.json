@@ -1,6 +1,12 @@
 {
-  "generated_at": "2026-09-12T16:02:24.299144+00:00",
+  "generated_at": "2026-09-12T18:11:55.874993+00:00",
   "count": 19,
+  "sources": {
+    "Kleinanzeigen": {
+      "last_updated": "2026-09-12T18:11:55.874993+00:00",
+      "interval_hours": 3
+    }
+  },
   "listings": [
     {
       "Portal": "Kleinanzeigen",
