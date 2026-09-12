@@ -158,7 +158,9 @@
   <p class="subtitle">
     <span id="lastUpdated">Ładowanie...</span>
     <button class="refresh-btn" id="refreshBtn">↻ Odśwież</button>
+    <button class="refresh-btn" id="triggerBtn">🔄 Sprawdź teraz (Kleinanzeigen)</button>
   </p>
+  <p id="triggerStatus" class="subtitle" style="display:none; font-size:13px;"></p>
 
   <div class="criteria">
     <span>maks. 650 €</span>
@@ -195,6 +197,8 @@
 (function() {
   const DATA_URL = './data/latest.json';
   const NEW_SINCE_KEY = 'immo-last-seen-visit';
+  // Adres Cloudflare Workera, ktory bezpiecznie wyzwala GitHub Actions (patrz cloudflare-worker/worker.js).
+  const TRIGGER_WORKER_URL = 'https://domekbot-refresh.shopifycontact3.workers.dev';
   // Klucz publiczny VAPID - bezpieczny do trzymania jawnie w kodzie strony (to standard Web Push).
   const VAPID_PUBLIC_KEY = 'BNLmcmvWSJCKohdIFdaNQl8hfILZuwLCPoCZV0hIq6UerW1wodTBXd9OMe8VfDIcrfINc6p19KY7Y0LNRkVeJ1A';
 
@@ -353,6 +357,82 @@
   loadData();
   // Auto-odświeżanie co 5 minut, gdyby strona została otwarta na dłużej.
   setInterval(loadData, 5 * 60 * 1000);
+
+  // ---------- Przycisk "Sprawdź teraz" (wyzwala GitHub Actions przez Worker) ----------
+  const triggerBtn = document.getElementById('triggerBtn');
+  const triggerStatus = document.getElementById('triggerStatus');
+  let pollIntervalId = null;
+  let pollAttemptsLeft = 0;
+
+  function showTriggerStatus(text) {
+    triggerStatus.textContent = text;
+    triggerStatus.style.display = 'block';
+  }
+
+  function stopPolling() {
+    if (pollIntervalId) {
+      clearInterval(pollIntervalId);
+      pollIntervalId = null;
+    }
+  }
+
+  function startPollingForUpdate(baselineGeneratedAt) {
+    stopPolling();
+    pollAttemptsLeft = 12; // co 15s przez 3 minuty
+    pollIntervalId = setInterval(async () => {
+      pollAttemptsLeft -= 1;
+      try {
+        const resp = await fetch(DATA_URL + '?_=' + Date.now());
+        const data = await resp.json();
+        if (data.generated_at && data.generated_at !== baselineGeneratedAt) {
+          stopPolling();
+          showTriggerStatus('✅ Zaktualizowano! Świeże dane Kleinanzeigen są już na stronie.');
+          triggerBtn.disabled = false;
+          triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+          loadData();
+          return;
+        }
+      } catch (e) { /* ciche pomijanie pojedynczego nieudanego sprawdzenia */ }
+
+      if (pollAttemptsLeft <= 0) {
+        stopPolling();
+        showTriggerStatus('Sprawdzanie trwa dłużej niż zwykle - odśwież stronę ręcznie za chwilę.');
+        triggerBtn.disabled = false;
+        triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+      }
+    }, 15000);
+  }
+
+  triggerBtn.addEventListener('click', async () => {
+    triggerBtn.disabled = true;
+    triggerBtn.textContent = 'Zlecanie...';
+    showTriggerStatus('Wysyłanie żądania do bota...');
+
+    const baselineGeneratedAt = generatedAt ? generatedAt.toISOString() : null;
+
+    try {
+      const resp = await fetch(TRIGGER_WORKER_URL, { method: 'POST' });
+      const data = await resp.json();
+
+      if (resp.ok && data.ok) {
+        triggerBtn.textContent = 'Sprawdzanie w toku...';
+        showTriggerStatus('Zlecono sprawdzenie Kleinanzeigen. Zwykle trwa to ok. 1-2 minuty - strona odświeży się sama.');
+        startPollingForUpdate(baselineGeneratedAt);
+      } else if (data.error === 'cooldown') {
+        triggerBtn.disabled = false;
+        triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+        showTriggerStatus(`Sprawdzano już niedawno - spróbuj ponownie za ${data.remaining_seconds}s.`);
+      } else {
+        triggerBtn.disabled = false;
+        triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+        showTriggerStatus('Nie udało się zlecić sprawdzenia. Spróbuj później.');
+      }
+    } catch (e) {
+      triggerBtn.disabled = false;
+      triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+      showTriggerStatus('Błąd połączenia z botem. Spróbuj później.');
+    }
+  });
 
   // ---------- Powiadomienia push ----------
   const pushBtn = document.getElementById('pushBtn');
