@@ -165,8 +165,23 @@ def search() -> List[Listing]:
 
                 listings = _parse_cards(html, location_slug)
                 if not listings:
-                    logger.info("ImmoScout24 [%s]: 0 kart na stronie %s - koniec, blokada, lub zmieniony HTML.",
-                                location_slug.split("/")[-1], page_num)
+                    try:
+                        page_title = page.title()
+                        body_snippet = page.inner_text("body")[:400].replace("\n", " ").strip()
+                    except Exception:
+                        page_title, body_snippet = "?", "?"
+                    logger.info(
+                        "ImmoScout24 [%s]: 0 kart na stronie %s. Tytuł strony: %r | Fragment treści: %r",
+                        location_slug.split("/")[-1], page_num, page_title, body_snippet,
+                    )
+                    # Zrzut ekranu tylko raz (pierwsza lokalizacja/strona) - do wizualnej diagnozy
+                    # (np. CAPTCHA, baner cookies) - trafia jako artefakt workflow w GitHub Actions.
+                    if location_slug == config.IMMOSCOUT24_LOCATION_SLUGS[0] and page_num == 1:
+                        try:
+                            page.screenshot(path="immoscout24_debug.png", full_page=True)
+                            logger.info("ImmoScout24: zapisano zrzut ekranu do immoscout24_debug.png")
+                        except Exception as exc:
+                            logger.warning("ImmoScout24: nie udało się zapisać zrzutu ekranu: %s", exc)
                     break
 
                 for listing in listings:
