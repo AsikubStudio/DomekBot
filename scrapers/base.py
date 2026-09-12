@@ -38,6 +38,10 @@ def polite_get(session: requests.Session, url: str) -> Optional[str]:
                             f"(anti-bot/Cloudflare). Rozważ ręczne sprawdzenie tej oferty.")
             return None
         resp.raise_for_status()
+        # Wymuszamy wykrywanie kodowania na podstawie zawartosci (chardet/charset_normalizer),
+        # bo niektore portale nie deklaruja poprawnie charsetu w naglowku HTTP, przez co polskie
+        # i niemieckie znaki (ä, ö, ü, ß) laduja jako "mojibake" typu "GroÃe" zamiast "Große".
+        resp.encoding = resp.apparent_encoding
         return resp.text
     except requests.RequestException as exc:
         logger.warning(f"Błąd pobierania {url}: {exc}")

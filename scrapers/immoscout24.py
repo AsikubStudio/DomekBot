@@ -115,6 +115,11 @@ def search() -> List[Listing]:
     results: List[Listing] = []
     seen_urls = set()
 
+    # "Rozgrzewka" - odwiedzamy strone glowna zeby dostac ciasteczka sesji.
+    # Bez tego endpoint wyszukiwania konsekwentnie zwraca 401 Unauthorized,
+    # nawet z domowego adresu IP - wyglada na wymog sesji, nie blokade anty-bot.
+    polite_get(session, BASE_URL)
+
     for location_slug in config.IMMOSCOUT24_LOCATION_SLUGS:
         for page in range(1, config.MAX_PAGES_PER_SITE + 1):
             url = _build_search_url(location_slug, page)
