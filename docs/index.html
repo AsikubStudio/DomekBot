@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mieszkania — Emmerich / Kleve</title>
+<meta name="theme-color" content="#3F6659">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #FAF7F1;
+    --bg-raised: #FFFFFF;
+    --ink: #23271F;
+    --ink-soft: #5B6055;
+    --border: #E4DDCC;
+    --accent: #3F6659;
+    --accent-soft: #E7EEE9;
+    --accent-ink: #23423A;
+    --brick: #B65C38;
+    --focus: #3F6659;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #1B1D18; --bg-raised: #23261F; --ink: #EDE8DD; --ink-soft: #A6ABA0;
+      --border: #3A3D33; --accent: #74A692; --accent-soft: #29352E; --accent-ink: #BFE0D0;
+      --brick: #D98C63; --focus: #74A692;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #1B1D18; --bg-raised: #23261F; --ink: #EDE8DD; --ink-soft: #A6ABA0;
+    --border: #3A3D33; --accent: #74A692; --accent-soft: #29352E; --accent-ink: #BFE0D0;
+    --brick: #D98C63; --focus: #74A692;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--ink); line-height: 1.5; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 28px 20px 80px; }
+  header.top { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  h1 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 30px; letter-spacing: -0.01em; margin: 0; }
+  .subtitle { color: var(--ink-soft); font-size: 15px; margin: 6px 0 22px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .refresh-btn { background: var(--accent-soft); color: var(--accent-ink); border: none; border-radius: 100px; padding: 5px 13px; font-size: 13px; font-weight: 500; cursor: pointer; }
+  .refresh-btn:hover { background: var(--accent); color: #fff; }
+  .criteria { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
+  .criteria span { background: var(--accent-soft); color: var(--accent-ink); border-radius: 100px; padding: 5px 12px; font-size: 13px; font-weight: 500; }
+  .controls { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 14px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip { border: 1px solid var(--border); background: var(--bg-raised); color: var(--ink-soft); border-radius: 100px; padding: 6px 13px; font-size: 13px; cursor: pointer; font-weight: 500; }
+  .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  select { border: 1px solid var(--border); background: var(--bg-raised); color: var(--ink); border-radius: 8px; padding: 7px 10px; font-size: 13px; font-family: inherit; }
+  .count { font-size: 14px; color: var(--ink-soft); margin-bottom: 12px; }
+  .count strong { color: var(--ink); }
+  .listing { background: var(--bg-raised); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 10px; display: flex; flex-direction: column; gap: 8px; }
+  .listing.is-new { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+  .new-tag { background: var(--brick); color: #fff; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 100px; letter-spacing: 0.02em; }
+  .listing-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 14px; }
+  .listing-title { font-weight: 600; font-size: 15.5px; line-height: 1.35; }
+  .listing-price { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 20px; white-space: nowrap; color: var(--accent-ink); }
+  .listing-facts { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13.5px; color: var(--ink-soft); }
+  .listing-facts .fact strong { color: var(--ink); font-weight: 500; }
+  .listing-bottom { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 2px; }
+  .badge { display: inline-block; font-size: 12px; font-weight: 500; padding: 3px 9px; border-radius: 100px; background: var(--accent-soft); color: var(--accent-ink); }
+  .flags { display: flex; gap: 12px; font-size: 13px; color: var(--ink-soft); }
+  .flags .no { opacity: 0.45; }
+  .view-link { font-size: 13.5px; font-weight: 500; color: var(--accent-ink); text-decoration: none; border-bottom: 1px solid var(--accent); padding-bottom: 1px; }
+  .view-link:hover { color: var(--accent); }
+  .empty { text-align: center; padding: 50px 20px; color: var(--ink-soft); }
+  .empty .icon { font-size: 34px; margin-bottom: 10px; }
+  .empty p { margin: 4px 0; font-size: 14.5px; }
+  footer { text-align: center; color: var(--ink-soft); font-size: 12.5px; margin-top: 36px; }
+  @media (max-width: 520px) {
+    .listing-top { flex-direction: column; }
+    .listing-price { font-size: 18px; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>🏠 Mieszkania — Emmerich / Kleve</h1>
+  </header>
+  <p class="subtitle">
+    <span id="lastUpdated">Ładowanie...</span>
+    <button class="refresh-btn" id="refreshBtn">↻ Odśwież</button>
+  </p>
+
+  <div class="criteria">
+    <span>maks. 650 €</span>
+    <span>2 pokoje, oddzielne</span>
+    <span>promień 15 km od Emmerich</span>
+    <span>łazienka preferowana</span>
+  </div>
+
+  <div id="resultsArea"><div class="empty"><p>Ładowanie ofert...</p></div></div>
+
+  <footer>Aktualizowane automatycznie przez GitHub Actions co ok. 3 godziny.</footer>
+</div>
+
+<script>
+(function() {
+  const DATA_URL = './data/latest.json';
+  const NEW_SINCE_KEY = 'immo-last-seen-visit';
+  let allListings = [];
+  let activeSource = 'Wszystkie';
+  let sortMode = 'price-asc';
+  let generatedAt = null;
+
+  const resultsArea = document.getElementById('resultsArea');
+  const lastUpdated = document.getElementById('lastUpdated');
+  const refreshBtn = document.getElementById('refreshBtn');
+
+  function normalizeListing(row) {
+    return {
+      source: row['Portal'] || 'Nieznany',
+      title: row['Tytuł'] || '(bez tytułu)',
+      price: row['Cena (€)'],
+      rooms: row['Pokoje'],
+      size: row['Powierzchnia (m²)'],
+      distance: row['Odległość (km)'],
+      bathroom: row['Łazienka'],
+      kitchen: row['Kuchnia'],
+      location: row['Lokalizacja'],
+      url: row['Link'] || '#',
+    };
+  }
+
+  function boolFlag(value) {
+    if (value === true || value === 'tak') return true;
+    if (value === false || value === 'nie') return false;
+    return null;
+  }
+
+  function escapeHtml(str) {
+    return String(str).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function getSeenUrls() {
+    try { return new Set(JSON.parse(localStorage.getItem(NEW_SINCE_KEY) || '[]')); } catch (e) { return new Set(); }
+  }
+  function saveSeenUrls(urlSet) {
+    try { localStorage.setItem(NEW_SINCE_KEY, JSON.stringify([...urlSet])); } catch (e) {}
+  }
+
+  function renderChips() {
+    const sources = ['Wszystkie', ...new Set(allListings.map(l => l.source))];
+    return sources.map(s =>
+      `<button class="chip ${s === activeSource ? 'active' : ''}" data-source="${s}">${s}</button>`
+    ).join('');
+  }
+
+  function renderControls() {
+    return `
+      <div class="controls">
+        <div class="chips">${renderChips()}</div>
+        <select id="sortSelect">
+          <option value="price-asc" ${sortMode==='price-asc'?'selected':''}>Cena: rosnąco</option>
+          <option value="price-desc" ${sortMode==='price-desc'?'selected':''}>Cena: malejąco</option>
+          <option value="distance-asc" ${sortMode==='distance-asc'?'selected':''}>Odległość: najbliżej</option>
+        </select>
+      </div>
+    `;
+  }
+
+  function renderListing(l, isNew) {
+    const bath = boolFlag(l.bathroom);
+    const kitchen = boolFlag(l.kitchen);
+    const price = (l.price !== undefined && l.price !== null && l.price !== '') ? `${l.price} €` : '? €';
+    const facts = [];
+    if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
+    if (l.size) facts.push(`<span class="fact"><strong>${l.size}</strong> m²</span>`);
+    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km</span>`);
+    if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
+
+    return `
+      <div class="listing ${isNew ? 'is-new' : ''}">
+        <div class="listing-top">
+          <div class="listing-title">${isNew ? '<span class="new-tag">NOWE</span> ' : ''}${escapeHtml(l.title)}</div>
+          <div class="listing-price">${price}</div>
+        </div>
+        <div class="listing-facts">${facts.join('')}</div>
+        <div class="listing-bottom">
+          <div style="display:flex; align-items:center; gap:10px;">
+            <span class="badge">${escapeHtml(l.source)}</span>
+            <span class="flags">
+              <span class="${bath === false ? 'no' : ''}">${bath === null ? '🛁 ?' : (bath ? '🛁 tak' : '🛁 nie')}</span>
+              <span class="${kitchen === false ? 'no' : ''}">${kitchen === null ? '🍳 ?' : (kitchen ? '🍳 tak' : '🍳 nie')}</span>
+            </span>
+          </div>
+          <a class="view-link" href="${l.url}" target="_blank" rel="noopener">Zobacz ogłoszenie →</a>
+        </div>
+      </div>
+    `;
+  }
+
+  function render() {
+    if (allListings.length === 0) {
+      resultsArea.innerHTML = `
+        <div class="empty">
+          <div class="icon">📭</div>
+          <p><strong>Brak ofert spełniających kryteria w tej chwili.</strong></p>
+          <p>Strona odświeży się automatycznie po kolejnym przebiegu bota.</p>
+        </div>
+      `;
+      return;
+    }
+
+    const seenUrls = getSeenUrls();
+
+    let filtered = activeSource === 'Wszystkie'
+      ? allListings
+      : allListings.filter(l => l.source === activeSource);
+
+    filtered = filtered.slice().sort((a, b) => {
+      if (sortMode === 'price-asc') return (a.price ?? Infinity) - (b.price ?? Infinity);
+      if (sortMode === 'price-desc') return (b.price ?? -Infinity) - (a.price ?? -Infinity);
+      if (sortMode === 'distance-asc') return (a.distance ?? Infinity) - (b.distance ?? Infinity);
+      return 0;
+    });
+
+    resultsArea.innerHTML = `
+      ${renderControls()}
+      <div class="count"><strong>${filtered.length}</strong> ${filtered.length === 1 ? 'oferta' : 'ofert'}${activeSource !== 'Wszystkie' ? ' na ' + escapeHtml(activeSource) : ''}</div>
+      ${filtered.map(l => renderListing(l, !seenUrls.has(l.url))).join('')}
+    `;
+
+    resultsArea.querySelectorAll('.chip').forEach(btn => {
+      btn.addEventListener('click', () => { activeSource = btn.dataset.source; render(); });
+    });
+    const sortSelect = document.getElementById('sortSelect');
+    if (sortSelect) sortSelect.addEventListener('change', (e) => { sortMode = e.target.value; render(); });
+
+    // Po wyrenderowaniu wszystko jest juz "widziane" w tej przegladarce.
+    saveSeenUrls(new Set(allListings.map(l => l.url)));
+  }
+
+  async function loadData() {
+    lastUpdated.textContent = 'Odświeżanie...';
+    try {
+      const resp = await fetch(DATA_URL + '?_=' + Date.now());
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      const data = await resp.json();
+      allListings = (data.listings || []).map(normalizeListing);
+      generatedAt = data.generated_at ? new Date(data.generated_at) : null;
+      lastUpdated.textContent = generatedAt
+        ? `Zaktualizowano: ${generatedAt.toLocaleDateString('pl-PL')} ${generatedAt.toLocaleTimeString('pl-PL', {hour:'2-digit', minute:'2-digit'})}`
+        : 'Zaktualizowano właśnie teraz';
+      render();
+    } catch (err) {
+      lastUpdated.textContent = 'Nie udało się wczytać danych — spróbuj odświeżyć.';
+      resultsArea.innerHTML = `<div class="empty"><div class="icon">⚠️</div><p>Błąd wczytywania danych.</p></div>`;
+    }
+  }
+
+  refreshBtn.addEventListener('click', loadData);
+  loadData();
+  // Auto-odświeżanie co 5 minut, gdyby strona została otwarta na dłużej.
+  setInterval(loadData, 5 * 60 * 1000);
+})();
+</script>
+</body>
+</html>

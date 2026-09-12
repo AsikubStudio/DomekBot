@@ -74,23 +74,110 @@ tego portalu od czasu do czasu.
 
 ```
 immo-bot/
-├── config.py           # WSZYSTKIE kryteria wyszukiwania - edytuj tutaj
-├── models.py            # model danych Listing
-├── filters.py            # logika filtrowania (cena/pokoje/lokalizacja/wyposażenie)
-├── main.py                # CLI - punkt wejścia
+├── config.py                    # WSZYSTKIE kryteria wyszukiwania - edytuj tutaj
+├── models.py                     # model danych Listing
+├── filters.py                     # logika filtrowania (cena/pokoje/lokalizacja/wyposażenie)
+├── publish.py                     # zapis docs/data/latest.json + pamięć "co już widziano"
+├── notify.py                      # powiadomienia Telegram o nowych ofertach
+├── main.py                         # CLI - punkt wejścia
 ├── scrapers/
-│   ├── base.py            # wspólne narzędzia HTTP + parsowanie tekstu
+│   ├── base.py                     # wspólne narzędzia HTTP + parsowanie tekstu
 │   ├── immoscout24.py
 │   ├── immowelt.py
 │   ├── kleinanzeigen.py
-│   └── wg_gesucht.py
-└── utils/
-    └── geo.py             # liczenie odległości (geokodowanie OpenStreetMap + fallback)
+│   └── wg_gesucht.py               # nieużywany domyślnie (ENABLED_SCRAPERS w config.py)
+├── utils/
+│   └── geo.py                      # liczenie odległości (geokodowanie OpenStreetMap + fallback)
+├── .github/workflows/scrape.yml    # harmonogram GitHub Actions (co 3h)
+├── data/seen_ids.json              # pamięć bota między uruchomieniami (commitowane)
+└── docs/                            # strona GitHub Pages
+    ├── index.html                   # frontend - czyta data/latest.json, auto-odświeża się
+    ├── manifest.json                 # PWA - "dodaj do ekranu głównego"
+    ├── icon-192.png / icon-512.png
+    └── data/latest.json              # wyniki bota - nadpisywane przez GitHub Actions
 ```
 
 ## Pomysły na rozwój (opcjonalnie, na przyszłość)
 
-- Zapamiętywanie już widzianych ofert (np. plik `seen_ids.json`), żeby przy kolejnym
-  uruchomieniu pokazywało tylko **nowe** ogłoszenia od ostatniego razu.
-- Powiadomienia (Telegram bot / e-mail) zamiast czytania w konsoli.
-- Playwright zamiast `requests` dla portali z silną ochroną anty-bot (ImmoScout24).
+- Playwright zamiast `requests` dla portali z silną ochroną anty-bot, jeśli GitHub Actions
+  zacznie dostawać blokady (patrz sekcja "Ograniczenia" niżej).
+
+---
+
+## Automatyzacja: GitHub Actions + GitHub Pages + Telegram
+
+Ten projekt jest już skonfigurowany żeby działać **w pełni automatycznie w chmurze**, za darmo:
+
+- **GitHub Actions** odpala bota co 3 godziny (`.github/workflows/scrape.yml`) i commituje
+  świeże wyniki z powrotem do repo (`docs/data/latest.json`).
+- **GitHub Pages** serwuje statyczną stronę (`docs/index.html`), która czyta ten plik i
+  pokazuje oferty - zawsze aktualne, bez żadnego ręcznego kroku.
+- **Telegram** dostaje wiadomość, gdy pojawi się **nowa** pasująca oferta (dzięki
+  `data/seen_ids.json`, który pamięta co już było).
+
+### Krok 1 - wrzuć repo na GitHub
+
+```bash
+# w folderze immo-bot
+git remote add origin https://github.com/<twoj-login>/immo-bot.git
+git branch -M main
+git push -u origin main
+```
+
+Jeśli nie masz jeszcze repo na GitHubie - stwórz nowe (Public, bez README/licencji, bo już je masz) na github.com/new, potem powyższe komendy.
+
+### Krok 2 - włącz GitHub Pages
+
+Settings → Pages → Source: **Deploy from a branch** → Branch: **main**, folder: **/docs** → Save.
+
+Po chwili strona będzie dostępna pod `https://<twoj-login>.github.io/immo-bot/`.
+
+### Krok 3 - (opcjonalnie, ale polecane) skonfiguruj powiadomienia Telegram
+
+1. Otwórz Telegram, wyszukaj **@BotFather**, wyślij `/newbot` i postępuj wg instrukcji.
+   Dostaniesz **token** (ciąg znaków typu `123456789:ABC-...`) - to Twój `TELEGRAM_BOT_TOKEN`.
+2. Wyślij do swojego nowego bota dowolną wiadomość (np. "cześć") - inaczej bot nie będzie
+   mógł Ci odpisać.
+3. W przeglądarce otwórz:
+   `https://api.telegram.org/bot<TWOJ_TOKEN>/getUpdates`
+   Znajdź w odpowiedzi JSON pole `"chat":{"id": ...}` - ta liczba to Twój `TELEGRAM_CHAT_ID`.
+4. W repo na GitHubie: Settings → Secrets and variables → Actions → **New repository secret**,
+   dodaj dwa sekrety:
+   - `TELEGRAM_BOT_TOKEN`
+   - `TELEGRAM_CHAT_ID`
+
+Jeśli pominiesz ten krok, wszystko inne działa normalnie - po prostu nie dostaniesz powiadomień
+(bot wykrywa brak tych zmiennych i po cichu pomija wysyłkę).
+
+### Krok 4 - pierwsze uruchomienie
+
+Zakładka **Actions** w repo na GitHubie → workflow "Szukaj mieszkań" → **Run workflow**
+(przycisk po prawej) - żeby nie czekać do najbliższego zaplanowanego przebiegu. Potem workflow
+odpala się już sam co 3 godziny.
+
+### Krok 5 - dodaj stronę do ekranu głównego telefonu
+
+Wejdź na `https://<twoj-login>.github.io/immo-bot/` w przeglądarce telefonu → menu przeglądarki →
+"Dodaj do ekranu głównego" (Android/Chrome) lub "Do ekranu początkowego" (iOS/Safari, przycisk
+udostępniania). Otworzy się jak osobna appka, bez paska adresu.
+
+### Jak zmienić częstotliwość sprawdzania
+
+Edytuj linię `cron:` w `.github/workflows/scrape.yml`. Przykłady:
+- `"0 * * * *"` - co godzinę
+- `"0 */6 * * *"` - co 6 godzin
+- `"0 8,20 * * *"` - 2x dziennie, o 8:00 i 20:00 UTC
+
+### Ograniczenia tego podejścia
+
+- **Adresy IP GitHub Actions to adresy chmurowe (datacenter)**, które niektóre portale
+  (zwłaszcza ImmoScout24) mogą blokować agresywniej niż zwykły domowy adres IP. Jeśli
+  zauważysz w logach Actions częste błędy 403/401 na danym portalu mimo poprawnych
+  selektorów, to najprawdopodobniej właśnie to - rozwiązaniem byłoby przejście na
+  Playwright z technikami maskowania (jak w Twoim fragmencie z undetected-chromedriver),
+  co jest możliwe, ale cięższe do utrzymania w CI (wymaga instalacji przeglądarki w
+  workflow) - daj znać jeśli chcesz to dodać.
+- GitHub Pages jest **publiczne** (chyba że masz płatny plan GitHub z prywatnymi Pages) -
+  każdy ze znajomym linkiem zobaczy Twoje wyniki wyszukiwania (nie dane osobowe, tylko
+  oferty mieszkań). Jeśli to problem, można dodać prostą ochronę hasłem po stronie
+  klienta albo hostować gdzie indziej.

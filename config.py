@@ -74,12 +74,16 @@ ENABLED_SCRAPERS = {
     "immoscout24": True,
     "immowelt": True,
     "kleinanzeigen": True,
-    "wg_gesucht": True,
+    "wg_gesucht": False,  # pomijamy - zbyt uciążliwy do naprawy (paywall/login-wall)
 }
 
 # --- Output ---
 SAVE_RESULTS_TO_FILE = True
 OUTPUT_DIR = "results"
+
+# --- Publikacja wynikow (dla strony GitHub Pages) i sledzenie nowych ofert ---
+PUBLISH_JSON_PATH = "docs/data/latest.json"   # czyta to strona w docs/index.html
+SEEN_IDS_PATH = "data/seen_ids.json"          # pamiec "co juz widzielismy" miedzy uruchomieniami
 
 # Immowelt uzywa wewnetrznych kodow lokalizacji (nie PLZ). AD08DE2123 = Emmerich am Rhein.
 # Dodaj wiecej kodow tutaj jesli zdobedziesz je dla Kleve/Rees/itd (skopiuj z URL po recznym wyszukaniu).

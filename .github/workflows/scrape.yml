@@ -1,0 +1,39 @@
+name: Szukaj mieszkań
+
+on:
+  schedule:
+    # Co 3 godziny, 8x dziennie. Czas w UTC (Polska/Niemcy to UTC+1 lub UTC+2 latem).
+    - cron: "0 */3 * * *"
+  workflow_dispatch: {}   # pozwala odpalić ręcznie z zakładki "Actions" w GitHubie
+
+permissions:
+  contents: write   # potrzebne żeby workflow mógł commitować wyniki z powrotem do repo
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repozytorium
+        uses: actions/checkout@v4
+
+      - name: Ustaw Pythona
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Zainstaluj zależności
+        run: pip install -r requirements.txt
+
+      - name: Uruchom bota
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python main.py --no-save
+
+      - name: Zapisz wyniki z powrotem do repo (dla GitHub Pages)
+        run: |
+          git config user.name "immo-bot"
+          git config user.email "immo-bot@users.noreply.github.com"
+          git add docs/data/latest.json data/seen_ids.json
+          git diff --cached --quiet && echo "Brak zmian - nic do zacommitowania" || git commit -m "Aktualizacja ofert $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
