@@ -48,6 +48,27 @@ USER_AGENT = (
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
 )
 
+# --- Ustawienia specyficzne dla portali (na podstawie realnych URLi ze strony) ---
+
+# ImmoScout24 nie wspiera dobrze promienia przez URL (radius-search dawał 401),
+# więc przeszukujemy listę konkretnych miejscowości zamiast promienia.
+# Format: "wojewodztwo/kreis/miejscowosc" dokładnie jak w URLu ImmoScout24.
+IMMOSCOUT24_LOCATION_SLUGS = [
+    "nordrhein-westfalen/kleve-kreis/emmerich-am-rhein",
+    "nordrhein-westfalen/kleve-kreis/kleve",
+    "nordrhein-westfalen/kleve-kreis/rees",
+    "nordrhein-westfalen/kleve-kreis/isselburg",
+    "nordrhein-westfalen/kleve-kreis/bedburg-hau",
+    "nordrhein-westfalen/kleve-kreis/kranenburg",
+]
+
+# Kleinanzeigen używa własnych wewnętrznych ID lokalizacji (nie PLZ!).
+# 1395 = Emmerich am Rhein, 1122 = Kleve - namierzone z realnych linków wyszukiwania.
+KLEINANZEIGEN_LOCATIONS = [
+    {"slug": "emmerich-am-rhein", "location_id": "1395", "radius_km": 15},
+    {"slug": "kleve", "location_id": "1122", "radius_km": 15},
+]
+
 # Które portale mają być przeszukiwane (można wyłączyć pojedynczo do debugowania)
 ENABLED_SCRAPERS = {
     "immoscout24": True,
