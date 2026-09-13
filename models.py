@@ -19,6 +19,7 @@ class Listing:
     has_kitchen: Optional[bool] = None
     raw_description: str = ""
     distance_km: Optional[float] = None   # wyliczane później względem CENTER_CITY
+    image_url: Optional[str] = None       # zdjęcie główne z karty wyniku wyszukiwania (jeśli scraper je znalazł)
 
     def as_row(self) -> dict:
         return {
@@ -32,6 +33,7 @@ class Listing:
             "Łazienka": self.bool_label(self.has_bathroom),
             "Kuchnia": self.bool_label(self.has_kitchen),
             "Link": self.url,
+            "Zdjęcie": self.image_url,
         }
 
     @staticmethod

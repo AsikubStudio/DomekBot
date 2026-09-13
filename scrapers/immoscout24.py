@@ -25,6 +25,7 @@ from bs4 import BeautifulSoup
 
 import config
 from models import Listing
+from scrapers.base import extract_image_url
 
 logger = logging.getLogger("immo-bot")
 
@@ -96,6 +97,7 @@ def _parse_card(card) -> Optional[Listing]:
         has_bathroom=None,
         has_kitchen=None,
         raw_description=title_el.get_text(strip=True) if title_el else "",
+        image_url=extract_image_url(card, BASE_URL),
     )
 
 

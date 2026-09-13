@@ -30,7 +30,7 @@ import config
 from models import Listing
 from scrapers.base import (
     make_session, polite_get, parse_price, parse_rooms, parse_size,
-    guess_bathroom, guess_kitchen,
+    guess_bathroom, guess_kitchen, extract_image_url,
 )
 
 logger = logging.getLogger("immo-bot")
@@ -100,6 +100,7 @@ def _parse_cards(html: str, slug: str) -> List[Listing]:
             has_bathroom=guess_bathroom(desc_text),
             has_kitchen=guess_kitchen(desc_text),
             raw_description=desc_text,
+            image_url=extract_image_url(card, BASE_URL),
         ))
 
     return listings

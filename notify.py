@@ -56,7 +56,10 @@ def _read_local_secret(filename: str) -> str | None:
     if not os.path.isfile(path):
         return None
     try:
-        with open(path, "r", encoding="utf-8") as f:
+        # utf-8-sig: toleruje BOM, który potrafi dopisać np. PowerShell
+        # (Get-Content | Set-Content -Encoding utf8) - zwykłe "utf-8" by się
+        # na nim wywaliło przy json.loads.
+        with open(path, "r", encoding="utf-8-sig") as f:
             content = f.read().strip()
         return content or None
     except OSError:

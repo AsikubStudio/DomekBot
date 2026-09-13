@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Mieszkania — Emmerich / Kleve</title>
-<meta name="theme-color" content="#3F6659">
+<meta name="theme-color" content="#9F415A">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon-192.png">
 <link rel="icon" href="icon-192.png">
@@ -13,29 +13,29 @@
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
   :root {
-    --bg: #FAF7F1;
-    --bg-raised: #FFFFFF;
-    --ink: #23271F;
-    --ink-soft: #5B6055;
-    --border: #E4DDCC;
-    --accent: #3F6659;
-    --accent-soft: #E7EEE9;
-    --accent-ink: #23423A;
-    --brick: #B65C38;
-    --focus: #3F6659;
+    --bg: #EBE5D6;
+    --bg-raised: #F8F5EC;
+    --ink: #362A2D;
+    --ink-soft: #6E7C87;
+    --border: #DCD2BC;
+    --accent: #9F415A;
+    --accent-soft: #D0E4DF;
+    --accent-ink: #6B2038;
+    --brick: #C89387;
+    --focus: #9F415A;
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
-      --bg: #1B1D18; --bg-raised: #23261F; --ink: #EDE8DD; --ink-soft: #A6ABA0;
-      --border: #3A3D33; --accent: #74A692; --accent-soft: #29352E; --accent-ink: #BFE0D0;
-      --brick: #D98C63; --focus: #74A692;
+      --bg: #241C1F; --bg-raised: #2E2428; --ink: #F1E9E2; --ink-soft: #AFC0C7;
+      --border: #43363B; --accent: #D98CA0; --accent-soft: #263733; --accent-ink: #CFE9E0;
+      --brick: #DBA79A; --focus: #D98CA0;
     }
   }
   :root[data-theme="dark"] {
-    --bg: #1B1D18; --bg-raised: #23261F; --ink: #EDE8DD; --ink-soft: #A6ABA0;
-    --border: #3A3D33; --accent: #74A692; --accent-soft: #29352E; --accent-ink: #BFE0D0;
-    --brick: #D98C63; --focus: #74A692;
+    --bg: #241C1F; --bg-raised: #2E2428; --ink: #F1E9E2; --ink-soft: #AFC0C7;
+    --border: #43363B; --accent: #D98CA0; --accent-soft: #263733; --accent-ink: #CFE9E0;
+    --brick: #DBA79A; --focus: #D98CA0;
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; }
@@ -57,9 +57,16 @@
   select { border: 1px solid var(--border); background: var(--bg-raised); color: var(--ink); border-radius: 8px; padding: 7px 10px; font-size: 13px; font-family: inherit; }
   .count { font-size: 14px; color: var(--ink-soft); margin-bottom: 12px; }
   .count strong { color: var(--ink); }
-  .listing { background: var(--bg-raised); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 10px; display: flex; flex-direction: column; gap: 8px; }
+  .listing { background: var(--bg-raised); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 10px; display: flex; gap: 14px; align-items: flex-start; }
   .listing.is-new { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
   .new-tag { background: var(--brick); color: #fff; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 100px; letter-spacing: 0.02em; }
+  .listing-thumb {
+    width: 84px; height: 84px; flex-shrink: 0; border-radius: 8px; overflow: hidden;
+    background: var(--accent-soft); display: flex; align-items: center; justify-content: center;
+  }
+  .listing-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .listing-thumb .placeholder-icon { font-size: 26px; opacity: 0.55; }
+  .listing-body { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 8px; }
   .listing-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 14px; }
   .listing-title { font-weight: 600; font-size: 15.5px; line-height: 1.35; }
   .listing-price { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 20px; white-space: nowrap; color: var(--accent-ink); }
@@ -147,6 +154,7 @@
   @media (max-width: 520px) {
     .listing-top { flex-direction: column; }
     .listing-price { font-size: 18px; }
+    .listing-thumb { width: 64px; height: 64px; }
   }
 
   .status-panel {
@@ -189,8 +197,8 @@
   </header>
   <p class="subtitle">
     <span id="lastUpdated">Ładowanie...</span>
-    <button class="refresh-btn" id="refreshBtn">↻ Odśwież</button>
-    <button class="refresh-btn" id="triggerBtn">🔄 Sprawdź teraz (Kleinanzeigen)</button>
+    <button class="refresh-btn" id="refreshBtn" title="Wczytuje ponownie już zapisane dane ze strony, bez odpytywania portalu">↻ Odśwież widok</button>
+    <button class="refresh-btn" id="triggerBtn" title="Zleca botowi nowe sprawdzenie Kleinanzeigen w tej chwili, nie czekając na harmonogram co 3h">🔄 Sprawdź teraz (Kleinanzeigen)</button>
   </p>
   <p id="triggerStatus" class="subtitle" style="display:none; font-size:13px;"></p>
 
@@ -264,6 +272,7 @@
       kitchen: row['Kuchnia'],
       location: row['Lokalizacja'],
       url: row['Link'] || '#',
+      image: row['Zdjęcie'] || null,
     };
   }
 
@@ -314,22 +323,29 @@
     if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km</span>`);
     if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
 
+    const thumb = l.image
+      ? `<img src="${escapeHtml(l.image)}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<span class=&quot;placeholder-icon&quot;>🏠</span>';">`
+      : `<span class="placeholder-icon">🏠</span>`;
+
     return `
       <div class="listing ${isNew ? 'is-new' : ''}">
-        <div class="listing-top">
-          <div class="listing-title">${isNew ? '<span class="new-tag">NOWE</span> ' : ''}${escapeHtml(l.title)}</div>
-          <div class="listing-price">${price}</div>
-        </div>
-        <div class="listing-facts">${facts.join('')}</div>
-        <div class="listing-bottom">
-          <div style="display:flex; align-items:center; gap:10px;">
-            <span class="badge">${escapeHtml(l.source)}</span>
-            <span class="flags">
-              <span class="${bath === false ? 'no' : ''}">${bath === null ? '🛁 ?' : (bath ? '🛁 tak' : '🛁 nie')}</span>
-              <span class="${kitchen === false ? 'no' : ''}">${kitchen === null ? '🍳 ?' : (kitchen ? '🍳 tak' : '🍳 nie')}</span>
-            </span>
+        <div class="listing-thumb">${thumb}</div>
+        <div class="listing-body">
+          <div class="listing-top">
+            <div class="listing-title">${isNew ? '<span class="new-tag">NOWE</span> ' : ''}${escapeHtml(l.title)}</div>
+            <div class="listing-price">${price}</div>
           </div>
-          <a class="view-link" href="${l.url}" target="_blank" rel="noopener">Zobacz ogłoszenie →</a>
+          <div class="listing-facts">${facts.join('')}</div>
+          <div class="listing-bottom">
+            <div style="display:flex; align-items:center; gap:10px;">
+              <span class="badge">${escapeHtml(l.source)}</span>
+              <span class="flags">
+                <span class="${bath === false ? 'no' : ''}">${bath === null ? '🛁 ?' : (bath ? '🛁 tak' : '🛁 nie')}</span>
+                <span class="${kitchen === false ? 'no' : ''}">${kitchen === null ? '🍳 ?' : (kitchen ? '🍳 tak' : '🍳 nie')}</span>
+              </span>
+            </div>
+            <a class="view-link" href="${l.url}" target="_blank" rel="noopener">Zobacz ogłoszenie →</a>
+          </div>
         </div>
       </div>
     `;

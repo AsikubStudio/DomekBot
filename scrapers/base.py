@@ -132,3 +132,38 @@ def guess_kitchen(text: str) -> Optional[bool]:
     if any(k in low for k in ["küche", "einbauküche", "ebk"]):
         return True
     return None
+
+
+def extract_image_url(card, base_url: str = "") -> Optional[str]:
+    """
+    Znajduje URL zdjęcia głównego w karcie wyniku wyszukiwania (BeautifulSoup Tag).
+
+    Portale ładują zdjęcia leniwie (lazy-loading), więc prawdziwy URL częściej
+    siedzi w atrybucie data-src/data-imgsrc niż w src (który bywa 1x1 placeholderem
+    albo data: URI zanim JS go podmieni) - stąd taka kolejność sprawdzania.
+
+    NIE ZWERYFIKOWANE jeszcze na żywym HTML-u każdego portalu (podobnie jak inne
+    selektory w tym projekcie) - jeśli zdjęcia nie pojawią się na stronie mimo że
+    oferty się ładują, wyślij outerHTML jednej karty żeby dopracować tę funkcję.
+    W najgorszym wypadku po prostu zwraca None, a strona pokazuje ikonę zastępczą
+    zamiast połamanego obrazka - nic się nie wywala.
+    """
+    if card is None:
+        return None
+    img = card.select_one("img")
+    if img is None:
+        return None
+
+    for attr in ("data-src", "data-imgsrc", "src"):
+        value = img.get(attr)
+        if value and not value.startswith("data:"):
+            return value if value.startswith("http") else base_url + value
+
+    for attr in ("data-srcset", "srcset"):
+        srcset = img.get(attr)
+        if srcset:
+            first = srcset.split(",")[0].strip().split(" ")[0]
+            if first and not first.startswith("data:"):
+                return first if first.startswith("http") else base_url + first
+
+    return None
