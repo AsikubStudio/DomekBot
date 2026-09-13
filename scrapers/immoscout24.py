@@ -277,3 +277,20 @@ def _parse_detail_warm_rent(html: str) -> Optional[float]:
     if kalt is not None and neben is not None:
         return round(kalt + neben, 2)
     return None
+
+def _parse_detail_deactivated(html: str) -> bool:
+    """
+    Sprawdza czy podstrona oferty (expose) pokazuje znacznik informujący, że
+    ogłoszenie zostało dezaktywowane. ZWERYFIKOWANE na żywym HTML-u (13.09.2026,
+    zgłoszone przez użytkownika) - fragment:
+        <div ... data-testid="gallery-tag-container-deactivated-since-days">
+          <span class="">Deactivated 4 days ago</span>
+        </div>
+    WAŻNE: ImmoScout24 potrafi nadal pokazywać taką ofertę w wynikach WYSZUKIWANIA
+    (spełnia kryteria ceny/pokoi), mimo że jest już dezaktywowana - ten znacznik
+    widać dopiero na podstronie samej oferty, nie na karcie z listy wyników.
+    Dlatego to sprawdzenie musi się odbywać przy wejściu na podstronę (patrz
+    scrapers/immoscout24_local.py::_fetch_detail), a nie przy parsowaniu karty.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    return soup.select_one('[data-testid="gallery-tag-container-deactivated-since-days"]') is not None
