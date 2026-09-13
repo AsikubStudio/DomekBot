@@ -115,4 +115,12 @@ SOURCE_REFRESH_INTERVAL_HOURS = {
 # Immowelt uzywa wewnetrznych kodow lokalizacji (nie PLZ). AD08DE2123 = Emmerich am Rhein.
 # Dodaj wiecej kodow tutaj jesli zdobedziesz je dla Kleve/Rees/itd (skopiuj z URL po recznym wyszukaniu).
 IMMOWELT_LOCATION_CODES = ["AD08DE2123"]
+# --- Górny limit czynszu z mediami (opcjonalny) ---
+# Jeśli oferta MA znany czynsz z mediami (Warmmiete) i przekracza tę wartość - odrzuć.
+# Brak danych o czynszu z mediami (None) - NIE odrzucaj, zostaw ofertę.
+MAX_WARM_RENT_EUR = 800
 
+# --- Minimalna powierzchnia (opcjonalna) ---
+# Jeśli oferta MA znaną powierzchnię i jest <= tej wartości - odrzuć.
+# Brak danych o powierzchni (None) - NIE odrzucaj, zostaw ofertę.
+MIN_SIZE_SQM = 30
