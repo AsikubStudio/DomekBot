@@ -550,30 +550,6 @@
     return Uint8Array.from([...rawData].map((c) => c.charCodeAt(0)));
   }
 
-  function keysMatch(a, b) {
-    if (!a || !b || a.length !== b.length) return false;
-    for (let i = 0; i < a.length; i++) if (a[i] !== b[i]) return false;
-    return true;
-  }
-
-  // Zwraca istniejącą subskrypcję TYLKO jeśli pasuje do aktualnego VAPID_PUBLIC_KEY.
-  // Jeśli klucz VAPID zmienił się od czasu tej subskrypcji (rotacja klucza), stara
-  // subskrypcja jest bezużyteczna (serwer nie zdoła jej uwierzytelnić) - wypisujemy
-  // się z niej automatycznie, żeby kolejne kliknięcie utworzyło nową.
-  async function getValidSubscription(registration) {
-    const sub = await registration.pushManager.getSubscription();
-    if (!sub) return null;
-    const currentKey = urlBase64ToUint8Array(VAPID_PUBLIC_KEY);
-    const subKey = sub.options && sub.options.applicationServerKey
-      ? new Uint8Array(sub.options.applicationServerKey)
-      : null;
-    if (subKey && !keysMatch(subKey, currentKey)) {
-      try { await sub.unsubscribe(); } catch (e) { /* ignoruj - i tak ją nadpiszemy */ }
-      return null;
-    }
-    return sub;
-  }
-
   async function initPush() {
     if (!('serviceWorker' in navigator) || !('PushManager' in window)) {
       pushHint.textContent = 'Ta przeglądarka nie wspiera powiadomień push (na iOS: dodaj stronę do ekranu głównego i otwórz ją stamtąd).';
@@ -582,7 +558,7 @@
     }
 
     const registration = await navigator.serviceWorker.register('sw.js');
-    const existing = await getValidSubscription(registration);
+    const existing = await registration.pushManager.getSubscription();
 
     if (existing) {
       pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
@@ -591,18 +567,23 @@
 
     pushBtn.addEventListener('click', async () => {
       try {
-        let subscription = await getValidSubscription(registration);
-        if (!subscription) {
-          const permission = await Notification.requestPermission();
-          if (permission !== 'granted') {
-            pushHint.textContent = 'Nie udzielono zgody na powiadomienia w przeglądarce.';
-            return;
-          }
-          subscription = await registration.pushManager.subscribe({
-            userVisibleOnly: true,
-            applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY),
-          });
+        // Zawsze wypisujemy się ze starej subskrypcji i tworzymy nową - dzięki temu
+        // rotacja klucza VAPID po stronie serwera nigdy nie zostawia "martwej",
+        // niedziałającej subskrypcji zapamiętanej przez przeglądarkę.
+        const old = await registration.pushManager.getSubscription();
+        if (old) {
+          try { await old.unsubscribe(); } catch (e) { /* ignoruj, i tak nadpiszemy */ }
         }
+
+        const permission = await Notification.requestPermission();
+        if (permission !== 'granted') {
+          pushHint.textContent = 'Nie udzielono zgody na powiadomienia w przeglądarce.';
+          return;
+        }
+        const subscription = await registration.pushManager.subscribe({
+          userVisibleOnly: true,
+          applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY),
+        });
         subscriptionText.value = JSON.stringify(subscription.toJSON(), null, 2);
         subscriptionBox.style.display = 'block';
         pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
