@@ -136,52 +136,47 @@ def _extract_amount(text: str) -> Optional[float]:
     return float(match.group(1)) if match else None
 
 
-def _parse_detail_warm_rent(html: str, kaltmiete: Optional[float]) -> Optional[float]:
+def _parse_detail_description(html: str) -> str:
     """
-    Szuka czynszu "z mediami"/"ciepłego" na podstronie oferty. Kleinanzeigen dla
-    mieszkań zwykle pokazuje to jako osobną pozycję w liście szczegółów (np.
-    "Nebenkosten" = koszty dodatkowe doliczane do Kaltmiete, rzadziej wprost
-    "Warmmiete"/"Gesamtmiete"). Jeśli znajdziemy tylko "Nebenkosten", doliczamy je
-    do już znanej Kaltmiete (z listy wyników) żeby dostać sumę.
-
-    NIE ZWERYFIKOWANE jeszcze na żywym HTML-u (jak inne selektory w tym projekcie) -
-    jeśli zawsze wraca None mimo że oferta ma te dane, wyślij fragment sekcji
-    szczegółów (dt/dd albo listę "addetailslist") żeby dopracować.
+    Zbiera opis oferty z podstrony: lista wyposażenia (checkmarki w #viewad-configuration,
+    np. "Möbliert", "Balkon", "Aufzug") + właściwy opis tekstowy (#viewad-description-text).
+    ZWERYFIKOWANE na żywym HTML-u (13.09.2026, fragment przysłany przez użytkownika).
+    Zwraca jeden string z wyposażeniem na górze (jeśli jest) i opisem pod spodem,
+    oddzielone pustą linią - front-end (docs/index.html) wyświetla to z zachowaniem
+    łamania linii (white-space: pre-wrap).
     """
     soup = BeautifulSoup(html, "html.parser")
-    text_pairs = []
+    parts = []
 
-    for dt in soup.select("dt"):
-        dd = dt.find_next_sibling("dd")
-        if dd:
-            text_pairs.append((dt.get_text(" ", strip=True), dd.get_text(" ", strip=True)))
-    for li in soup.select("li"):
-        parts = li.find_all(["span", "div"], recursive=False)
-        if len(parts) == 2:
-            text_pairs.append((parts[0].get_text(" ", strip=True), parts[1].get_text(" ", strip=True)))
+    features_container = soup.select_one("#viewad-configuration")
+    if features_container:
+        features = [span.get_text(strip=True) for span in features_container.select("li span.break-all")]
+        features = [f for f in features if f]
+        if features:
+            parts.append(" • ".join(features))
 
-    nebenkosten = None
-    for label, value in text_pairs:
-        low = label.lower()
-        if "warmmiete" in low or "gesamtmiete" in low:
-            amount = _extract_amount(value)
-            if amount is not None:
-                return amount
-        if "nebenkosten" in low:
-            nebenkosten = _extract_amount(value)
+    desc_el = soup.select_one("#viewad-description-text")
+    if desc_el:
+        # Zamieniamy <br> na nowe linie PRZED wyciągnięciem tekstu, żeby akapity
+        # opisu nie skleiły się w jedną linię.
+        for br in desc_el.find_all("br"):
+            br.replace_with("\n")
+        text = desc_el.get_text().strip()
+        text = re.sub(r"\n{3,}", "\n\n", text)  # max jedna pusta linia z rzędu
+        if text:
+            parts.append(text)
 
-    if nebenkosten is not None and kaltmiete is not None:
-        return round(kaltmiete + nebenkosten, 2)
-    return None
+    return "\n\n".join(parts)
 
 
 def _fetch_detail(session, listing: Listing) -> dict:
     html = polite_get(session, listing.url)
     if not html:
-        return {"images": [], "warm_rent": None}
+        return {"images": [], "warm_rent": None, "description": ""}
     return {
         "images": _parse_detail_images(html),
         "warm_rent": _parse_detail_warm_rent(html, listing.price_eur),
+        "description": _parse_detail_description(html),
     }
 
 
