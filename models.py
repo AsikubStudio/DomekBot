@@ -21,7 +21,7 @@ class Listing:
     distance_km: Optional[float] = None   # wyliczane później względem CENTER_CITY
     image_url: Optional[str] = None       # zdjęcie główne z karty wyniku wyszukiwania (jeśli scraper je znalazł)
 
-    # Poniższe dwa pola NIE są wypełniane przy zwykłym parsowaniu listy wyników -
+    # Poniższe pola NIE są wypełniane przy zwykłym parsowaniu listy wyników -
     # wymagają wejścia na podstronę pojedynczej oferty (patrz scrapers/base.py::
     # enrich_with_details i wywołania w scrapers/kleinanzeigen.py / immoscout24_local.py).
     # Domyślnie puste/None dopóki enrichment się nie uda (np. brak w ogłoszeniu, albo
@@ -29,6 +29,11 @@ class Listing:
     # "brak danych" i nic się nie wywraca.
     images: List[str] = field(default_factory=list)     # galeria zdjęć z podstrony oferty
     warm_rent_eur: Optional[float] = None                # "Warmmiete"/czynsz z mediami (ciepły)
+    full_description: str = ""                           # pełny opis oferty z podstrony (nie z karty wyników)
+
+    # Wyliczane w filters.py, tak samo jak distance_km, ale względem 's-Heerenberg
+    # zamiast Emmerich am Rhein - patrz utils/geo.py.
+    distance_sheerenberg_km: Optional[float] = None
 
     def as_row(self) -> dict:
         return {
@@ -39,12 +44,14 @@ class Listing:
             "Powierzchnia (m²)": self.size_sqm,
             "Lokalizacja": self.location_text,
             "Odległość (km)": self.distance_km,
+            "Odległość od 's-Heerenberg (km)": self.distance_sheerenberg_km,
             "Łazienka": self.bool_label(self.has_bathroom),
             "Kuchnia": self.bool_label(self.has_kitchen),
             "Link": self.url,
             "Zdjęcie": self.image_url,
             "Zdjęcia": self.images,
             "Czynsz z mediami (€)": self.warm_rent_eur,
+            "Opis": self.full_description,
         }
 
     @staticmethod
