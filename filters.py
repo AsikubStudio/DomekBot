@@ -5,7 +5,7 @@ Każdy filtr jest osobną funkcją, żeby łatwo było dodać/wyłączyć/debugo
 from typing import List
 import config
 from models import Listing
-from utils.geo import within_radius
+from utils.geo import within_radius, distance_from_sheerenberg_km
 
 
 def _price_ok(listing: Listing) -> bool:
