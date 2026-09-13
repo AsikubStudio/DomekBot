@@ -219,36 +219,56 @@ def enrich_listings_with_details(
     source: str,
     fetch_detail_fn: Callable[[Listing], Optional[dict]],
     max_fetches: Optional[int] = None,
+    force_refresh: bool = False,
 ) -> None:
     """
-    Wzbogaca liste ofert (IN PLACE - modyfikuje obiekty Listing) o galerie zdjec
-    i czynsz z mediami. Dla kazdej oferty:
-      1. jesli mamy juz jej dane z poprzedniego przebiegu (patrz load_cached_details) -
-         uzywamy ich, BEZ zadnego dodatkowego requestu do portalu,
-      2. w przeciwnym razie wywoluje fetch_detail_fn(listing), ktore powinno zwrocic
-         {"images": [...], "warm_rent": float|None} (albo None/rzucic wyjatek przy
-         bledzie - wtedy oferta po prostu zostaje bez tych danych na razie).
+    Wzbogaca liste ofert (IN PLACE - modyfikuje liste `listings`, w tym MOZE Z NIEJ
+    USUWAC oferty wykryte jako dezaktywowane) o galerie zdjec, czynsz z mediami
+    oraz status dezaktywacji. Dla kazdej oferty:
+      1. jesli force_refresh=False i mamy juz jej dane z poprzedniego przebiegu
+         (patrz load_cached_details) - uzywamy ich, BEZ zadnego dodatkowego
+         requestu do portalu,
+      2. w przeciwnym razie (force_refresh=True, albo brak cache) wywoluje
+         fetch_detail_fn(listing), ktore powinno zwrocic
+         {"images": [...], "warm_rent": float|None, "deactivated": bool}
+         (albo None/rzucic wyjatek przy bledzie - wtedy oferta po prostu zostaje
+         bez tych danych na razie).
+
+    force_refresh=True (uzywane przez ImmoScout24 lokalnie, na zyczenie
+    uzytkownika po znalezieniu dezaktywowanej oferty ktora wisiala na stronie
+    bo jej dane byly juz w cache i nigdy wiecej nie zostaly sprawdzone) POMIJA
+    cache calkowicie i limit max_fetches - kazda oferta z `listings` dostaje
+    swiezy fetch_detail_fn() przy KAZDYM przebiegu. To kosztuje wiecej requestow
+    i czasu, ale jest bezpieczne dla scrapera dzialajacego lokalnie (bez limitu
+    czasu jak w GitHub Actions).
+
+    Oferty, dla ktorych fetch_detail_fn() zwroci {"deactivated": True} (wykryte
+    np. po znaczniku "Deactivated N days ago" na podstronie oferty), sa USUWANE
+    z listy `listings` PO ZAKONCZENIU petli - nie trafiaja wiec do publikowanego
+    docs/data/latest.json.
 
     fetch_detail_fn jest specyficzne dla portalu (inny klient HTTP / przegladarka),
     dlatego jest przekazywane przez wywolujacego, a nie zaszyte tutaj na sztywno.
 
-    Respektuje config.FETCH_LISTING_DETAILS (globalny wylacznik) oraz limit
-    config.MAX_DETAIL_FETCHES_PER_RUN - nadmiarowe NOWE oferty (te bez cache)
-    po prostu czekaja do nastepnego przebiegu, zamiast zalewac portal requestami.
+    Respektuje config.FETCH_LISTING_DETAILS (globalny wylacznik) oraz - gdy
+    force_refresh=False - limit config.MAX_DETAIL_FETCHES_PER_RUN - nadmiarowe
+    NOWE oferty (te bez cache) po prostu czekaja do nastepnego przebiegu, zamiast
+    zalewac portal requestami.
     """
     if not getattr(config, "FETCH_LISTING_DETAILS", True):
         return
 
-    cached = load_cached_details(source)
+    cached = {} if force_refresh else load_cached_details(source)
     if max_fetches is None:
-        max_fetches = getattr(config, "MAX_DETAIL_FETCHES_PER_RUN", 15)
+        max_fetches = len(listings) if force_refresh else getattr(config, "MAX_DETAIL_FETCHES_PER_RUN", 15)
 
     cached_count = 0
     fetched_count = 0
     skipped_count = 0
+    deactivated_urls = set()
 
     for listing in listings:
-        cached_entry = cached.get(listing.url)
+        cached_entry = None if force_refresh else cached.get(listing.url)
         if cached_entry:
             listing.images = cached_entry.get("images") or []
             listing.warm_rent_eur = cached_entry.get("warm_rent")
@@ -269,6 +289,16 @@ def enrich_listings_with_details(
         if details:
             listing.images = details.get("images") or []
             listing.warm_rent_eur = details.get("warm_rent")
+            if details.get("deactivated"):
+                deactivated_urls.add(listing.url)
+
+    if deactivated_urls:
+        listings[:] = [l for l in listings if l.url not in deactivated_urls]
+        logger.info(
+            "%s: usunięto %d dezaktywowaną/dezaktywowane ofertę/oferty (znacznik \"Deactivated\" "
+            "na podstronie oferty): %s",
+            source, len(deactivated_urls), ", ".join(sorted(deactivated_urls)),
+        )
 
     logger.info(
         "%s: szczegóły ofert (zdjęcia/czynsz z mediami) - %d z pamięci, %d nowo pobranych, "
