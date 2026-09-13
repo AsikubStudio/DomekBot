@@ -276,6 +276,13 @@ def _parse_detail_warm_rent(html: str) -> Optional[float]:
     neben = _extract_amount(neben_el.get_text(" ", strip=True)) if neben_el else None
     if kalt is not None and neben is not None:
         return round(kalt + neben, 2)
+    kalt = _extract_amount(kalt_el.get_text(" ", strip=True)) if kalt_el else None
+    neben = _extract_amount(neben_el.get_text(" ", strip=True)) if neben_el else None
+    if kalt is not None and neben is not None:
+        return round(kalt + neben, 2)
+
+    # Drugi fallback - widget "Monthly costs" obecny tylko na niektórych ofertach.
+    return _parse_detail_warm_rent_from_pie(html)
     return None
 
 def _parse_detail_deactivated(html: str) -> bool:
