@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-13T21:15:02.729499+00:00",
-  "count": 47,
+  "generated_at": "2026-09-13T21:57:33.756336+00:00",
+  "count": 43,
   "sources": {
     "Kleinanzeigen": {
       "last_updated": "2026-09-13T21:15:02.729499+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
-      "last_updated": "2026-09-13T21:23:34.837920+00:00",
+      "last_updated": "2026-09-13T21:57:33.756336+00:00",
       "interval_hours": 1
     }
   },
@@ -546,7 +546,7 @@
       "Link": "https://www.immobilienscout24.de/en/expose/166835346",
       "Zdjęcie": null,
       "Zdjęcia": [],
-      "Czynsz z mediami (€)": null
+      "Czynsz z mediami (€)": 450.0
     },
     {
       "Portal": "ImmoScout24",
@@ -616,30 +616,6 @@
     },
     {
       "Portal": "ImmoScout24",
-      "Tytuł": "Ready-to-move-in 2-room top-floor apartment with bright bathroom with natural light",
-      "Cena (€)": 350.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "Gemeindeweg 14, Kleve, Kleve (Kreis)",
-      "Odległość (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170527793",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://pictures.immobilienscout24.de/listings/3551f3fe-dd6a-4dfd-ad45-5a30c89da48f-2086082674.jpeg/ORIG/resize/1024x768%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/usercontent/d6cc7e1a-759a-48d9-bdf9-30fac921cf9c.PNG/ORIG/resize/300x300>/format/webp/quality/100",
-        "https://pictures.immobilienscout24.de/listings/83381ebf-0d4a-48e5-8681-9f91d7a000f5-1660461029.jpeg/ORIG/legacy_thumbnail/520x390/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/82d43313-c09a-4a05-a49a-4e5d56558eca-1998099565.jpeg/ORIG/legacy_thumbnail/520x390/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/3c39e5f0-7aca-4742-ac1a-2f2a5701d3fe-2010773494.jpg/ORIG/legacy_thumbnail/520x390/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/c20a2bfc-56c6-41d8-ac1a-d836cae0dc5c-2028174733.jpeg/ORIG/legacy_thumbnail/520x390/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/6f41a446-6b83-4ce8-ba11-c91b752e5d6f-2085704681.jpg/ORIG/legacy_thumbnail/520x390/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/0c69bed6-3b2d-4246-a4c6-e006baaca085-2085934499.jpg/ORIG/legacy_thumbnail/520x390/format/webp/quality/73"
-      ],
-      "Czynsz z mediami (€)": 490.0
-    },
-    {
-      "Portal": "ImmoScout24",
       "Tytuł": "2-room apartment in Bedburg-Hau with 44 m² living space",
       "Cena (€)": 359.0,
       "Pokoje": 2.0,
@@ -651,7 +627,7 @@
       "Link": "https://www.immobilienscout24.de/en/expose/165918586",
       "Zdjęcie": null,
       "Zdjęcia": [],
-      "Czynsz z mediami (€)": null
+      "Czynsz z mediami (€)": 540.0
     },
     {
       "Portal": "ImmoScout24",
@@ -712,21 +688,6 @@
       "Zdjęcie": null,
       "Zdjęcia": [],
       "Czynsz z mediami (€)": 600.0
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "*Available immediately!* Well-maintained 2-room apartment in a central location in Rees",
-      "Cena (€)": 399.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 42.0,
-      "Lokalizacja": "Fallstr. 4, Rees, Kleve (Kreis)",
-      "Odległość (km)": 14.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170197174",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null
     },
     {
       "Portal": "ImmoScout24",
@@ -876,7 +837,7 @@
       "Link": "https://www.immobilienscout24.de/en/expose/166469739",
       "Zdjęcie": null,
       "Zdjęcia": [],
-      "Czynsz z mediami (€)": null
+      "Czynsz z mediami (€)": 800.0
     },
     {
       "Portal": "ImmoScout24",
@@ -901,24 +862,6 @@
     },
     {
       "Portal": "ImmoScout24",
-      "Tytuł": "New-build apartment in the heart of Kleve within walking distance of the city center",
-      "Cena (€)": 550.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170268185",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://pictures.immobilienscout24.de/listings/b02f2916-83d7-452c-8941-c53bec9bf427-2080303780.jpg/ORIG/resize/1024x768%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/usercontent/6c499615-ab32-4c5a-af1b-2770fc18f635.JPG/ORIG/resize/300x300>/format/webp/quality/100"
-      ],
-      "Czynsz z mediami (€)": 700.0
-    },
-    {
-      "Portal": "ImmoScout24",
       "Tytuł": "Room to unfold: 2-room apartment in Bedburg-Hau",
       "Cena (€)": 598.0,
       "Pokoje": 2.0,
@@ -931,23 +874,6 @@
       "Zdjęcie": null,
       "Zdjęcia": [],
       "Czynsz z mediami (€)": 900.0
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Home with two rooms in Emmerich am Rhein",
-      "Cena (€)": 625.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 58.0,
-      "Lokalizacja": "Tempelstrasse 1, Emmerich am Rhein, Kleve (Kreis)",
-      "Odległość (km)": 2.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170519331",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://pictures.immobilienscout24.de/listings/bfe1420f-5663-43aa-adbb-df33b218c443-2085899057.jpg/ORIG/resize/1024x768%3E/format/webp/quality/73"
-      ],
-      "Czynsz z mediami (€)": 800.0
     },
     {
       "Portal": "ImmoScout24",
