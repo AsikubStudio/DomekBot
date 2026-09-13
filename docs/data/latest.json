@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-13T10:30:02.038985+00:00",
-  "count": 47,
+  "generated_at": "2026-09-13T11:24:03.298070+00:00",
+  "count": 45,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-13T10:30:02.038985+00:00",
+      "last_updated": "2026-09-13T11:24:03.298070+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -362,18 +362,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "ein Zimmer zu untermieten",
-      "Cena (€)": 240.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 7.0,
-      "Lokalizacja": "47574 Goch",
-      "Odległość (km)": 13.0,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/ein-zimmer-zu-untermieten/3503577225-203-1147"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Schöne 2-Zimmer- Wohnung in Emmerich mit WBS",
       "Cena (€)": 282.0,
       "Pokoje": 2.0,
@@ -539,18 +527,6 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-helle-2-zi-wohnung-in-bauernhaus-in-haldern/3508297680-203-1389"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Etagenwohnung mit Balkon ab 01.10.2026 zu vermieten",
-      "Cena (€)": 600.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "47574 Goch",
-      "Odległość (km)": 12.0,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/etagenwohnung-mit-balkon-ab-01-10-2026-zu-vermieten/3470485583-203-1147"
     },
     {
       "Portal": "Kleinanzeigen",
