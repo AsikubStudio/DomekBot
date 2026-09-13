@@ -21,6 +21,19 @@ Wymaga:
 
 Jeśli odpowiednie zmienne nie są ustawione, dana metoda powiadomień jest po
 cichu pomijana - main.py działa dalej normalnie.
+
+--- Lokalne sekrety (tylko na komputerze, NIE w GitHub Actions) ---
+Dla uruchomień lokalnych (np. ImmoScout24 przez Task Scheduler) zwykle nie ma
+sensu ustawiać zmiennych środowiskowych systemowych. Zamiast tego, jeśli
+PUSH_SUBSCRIPTION / VAPID_PRIVATE_KEY_PEM nie są ustawione w środowisku,
+funkcje poniżej spróbują odczytać je z plików w folderze local_secrets/ obok
+tego skryptu:
+    local_secrets/push_subscription.json   - treść identyczna jak PUSH_SUBSCRIPTION
+    local_secrets/vapid_private_key.pem    - treść identyczna jak VAPID_PRIVATE_KEY_PEM
+Ten folder jest wpisany w .gitignore i nigdy nie trafia do repo.
+Telegram celowo NIE ma takiego fallbacku z plików - lokalne uruchomienia mają
+wysyłać tylko Web Push, bez Telegrama (chyba że ktoś ustawi zmienne środowiskowe
+ręcznie).
 """
 import os
 import json
@@ -34,6 +47,20 @@ logger = logging.getLogger("immo-bot")
 TELEGRAM_API = "https://api.telegram.org/bot{token}/sendMessage"
 MAX_LISTINGS_IN_MESSAGE = 10  # zeby nie przekroczyc limitu dlugosci wiadomosci Telegrama
 DEFAULT_VAPID_CLAIMS_EMAIL = "mailto:example@example.com"
+
+LOCAL_SECRETS_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "local_secrets")
+
+
+def _read_local_secret(filename: str) -> str | None:
+    path = os.path.join(LOCAL_SECRETS_DIR, filename)
+    if not os.path.isfile(path):
+        return None
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            content = f.read().strip()
+        return content or None
+    except OSError:
+        return None
 
 
 def _get_credentials():
@@ -66,12 +93,15 @@ def send_telegram_message(text: str) -> bool:
 
 def send_web_push(title: str, body: str, url: str = "./") -> bool:
     """Wysyła jedno powiadomienie push do zarejestrowanej przeglądarki (PWA)."""
-    sub_json = os.environ.get("PUSH_SUBSCRIPTION")
-    vapid_private_pem = os.environ.get("VAPID_PRIVATE_KEY_PEM")
+    sub_json = os.environ.get("PUSH_SUBSCRIPTION") or _read_local_secret("push_subscription.json")
+    vapid_private_pem = os.environ.get("VAPID_PRIVATE_KEY_PEM") or _read_local_secret("vapid_private_key.pem")
     claims_email = os.environ.get("VAPID_CLAIMS_EMAIL", DEFAULT_VAPID_CLAIMS_EMAIL)
 
     if not sub_json or not vapid_private_pem:
-        logger.info("Web Push: brak PUSH_SUBSCRIPTION/VAPID_PRIVATE_KEY_PEM w środowisku - pomijam.")
+        logger.info(
+            "Web Push: brak PUSH_SUBSCRIPTION/VAPID_PRIVATE_KEY_PEM w środowisku "
+            "ani w local_secrets/ - pomijam."
+        )
         return False
 
     try:
