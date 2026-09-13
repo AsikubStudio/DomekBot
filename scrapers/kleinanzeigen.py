@@ -22,7 +22,7 @@ dotychczasowa hipoteza, ale mogła się zmienić).
 """
 import logging
 import re
-from typing import List
+from typing import List, Optional
 
 from bs4 import BeautifulSoup
 
@@ -30,7 +30,7 @@ import config
 from models import Listing
 from scrapers.base import (
     make_session, polite_get, parse_price, parse_rooms, parse_size,
-    guess_bathroom, guess_kitchen, extract_image_url,
+    guess_bathroom, guess_kitchen, extract_image_url, enrich_listings_with_details,
 )
 
 logger = logging.getLogger("immo-bot")
@@ -106,6 +106,85 @@ def _parse_cards(html: str, slug: str) -> List[Listing]:
     return listings
 
 
+def _parse_detail_images(html: str) -> List[str]:
+    """
+    Zbiera adresy WSZYSTKICH zdjęć galerii z podstrony oferty. Kleinanzeigen serwuje
+    zdjęcia z CDN pod domeną img.kleinanzeigen.de - to stabilniejszy sposób ich
+    namierzenia niż konkretna klasa CSS kontenera galerii (ta bywa zmieniana między
+    wersjami strony), ale NIE ZWERYFIKOWANE jeszcze na żywym HTML-u (jak inne
+    selektory w tym projekcie) - jeśli zawsze wraca pusta lista mimo że oferta ma
+    zdjęcia, wyślij fragment HTML-a strony oferty (np. całe `<div id="viewad-image">`)
+    żeby to doprecyzować.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    urls: List[str] = []
+    seen = set()
+    for img in soup.find_all("img"):
+        for attr in ("src", "data-src", "data-imgsrc"):
+            value = img.get(attr)
+            if value and "img.kleinanzeigen.de" in value and value not in seen:
+                seen.add(value)
+                urls.append(value)
+                break
+    return urls[:12]
+
+
+def _extract_amount(text: str) -> Optional[float]:
+    if not text:
+        return None
+    match = re.search(r"(\d+(?:[.,]\d+)?)", text.replace(".", "").replace(",", "."))
+    return float(match.group(1)) if match else None
+
+
+def _parse_detail_warm_rent(html: str, kaltmiete: Optional[float]) -> Optional[float]:
+    """
+    Szuka czynszu "z mediami"/"ciepłego" na podstronie oferty. Kleinanzeigen dla
+    mieszkań zwykle pokazuje to jako osobną pozycję w liście szczegółów (np.
+    "Nebenkosten" = koszty dodatkowe doliczane do Kaltmiete, rzadziej wprost
+    "Warmmiete"/"Gesamtmiete"). Jeśli znajdziemy tylko "Nebenkosten", doliczamy je
+    do już znanej Kaltmiete (z listy wyników) żeby dostać sumę.
+
+    NIE ZWERYFIKOWANE jeszcze na żywym HTML-u (jak inne selektory w tym projekcie) -
+    jeśli zawsze wraca None mimo że oferta ma te dane, wyślij fragment sekcji
+    szczegółów (dt/dd albo listę "addetailslist") żeby dopracować.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    text_pairs = []
+
+    for dt in soup.select("dt"):
+        dd = dt.find_next_sibling("dd")
+        if dd:
+            text_pairs.append((dt.get_text(" ", strip=True), dd.get_text(" ", strip=True)))
+    for li in soup.select("li"):
+        parts = li.find_all(["span", "div"], recursive=False)
+        if len(parts) == 2:
+            text_pairs.append((parts[0].get_text(" ", strip=True), parts[1].get_text(" ", strip=True)))
+
+    nebenkosten = None
+    for label, value in text_pairs:
+        low = label.lower()
+        if "warmmiete" in low or "gesamtmiete" in low:
+            amount = _extract_amount(value)
+            if amount is not None:
+                return amount
+        if "nebenkosten" in low:
+            nebenkosten = _extract_amount(value)
+
+    if nebenkosten is not None and kaltmiete is not None:
+        return round(kaltmiete + nebenkosten, 2)
+    return None
+
+
+def _fetch_detail(session, listing: Listing) -> dict:
+    html = polite_get(session, listing.url)
+    if not html:
+        return {"images": [], "warm_rent": None}
+    return {
+        "images": _parse_detail_images(html),
+        "warm_rent": _parse_detail_warm_rent(html, listing.price_eur),
+    }
+
+
 def search() -> List[Listing]:
     session = make_session()
     results: List[Listing] = []
@@ -130,4 +209,14 @@ def search() -> List[Listing]:
                     results.append(listing)
 
     logger.info("Kleinanzeigen: znaleziono %d ofert łącznie (przed filtrowaniem).", len(results))
+
+    # Karuzela zdjęć i czynsz z mediami w oknie szczegółów na stronie - wymaga
+    # dodatkowego wejścia na podstronę KAŻDEJ nowej oferty (patrz base.py oraz
+    # config.FETCH_LISTING_DETAILS / MAX_DETAIL_FETCHES_PER_RUN).
+    enrich_listings_with_details(
+        results,
+        source="Kleinanzeigen",
+        fetch_detail_fn=lambda listing: _fetch_detail(session, listing),
+    )
+
     return results

@@ -3,7 +3,7 @@ Wspólny model danych dla ogłoszenia mieszkania, używany przez wszystkie scrap
 żeby filtrowanie i wyświetlanie wyników działało tak samo niezależnie od portalu.
 """
 from dataclasses import dataclass, field
-from typing import Optional
+from typing import List, Optional
 
 
 @dataclass
@@ -21,6 +21,15 @@ class Listing:
     distance_km: Optional[float] = None   # wyliczane później względem CENTER_CITY
     image_url: Optional[str] = None       # zdjęcie główne z karty wyniku wyszukiwania (jeśli scraper je znalazł)
 
+    # Poniższe dwa pola NIE są wypełniane przy zwykłym parsowaniu listy wyników -
+    # wymagają wejścia na podstronę pojedynczej oferty (patrz scrapers/base.py::
+    # enrich_with_details i wywołania w scrapers/kleinanzeigen.py / immoscout24_local.py).
+    # Domyślnie puste/None dopóki enrichment się nie uda (np. brak w ogłoszeniu, albo
+    # portal zablokował/zmienił HTML) - front-end (docs/index.html) traktuje to jako
+    # "brak danych" i nic się nie wywraca.
+    images: List[str] = field(default_factory=list)     # galeria zdjęć z podstrony oferty
+    warm_rent_eur: Optional[float] = None                # "Warmmiete"/czynsz z mediami (ciepły)
+
     def as_row(self) -> dict:
         return {
             "Portal": self.source,
@@ -34,6 +43,8 @@ class Listing:
             "Kuchnia": self.bool_label(self.has_kitchen),
             "Link": self.url,
             "Zdjęcie": self.image_url,
+            "Zdjęcia": self.images,
+            "Czynsz z mediami (€)": self.warm_rent_eur,
         }
 
     @staticmethod

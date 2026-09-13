@@ -197,3 +197,83 @@ def search() -> List[Listing]:
 
     logger.info("ImmoScout24: znaleziono %d ofert łącznie (przed filtrowaniem).", len(results))
     return results
+
+
+# ---------------------------------------------------------------------------
+# Parsowanie PODSTRONY pojedynczej oferty (expose) - karuzela zdjęć + czynsz
+# z mediami. Współdzielone przez wersję chmurową (wyłączoną w config) i lokalną
+# (scrapers/immoscout24_local.py, ktora faktycznie tego uzywa) - obie roznia sie
+# tylko sposobem pobrania HTML-a, parsowanie jest identyczne.
+# ---------------------------------------------------------------------------
+
+def _extract_amount(text: str) -> Optional[float]:
+    """
+    '500 €' -> 500.0. '€475–525' (zakres, np. Warmmiete widelkowe) -> średnia (500.0) -
+    to tylko orientacyjna wartość informacyjna w oknie oferty, nie kryterium filtrowania,
+    więc średnia z widełek jest rozsądnym kompromisem zamiast pokazywać tylko dolną granicę.
+    """
+    if not text:
+        return None
+    cleaned = text.replace(".", "").replace(",", ".")
+    numbers = [float(m) for m in re.findall(r"\d+(?:\.\d+)?", cleaned)]
+    if not numbers:
+        return None
+    return sum(numbers) / len(numbers)
+
+
+def _parse_detail_images(html: str) -> List[str]:
+    """
+    Galeria zdjęć na podstronie oferty (expose) ImmoScout24. Zdjęcia są serwowane
+    z CDN pod domeną pictures.immobilienscout24.de - to stabilniejszy sposób ich
+    namierzenia niż konkretna klasa CSS kontenera galerii (bywa zmieniana między
+    wersjami strony), ale NIE ZWERYFIKOWANE jeszcze na żywym HTML-u (jak inne
+    selektory w tym projekcie) - jeśli zawsze wraca pusta lista mimo że oferta ma
+    zdjęcia, wyślij fragment HTML-a sekcji galerii (zwykle w okolicy elementu
+    o id/klasie zawierającej "gallery") żeby to doprecyzować.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    urls: List[str] = []
+    seen = set()
+    for img in soup.find_all("img"):
+        for attr in ("src", "data-src", "data-imgsrc"):
+            value = img.get(attr)
+            if value and "pictures.immobilienscout24.de" in value and value not in seen:
+                seen.add(value)
+                urls.append(value)
+                break
+    return urls[:12]
+
+
+def _parse_detail_warm_rent(html: str) -> Optional[float]:
+    """
+    ZWERYFIKOWANE na żywym HTML-u (12.09.2026, przykładowa oferta ImmoScout24) -
+    "czynsz z mediami" jest oznaczony klasą CSS zawierającą "rentincludingutilities",
+    np.:
+        <div class="is24qa-maincriteria-rentincludingutilities-label-main ...">
+          <span class="">€475–525</span>
+        </div>
+    (nie atrybutem `data-qa`, jak pierwotnie zakładałem - poprawione po realnym
+    fragmencie HTML-a przysłanym przez użytkownika). Wartość bywa WIDEŁKOWA
+    (np. "€475–525" zamiast jednej liczby) - _extract_amount liczy wtedy średnią.
+
+    Jeśli w przyszłości portal znów zmieni nazewnictwo klas i to zacznie zawsze
+    wracać None mimo że oferta ma czynsz z mediami, wyślij nowy fragment sekcji
+    z ceną (Inspect na tym polu) żeby dopracować.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+
+    el = soup.select_one('[class*="rentincludingutilities"]')
+    if el:
+        amount = _extract_amount(el.get_text(" ", strip=True))
+        if amount is not None:
+            return amount
+
+    # Fallback (niezweryfikowany) na wypadek innej wersji strony - suma "zimnego"
+    # czynszu i kosztów dodatkowych, jeśli oba są oznaczone podobnym wzorcem klas.
+    kalt_el = soup.select_one('[class*="maincriteria-baserent"], [data-qa="is24qa-kaltmiete"]')
+    neben_el = soup.select_one('[class*="maincriteria-additionalcosts"], [data-qa="is24qa-nebenkosten"]')
+    kalt = _extract_amount(kalt_el.get_text(" ", strip=True)) if kalt_el else None
+    neben = _extract_amount(neben_el.get_text(" ", strip=True)) if neben_el else None
+    if kalt is not None and neben is not None:
+        return round(kalt + neben, 2)
+    return None

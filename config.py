@@ -43,6 +43,24 @@ REQUEST_DELAY_SECONDS = 2.5   # odstęp między requestami - szanuj serwery, zmn
 REQUEST_TIMEOUT_SECONDS = 15
 MAX_PAGES_PER_SITE = 3        # ile stron wyników przeglądać na portal
 
+# --- Szczegóły oferty (karuzela zdjęć + czynsz z mediami w oknie na stronie) ---
+# Włącza dodatkowe wejście na PODSTRONĘ każdej nowo znalezionej oferty (Kleinanzeigen
+# i ImmoScout24 lokalnie), żeby pobrać wiele zdjęć i "Warmmiete"/czynsz z mediami -
+# te dane NIE są dostępne na samej liście wyników wyszukiwania. To realnie zwiększa
+# liczbę requestów do portalu, więc:
+#  - ustaw False, żeby całkowicie wyłączyć (front-end i tak działa - po prostu pokaże
+#    "brak danych" i pojedyncze zdjęcie z karty, bez karuzeli),
+#  - wyniki są PAMIĘTANE między uruchomieniami (patrz scrapers/base.py::load_cached_details) -
+#    raz pobrana oferta nie jest pobierana ponownie, więc w praktyce dotyczy to tylko
+#    NOWO pojawiających się ofert, nie każdego przebiegu.
+FETCH_LISTING_DETAILS = True
+# Twardy limit nowych (nie-cache'owanych) podstron pobieranych w JEDNYM przebiegu -
+# zabezpieczenie przed nagłym skokiem requestów (np. pierwsze uruchomienie po włączeniu
+# tej funkcji, albo masowy napływ nowych ofert). Nadmiarowe oferty po prostu poczekają
+# do następnego przebiegu (3h dla Kleinanzeigen) - nic się nie gubi, tylko "brak danych"
+# przez jeden cykl dłużej.
+MAX_DETAIL_FETCHES_PER_RUN = 15
+
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"

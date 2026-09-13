@@ -37,7 +37,11 @@ from typing import List
 
 import config
 from models import Listing
-from scrapers.immoscout24 import _build_search_url, _parse_cards, CARD_SELECTOR
+from scrapers.base import enrich_listings_with_details
+from scrapers.immoscout24 import (
+    _build_search_url, _parse_cards, CARD_SELECTOR,
+    _parse_detail_images, _parse_detail_warm_rent,
+)
 
 logger = logging.getLogger("immo-bot")
 
@@ -87,6 +91,27 @@ def _accept_cookies(driver) -> bool:
         except Exception as exc:
             logger.warning("ImmoScout24 (lokalnie): błąd przy Shadow DOM: %s", exc)
             return False
+
+
+def _fetch_detail(driver, listing: Listing) -> dict:
+    """
+    Pobiera podstronę pojedynczej oferty, uzywajac JUZ OTWARTEJ przegladarki
+    (ten sam `driver` co przeszukiwanie list wynikow) - zadnego nowego okna,
+    zadnego ponownego akceptowania cookies. Respektuje ten sam odstep miedzy
+    requestami co reszta scrapera (config.REQUEST_DELAY_SECONDS).
+    """
+    time.sleep(config.REQUEST_DELAY_SECONDS)
+    try:
+        driver.get(listing.url)
+        time.sleep(2)
+        html = driver.page_source
+    except Exception as exc:
+        logger.warning("ImmoScout24 (lokalnie): błąd ładowania szczegółów %s: %s", listing.url, exc)
+        return {"images": [], "warm_rent": None}
+    return {
+        "images": _parse_detail_images(html),
+        "warm_rent": _parse_detail_warm_rent(html),
+    }
 
 
 def search() -> List[Listing]:
@@ -159,5 +184,17 @@ def search() -> List[Listing]:
 
                 time.sleep(config.REQUEST_DELAY_SECONDS)
 
-    logger.info("ImmoScout24 (lokalnie): znaleziono %d ofert łącznie (przed filtrowaniem).", len(results))
+        logger.info("ImmoScout24 (lokalnie): znaleziono %d ofert łącznie (przed filtrowaniem).", len(results))
+
+        # Karuzela zdjęć i czynsz z mediami w oknie szczegółów na stronie - wymaga
+        # dodatkowego wejścia na podstronę KAŻDEJ nowej oferty. Robimy to TERAZ,
+        # jeszcze w tej samej przeglądarce (cookies już zaakceptowane, brak ryzyka
+        # otwierania kolejnego okna) - patrz config.FETCH_LISTING_DETAILS /
+        # MAX_DETAIL_FETCHES_PER_RUN.
+        enrich_listings_with_details(
+            results,
+            source="ImmoScout24",
+            fetch_detail_fn=lambda listing: _fetch_detail(driver, listing),
+        )
+
     return results

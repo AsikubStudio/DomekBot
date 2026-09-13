@@ -6,14 +6,17 @@ Jeśli scraper przestanie zwracać wyniki, najpierw sprawdź (F12 w przeglądarc
 stronie wyników wyszukiwania) czy selektory w danym pliku scrapers/<portal>.py
 nadal pasują do aktualnego HTML - to najczęstsza przyczyna "0 wyników".
 """
+import json
+import os
 import re
 import time
 import logging
-from typing import Optional
+from typing import Callable, Dict, List, Optional
 
 import requests
 
 import config
+from models import Listing
 
 logger = logging.getLogger("immo-bot")
 
@@ -167,3 +170,108 @@ def extract_image_url(card, base_url: str = "") -> Optional[str]:
                 return first if first.startswith("http") else base_url + first
 
     return None
+
+
+# ---------------------------------------------------------------------------
+# Szczegoly oferty (galeria zdjec + czynsz z mediami) - wymagaja wejscia na
+# PODSTRONE pojedynczej oferty, nie tylko listy wynikow wyszukiwania. Zobacz
+# config.FETCH_LISTING_DETAILS / config.MAX_DETAIL_FETCHES_PER_RUN.
+# ---------------------------------------------------------------------------
+
+def load_cached_details(source: str, path: Optional[str] = None) -> Dict[str, dict]:
+    """
+    Czyta juz opublikowany docs/data/latest.json i zwraca {url: {"images": [...],
+    "warm_rent": float|None}} dla ofert DANEGO portalu, ktore juz maja te dane
+    wypelnione z poprzedniego przebiegu. Dzieki temu nie odpytujemy podstrony
+    oferty ponownie dla czegos co juz znamy - tylko dla naprawde nowych ofert.
+
+    Bezpieczne w uzyciu nawet jesli plik jeszcze nie istnieje (np. pierwsze
+    uruchomienie) albo jest uszkodzony - wtedy po prostu zwraca pusty slownik
+    (wszystko trafi do "nowych" i zostanie pobrane, z zachowaniem limitu
+    config.MAX_DETAIL_FETCHES_PER_RUN).
+    """
+    path = path or config.PUBLISH_JSON_PATH
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+    except (json.JSONDecodeError, OSError) as exc:
+        logger.warning("load_cached_details: nie udało się wczytać %s (%s).", path, exc)
+        return {}
+
+    cache: Dict[str, dict] = {}
+    for row in data.get("listings", []):
+        if row.get("Portal") != source:
+            continue
+        url = row.get("Link")
+        if not url:
+            continue
+        images = row.get("Zdjęcia") or []
+        warm_rent = row.get("Czynsz z mediami (€)")
+        if images or warm_rent is not None:
+            cache[url] = {"images": images, "warm_rent": warm_rent}
+    return cache
+
+
+def enrich_listings_with_details(
+    listings: List[Listing],
+    source: str,
+    fetch_detail_fn: Callable[[Listing], Optional[dict]],
+    max_fetches: Optional[int] = None,
+) -> None:
+    """
+    Wzbogaca liste ofert (IN PLACE - modyfikuje obiekty Listing) o galerie zdjec
+    i czynsz z mediami. Dla kazdej oferty:
+      1. jesli mamy juz jej dane z poprzedniego przebiegu (patrz load_cached_details) -
+         uzywamy ich, BEZ zadnego dodatkowego requestu do portalu,
+      2. w przeciwnym razie wywoluje fetch_detail_fn(listing), ktore powinno zwrocic
+         {"images": [...], "warm_rent": float|None} (albo None/rzucic wyjatek przy
+         bledzie - wtedy oferta po prostu zostaje bez tych danych na razie).
+
+    fetch_detail_fn jest specyficzne dla portalu (inny klient HTTP / przegladarka),
+    dlatego jest przekazywane przez wywolujacego, a nie zaszyte tutaj na sztywno.
+
+    Respektuje config.FETCH_LISTING_DETAILS (globalny wylacznik) oraz limit
+    config.MAX_DETAIL_FETCHES_PER_RUN - nadmiarowe NOWE oferty (te bez cache)
+    po prostu czekaja do nastepnego przebiegu, zamiast zalewac portal requestami.
+    """
+    if not getattr(config, "FETCH_LISTING_DETAILS", True):
+        return
+
+    cached = load_cached_details(source)
+    if max_fetches is None:
+        max_fetches = getattr(config, "MAX_DETAIL_FETCHES_PER_RUN", 15)
+
+    cached_count = 0
+    fetched_count = 0
+    skipped_count = 0
+
+    for listing in listings:
+        cached_entry = cached.get(listing.url)
+        if cached_entry:
+            listing.images = cached_entry.get("images") or []
+            listing.warm_rent_eur = cached_entry.get("warm_rent")
+            cached_count += 1
+            continue
+
+        if fetched_count >= max_fetches:
+            skipped_count += 1
+            continue  # limit na ten przebieg osiagniety - poczeka do nastepnego razu
+
+        details = None
+        try:
+            details = fetch_detail_fn(listing)
+        except Exception as exc:
+            logger.warning("%s: błąd pobierania szczegółów oferty %s: %s", source, listing.url, exc)
+        fetched_count += 1
+
+        if details:
+            listing.images = details.get("images") or []
+            listing.warm_rent_eur = details.get("warm_rent")
+
+    logger.info(
+        "%s: szczegóły ofert (zdjęcia/czynsz z mediami) - %d z pamięci, %d nowo pobranych, "
+        "%d odłożonych do następnego przebiegu (limit: %d).",
+        source, cached_count, fetched_count, skipped_count, max_fetches,
+    )
