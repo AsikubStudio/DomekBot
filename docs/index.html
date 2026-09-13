@@ -219,6 +219,11 @@
       </p>
       <textarea id="subscriptionText" readonly></textarea>
       <button class="push-btn secondary" id="copyBtn" style="margin-top:8px;">Kopiuj</button>
+      <button class="push-btn secondary" id="resetPushBtn" style="margin-top:8px; display:none;">Wymuś nową subskrypcję</button>
+      <p class="hint" style="margin-top:6px;">
+        Użyj tego tylko jeśli zmieniał się klucz VAPID po stronie serwera i stara subskrypcja
+        przestała działać - to unieważni obecną subskrypcję i utworzy nową.
+      </p>
     </div>
   </div>
 
@@ -542,6 +547,7 @@
   const subscriptionBox = document.getElementById('subscriptionBox');
   const subscriptionText = document.getElementById('subscriptionText');
   const copyBtn = document.getElementById('copyBtn');
+  const resetPushBtn = document.getElementById('resetPushBtn');
 
   function urlBase64ToUint8Array(base64String) {
     const padding = '='.repeat((4 - (base64String.length % 4)) % 4);
@@ -550,6 +556,27 @@
     return Uint8Array.from([...rawData].map((c) => c.charCodeAt(0)));
   }
 
+  function showSubscription(subscription) {
+    subscriptionText.value = JSON.stringify(subscription.toJSON(), null, 2);
+    subscriptionBox.style.display = 'block';
+    pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
+    pushHint.textContent = 'Powiadomienia włączone - dokończ konfigurację poniżej (jednorazowo).';
+  }
+
+  async function subscribeFresh(registration) {
+    const permission = await Notification.requestPermission();
+    if (permission !== 'granted') {
+      pushHint.textContent = 'Nie udzielono zgody na powiadomienia w przeglądarce.';
+      return null;
+    }
+    return registration.pushManager.subscribe({
+      userVisibleOnly: true,
+      applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY),
+    });
+  }
+
+  let swRegistration = null;
+
   async function initPush() {
     if (!('serviceWorker' in navigator) || !('PushManager' in window)) {
       pushHint.textContent = 'Ta przeglądarka nie wspiera powiadomień push (na iOS: dodaj stronę do ekranu głównego i otwórz ją stamtąd).';
@@ -557,39 +584,45 @@
       return;
     }
 
-    const registration = await navigator.serviceWorker.register('sw.js');
-    const existing = await registration.pushManager.getSubscription();
+    swRegistration = await navigator.serviceWorker.register('sw.js');
+    const existing = await swRegistration.pushManager.getSubscription();
 
     if (existing) {
       pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
       pushHint.textContent = 'Powiadomienia są włączone w tej przeglądarce.';
+      resetPushBtn.style.display = 'inline-block';
     }
 
+    // Zwykły przycisk NIGDY nie niszczy istniejącej subskrypcji - tylko ją pokazuje,
+    // albo (jeśli jej jeszcze nie ma) tworzy pierwszą. Dzięki temu wielokrotne
+    // klikanie "pokaż ponownie" jest całkowicie bezpieczne.
     pushBtn.addEventListener('click', async () => {
       try {
-        // Zawsze wypisujemy się ze starej subskrypcji i tworzymy nową - dzięki temu
-        // rotacja klucza VAPID po stronie serwera nigdy nie zostawia "martwej",
-        // niedziałającej subskrypcji zapamiętanej przez przeglądarkę.
-        const old = await registration.pushManager.getSubscription();
+        let subscription = await swRegistration.pushManager.getSubscription();
+        if (!subscription) {
+          subscription = await subscribeFresh(swRegistration);
+          if (!subscription) return;
+          resetPushBtn.style.display = 'inline-block';
+        }
+        showSubscription(subscription);
+      } catch (err) {
+        pushHint.textContent = 'Nie udało się włączyć powiadomień: ' + err.message;
+      }
+    });
+
+    // Osobny przycisk - jedyne miejsce, które faktycznie unieważnia starą
+    // subskrypcję. Używany tylko świadomie, np. po rotacji klucza VAPID.
+    resetPushBtn.addEventListener('click', async () => {
+      try {
+        const old = await swRegistration.pushManager.getSubscription();
         if (old) {
           try { await old.unsubscribe(); } catch (e) { /* ignoruj, i tak nadpiszemy */ }
         }
-
-        const permission = await Notification.requestPermission();
-        if (permission !== 'granted') {
-          pushHint.textContent = 'Nie udzielono zgody na powiadomienia w przeglądarce.';
-          return;
-        }
-        const subscription = await registration.pushManager.subscribe({
-          userVisibleOnly: true,
-          applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY),
-        });
-        subscriptionText.value = JSON.stringify(subscription.toJSON(), null, 2);
-        subscriptionBox.style.display = 'block';
-        pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
-        pushHint.textContent = 'Powiadomienia włączone - dokończ konfigurację poniżej (jednorazowo).';
+        const subscription = await subscribeFresh(swRegistration);
+        if (!subscription) return;
+        showSubscription(subscription);
       } catch (err) {
-        pushHint.textContent = 'Nie udało się włączyć powiadomień: ' + err.message;
+        pushHint.textContent = 'Nie udało się odświeżyć subskrypcji: ' + err.message;
       }
     });
   }
