@@ -18,6 +18,28 @@ def _price_ok(listing: Listing) -> bool:
     return True
 
 
+def _warm_rent_ok(listing: Listing) -> bool:
+    """
+    Górny limit czynszu z mediami (Warmmiete). Wypełniany dopiero po enrichmencie
+    (wejście na podstronę oferty) - jeśli jeszcze go nie mamy (None), NIE odrzucamy
+    oferty automatycznie, tylko czekamy aż dane się pojawią przy kolejnym przebiegu.
+    """
+    if listing.warm_rent_eur is None:
+        return True
+    if config.MAX_WARM_RENT_EUR is not None and listing.warm_rent_eur > config.MAX_WARM_RENT_EUR:
+        return False
+    return True
+
+
+def _size_ok(listing: Listing) -> bool:
+    """Minimalna powierzchnia. Brak danych o powierzchni - nie odrzucaj."""
+    if listing.size_sqm is None:
+        return True
+    if config.MIN_SIZE_SQM is not None and listing.size_sqm <= config.MIN_SIZE_SQM:
+        return False
+    return True
+
+
 def _rooms_ok(listing: Listing) -> bool:
     if listing.rooms is None:
         return True
@@ -63,7 +85,10 @@ def _location_ok(listing: Listing) -> bool:
 
 
 def apply_all_filters(listings: List[Listing]) -> List[Listing]:
-    checks = [_price_ok, _rooms_ok, _separate_rooms_ok, _bathroom_ok, _kitchen_ok, _location_ok]
+    checks = [
+        _price_ok, _warm_rent_ok, _size_ok, _rooms_ok,
+        _separate_rooms_ok, _bathroom_ok, _kitchen_ok, _location_ok,
+    ]
     result = []
     for listing in listings:
         if all(check(listing) for check in checks):
