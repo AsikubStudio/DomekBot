@@ -93,4 +93,11 @@ def apply_all_filters(listings: List[Listing]) -> List[Listing]:
     for listing in listings:
         if all(check(listing) for check in checks):
             result.append(listing)
+
+    # Dystans do 's-Heerenberg liczymy TYLKO dla ofert, które już przeszły wszystkie
+    # inne filtry - po co geokodować (i czekać 1s/request na Nominatim) coś, co i tak
+    # zostanie odrzucone.
+    for listing in result:
+        listing.distance_sheerenberg_km = distance_from_sheerenberg_km(listing.location_text)
+
     return result
