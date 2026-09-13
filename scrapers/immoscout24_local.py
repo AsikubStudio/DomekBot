@@ -30,6 +30,14 @@ wersji Pythona (3.13/3.14), wersji selenium, czy własnych opcji Chrome, a więc
 leżał w samym mechanizmie uruchamiania tego pakietu. Przełączenie na SeleniumBase
 (SB(uc=True)) - osobny, aktywniej rozwijany projekt oparty na tej samej idei -
 rozwiązało problem od razu.
+
+HISTORIA (13.09.2026): dopisane sprawdzanie dezaktywacji ofert (_parse_detail_deactivated)
+po zgłoszeniu, że ImmoScout24 potrafi nadal pokazywać dezaktywowaną ofertę w wynikach
+wyszukiwania. Ponieważ zwykły cache szczegółów (obrazki/czynsz) nigdy się nie odświeżał
+raz zapisany, taka oferta mogła wisieć na stronie w nieskończoność - dlatego enrichment
+dla tego portalu teraz zawsze wymusza świeży fetch_detail_fn() dla KAŻDEJ dopasowanej
+oferty przy KAŻDYM przebiegu (force_refresh=True w enrich_listings_with_details), zamiast
+polegać na pamięci z poprzednich uruchomień.
 """
 import logging
 import time
@@ -40,7 +48,7 @@ from models import Listing
 from scrapers.base import enrich_listings_with_details
 from scrapers.immoscout24 import (
     _build_search_url, _parse_cards, CARD_SELECTOR,
-    _parse_detail_images, _parse_detail_warm_rent,
+    _parse_detail_images, _parse_detail_warm_rent, _parse_detail_deactivated,
 )
 
 logger = logging.getLogger("immo-bot")
@@ -99,6 +107,10 @@ def _fetch_detail(driver, listing: Listing) -> dict:
     (ten sam `driver` co przeszukiwanie list wynikow) - zadnego nowego okna,
     zadnego ponownego akceptowania cookies. Respektuje ten sam odstep miedzy
     requestami co reszta scrapera (config.REQUEST_DELAY_SECONDS).
+
+    Zwraca tez "deactivated" - True jesli podstrona pokazuje znacznik
+    "Deactivated N days ago" (patrz scrapers/immoscout24.py::_parse_detail_deactivated).
+    Wywolujacy (enrich_listings_with_details) usuwa takie oferty z wynikow.
     """
     time.sleep(config.REQUEST_DELAY_SECONDS)
     try:
@@ -107,10 +119,11 @@ def _fetch_detail(driver, listing: Listing) -> dict:
         html = driver.page_source
     except Exception as exc:
         logger.warning("ImmoScout24 (lokalnie): błąd ładowania szczegółów %s: %s", listing.url, exc)
-        return {"images": [], "warm_rent": None}
+        return {"images": [], "warm_rent": None, "deactivated": False}
     return {
         "images": _parse_detail_images(html),
         "warm_rent": _parse_detail_warm_rent(html),
+        "deactivated": _parse_detail_deactivated(html),
     }
 
 
@@ -186,15 +199,16 @@ def search() -> List[Listing]:
 
         logger.info("ImmoScout24 (lokalnie): znaleziono %d ofert łącznie (przed filtrowaniem).", len(results))
 
-        # Karuzela zdjęć i czynsz z mediami w oknie szczegółów na stronie - wymaga
-        # dodatkowego wejścia na podstronę KAŻDEJ nowej oferty. Robimy to TERAZ,
-        # jeszcze w tej samej przeglądarce (cookies już zaakceptowane, brak ryzyka
-        # otwierania kolejnego okna) - patrz config.FETCH_LISTING_DETAILS /
-        # MAX_DETAIL_FETCHES_PER_RUN.
+        # Karuzela zdjęć, czynsz z mediami i status dezaktywacji w oknie szczegółów
+        # na stronie - wymaga dodatkowego wejścia na podstronę KAŻDEJ oferty. Robimy
+        # to TERAZ, jeszcze w tej samej przeglądarce (cookies już zaakceptowane, brak
+        # ryzyka otwierania kolejnego okna). force_refresh=True - patrz historia
+        # (13.09.2026) w docstringu tego pliku wyżej.
         enrich_listings_with_details(
             results,
             source="ImmoScout24",
             fetch_detail_fn=lambda listing: _fetch_detail(driver, listing),
+            force_refresh=True,
         )
 
     return results
