@@ -372,7 +372,7 @@
       kitchen: row['Kuchnia'],
       location: row['Lokalizacja'],
       url: row['Link'] || '#',
-      image: singleImage,
+      image: singleImage || (gallery.length > 0 ? gallery[0] : null),
       images: gallery.length > 0 ? gallery : (singleImage ? [singleImage] : []),
     };
   }
