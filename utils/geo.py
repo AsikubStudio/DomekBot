@@ -18,6 +18,13 @@ import config
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
 _last_geocode_call = 0.0
 
+# Wspolrzedne 's-Heerenberg (Holandia, Gelderland, tuz przy granicy z Niemcami kolo
+# Emmerich) - zaszyte na sztywno zamiast geokodowane przy kazdym uruchomieniu, bo to
+# STALY, drugi punkt odniesienia (w odroznieniu od adresow ofert, ktore sie zmieniaja
+# i musza byc geokodowane dynamicznie). Zrodlo: Wikipedia ('s-Heerenberg),
+# 51°52'35"N 6°14'45"E.
+SHEERENBERG_COORDS = (51.87639, 6.24583)
+
 
 def _haversine_km(lat1, lon1, lat2, lon2) -> float:
     R = 6371.0
@@ -66,6 +73,23 @@ def distance_from_center_km(location_text: str) -> Optional[float]:
         return None
 
     return round(_haversine_km(*center, *target), 1)
+
+
+def distance_from_sheerenberg_km(location_text: str) -> Optional[float]:
+    """
+    Wylicza odległość oferty od 's-Heerenberg (drugi punkt odniesienia, obok
+    CENTER_CITY/Emmerich) - używane TYLKO do wyświetlenia na stronie, nie filtruje
+    ofert (w odróżnieniu od within_radius). Zwraca None jeśli geokodowanie adresu
+    oferty się nie uda. Dzięki lru_cache na geocode() - jeśli ta sama lokalizacja
+    była już geokodowana wcześniej w tym samym przebiegu (np. przez
+    distance_from_center_km), nie robimy drugiego requestu do Nominatim.
+    """
+    if not location_text:
+        return None
+    target = geocode(f"{location_text}, Germany")
+    if not target:
+        return None
+    return round(_haversine_km(*SHEERENBERG_COORDS, *target), 1)
 
 
 def is_known_nearby_place(location_text: str) -> bool:
