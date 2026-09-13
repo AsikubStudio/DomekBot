@@ -294,3 +294,49 @@ def _parse_detail_deactivated(html: str) -> bool:
     """
     soup = BeautifulSoup(html, "html.parser")
     return soup.select_one('[data-testid="gallery-tag-container-deactivated-since-days"]') is not None
+def _parse_detail_description(html: str) -> str:
+    """
+    Opis oferty na podstronie ImmoScout24. Portal ma DWA różne układy strony:
+      1. Oferty "wystawione przez najemcę" (tenant relisting) - opis w
+         div.tenant-description-wrapper, pod nagłówkiem "Property description
+         from the tenant". ZWERYFIKOWANE na żywym HTML-u (13.09.2026).
+      2. Zwykłe oferty od właściciela/agencji - układ inny, jeszcze NIE
+         zweryfikowany na żywym HTML-u. Próbujemy typowego dla ImmoScout24
+         atrybutu data-qa jako fallback - jeśli zawsze wraca pusty string dla
+         zwykłych ofert, wyślij fragment HTML-a sekcji opisu żeby dopracować.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+
+    tenant_desc = soup.select_one("div.tenant-description-wrapper")
+    if tenant_desc:
+        text = tenant_desc.get_text(" ", strip=True)
+        if text:
+            return text
+
+    # Fallback dla zwyklych ofert (niezweryfikowany)
+    generic_desc = soup.select_one('[data-qa="is24-expose-description"], #is24-expose-description')
+    if generic_desc:
+        text = generic_desc.get_text(" ", strip=True)
+        if text:
+            return text
+
+    return ""
+
+
+def _parse_detail_warm_rent_from_pie(html: str) -> Optional[float]:
+    """
+    Alternatywny selektor czynszu z mediami - widget "kołowy" z podziałem kosztów,
+    obecny TYLKO na niektórych ofertach (nie zawsze), np.:
+        <div class="inside-pie">
+          <span title="Monthly costs" class="font-s font-bold">€666.64</span>
+          <span class="font-s font-lightgray"> Monthly costs</span>
+        </div>
+    Zgłoszone przez użytkownika (13.09.2026) jako dodatkowe źródło czynszu z
+    mediami, używane gdy główny selektor (_parse_detail_warm_rent, klasa
+    "rentincludingutilities") nic nie znajdzie.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    el = soup.select_one('.inside-pie span[title="Monthly costs"]')
+    if el:
+        return _extract_amount(el.get_text(strip=True))
+    return None
