@@ -42,7 +42,11 @@ polegać na pamięci z poprzednich uruchomień.
 import logging
 import time
 from typing import List
-
+from scrapers.immoscout24 import (
+    _build_search_url, _parse_cards, CARD_SELECTOR,
+    _parse_detail_images, _parse_detail_warm_rent, _parse_detail_deactivated,
+    _parse_detail_description,
+)
 import config
 from models import Listing
 from scrapers.base import enrich_listings_with_details
@@ -103,14 +107,8 @@ def _accept_cookies(driver) -> bool:
 
 def _fetch_detail(driver, listing: Listing) -> dict:
     """
-    Pobiera podstronę pojedynczej oferty, uzywajac JUZ OTWARTEJ przegladarki
-    (ten sam `driver` co przeszukiwanie list wynikow) - zadnego nowego okna,
-    zadnego ponownego akceptowania cookies. Respektuje ten sam odstep miedzy
-    requestami co reszta scrapera (config.REQUEST_DELAY_SECONDS).
-
-    Zwraca tez "deactivated" - True jesli podstrona pokazuje znacznik
-    "Deactivated N days ago" (patrz scrapers/immoscout24.py::_parse_detail_deactivated).
-    Wywolujacy (enrich_listings_with_details) usuwa takie oferty z wynikow.
+    Pobiera podstronę pojedynczej oferty, uzywajac JUZ OTWARTEJ przegladarki.
+    Zwraca zdjęcia, czynsz z mediami, opis oraz status dezaktywacji.
     """
     time.sleep(config.REQUEST_DELAY_SECONDS)
     try:
@@ -119,10 +117,11 @@ def _fetch_detail(driver, listing: Listing) -> dict:
         html = driver.page_source
     except Exception as exc:
         logger.warning("ImmoScout24 (lokalnie): błąd ładowania szczegółów %s: %s", listing.url, exc)
-        return {"images": [], "warm_rent": None, "deactivated": False}
+        return {"images": [], "warm_rent": None, "description": "", "deactivated": False}
     return {
         "images": _parse_detail_images(html),
         "warm_rent": _parse_detail_warm_rent(html),
+        "description": _parse_detail_description(html),
         "deactivated": _parse_detail_deactivated(html),
     }
 
