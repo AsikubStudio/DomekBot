@@ -1,0 +1,994 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Mieszkania — Emmerich / Kleve</title>
+<meta name="theme-color" content="#9F415A">
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-192.png">
+<link rel="icon" href="icon-192.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  /* Paleta "Cozy Color Palette — soft solstice": #9F415A (berry) #C89387 (dusty rose)
+     #EBE5D6 (cream) #768894 (slate) #D0E4DF (mint) — wszystkie pięć użyte świadomie
+     w różnych rolach, żeby nie wszystko wpadało w róż. */
+  :root {
+    --bg: #EBE5D6;
+    --bg-raised: #F8F5EC;
+    --ink: #362A2D;
+    --ink-soft: #768894;
+    --border: #DED2C3;
+    --accent: #9F415A;
+    --accent-soft: #D0E4DF;
+    --accent-ink: #6B2038;
+    --brick: #C89387;
+    --brick-ink: #7A4A3F;
+    --slate: #768894;
+    --slate-bg: #E6ECEC;
+    --slate-border: #C7D4D6;
+    --slate-ink: #45565E;
+    --focus: #9F415A;
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      --bg: #241C1F; --bg-raised: #2E2428; --ink: #F1E9E2; --ink-soft: #9BB0B9;
+      --border: #43363B; --accent: #D98CA0; --accent-soft: #263733; --accent-ink: #CFE9E0;
+      --brick: #DBA79A; --brick-ink: #EFD3C9;
+      --slate: #9BB0B9; --slate-bg: #263336; --slate-border: #3B4C51; --slate-ink: #BFD3D8;
+      --focus: #D98CA0;
+    }
+  }
+  :root[data-theme="dark"] {
+    --bg: #241C1F; --bg-raised: #2E2428; --ink: #F1E9E2; --ink-soft: #9BB0B9;
+    --border: #43363B; --accent: #D98CA0; --accent-soft: #263733; --accent-ink: #CFE9E0;
+    --brick: #DBA79A; --brick-ink: #EFD3C9;
+    --slate: #9BB0B9; --slate-bg: #263336; --slate-border: #3B4C51; --slate-ink: #BFD3D8;
+    --focus: #D98CA0;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { background: var(--bg); color: var(--ink); line-height: 1.5; -webkit-font-smoothing: antialiased; }
+  a { color: inherit; }
+  :focus-visible { outline: 2px solid var(--focus); outline-offset: 2px; }
+  .wrap { max-width: 900px; margin: 0 auto; padding: 28px 20px 80px; }
+  header.top { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
+  h1 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 30px; letter-spacing: -0.01em; margin: 0; }
+  .subtitle { color: var(--ink-soft); font-size: 15px; margin: 6px 0 22px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .refresh-btn { background: var(--slate-bg); color: var(--slate-ink); border: none; border-radius: 100px; padding: 5px 13px; font-size: 13px; font-weight: 500; cursor: pointer; }
+  .refresh-btn:hover { background: var(--slate); color: #fff; }
+  .refresh-btn.primary { background: var(--accent-soft); color: var(--accent-ink); }
+  .refresh-btn.primary:hover { background: var(--accent); color: #fff; }
+  .controls { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 14px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip { border: 1px solid var(--border); background: var(--bg-raised); color: var(--ink-soft); border-radius: 100px; padding: 6px 13px; font-size: 13px; cursor: pointer; font-weight: 500; }
+  .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  select { border: 1px solid var(--border); background: var(--bg-raised); color: var(--ink); border-radius: 8px; padding: 7px 10px; font-size: 13px; font-family: inherit; }
+  .count { font-size: 14px; color: var(--ink-soft); margin-bottom: 12px; }
+  .count strong { color: var(--ink); }
+  .listing { background: var(--bg-raised); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; margin-bottom: 10px; display: flex; gap: 14px; align-items: flex-start; box-shadow: 0 1px 3px rgba(54,42,45,0.06); cursor: pointer; transition: box-shadow 0.15s ease, transform 0.15s ease; }
+  .listing:hover { box-shadow: 0 3px 10px rgba(54,42,45,0.12); transform: translateY(-1px); }
+  .listing.is-new { border-color: var(--brick); box-shadow: 0 0 0 1px var(--brick); }
+  .listing.is-starred { border-color: var(--accent); box-shadow: 0 0 0 2px var(--accent-soft); }
+  .new-tag { background: var(--brick); color: #fff; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 100px; letter-spacing: 0.02em; }
+  .listing-thumb {
+    width: 84px; height: 84px; flex-shrink: 0; border-radius: 8px; overflow: hidden;
+    background: var(--accent-soft); display: flex; align-items: center; justify-content: center;
+  }
+  .listing-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .listing-thumb .placeholder-icon { font-size: 26px; opacity: 0.55; }
+  .listing-body { flex: 1; min-width: 0; display: flex; flex-direction: column; gap: 8px; }
+  .listing-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 14px; }
+  .listing-title { font-weight: 600; font-size: 15.5px; line-height: 1.35; }
+  .listing-side { display: flex; flex-direction: column; align-items: flex-end; gap: 6px; flex-shrink: 0; }
+  .listing-actions { display: flex; gap: 2px; }
+  .icon-btn { background: none; border: none; cursor: pointer; font-size: 16px; line-height: 1; padding: 3px 5px; border-radius: 6px; color: var(--ink-soft); }
+  .icon-btn:hover { background: var(--slate-bg); }
+  .icon-btn.star-btn.active { color: var(--accent); }
+  .listing-price { display: flex; flex-direction: column; align-items: flex-end; padding-top: 6px; }
+  .listing-price .price-value { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 20px; white-space: nowrap; color: var(--accent-ink); }
+  .listing-price .price-note { font-size: 10px; font-weight: 500; color: var(--ink-soft); text-transform: lowercase; margin-top: -2px; }
+  .listing-facts { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13.5px; color: var(--ink-soft); }
+  .listing-facts .fact strong { color: var(--ink); font-weight: 500; }
+  .listing-bottom { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 2px; }
+  .badge { display: inline-block; font-size: 12px; font-weight: 500; padding: 3px 9px; border-radius: 100px; background: var(--accent-soft); color: var(--slate-ink); }
+  .flags { display: flex; gap: 12px; font-size: 13px; color: var(--ink-soft); }
+  .flags .no { opacity: 0.45; }
+  .view-link { font-size: 13.5px; font-weight: 500; color: var(--brick-ink); text-decoration: none; border-bottom: 1px solid var(--brick); padding-bottom: 1px; }
+  .view-link:hover { color: var(--accent); border-color: var(--accent); }
+  .empty { text-align: center; padding: 50px 20px; color: var(--ink-soft); }
+  .empty .icon { font-size: 34px; margin-bottom: 10px; }
+  .empty p { margin: 4px 0; font-size: 14.5px; }
+  footer { text-align: center; color: var(--ink-soft); font-size: 12.5px; margin-top: 36px; }
+
+  .hidden-section { margin-top: 22px; border-top: 1px dashed var(--border); padding-top: 14px; }
+  .hidden-section summary { cursor: pointer; font-size: 13.5px; font-weight: 600; color: var(--ink-soft); list-style: none; }
+  .hidden-section summary::-webkit-details-marker { display: none; }
+  .hidden-section summary::after { content: ' ▾'; }
+  .hidden-section[open] summary::after { content: ' ▴'; }
+  .hidden-list { margin-top: 10px; display: flex; flex-direction: column; gap: 6px; }
+  .hidden-item { display: flex; justify-content: space-between; align-items: center; gap: 10px; background: var(--slate-bg); border-radius: 8px; padding: 8px 12px; font-size: 13px; color: var(--slate-ink); }
+  .hidden-item-text { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .hidden-item-source { opacity: 0.7; }
+  .restore-btn { flex-shrink: 0; background: var(--bg-raised); border: 1px solid var(--border); color: var(--ink); border-radius: 100px; padding: 4px 12px; font-size: 12.5px; font-weight: 500; cursor: pointer; }
+  .restore-btn:hover { background: var(--accent); border-color: var(--accent); color: #fff; }
+
+  .push-panel {
+    background: var(--bg-raised);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 18px;
+    margin-bottom: 22px;
+    box-shadow: 0 1px 3px rgba(54,42,45,0.06);
+  }
+  .push-panel .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+  .push-panel p.label { margin: 0; font-size: 14px; font-weight: 500; }
+  .push-panel p.hint { margin: 4px 0 0; font-size: 13px; color: var(--ink-soft); }
+  .push-btn {
+    background: var(--accent);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 8px 16px;
+    font-size: 13.5px;
+    font-weight: 500;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  .push-btn:hover { opacity: 0.9; }
+  .push-btn.secondary {
+    background: none;
+    color: var(--brick);
+    border: 1px solid var(--border);
+  }
+  .push-status {
+    font-size: 13px;
+    color: var(--accent-ink);
+    font-weight: 500;
+  }
+  .subscription-box {
+    margin-top: 12px;
+    background: var(--accent-soft);
+    border-radius: 8px;
+    padding: 12px;
+  }
+  .subscription-box textarea {
+    width: 100%;
+    min-height: 90px;
+    font-family: ui-monospace, monospace;
+    font-size: 11.5px;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 8px;
+    background: var(--bg-raised);
+    color: var(--ink);
+    resize: vertical;
+  }
+  .subscription-box ol {
+    margin: 10px 0 0;
+    padding-left: 18px;
+    font-size: 13px;
+    color: var(--ink-soft);
+  }
+  .subscription-box code {
+    background: var(--bg-raised);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 12px;
+  }
+  @media (max-width: 520px) {
+    .listing-top { flex-direction: column; }
+    .listing-price .price-value { font-size: 18px; }
+    .listing-thumb { width: 64px; height: 64px; }
+  }
+
+  .status-panel {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  .status-card {
+    flex: 1;
+    min-width: 220px;
+    background: var(--slate-bg);
+    border: 1px solid var(--slate-border);
+    border-radius: 12px;
+    padding: 12px 16px;
+  }
+  .status-card .source-name {
+    font-size: 13px;
+    font-weight: 600;
+    margin-bottom: 4px;
+    color: var(--slate-ink);
+  }
+  .status-card .status-line {
+    font-size: 12.5px;
+    color: var(--ink-soft);
+    line-height: 1.6;
+  }
+  .status-card .status-line strong {
+    color: var(--ink);
+    font-weight: 500;
+  }
+  .status-card.overdue .status-line.next strong {
+    color: var(--accent);
+  }
+
+  /* ---------- Okienko ze szczegolami oferty ---------- */
+  .modal-overlay {
+    position: fixed; inset: 0; background: rgba(30, 20, 22, 0.55);
+    display: flex; align-items: flex-start; justify-content: center;
+    padding: 24px 16px; overflow-y: auto; z-index: 1000;
+  }
+  .modal-overlay[hidden] { display: none; }
+  .modal {
+    background: var(--bg-raised); color: var(--ink); border-radius: 16px;
+    max-width: 560px; width: 100%; margin: auto 0; position: relative;
+    box-shadow: 0 20px 50px rgba(30,20,22,0.35); overflow: hidden;
+  }
+  .modal-close {
+    position: absolute; top: 10px; right: 10px; z-index: 2;
+    width: 32px; height: 32px; border-radius: 50%; border: none;
+    background: var(--accent); color: #fff; font-size: 16px; line-height: 1;
+    cursor: pointer; display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 2px 6px rgba(30,20,22,0.25);
+  }
+  .modal-close:hover { background: var(--accent-ink); }
+  .modal-carousel { position: relative; background: var(--accent-soft); aspect-ratio: 4 / 3; overflow: hidden; }
+  .modal-carousel-track { display: flex; height: 100%; transition: transform 0.25s ease; }
+  .modal-carousel-track .carousel-slide { flex: 0 0 100%; height: 100%; display: flex; align-items: center; justify-content: center; }
+  .modal-carousel-track img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .modal-carousel-track .placeholder-icon { font-size: 48px; opacity: 0.5; }
+  .carousel-btn {
+    position: absolute; top: 50%; transform: translateY(-50%);
+    width: 34px; height: 34px; border-radius: 50%; border: none;
+    background: rgba(255,255,255,0.85); color: var(--ink); font-size: 18px;
+    cursor: pointer; display: flex; align-items: center; justify-content: center;
+  }
+  .carousel-btn:hover { background: #fff; }
+  .carousel-btn.prev { left: 10px; }
+  .carousel-btn.next { right: 10px; }
+  .carousel-dots { position: absolute; bottom: 10px; left: 0; right: 0; display: flex; justify-content: center; gap: 6px; }
+  .carousel-dots .dot { width: 7px; height: 7px; border-radius: 50%; background: rgba(255,255,255,0.6); border: none; padding: 0; cursor: pointer; }
+  .carousel-dots .dot.active { background: var(--accent); }
+  .modal-body { padding: 20px 22px 24px; }
+  .modal-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 14px; margin-bottom: 4px; }
+  .modal-title { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 21px; margin: 0; line-height: 1.3; }
+  .modal-price { display: flex; flex-direction: column; align-items: flex-end; flex-shrink: 0; }
+  .modal-price .price-value { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 24px; white-space: nowrap; color: var(--accent-ink); }
+  .modal-price .price-note { font-size: 11px; font-weight: 500; color: var(--ink-soft); text-transform: lowercase; margin-top: -2px; }
+  .modal-warm-rent { font-size: 13.5px; color: var(--slate-ink); background: var(--slate-bg); border-radius: 8px; padding: 8px 12px; margin: 12px 0; }
+  .modal-warm-rent strong { color: var(--ink); }
+  .modal-facts { display: flex; flex-wrap: wrap; gap: 8px 20px; font-size: 14px; color: var(--ink-soft); margin-bottom: 12px; }
+  .modal-facts .fact strong { color: var(--ink); font-weight: 500; }
+  .modal-flags { display: flex; gap: 16px; font-size: 14px; color: var(--ink-soft); margin-bottom: 16px; }
+  .modal-flags .no { opacity: 0.45; }
+  .modal-description { margin: 0 0 16px; border-top: 1px solid var(--border); padding-top: 12px; }
+  .modal-description summary { cursor: pointer; font-size: 13.5px; font-weight: 600; color: var(--accent-ink); list-style: none; }
+  .modal-description summary::-webkit-details-marker { display: none; }
+  .modal-description summary::after { content: ' ▾'; }
+  .modal-description[open] summary::after { content: ' ▴'; }
+  .modal-description-text { margin-top: 10px; font-size: 13.5px; color: var(--ink-soft); white-space: pre-wrap; line-height: 1.6; }
+  .modal-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; padding-top: 14px; border-top: 1px solid var(--border); }
+  @media (max-width: 520px) {
+    .modal { border-radius: 0; max-width: none; min-height: 100%; margin: 0; }
+    .modal-overlay { padding: 0; align-items: stretch; }
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>🏠 Mieszkania — Emmerich / Kleve</h1>
+  </header>
+  <p class="subtitle">
+    <span id="lastUpdated">Ładowanie...</span>
+    <button class="refresh-btn" id="refreshBtn" title="Wczytuje ponownie już zapisane dane ze strony, bez odpytywania portalu">↻ Odśwież widok</button>
+    <button class="refresh-btn primary" id="triggerBtn" title="Zleca botowi nowe sprawdzenie Kleinanzeigen w tej chwili, nie czekając na harmonogram co 3h">🔄 Sprawdź teraz (Kleinanzeigen)</button>
+  </p>
+  <p id="triggerStatus" class="subtitle" style="display:none; font-size:13px;"></p>
+
+  <div class="status-panel" id="statusPanel"></div>
+
+  <div class="push-panel" id="pushPanel">
+    <div class="row">
+      <div>
+        <p class="label">🔔 Powiadomienia push</p>
+        <p class="hint" id="pushHint">Dostawaj powiadomienie na telefon, gdy pojawi się nowa oferta.</p>
+      </div>
+      <button class="push-btn" id="pushBtn">Włącz powiadomienia</button>
+    </div>
+    <div class="subscription-box" id="subscriptionBox" style="display:none;">
+      <p class="hint" style="margin-bottom:8px;">
+        Skopiuj poniższy tekst i wklej jako wartość sekretu <code>PUSH_SUBSCRIPTION</code>
+        w repo na GitHubie (Settings → Secrets and variables → Actions). To jednorazowa czynność —
+        potem bot będzie mógł wysyłać Ci powiadomienia.
+      </p>
+      <textarea id="subscriptionText" readonly></textarea>
+      <button class="push-btn secondary" id="copyBtn" style="margin-top:8px;">Kopiuj</button>
+      <button class="push-btn secondary" id="resetPushBtn" style="margin-top:8px; display:none;">Wymuś nową subskrypcję</button>
+      <p class="hint" style="margin-top:6px;">
+        Użyj tego tylko jeśli zmieniał się klucz VAPID po stronie serwera i stara subskrypcja
+        przestała działać - to unieważni obecną subskrypcję i utworzy nową.
+      </p>
+    </div>
+  </div>
+
+  <div id="resultsArea"><div class="empty"><p>Ładowanie ofert...</p></div></div>
+
+  <footer>Aktualizowane automatycznie przez GitHub Actions co ok. 3 godziny.</footer>
+</div>
+
+<div class="modal-overlay" id="modalOverlay" hidden>
+  <div class="modal" id="modalBox" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <button class="modal-close" id="modalCloseBtn" type="button" aria-label="Zamknij">✕</button>
+    <div class="modal-carousel" id="modalCarousel">
+      <div class="modal-carousel-track" id="modalCarouselTrack"></div>
+      <button class="carousel-btn prev" id="carouselPrev" type="button" aria-label="Poprzednie zdjęcie">‹</button>
+      <button class="carousel-btn next" id="carouselNext" type="button" aria-label="Następne zdjęcie">›</button>
+      <div class="carousel-dots" id="carouselDots"></div>
+    </div>
+    <div class="modal-body">
+      <div class="modal-top">
+        <h2 class="modal-title" id="modalTitle"></h2>
+        <div class="modal-price" id="modalPrice"></div>
+      </div>
+      <div class="modal-warm-rent" id="modalWarmRent"></div>
+      <div class="modal-facts" id="modalFacts"></div>
+      <div class="modal-flags" id="modalFlags"></div>
+      <details class="modal-description" id="modalDescriptionDetails" hidden>
+        <summary>Opis oferty</summary>
+        <div class="modal-description-text" id="modalDescriptionText"></div>
+      </details>
+      <div class="modal-footer">
+        <span class="badge" id="modalBadge"></span>
+        <a class="view-link" id="modalViewLink" href="#" target="_blank" rel="noopener">Zobacz ogłoszenie →</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+(function() {
+  const DATA_URL = './data/latest.json';
+  const NEW_SINCE_KEY = 'immo-last-seen-visit';
+  const HIDDEN_KEY = 'immo-hidden-urls';
+  const STARRED_KEY = 'immo-starred-urls';
+  // Adres Cloudflare Workera, ktory bezpiecznie wyzwala GitHub Actions (patrz cloudflare-worker/worker.js).
+  const TRIGGER_WORKER_URL = 'https://domekbot-refresh.shopifycontact3.workers.dev';
+  // Klucz publiczny VAPID - bezpieczny do trzymania jawnie w kodzie strony (to standard Web Push).
+  const VAPID_PUBLIC_KEY = 'BA7SgzTaUYLTmHA5dDA8X9LS1D3khBwMFomPu67Uv91xdJRgIjYjn-Gu8RQXvXjMQm8QtC736IxC1PbH1szNf0M';
+
+  let allListings = [];
+  let activeSource = 'Wszystkie';
+  let sortMode = 'price-asc';
+  let generatedAt = null;
+  let sourcesData = {};
+  let countdownIntervalId = null;
+
+  const resultsArea = document.getElementById('resultsArea');
+  const lastUpdated = document.getElementById('lastUpdated');
+  const refreshBtn = document.getElementById('refreshBtn');
+
+  function normalizeListing(row) {
+    const gallery = Array.isArray(row['Zdjęcia']) ? row['Zdjęcia'].filter(Boolean) : [];
+    const singleImage = row['Zdjęcie'] || null;
+    return {
+      source: row['Portal'] || 'Nieznany',
+      title: row['Tytuł'] || '(bez tytułu)',
+      price: row['Cena (€)'],
+      warmRent: row['Czynsz z mediami (€)'] ?? row['Czynsz ciepły (€)'] ?? row['Warmmiete (€)'] ?? null,
+      rooms: row['Pokoje'],
+      size: row['Powierzchnia (m²)'],
+      distance: row['Odległość (km)'],
+      distanceSheerenberg: row["Odległość od 's-Heerenberg (km)"] ?? null,
+      bathroom: row['Łazienka'],
+      kitchen: row['Kuchnia'],
+      location: row['Lokalizacja'],
+      url: row['Link'] || '#',
+      image: singleImage || (gallery.length > 0 ? gallery[0] : null),
+      images: gallery.length > 0 ? gallery : (singleImage ? [singleImage] : []),
+      description: row['Opis'] || '',
+    };
+  }
+
+  function formatEuro(value) {
+    return (value !== undefined && value !== null && value !== '') ? `${value} €` : '? €';
+  }
+
+  function boolFlag(value) {
+    if (value === true || value === 'tak') return true;
+    if (value === false || value === 'nie') return false;
+    return null;
+  }
+
+  function escapeHtml(str) {
+    return String(str).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function getSeenUrls() {
+    try { return new Set(JSON.parse(localStorage.getItem(NEW_SINCE_KEY) || '[]')); } catch (e) { return new Set(); }
+  }
+  function saveSeenUrls(urlSet) {
+    try { localStorage.setItem(NEW_SINCE_KEY, JSON.stringify([...urlSet])); } catch (e) {}
+  }
+
+  function getHiddenUrls() {
+    try { return new Set(JSON.parse(localStorage.getItem(HIDDEN_KEY) || '[]')); } catch (e) { return new Set(); }
+  }
+  function saveHiddenUrls(urlSet) {
+    try { localStorage.setItem(HIDDEN_KEY, JSON.stringify([...urlSet])); } catch (e) {}
+  }
+
+  function getStarredUrls() {
+    try { return new Set(JSON.parse(localStorage.getItem(STARRED_KEY) || '[]')); } catch (e) { return new Set(); }
+  }
+  function saveStarredUrls(urlSet) {
+    try { localStorage.setItem(STARRED_KEY, JSON.stringify([...urlSet])); } catch (e) {}
+  }
+
+  function renderChips() {
+    const sources = ['Wszystkie', ...new Set(allListings.map(l => l.source))];
+    return sources.map(s =>
+      `<button class="chip ${s === activeSource ? 'active' : ''}" data-source="${s}">${s}</button>`
+    ).join('');
+  }
+
+  function renderControls() {
+    return `
+      <div class="controls">
+        <div class="chips">${renderChips()}</div>
+        <select id="sortSelect">
+          <option value="price-asc" ${sortMode==='price-asc'?'selected':''}>Cena: rosnąco</option>
+          <option value="price-desc" ${sortMode==='price-desc'?'selected':''}>Cena: malejąco</option>
+          <option value="distance-asc" ${sortMode==='distance-asc'?'selected':''}>Odległość: najbliżej</option>
+        </select>
+      </div>
+    `;
+  }
+
+  function renderListing(l, isNew, isStarred) {
+    const price = formatEuro(l.price);
+    const facts = [];
+    if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
+    if (l.size) facts.push(`<span class="fact"><strong>${l.size}</strong> m²</span>`);
+    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km</span>`);
+    if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
+
+    const thumb = l.image
+      ? `<img src="${escapeHtml(l.image)}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<span class=&quot;placeholder-icon&quot;>🏠</span>';">`
+      : `<span class="placeholder-icon">🏠</span>`;
+
+    const sheerenbergText = (l.distanceSheerenberg !== undefined && l.distanceSheerenberg !== null)
+      ? `${l.distanceSheerenberg} km`
+      : '? km';
+
+    return `
+      <div class="listing ${isNew ? 'is-new' : ''} ${isStarred ? 'is-starred' : ''}" data-url="${escapeHtml(l.url)}" tabindex="0" role="button" aria-label="Pokaż szczegóły oferty: ${escapeHtml(l.title)}">
+        <div class="listing-thumb">${thumb}</div>
+        <div class="listing-body">
+          <div class="listing-top">
+            <div class="listing-title">${isNew ? '<span class="new-tag">NOWE</span> ' : ''}${escapeHtml(l.title)}</div>
+            <div class="listing-side">
+              <div class="listing-actions">
+                <button class="icon-btn star-btn ${isStarred ? 'active' : ''}" data-url="${escapeHtml(l.url)}" type="button" aria-label="${isStarred ? 'Usuń wyróżnienie' : 'Wyróżnij ofertę'}">${isStarred ? '★' : '☆'}</button>
+                <button class="icon-btn hide-btn" data-url="${escapeHtml(l.url)}" type="button" aria-label="Ukryj ofertę">🙈</button>
+              </div>
+              <div class="listing-price">
+                <span class="price-value">${price}</span>
+                <span class="price-note">zimny</span>
+              </div>
+            </div>
+          </div>
+          <div class="listing-facts">${facts.join('')}</div>
+          <div class="listing-bottom">
+            <div style="display:flex; align-items:center; gap:10px;">
+              <span class="badge">${escapeHtml(l.source)}</span>
+              <span class="flags"><span>📍 ${sheerenbergText} do 's-Heerenberg</span></span>
+            </div>
+            <a class="view-link" href="${l.url}" target="_blank" rel="noopener">Zobacz ogłoszenie →</a>
+          </div>
+        </div>
+      </div>
+    `;
+  }
+
+  function renderHiddenSection(hiddenListings) {
+    if (hiddenListings.length === 0) return '';
+    return `
+      <details class="hidden-section">
+        <summary>🙈 Ukryte oferty (${hiddenListings.length})</summary>
+        <div class="hidden-list">
+          ${hiddenListings.map(l => `
+            <div class="hidden-item">
+              <span class="hidden-item-text">${escapeHtml(l.title)} — ${formatEuro(l.price)} <span class="hidden-item-source">(${escapeHtml(l.source)})</span></span>
+              <button class="restore-btn" data-url="${escapeHtml(l.url)}" type="button">Przywróć</button>
+            </div>
+          `).join('')}
+        </div>
+      </details>
+    `;
+  }
+
+  function render() {
+    if (allListings.length === 0) {
+      resultsArea.innerHTML = `
+        <div class="empty">
+          <div class="icon">📭</div>
+          <p><strong>Brak ofert spełniających kryteria w tej chwili.</strong></p>
+          <p>Strona odświeży się automatycznie po kolejnym przebiegu bota.</p>
+        </div>
+      `;
+      return;
+    }
+
+    const seenUrls = getSeenUrls();
+    const hiddenUrls = getHiddenUrls();
+    const starredUrls = getStarredUrls();
+
+    let filtered = activeSource === 'Wszystkie'
+      ? allListings
+      : allListings.filter(l => l.source === activeSource);
+
+    filtered = filtered.slice().sort((a, b) => {
+      const aStar = starredUrls.has(a.url) ? 1 : 0;
+      const bStar = starredUrls.has(b.url) ? 1 : 0;
+      if (aStar !== bStar) return bStar - aStar; // wyróżnione zawsze na górze
+      if (sortMode === 'price-asc') return (a.price ?? Infinity) - (b.price ?? Infinity);
+      if (sortMode === 'price-desc') return (b.price ?? -Infinity) - (a.price ?? -Infinity);
+      if (sortMode === 'distance-asc') return (a.distance ?? Infinity) - (b.distance ?? Infinity);
+      return 0;
+    });
+
+    const visible = filtered.filter(l => !hiddenUrls.has(l.url));
+    // Sekcja ukrytych ofert pokazuje WSZYSTKIE ukryte, niezależnie od aktywnego
+    // filtra portalu - to osobna "szuflada", nie kolejna zakładka.
+    const hiddenListings = allListings.filter(l => hiddenUrls.has(l.url));
+
+    resultsArea.innerHTML = `
+      ${renderControls()}
+      <div class="count"><strong>${visible.length}</strong> ${visible.length === 1 ? 'oferta' : 'ofert'}${activeSource !== 'Wszystkie' ? ' na ' + escapeHtml(activeSource) : ''}</div>
+      ${visible.map(l => renderListing(l, !seenUrls.has(l.url), starredUrls.has(l.url))).join('')}
+      ${renderHiddenSection(hiddenListings)}
+    `;
+
+    resultsArea.querySelectorAll('.chip').forEach(btn => {
+      btn.addEventListener('click', () => { activeSource = btn.dataset.source; render(); });
+    });
+    const sortSelect = document.getElementById('sortSelect');
+    if (sortSelect) sortSelect.addEventListener('change', (e) => { sortMode = e.target.value; render(); });
+
+    resultsArea.querySelectorAll('.listing').forEach((el, i) => {
+      el.addEventListener('click', (e) => {
+        if (e.target.closest('a') || e.target.closest('.icon-btn')) return; // link/ikonki dzialaja osobno
+        openModal(visible[i]);
+      });
+      el.addEventListener('keydown', (e) => {
+        if (e.target.closest('.icon-btn')) return;
+        if (e.key === 'Enter' || e.key === ' ') {
+          e.preventDefault();
+          openModal(visible[i]);
+        }
+      });
+    });
+
+    resultsArea.querySelectorAll('.hide-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const set = getHiddenUrls();
+        set.add(btn.dataset.url);
+        saveHiddenUrls(set);
+        render();
+      });
+    });
+    resultsArea.querySelectorAll('.star-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const set = getStarredUrls();
+        if (set.has(btn.dataset.url)) set.delete(btn.dataset.url); else set.add(btn.dataset.url);
+        saveStarredUrls(set);
+        render();
+      });
+    });
+    resultsArea.querySelectorAll('.restore-btn').forEach(btn => {
+      btn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        const set = getHiddenUrls();
+        set.delete(btn.dataset.url);
+        saveHiddenUrls(set);
+        render();
+      });
+    });
+
+    // Po wyrenderowaniu wszystko jest juz "widziane" w tej przegladarce.
+    saveSeenUrls(new Set(allListings.map(l => l.url)));
+  }
+
+  async function loadData() {
+    lastUpdated.textContent = 'Odświeżanie...';
+    try {
+      const resp = await fetch(DATA_URL + '?_=' + Date.now());
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      const data = await resp.json();
+      allListings = (data.listings || []).map(normalizeListing);
+      generatedAt = data.generated_at ? new Date(data.generated_at) : null;
+      sourcesData = data.sources || {};
+      lastUpdated.textContent = generatedAt
+        ? `Zaktualizowano: ${generatedAt.toLocaleDateString('pl-PL')} ${generatedAt.toLocaleTimeString('pl-PL', {hour:'2-digit', minute:'2-digit'})}`
+        : 'Zaktualizowano właśnie teraz';
+      render();
+      renderStatusPanel();
+    } catch (err) {
+      lastUpdated.textContent = 'Nie udało się wczytać danych — spróbuj odświeżyć.';
+      resultsArea.innerHTML = `<div class="empty"><div class="icon">⚠️</div><p>Błąd wczytywania danych.</p></div>`;
+    }
+  }
+
+  // ---------- Okienko ze szczegolami oferty (modal + karuzela zdjec) ----------
+  const modalOverlay = document.getElementById('modalOverlay');
+  const modalBox = document.getElementById('modalBox');
+  const modalCloseBtn = document.getElementById('modalCloseBtn');
+  const modalCarouselTrack = document.getElementById('modalCarouselTrack');
+  const carouselPrev = document.getElementById('carouselPrev');
+  const carouselNext = document.getElementById('carouselNext');
+  const carouselDots = document.getElementById('carouselDots');
+  const modalTitle = document.getElementById('modalTitle');
+  const modalPrice = document.getElementById('modalPrice');
+  const modalWarmRent = document.getElementById('modalWarmRent');
+  const modalFacts = document.getElementById('modalFacts');
+  const modalFlags = document.getElementById('modalFlags');
+  const modalDescriptionDetails = document.getElementById('modalDescriptionDetails');
+  const modalDescriptionText = document.getElementById('modalDescriptionText');
+  const modalBadge = document.getElementById('modalBadge');
+  const modalViewLink = document.getElementById('modalViewLink');
+
+  let carouselImages = [];
+  let carouselIndex = 0;
+  let lastFocusedBeforeModal = null;
+
+  function renderCarousel() {
+    if (carouselImages.length === 0) {
+      modalCarouselTrack.innerHTML = `<div class="carousel-slide"><span class="placeholder-icon">🏠</span></div>`;
+    } else {
+      modalCarouselTrack.innerHTML = carouselImages.map(src =>
+        `<div class="carousel-slide"><img src="${escapeHtml(src)}" alt="" onerror="this.parentElement.innerHTML='<span class=&quot;placeholder-icon&quot;>🏠</span>';"></div>`
+      ).join('');
+    }
+    modalCarouselTrack.style.transform = `translateX(-${carouselIndex * 100}%)`;
+
+    const showControls = carouselImages.length > 1;
+    carouselPrev.style.display = showControls ? 'flex' : 'none';
+    carouselNext.style.display = showControls ? 'flex' : 'none';
+    carouselDots.style.display = showControls ? 'flex' : 'none';
+    carouselDots.innerHTML = showControls
+      ? carouselImages.map((_, i) => `<button class="dot ${i === carouselIndex ? 'active' : ''}" type="button" data-i="${i}" aria-label="Zdjęcie ${i + 1}"></button>`).join('')
+      : '';
+  }
+
+  function goToSlide(i) {
+    if (carouselImages.length === 0) return;
+    carouselIndex = (i + carouselImages.length) % carouselImages.length;
+    renderCarousel();
+  }
+
+  carouselPrev.addEventListener('click', () => goToSlide(carouselIndex - 1));
+  carouselNext.addEventListener('click', () => goToSlide(carouselIndex + 1));
+  carouselDots.addEventListener('click', (e) => {
+    const dot = e.target.closest('.dot');
+    if (dot) goToSlide(Number(dot.dataset.i));
+  });
+
+  function openModal(l) {
+    if (!l) return;
+    const bath = boolFlag(l.bathroom);
+    const kitchen = boolFlag(l.kitchen);
+
+    carouselImages = l.images || [];
+    carouselIndex = 0;
+    renderCarousel();
+
+    modalTitle.textContent = l.title;
+    modalPrice.innerHTML = `<span class="price-value">${formatEuro(l.price)}</span><span class="price-note">zimny</span>`;
+    modalWarmRent.innerHTML = (l.warmRent !== undefined && l.warmRent !== null && l.warmRent !== '')
+      ? `Czynsz z mediami (ciepły): <strong>${escapeHtml(l.warmRent)} €</strong>`
+      : `Czynsz z mediami (ciepły): <strong>brak danych</strong>`;
+
+    const facts = [];
+    if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
+    if (l.size) facts.push(`<span class="fact"><strong>${l.size}</strong> m²</span>`);
+    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km</span>`);
+    if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
+    modalFacts.innerHTML = facts.join('');
+
+    modalFlags.innerHTML = `
+      <span class="${bath === false ? 'no' : ''}">${bath === null ? '🛁 łazienka: ?' : (bath ? '🛁 łazienka: tak' : '🛁 łazienka: nie')}</span>
+      <span class="${kitchen === false ? 'no' : ''}">${kitchen === null ? '🍳 kuchnia: ?' : (kitchen ? '🍳 kuchnia: tak' : '🍳 kuchnia: nie')}</span>
+    `;
+
+    if (l.description) {
+      modalDescriptionText.textContent = l.description;
+      modalDescriptionDetails.hidden = false;
+      modalDescriptionDetails.open = false;
+    } else {
+      modalDescriptionDetails.hidden = true;
+    }
+
+    modalBadge.textContent = l.source;
+    modalViewLink.href = l.url;
+
+    lastFocusedBeforeModal = document.activeElement;
+    modalOverlay.hidden = false;
+    document.body.style.overflow = 'hidden';
+    modalCloseBtn.focus();
+  }
+
+  function closeModal() {
+    modalOverlay.hidden = true;
+    document.body.style.overflow = '';
+    if (lastFocusedBeforeModal && lastFocusedBeforeModal.focus) lastFocusedBeforeModal.focus();
+  }
+
+  modalCloseBtn.addEventListener('click', closeModal);
+  modalOverlay.addEventListener('click', (e) => {
+    if (e.target === modalOverlay) closeModal();
+  });
+  document.addEventListener('keydown', (e) => {
+    if (modalOverlay.hidden) return;
+    if (e.key === 'Escape') closeModal();
+    else if (e.key === 'ArrowLeft') goToSlide(carouselIndex - 1);
+    else if (e.key === 'ArrowRight') goToSlide(carouselIndex + 1);
+  });
+
+  // ---------- Panel statusu per zrodlo (ostatnio sprawdzono / kolejne za...) ----------
+  const statusPanel = document.getElementById('statusPanel');
+
+  function formatDuration(totalSeconds) {
+    const sign = totalSeconds < 0 ? -1 : 1;
+    const s = Math.abs(Math.round(totalSeconds));
+    const h = Math.floor(s / 3600);
+    const m = Math.floor((s % 3600) / 60);
+    const sec = s % 60;
+    let text;
+    if (h > 0) text = `${h}godz ${m}min`;
+    else if (m > 0) text = `${m}min ${sec}s`;
+    else text = `${sec}s`;
+    return sign < 0 ? `-${text}` : text;
+  }
+
+  function renderStatusPanel() {
+    const sourceNames = Object.keys(sourcesData);
+    if (sourceNames.length === 0) {
+      statusPanel.innerHTML = '';
+      return;
+    }
+
+    statusPanel.innerHTML = sourceNames.map(name => {
+      const info = sourcesData[name];
+      const lastUpdatedDate = new Date(info.last_updated);
+      const lastUpdatedText = `${lastUpdatedDate.toLocaleDateString('pl-PL')} ${lastUpdatedDate.toLocaleTimeString('pl-PL', {hour:'2-digit', minute:'2-digit'})}`;
+      return `
+        <div class="status-card" id="status-card-${name}">
+          <div class="source-name">${escapeHtml(name)}</div>
+          <div class="status-line">Sprawdzono: <strong>${lastUpdatedText}</strong></div>
+          <div class="status-line next">Kolejne za: <strong id="countdown-${name}">...</strong></div>
+        </div>
+      `;
+    }).join('');
+
+    if (countdownIntervalId) clearInterval(countdownIntervalId);
+    updateCountdowns();
+    countdownIntervalId = setInterval(updateCountdowns, 1000);
+  }
+
+  function updateCountdowns() {
+    const now = Date.now();
+    Object.keys(sourcesData).forEach(name => {
+      const info = sourcesData[name];
+      const lastUpdatedMs = new Date(info.last_updated).getTime();
+      const intervalMs = (info.interval_hours || 3) * 60 * 60 * 1000;
+      const nextCheckMs = lastUpdatedMs + intervalMs;
+      const remainingSeconds = (nextCheckMs - now) / 1000;
+
+      const el = document.getElementById(`countdown-${name}`);
+      const card = document.getElementById(`status-card-${name}`);
+      if (!el || !card) return;
+
+      if (remainingSeconds < 0) {
+        el.textContent = `spóźnione o ${formatDuration(remainingSeconds)}`;
+        card.classList.add('overdue');
+      } else {
+        el.textContent = formatDuration(remainingSeconds);
+        card.classList.remove('overdue');
+      }
+    });
+  }
+
+  refreshBtn.addEventListener('click', loadData);
+  loadData();
+  // Auto-odświeżanie co 5 minut, gdyby strona została otwarta na dłużej.
+  setInterval(loadData, 5 * 60 * 1000);
+
+  // ---------- Przycisk "Sprawdź teraz" (wyzwala GitHub Actions przez Worker) ----------
+  const triggerBtn = document.getElementById('triggerBtn');
+  const triggerStatus = document.getElementById('triggerStatus');
+  let pollIntervalId = null;
+  let pollAttemptsLeft = 0;
+
+  function showTriggerStatus(text) {
+    triggerStatus.textContent = text;
+    triggerStatus.style.display = 'block';
+  }
+
+  function stopPolling() {
+    if (pollIntervalId) {
+      clearInterval(pollIntervalId);
+      pollIntervalId = null;
+    }
+  }
+
+  function startPollingForUpdate(baselineGeneratedAt) {
+    stopPolling();
+    pollAttemptsLeft = 12; // co 15s przez 3 minuty
+    pollIntervalId = setInterval(async () => {
+      pollAttemptsLeft -= 1;
+      try {
+        const resp = await fetch(DATA_URL + '?_=' + Date.now());
+        const data = await resp.json();
+        if (data.generated_at && data.generated_at !== baselineGeneratedAt) {
+          stopPolling();
+          showTriggerStatus('✅ Zaktualizowano! Świeże dane Kleinanzeigen są już na stronie.');
+          triggerBtn.disabled = false;
+          triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+          loadData();
+          return;
+        }
+      } catch (e) { /* ciche pomijanie pojedynczego nieudanego sprawdzenia */ }
+
+      if (pollAttemptsLeft <= 0) {
+        stopPolling();
+        showTriggerStatus('Sprawdzanie trwa dłużej niż zwykle - odśwież stronę ręcznie za chwilę.');
+        triggerBtn.disabled = false;
+        triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+      }
+    }, 15000);
+  }
+
+  triggerBtn.addEventListener('click', async () => {
+    triggerBtn.disabled = true;
+    triggerBtn.textContent = 'Zlecanie...';
+    showTriggerStatus('Wysyłanie żądania do bota...');
+
+    const baselineGeneratedAt = generatedAt ? generatedAt.toISOString() : null;
+
+    try {
+      const resp = await fetch(TRIGGER_WORKER_URL, { method: 'POST' });
+      const data = await resp.json();
+
+      if (resp.ok && data.ok) {
+        triggerBtn.textContent = 'Sprawdzanie w toku...';
+        showTriggerStatus('Zlecono sprawdzenie Kleinanzeigen. Zwykle trwa to ok. 1-2 minuty - strona odświeży się sama.');
+        startPollingForUpdate(baselineGeneratedAt);
+      } else if (data.error === 'cooldown') {
+        triggerBtn.disabled = false;
+        triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+        showTriggerStatus(`Sprawdzano już niedawno - spróbuj ponownie za ${data.remaining_seconds}s.`);
+      } else {
+        triggerBtn.disabled = false;
+        triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+        showTriggerStatus('Nie udało się zlecić sprawdzenia. Spróbuj później.');
+      }
+    } catch (e) {
+      triggerBtn.disabled = false;
+      triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+      showTriggerStatus('Błąd połączenia z botem. Spróbuj później.');
+    }
+  });
+
+  // ---------- Powiadomienia push ----------
+  const pushBtn = document.getElementById('pushBtn');
+  const pushHint = document.getElementById('pushHint');
+  const subscriptionBox = document.getElementById('subscriptionBox');
+  const subscriptionText = document.getElementById('subscriptionText');
+  const copyBtn = document.getElementById('copyBtn');
+  const resetPushBtn = document.getElementById('resetPushBtn');
+
+  function urlBase64ToUint8Array(base64String) {
+    const padding = '='.repeat((4 - (base64String.length % 4)) % 4);
+    const base64 = (base64String + padding).replace(/-/g, '+').replace(/_/g, '/');
+    const rawData = atob(base64);
+    return Uint8Array.from([...rawData].map((c) => c.charCodeAt(0)));
+  }
+
+  function showSubscription(subscription) {
+    subscriptionText.value = JSON.stringify(subscription.toJSON(), null, 2);
+    subscriptionBox.style.display = 'block';
+    pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
+    pushHint.textContent = 'Powiadomienia włączone - dokończ konfigurację poniżej (jednorazowo).';
+  }
+
+  async function subscribeFresh(registration) {
+    const permission = await Notification.requestPermission();
+    if (permission !== 'granted') {
+      pushHint.textContent = 'Nie udzielono zgody na powiadomienia w przeglądarce.';
+      return null;
+    }
+    return registration.pushManager.subscribe({
+      userVisibleOnly: true,
+      applicationServerKey: urlBase64ToUint8Array(VAPID_PUBLIC_KEY),
+    });
+  }
+
+  let swRegistration = null;
+
+  async function initPush() {
+    if (!('serviceWorker' in navigator) || !('PushManager' in window)) {
+      pushHint.textContent = 'Ta przeglądarka nie wspiera powiadomień push (na iOS: dodaj stronę do ekranu głównego i otwórz ją stamtąd).';
+      pushBtn.disabled = true;
+      return;
+    }
+
+    swRegistration = await navigator.serviceWorker.register('sw.js');
+    const existing = await swRegistration.pushManager.getSubscription();
+
+    if (existing) {
+      pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
+      pushHint.textContent = 'Powiadomienia są włączone w tej przeglądarce.';
+      resetPushBtn.style.display = 'inline-block';
+    }
+
+    // Zwykły przycisk NIGDY nie niszczy istniejącej subskrypcji - tylko ją pokazuje,
+    // albo (jeśli jej jeszcze nie ma) tworzy pierwszą. Dzięki temu wielokrotne
+    // klikanie "pokaż ponownie" jest całkowicie bezpieczne.
+    pushBtn.addEventListener('click', async () => {
+      try {
+        let subscription = await swRegistration.pushManager.getSubscription();
+        if (!subscription) {
+          subscription = await subscribeFresh(swRegistration);
+          if (!subscription) return;
+          resetPushBtn.style.display = 'inline-block';
+        }
+        showSubscription(subscription);
+      } catch (err) {
+        pushHint.textContent = 'Nie udało się włączyć powiadomień: ' + err.message;
+      }
+    });
+
+    // Osobny przycisk - jedyne miejsce, które faktycznie unieważnia starą
+    // subskrypcję. Używany tylko świadomie, np. po rotacji klucza VAPID.
+    resetPushBtn.addEventListener('click', async () => {
+      try {
+        const old = await swRegistration.pushManager.getSubscription();
+        if (old) {
+          try { await old.unsubscribe(); } catch (e) { /* ignoruj, i tak nadpiszemy */ }
+        }
+        const subscription = await subscribeFresh(swRegistration);
+        if (!subscription) return;
+        showSubscription(subscription);
+      } catch (err) {
+        pushHint.textContent = 'Nie udało się odświeżyć subskrypcji: ' + err.message;
+      }
+    });
+  }
+
+  copyBtn.addEventListener('click', () => {
+    subscriptionText.select();
+    document.execCommand('copy');
+    copyBtn.textContent = 'Skopiowano ✓';
+    setTimeout(() => { copyBtn.textContent = 'Kopiuj'; }, 1500);
+  });
+
+  initPush();
+})();
+</script>
+</body>
+</html>
