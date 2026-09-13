@@ -181,9 +181,9 @@ def extract_image_url(card, base_url: str = "") -> Optional[str]:
 def load_cached_details(source: str, path: Optional[str] = None) -> Dict[str, dict]:
     """
     Czyta juz opublikowany docs/data/latest.json i zwraca {url: {"images": [...],
-    "warm_rent": float|None}} dla ofert DANEGO portalu, ktore juz maja te dane
-    wypelnione z poprzedniego przebiegu. Dzieki temu nie odpytujemy podstrony
-    oferty ponownie dla czegos co juz znamy - tylko dla naprawde nowych ofert.
+    "warm_rent": float|None, "description": str}} dla ofert DANEGO portalu, ktore juz
+    maja te dane wypelnione z poprzedniego przebiegu. Dzieki temu nie odpytujemy
+    podstrony oferty ponownie dla czegos co juz znamy - tylko dla naprawde nowych ofert.
 
     Bezpieczne w uzyciu nawet jesli plik jeszcze nie istnieje (np. pierwsze
     uruchomienie) albo jest uszkodzony - wtedy po prostu zwraca pusty slownik
@@ -209,8 +209,9 @@ def load_cached_details(source: str, path: Optional[str] = None) -> Dict[str, di
             continue
         images = row.get("Zdjęcia") or []
         warm_rent = row.get("Czynsz z mediami (€)")
-        if images or warm_rent is not None:
-            cache[url] = {"images": images, "warm_rent": warm_rent}
+        description = row.get("Opis") or ""
+        if images or warm_rent is not None or description:
+            cache[url] = {"images": images, "warm_rent": warm_rent, "description": description}
     return cache
 
 
@@ -223,24 +224,21 @@ def enrich_listings_with_details(
 ) -> None:
     """
     Wzbogaca liste ofert (IN PLACE - modyfikuje liste `listings`, w tym MOZE Z NIEJ
-    USUWAC oferty wykryte jako dezaktywowane) o galerie zdjec, czynsz z mediami
-    oraz status dezaktywacji. Dla kazdej oferty:
+    USUWAC oferty wykryte jako dezaktywowane) o galerie zdjec, czynsz z mediami,
+    pelny opis oferty oraz status dezaktywacji. Dla kazdej oferty:
       1. jesli force_refresh=False i mamy juz jej dane z poprzedniego przebiegu
          (patrz load_cached_details) - uzywamy ich, BEZ zadnego dodatkowego
          requestu do portalu,
       2. w przeciwnym razie (force_refresh=True, albo brak cache) wywoluje
          fetch_detail_fn(listing), ktore powinno zwrocic
-         {"images": [...], "warm_rent": float|None, "deactivated": bool}
+         {"images": [...], "warm_rent": float|None, "description": str, "deactivated": bool}
          (albo None/rzucic wyjatek przy bledzie - wtedy oferta po prostu zostaje
          bez tych danych na razie).
 
-    force_refresh=True (uzywane przez ImmoScout24 lokalnie, na zyczenie
-    uzytkownika po znalezieniu dezaktywowanej oferty ktora wisiala na stronie
-    bo jej dane byly juz w cache i nigdy wiecej nie zostaly sprawdzone) POMIJA
-    cache calkowicie i limit max_fetches - kazda oferta z `listings` dostaje
-    swiezy fetch_detail_fn() przy KAZDYM przebiegu. To kosztuje wiecej requestow
-    i czasu, ale jest bezpieczne dla scrapera dzialajacego lokalnie (bez limitu
-    czasu jak w GitHub Actions).
+    force_refresh=True (uzywane przez ImmoScout24 lokalnie) POMIJA cache calkowicie
+    i limit max_fetches - kazda oferta z `listings` dostaje swiezy fetch_detail_fn()
+    przy KAZDYM przebiegu. To kosztuje wiecej requestow i czasu, ale jest bezpieczne
+    dla scrapera dzialajacego lokalnie (bez limitu czasu jak w GitHub Actions).
 
     Oferty, dla ktorych fetch_detail_fn() zwroci {"deactivated": True} (wykryte
     np. po znaczniku "Deactivated N days ago" na podstronie oferty), sa USUWANE
@@ -272,6 +270,7 @@ def enrich_listings_with_details(
         if cached_entry:
             listing.images = cached_entry.get("images") or []
             listing.warm_rent_eur = cached_entry.get("warm_rent")
+            listing.full_description = cached_entry.get("description") or ""
             cached_count += 1
             continue
 
@@ -289,6 +288,7 @@ def enrich_listings_with_details(
         if details:
             listing.images = details.get("images") or []
             listing.warm_rent_eur = details.get("warm_rent")
+            listing.full_description = details.get("description") or ""
             if details.get("deactivated"):
                 deactivated_urls.add(listing.url)
 
@@ -301,7 +301,7 @@ def enrich_listings_with_details(
         )
 
     logger.info(
-        "%s: szczegóły ofert (zdjęcia/czynsz z mediami) - %d z pamięci, %d nowo pobranych, "
+        "%s: szczegóły ofert (zdjęcia/czynsz z mediami/opis) - %d z pamięci, %d nowo pobranych, "
         "%d odłożonych do następnego przebiegu (limit: %d).",
         source, cached_count, fetched_count, skipped_count, max_fetches,
     )
