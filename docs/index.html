@@ -12,30 +12,42 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
+  /* Paleta "Cozy Color Palette — soft solstice": #9F415A (berry) #C89387 (dusty rose)
+     #EBE5D6 (cream) #768894 (slate) #D0E4DF (mint) — wszystkie pięć użyte świadomie
+     w różnych rolach, żeby nie wszystko wpadało w róż. */
   :root {
     --bg: #EBE5D6;
     --bg-raised: #F8F5EC;
     --ink: #362A2D;
-    --ink-soft: #6E7C87;
-    --border: #DCD2BC;
+    --ink-soft: #768894;
+    --border: #DED2C3;
     --accent: #9F415A;
     --accent-soft: #D0E4DF;
     --accent-ink: #6B2038;
     --brick: #C89387;
+    --brick-ink: #7A4A3F;
+    --slate: #768894;
+    --slate-bg: #E6ECEC;
+    --slate-border: #C7D4D6;
+    --slate-ink: #45565E;
     --focus: #9F415A;
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   }
   @media (prefers-color-scheme: dark) {
     :root:not([data-theme="light"]) {
-      --bg: #241C1F; --bg-raised: #2E2428; --ink: #F1E9E2; --ink-soft: #AFC0C7;
+      --bg: #241C1F; --bg-raised: #2E2428; --ink: #F1E9E2; --ink-soft: #9BB0B9;
       --border: #43363B; --accent: #D98CA0; --accent-soft: #263733; --accent-ink: #CFE9E0;
-      --brick: #DBA79A; --focus: #D98CA0;
+      --brick: #DBA79A; --brick-ink: #EFD3C9;
+      --slate: #9BB0B9; --slate-bg: #263336; --slate-border: #3B4C51; --slate-ink: #BFD3D8;
+      --focus: #D98CA0;
     }
   }
   :root[data-theme="dark"] {
-    --bg: #241C1F; --bg-raised: #2E2428; --ink: #F1E9E2; --ink-soft: #AFC0C7;
+    --bg: #241C1F; --bg-raised: #2E2428; --ink: #F1E9E2; --ink-soft: #9BB0B9;
     --border: #43363B; --accent: #D98CA0; --accent-soft: #263733; --accent-ink: #CFE9E0;
-    --brick: #DBA79A; --focus: #D98CA0;
+    --brick: #DBA79A; --brick-ink: #EFD3C9;
+    --slate: #9BB0B9; --slate-bg: #263336; --slate-border: #3B4C51; --slate-ink: #BFD3D8;
+    --focus: #D98CA0;
   }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; }
@@ -46,10 +58,12 @@
   header.top { display: flex; align-items: baseline; justify-content: space-between; gap: 16px; flex-wrap: wrap; }
   h1 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; font-size: 30px; letter-spacing: -0.01em; margin: 0; }
   .subtitle { color: var(--ink-soft); font-size: 15px; margin: 6px 0 22px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
-  .refresh-btn { background: var(--accent-soft); color: var(--accent-ink); border: none; border-radius: 100px; padding: 5px 13px; font-size: 13px; font-weight: 500; cursor: pointer; }
-  .refresh-btn:hover { background: var(--accent); color: #fff; }
+  .refresh-btn { background: var(--slate-bg); color: var(--slate-ink); border: none; border-radius: 100px; padding: 5px 13px; font-size: 13px; font-weight: 500; cursor: pointer; }
+  .refresh-btn:hover { background: var(--slate); color: #fff; }
+  .refresh-btn.primary { background: var(--accent-soft); color: var(--accent-ink); }
+  .refresh-btn.primary:hover { background: var(--accent); color: #fff; }
   .criteria { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 24px; }
-  .criteria span { background: var(--accent-soft); color: var(--accent-ink); border-radius: 100px; padding: 5px 12px; font-size: 13px; font-weight: 500; }
+  .criteria span { background: var(--slate-bg); color: var(--slate-ink); border-radius: 100px; padding: 5px 12px; font-size: 13px; font-weight: 500; }
   .controls { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; margin-bottom: 14px; }
   .chips { display: flex; flex-wrap: wrap; gap: 6px; }
   .chip { border: 1px solid var(--border); background: var(--bg-raised); color: var(--ink-soft); border-radius: 100px; padding: 6px 13px; font-size: 13px; cursor: pointer; font-weight: 500; }
@@ -57,8 +71,8 @@
   select { border: 1px solid var(--border); background: var(--bg-raised); color: var(--ink); border-radius: 8px; padding: 7px 10px; font-size: 13px; font-family: inherit; }
   .count { font-size: 14px; color: var(--ink-soft); margin-bottom: 12px; }
   .count strong { color: var(--ink); }
-  .listing { background: var(--bg-raised); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 10px; display: flex; gap: 14px; align-items: flex-start; }
-  .listing.is-new { border-color: var(--accent); box-shadow: 0 0 0 1px var(--accent); }
+  .listing { background: var(--bg-raised); border: 1px solid var(--border); border-radius: 12px; padding: 16px 18px; margin-bottom: 10px; display: flex; gap: 14px; align-items: flex-start; box-shadow: 0 1px 3px rgba(54,42,45,0.06); }
+  .listing.is-new { border-color: var(--brick); box-shadow: 0 0 0 1px var(--brick); }
   .new-tag { background: var(--brick); color: #fff; font-size: 11px; font-weight: 600; padding: 2px 8px; border-radius: 100px; letter-spacing: 0.02em; }
   .listing-thumb {
     width: 84px; height: 84px; flex-shrink: 0; border-radius: 8px; overflow: hidden;
@@ -73,11 +87,11 @@
   .listing-facts { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 13.5px; color: var(--ink-soft); }
   .listing-facts .fact strong { color: var(--ink); font-weight: 500; }
   .listing-bottom { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px; margin-top: 2px; }
-  .badge { display: inline-block; font-size: 12px; font-weight: 500; padding: 3px 9px; border-radius: 100px; background: var(--accent-soft); color: var(--accent-ink); }
+  .badge { display: inline-block; font-size: 12px; font-weight: 500; padding: 3px 9px; border-radius: 100px; background: var(--accent-soft); color: var(--slate-ink); }
   .flags { display: flex; gap: 12px; font-size: 13px; color: var(--ink-soft); }
   .flags .no { opacity: 0.45; }
-  .view-link { font-size: 13.5px; font-weight: 500; color: var(--accent-ink); text-decoration: none; border-bottom: 1px solid var(--accent); padding-bottom: 1px; }
-  .view-link:hover { color: var(--accent); }
+  .view-link { font-size: 13.5px; font-weight: 500; color: var(--brick-ink); text-decoration: none; border-bottom: 1px solid var(--brick); padding-bottom: 1px; }
+  .view-link:hover { color: var(--accent); border-color: var(--accent); }
   .empty { text-align: center; padding: 50px 20px; color: var(--ink-soft); }
   .empty .icon { font-size: 34px; margin-bottom: 10px; }
   .empty p { margin: 4px 0; font-size: 14.5px; }
@@ -86,9 +100,10 @@
   .push-panel {
     background: var(--bg-raised);
     border: 1px solid var(--border);
-    border-radius: 10px;
+    border-radius: 12px;
     padding: 16px 18px;
     margin-bottom: 22px;
+    box-shadow: 0 1px 3px rgba(54,42,45,0.06);
   }
   .push-panel .row {
     display: flex;
@@ -166,15 +181,16 @@
   .status-card {
     flex: 1;
     min-width: 220px;
-    background: var(--bg-raised);
-    border: 1px solid var(--border);
-    border-radius: 10px;
+    background: var(--slate-bg);
+    border: 1px solid var(--slate-border);
+    border-radius: 12px;
     padding: 12px 16px;
   }
   .status-card .source-name {
     font-size: 13px;
     font-weight: 600;
     margin-bottom: 4px;
+    color: var(--slate-ink);
   }
   .status-card .status-line {
     font-size: 12.5px;
@@ -186,7 +202,7 @@
     font-weight: 500;
   }
   .status-card.overdue .status-line.next strong {
-    color: var(--brick);
+    color: var(--accent);
   }
 </style>
 </head>
@@ -198,7 +214,7 @@
   <p class="subtitle">
     <span id="lastUpdated">Ładowanie...</span>
     <button class="refresh-btn" id="refreshBtn" title="Wczytuje ponownie już zapisane dane ze strony, bez odpytywania portalu">↻ Odśwież widok</button>
-    <button class="refresh-btn" id="triggerBtn" title="Zleca botowi nowe sprawdzenie Kleinanzeigen w tej chwili, nie czekając na harmonogram co 3h">🔄 Sprawdź teraz (Kleinanzeigen)</button>
+    <button class="refresh-btn primary" id="triggerBtn" title="Zleca botowi nowe sprawdzenie Kleinanzeigen w tej chwili, nie czekając na harmonogram co 3h">🔄 Sprawdź teraz (Kleinanzeigen)</button>
   </p>
   <p id="triggerStatus" class="subtitle" style="display:none; font-size:13px;"></p>
 
