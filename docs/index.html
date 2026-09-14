@@ -712,6 +712,7 @@
   let carouselImages = [];
   let carouselIndex = 0;
   let showingTranslation = false;
+  let modalHistoryPushed = false;
 
   // Darmowe tłumaczenie DE -> PL przez publiczne API MyMemory (bez klucza, limit
   // ok. 500 znaków/zapytanie i ok. 5000 znaków/dzień anonimowo - w sam raz do
@@ -755,7 +756,7 @@
     if (modalDescriptionTranslated.dataset.cached) {
       modalDescriptionTranslated.style.display = 'block';
       modalDescriptionText.style.display = 'none';
-      translateDescBtn.textContent = '🇩🇪 Pokaż oryginał';
+      translateDescBtn.textContent = 'Pokaż oryginał';
       showingTranslation = true;
       return;
     }
@@ -767,7 +768,7 @@
       modalDescriptionTranslated.dataset.cached = '1';
       modalDescriptionTranslated.style.display = 'block';
       modalDescriptionText.style.display = 'none';
-      translateDescBtn.textContent = '🇩🇪 Pokaż oryginał';
+      translateDescBtn.textContent = 'Pokaż oryginał';
       showingTranslation = true;
     } catch (e) {
       translateDescBtn.textContent = '⚠️ Nie udało się przetłumaczyć';
@@ -935,13 +936,37 @@
     modalOverlay.hidden = false;
     document.body.style.overflow = 'hidden';
     modalCloseBtn.focus();
+
+    // Dopisujemy wpis do historii przeglądarki, żeby przycisk "wstecz" na telefonie
+    // zamykał okno oferty zamiast wychodzić ze strony/aplikacji.
+    if (!modalHistoryPushed) {
+      history.pushState({ domekbotModal: true }, '', location.href);
+      modalHistoryPushed = true;
+    }
   }
 
-  function closeModal() {
+  function hideModalUI() {
     modalOverlay.hidden = true;
     document.body.style.overflow = '';
     if (lastFocusedBeforeModal && lastFocusedBeforeModal.focus) lastFocusedBeforeModal.focus();
   }
+
+  function closeModal() {
+    if (modalHistoryPushed) {
+      // Cofa wpis dodany w openModal - to wywoła popstate, który realnie schowa okno.
+      modalHistoryPushed = false;
+      history.back();
+    } else {
+      hideModalUI();
+    }
+  }
+
+  window.addEventListener('popstate', () => {
+    if (!modalOverlay.hidden) {
+      modalHistoryPushed = false;
+      hideModalUI();
+    }
+  });
 
   modalCloseBtn.addEventListener('click', closeModal);
   modalOverlay.addEventListener('click', (e) => {
