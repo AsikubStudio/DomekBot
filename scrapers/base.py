@@ -210,7 +210,7 @@ def load_cached_details(source: str, path: Optional[str] = None) -> Dict[str, di
         images = row.get("Zdjęcia") or []
         warm_rent = row.get("Czynsz z mediami (€)")
         description = row.get("Opis") or ""
-        if images or warm_rent is not None or description:
+        if description:
             cache[url] = {"images": images, "warm_rent": warm_rent, "description": description}
     return cache
 
