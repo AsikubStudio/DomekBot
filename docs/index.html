@@ -252,10 +252,11 @@
   .carousel-btn {
     position: absolute; top: 50%; transform: translateY(-50%);
     width: 34px; height: 34px; border-radius: 50%; border: none;
-    background: rgba(255,255,255,0.85); color: var(--ink); font-size: 18px;
+    background: var(--accent); color: #fff; font-size: 18px;
     cursor: pointer; display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 2px 6px rgba(30,20,22,0.25);
   }
-  .carousel-btn:hover { background: #fff; }
+  .carousel-btn:hover { background: var(--accent-ink); }
   .carousel-btn.prev { left: 10px; }
   .carousel-btn.next { right: 10px; }
   .carousel-dots { position: absolute; bottom: 10px; left: 0; right: 0; display: flex; justify-content: center; gap: 6px; }
