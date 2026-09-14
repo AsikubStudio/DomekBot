@@ -394,7 +394,7 @@
 <div class="notify-dialog-overlay" id="notifyDialogOverlay" hidden>
   <div class="notify-dialog" role="dialog" aria-modal="true" aria-labelledby="notifyDialogTitle">
     <h3 id="notifyDialogTitle">Każ suczce odpisać na ofertę</h3>
-    <p>Wyślę link do tej oferty na Discorda razem z Twoją notatką (opcjonalnie).</p>
+    <p id="notifyDialogDesc">Wyślę link do tej oferty suczce razem z Twoją opcjonalną notatką.</p>
     <textarea id="notifyNotesInput" placeholder="Notatka (opcjonalnie)..."></textarea>
     <div class="notify-status" id="notifyStatus"></div>
     <div class="notify-dialog-actions">
@@ -702,10 +702,22 @@
 
   const notifyBtn = document.getElementById('notifyBtn');
   const notifyDialogOverlay = document.getElementById('notifyDialogOverlay');
+  const notifyDialogTitle = document.getElementById('notifyDialogTitle');
+  const notifyDialogDesc = document.getElementById('notifyDialogDesc');
   const notifyNotesInput = document.getElementById('notifyNotesInput');
   const notifyCancelBtn = document.getElementById('notifyCancelBtn');
   const notifySendBtn = document.getElementById('notifySendBtn');
   const notifyStatus = document.getElementById('notifyStatus');
+
+  // Losowanie imienia w tekstach przycisku/okienka - inside joke, 90% "Kuba", 10% "suczka".
+  function rollNotifyName() {
+    const isKuba = Math.random() < 0.9;
+    const dative = isKuba ? 'Kubie' : 'suczce';
+    const label = `Każ ${dative} odpisać na ofertę`;
+    notifyBtn.textContent = label;
+    notifyDialogTitle.textContent = label;
+    notifyDialogDesc.textContent = `Wyślę link do tej oferty ${dative} razem z Twoją opcjonalną notatką.`;
+  }
 
   function openNotifyDialog() {
     notifyNotesInput.value = '';
@@ -795,6 +807,7 @@
   function openModal(l) {
     if (!l) return;
     currentListing = l;
+    rollNotifyName();
 
     carouselImages = l.images || [];
     carouselIndex = 0;
