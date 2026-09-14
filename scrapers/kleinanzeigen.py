@@ -136,6 +136,41 @@ def _extract_amount(text: str) -> Optional[float]:
     return float(match.group(1)) if match else None
 
 
+def _parse_detail_warm_rent(html: str, kaltmiete: Optional[float]) -> Optional[float]:
+    """
+    Szuka czynszu "z mediami"/"ciepłego" na podstronie oferty. Kleinanzeigen dla
+    mieszkan zwykle pokazuje to jako osobna pozycje w liscie szczegolow (np.
+    "Nebenkosten" = koszty dodatkowe doliczane do Kaltmiete, rzadniej wprost
+    "Warmmiete"/"Gesamtmiete"). Jesli znajdziemy tylko "Nebenkosten", doliczamy je
+    do juz znanej Kaltmiete (z listy wynikow) zeby dostac sume.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    text_pairs = []
+
+    for dt in soup.select("dt"):
+        dd = dt.find_next_sibling("dd")
+        if dd:
+            text_pairs.append((dt.get_text(" ", strip=True), dd.get_text(" ", strip=True)))
+    for li in soup.select("li"):
+        parts = li.find_all(["span", "div"], recursive=False)
+        if len(parts) == 2:
+            text_pairs.append((parts[0].get_text(" ", strip=True), parts[1].get_text(" ", strip=True)))
+
+    nebenkosten = None
+    for label, value in text_pairs:
+        low = label.lower()
+        if "warmmiete" in low or "gesamtmiete" in low:
+            amount = _extract_amount(value)
+            if amount is not None:
+                return amount
+        if "nebenkosten" in low:
+            nebenkosten = _extract_amount(value)
+
+    if nebenkosten is not None and kaltmiete is not None:
+        return round(kaltmiete + nebenkosten, 2)
+    return None
+
+
 def _parse_detail_description(html: str) -> str:
     """
     Zbiera opis oferty z podstrony: lista wyposażenia (checkmarki w #viewad-configuration,
