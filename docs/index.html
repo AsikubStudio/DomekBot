@@ -393,7 +393,7 @@
       <details class="modal-description" id="modalDescriptionDetails" hidden>
         <summary>Opis oferty</summary>
         <div class="modal-description-text" id="modalDescriptionText"></div>
-        <button class="translate-btn" id="translateDescBtn" type="button" style="display:none;">🌐 Przetłumacz na polski</button>
+        <button class="translate-btn" id="translateDescBtn" type="button" style="display:none;">Przetłumacz na polski</button>
         <div class="modal-description-text modal-description-translated" id="modalDescriptionTranslated" style="display:none;"></div>
       </details>
       <div class="modal-footer">
@@ -749,7 +749,7 @@
     if (showingTranslation) {
       modalDescriptionTranslated.style.display = 'none';
       modalDescriptionText.style.display = '';
-      translateDescBtn.textContent = '🌐 Przetłumacz na polski';
+      translateDescBtn.textContent = 'Przetłumacz na polski';
       showingTranslation = false;
       return;
     }
@@ -773,7 +773,7 @@
     } catch (e) {
       translateDescBtn.textContent = '⚠️ Nie udało się przetłumaczyć';
       setTimeout(() => {
-        translateDescBtn.textContent = '🌐 Przetłumacz na polski';
+        translateDescBtn.textContent = 'Przetłumacz na polski';
       }, 3000);
     } finally {
       translateDescBtn.disabled = false;
@@ -923,7 +923,7 @@
       modalDescriptionDetails.open = false;
       translateDescBtn.style.display = 'inline-block';
       translateDescBtn.disabled = false;
-      translateDescBtn.textContent = '🌐 Przetłumacz na polski';
+      translateDescBtn.textContent = 'Przetłumacz na polski';
     } else {
       modalDescriptionDetails.hidden = true;
       translateDescBtn.style.display = 'none';
