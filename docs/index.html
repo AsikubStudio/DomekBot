@@ -286,7 +286,7 @@
   }
   .notify-btn:hover { background: var(--accent-soft); }
   .notify-dialog-overlay {
-    position: fixed; inset: 0; background: rgba(20,14,16,0.55); z-index: 200;
+    position: fixed; inset: 0; background: rgba(20,14,16,0.55); z-index: 1100;
     display: flex; align-items: center; justify-content: center; padding: 20px;
   }
   .notify-dialog-overlay[hidden] { display: none; }
@@ -385,7 +385,7 @@
         <a class="view-link" id="modalViewLink" href="#" target="_blank" rel="noopener">Zobacz ogłoszenie →</a>
       </div>
       <div class="notify-row">
-        <button class="notify-btn" id="notifyBtn" type="button">Każ kubie odpisać na ofertę</button>
+        <button class="notify-btn" id="notifyBtn" type="button">Każ suczce odpisać na ofertę</button>
       </div>
     </div>
   </div>
@@ -393,7 +393,7 @@
 
 <div class="notify-dialog-overlay" id="notifyDialogOverlay" hidden>
   <div class="notify-dialog" role="dialog" aria-modal="true" aria-labelledby="notifyDialogTitle">
-    <h3 id="notifyDialogTitle">Każ kubie odpisać na ofertę</h3>
+    <h3 id="notifyDialogTitle">Każ suczce odpisać na ofertę</h3>
     <p>Wyślę link do tej oferty na Discorda razem z Twoją notatką (opcjonalnie).</p>
     <textarea id="notifyNotesInput" placeholder="Notatka (opcjonalnie)..."></textarea>
     <div class="notify-status" id="notifyStatus"></div>
