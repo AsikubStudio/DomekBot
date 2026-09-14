@@ -10,8 +10,14 @@ Kluczowy wniosek: lokalizacja w Kleinanzeigen to NIE kod pocztowy tylko wewnętr
 ID (`l1395` = Emmerich am Rhein, `l1122` = Kleve) - stąd 0 wyników w wersji 1,
 gdzie użyłem PLZ zamiast tego ID. Lista w config.KLEINANZEIGEN_LOCATIONS.
 
-Struktura URL: /s-wohnung-mieten/{page}{slug}/preis::{max}/c203l{id}r{radius}+wohnung_mieten.zimmer_d:{min},{max}
+Struktura URL: /s-wohnung-mieten/{page}{slug}/anzeige:angebote/preis::{max}/c203l{id}r{radius}+wohnung_mieten.zimmer_d:{min},{max}
 - c203 = kategoria "Wohnungen mieten"
+- anzeige:angebote = filtr "Angebotstyp" -> tylko prawdziwe oferty wynajmu, bez
+  "Gesuche" (ogłoszeń typu "Szukam mieszkania"/"Ich suche..."), które inaczej
+  wpadają do tej samej kategorii i przechodzą przez filtry cena/pokoje jak
+  normalna oferta. Zweryfikowane 14.09.2026 na żywej stronie: link "Gesuche"
+  w panelu filtrów prowadzi na .../anzeige:gesuche/..., a "Angebote" na
+  .../anzeige:angebote/... - dokładnie ten drugi segment bierzemy.
 - r{radius} = promień w km od danego location_id
 - zimmer_d:{min}, = filtr liczby pokoi (min, otwarty zakres); dla dokładnie 2
   pokoi używamy "2,2"
@@ -46,6 +52,7 @@ def _build_search_url(slug: str, location_id: str, radius_km: int, page: int = 1
 
     url = (
         f"{BASE_URL}/s-wohnung-mieten/{page_prefix}{slug}"
+        f"/anzeige:angebote"
         f"/preis::{price_max}"
         f"/c203l{location_id}r{radius_km}"
         f"+wohnung_mieten.zimmer_d:{rooms_min}%2C{rooms_max}"
