@@ -244,6 +244,17 @@
     box-shadow: 0 2px 6px rgba(30,20,22,0.25);
   }
   .modal-close:hover { background: var(--accent-ink); }
+  .modal-favorite {
+    position: absolute; top: 10px; left: 10px; z-index: 2;
+    width: 32px; height: 32px; border-radius: 50%;
+    border: 1.5px solid var(--accent); background: var(--bg-raised); color: var(--accent);
+    font-size: 16px; line-height: 1;
+    cursor: pointer; display: flex; align-items: center; justify-content: center;
+    box-shadow: 0 2px 6px rgba(30,20,22,0.25);
+  }
+  .modal-favorite:hover, .modal-favorite:focus, .modal-favorite:focus-visible { background: var(--accent-soft); outline: none; }
+  .modal-favorite.active { background: var(--accent); color: #fff; }
+  .modal-favorite.active:hover, .modal-favorite.active:focus, .modal-favorite.active:focus-visible { background: var(--accent-ink); }
   .modal-carousel { position: relative; background: var(--accent-soft); aspect-ratio: 4 / 3; overflow: hidden; }
   .modal-carousel-track { display: flex; height: 100%; transition: transform 0.25s ease; }
   .modal-carousel-track .carousel-slide { flex: 0 0 100%; height: 100%; display: flex; align-items: center; justify-content: center; }
@@ -256,7 +267,12 @@
     cursor: pointer; display: flex; align-items: center; justify-content: center;
     box-shadow: 0 2px 6px rgba(30,20,22,0.25);
   }
-  .carousel-btn:hover { background: var(--accent-ink); }
+  .carousel-btn:hover,
+  .carousel-btn:focus,
+  .carousel-btn:active,
+  .carousel-btn:focus-visible {
+    background: var(--accent-ink); color: #fff; outline: none;
+  }
   .carousel-btn.prev { left: 10px; }
   .carousel-btn.next { right: 10px; }
   .carousel-dots { position: absolute; bottom: 10px; left: 0; right: 0; display: flex; justify-content: center; gap: 6px; }
@@ -375,6 +391,7 @@
 <div class="modal-overlay" id="modalOverlay" hidden>
   <div class="modal" id="modalBox" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
     <button class="modal-close" id="modalCloseBtn" type="button" aria-label="Zamknij">✕</button>
+    <button class="modal-favorite" id="modalFavoriteBtn" type="button" aria-label="Wyróżnij ofertę">☆</button>
     <div class="modal-carousel" id="modalCarousel">
       <div class="modal-carousel-track" id="modalCarouselTrack"></div>
       <button class="carousel-btn prev" id="carouselPrev" type="button" aria-label="Poprzednie zdjęcie">‹</button>
@@ -395,7 +412,10 @@
         <div class="modal-description-text modal-description-translated" id="modalDescriptionTranslated" style="display:none;"></div>
       </details>
       <div class="modal-footer">
-        <span class="badge" id="modalBadge"></span>
+        <div style="display:flex; align-items:center; gap:10px;">
+          <span class="badge" id="modalBadge"></span>
+          <span class="flags" id="modalSheerenberg"></span>
+        </div>
         <a class="view-link" id="modalViewLink" href="#" target="_blank" rel="noopener">Zobacz ogłoszenie →</a>
       </div>
       <div class="notify-row">
@@ -689,6 +709,7 @@
   const modalOverlay = document.getElementById('modalOverlay');
   const modalBox = document.getElementById('modalBox');
   const modalCloseBtn = document.getElementById('modalCloseBtn');
+  const modalFavoriteBtn = document.getElementById('modalFavoriteBtn');
   const modalCarouselTrack = document.getElementById('modalCarouselTrack');
   const carouselPrev = document.getElementById('carouselPrev');
   const carouselNext = document.getElementById('carouselNext');
@@ -702,6 +723,7 @@
   const translateDescBtn = document.getElementById('translateDescBtn');
   const modalDescriptionTranslated = document.getElementById('modalDescriptionTranslated');
   const modalBadge = document.getElementById('modalBadge');
+  const modalSheerenberg = document.getElementById('modalSheerenberg');
   const modalViewLink = document.getElementById('modalViewLink');
 
   let carouselImages = [];
@@ -936,7 +958,16 @@
     }
 
     modalBadge.textContent = l.source;
+    const modalSheerenbergText = (l.distanceSheerenberg !== undefined && l.distanceSheerenberg !== null)
+      ? `${l.distanceSheerenberg} km`
+      : '? km';
+    modalSheerenberg.innerHTML = `<span>${modalSheerenbergText} do 's-Heerenberg</span>`;
     modalViewLink.href = l.url;
+
+    const favStarred = getStarredUrls().has(l.url);
+    modalFavoriteBtn.textContent = favStarred ? '★' : '☆';
+    modalFavoriteBtn.classList.toggle('active', favStarred);
+    modalFavoriteBtn.setAttribute('aria-label', favStarred ? 'Usuń wyróżnienie' : 'Wyróżnij ofertę');
 
     lastFocusedBeforeModal = document.activeElement;
     modalOverlay.hidden = false;
@@ -975,6 +1006,17 @@
   });
 
   modalCloseBtn.addEventListener('click', closeModal);
+  modalFavoriteBtn.addEventListener('click', () => {
+    if (!currentListing) return;
+    const set = getStarredUrls();
+    const nowStarred = !set.has(currentListing.url);
+    if (nowStarred) set.add(currentListing.url); else set.delete(currentListing.url);
+    saveStarredUrls(set);
+    modalFavoriteBtn.textContent = nowStarred ? '★' : '☆';
+    modalFavoriteBtn.classList.toggle('active', nowStarred);
+    modalFavoriteBtn.setAttribute('aria-label', nowStarred ? 'Usuń wyróżnienie' : 'Wyróżnij ofertę');
+    render();
+  });
   modalOverlay.addEventListener('click', (e) => {
     if (e.target === modalOverlay) closeModal();
   });
