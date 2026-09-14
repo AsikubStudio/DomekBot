@@ -11,6 +11,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
 <style>
   /* Paleta "Cozy Color Palette — soft solstice": #9F415A (berry) #C89387 (dusty rose)
      #EBE5D6 (cream) #768894 (slate) #D0E4DF (mint) — wszystkie pięć użyte świadomie
@@ -66,6 +67,7 @@
   .chips { display: flex; flex-wrap: wrap; gap: 6px; }
   .chip { border: 1px solid var(--border); background: var(--bg-raised); color: var(--ink-soft); border-radius: 100px; padding: 6px 13px; font-size: 13px; cursor: pointer; font-weight: 500; }
   .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
+  .chip.fav-filter-chip { display: flex; align-items: center; gap: 4px; }
   select { border: 1px solid var(--border); background: var(--bg-raised); color: var(--ink); border-radius: 8px; padding: 7px 10px; font-size: 13px; font-family: inherit; }
   .count { font-size: 14px; color: var(--ink-soft); margin-bottom: 12px; }
   .count strong { color: var(--ink); }
@@ -224,6 +226,22 @@
     color: var(--accent);
   }
 
+  /* ---------- Mapka z pinezkami ---------- */
+  #mapContainer {
+    display: none;
+    height: 320px;
+    border-radius: 12px;
+    overflow: hidden;
+    margin-bottom: 16px;
+    border: 1px solid var(--border);
+  }
+  .leaflet-popup-content { font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  .map-popup strong { display: block; margin-bottom: 2px; }
+  .map-popup a { color: var(--accent); }
+  @media (max-width: 520px) {
+    #mapContainer { height: 260px; }
+  }
+
   /* ---------- Okienko ze szczegolami oferty ---------- */
   .modal-overlay {
     position: fixed; inset: 0; background: rgba(30, 20, 22, 0.55);
@@ -356,10 +374,13 @@
     <span id="lastUpdated">Ładowanie...</span>
     <button class="refresh-btn" id="refreshBtn" title="Wczytuje ponownie już zapisane dane ze strony, bez odpytywania portalu">↻ Odśwież widok</button>
     <button class="refresh-btn primary" id="triggerBtn" title="Zleca botowi nowe sprawdzenie Kleinanzeigen w tej chwili, nie czekając na harmonogram co 3h">↻ Sprawdź teraz (Kleinanzeigen)</button>
+    <button class="refresh-btn" id="mapToggleBtn" title="Pokaż oferty na mapie">🗺 Mapa</button>
   </p>
   <p id="triggerStatus" class="subtitle" style="display:none; font-size:13px;"></p>
 
   <div class="status-panel" id="statusPanel"></div>
+
+  <div id="mapContainer"></div>
 
   <div class="push-panel" id="pushPanel">
     <div class="row">
@@ -438,6 +459,7 @@
   </div>
 </div>
 
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 <script>
 (function() {
   const DATA_URL = './data/latest.json';
@@ -452,9 +474,11 @@
   let allListings = [];
   let activeSource = 'Wszystkie';
   let sortMode = 'price-asc';
+  let favoritesOnly = false;
   let generatedAt = null;
   let sourcesData = {};
   let countdownIntervalId = null;
+  let lastVisibleListings = [];
 
   const resultsArea = document.getElementById('resultsArea');
   const lastUpdated = document.getElementById('lastUpdated');
@@ -479,6 +503,9 @@
       image: singleImage || (gallery.length > 0 ? gallery[0] : null),
       images: gallery.length > 0 ? gallery : (singleImage ? [singleImage] : []),
       description: row['Opis'] || '',
+      lat: (typeof row['Lat'] === 'number') ? row['Lat'] : null,
+      lon: (typeof row['Lon'] === 'number') ? row['Lon'] : null,
+      firstSeen: row['PierwszyRaz'] || null,
     };
   }
 
@@ -521,11 +548,15 @@
   function renderControls() {
     return `
       <div class="controls">
-        <div class="chips">${renderChips()}</div>
+        <div class="chips">
+          ${renderChips()}
+          <button class="chip fav-filter-chip ${favoritesOnly ? 'active' : ''}" id="favFilterChip" type="button">★ Tylko ulubione</button>
+        </div>
         <select id="sortSelect">
           <option value="price-asc" ${sortMode==='price-asc'?'selected':''}>Cena: rosnąco</option>
           <option value="price-desc" ${sortMode==='price-desc'?'selected':''}>Cena: malejąco</option>
           <option value="distance-asc" ${sortMode==='distance-asc'?'selected':''}>Odległość: najbliżej</option>
+          <option value="date-desc" ${sortMode==='date-desc'?'selected':''}>Najnowsze</option>
         </select>
       </div>
     `;
@@ -614,6 +645,10 @@
       ? allListings
       : allListings.filter(l => l.source === activeSource);
 
+    if (favoritesOnly) {
+      filtered = filtered.filter(l => starredUrls.has(l.url));
+    }
+
     filtered = filtered.slice().sort((a, b) => {
       const aStar = starredUrls.has(a.url) ? 1 : 0;
       const bStar = starredUrls.has(b.url) ? 1 : 0;
@@ -621,6 +656,11 @@
       if (sortMode === 'price-asc') return (a.price ?? Infinity) - (b.price ?? Infinity);
       if (sortMode === 'price-desc') return (b.price ?? -Infinity) - (a.price ?? -Infinity);
       if (sortMode === 'distance-asc') return (a.distance ?? Infinity) - (b.distance ?? Infinity);
+      if (sortMode === 'date-desc') {
+        const aTime = a.firstSeen ? new Date(a.firstSeen).getTime() : 0;
+        const bTime = b.firstSeen ? new Date(b.firstSeen).getTime() : 0;
+        return bTime - aTime; // najnowsze (najwiekszy timestamp) na gorze
+      }
       return 0;
     });
 
@@ -628,19 +668,24 @@
     // Sekcja ukrytych ofert pokazuje WSZYSTKIE ukryte, niezależnie od aktywnego
     // filtra portalu - to osobna "szuflada", nie kolejna zakładka.
     const hiddenListings = allListings.filter(l => hiddenUrls.has(l.url));
+    lastVisibleListings = visible;
 
     resultsArea.innerHTML = `
       ${renderControls()}
-      <div class="count"><strong>${visible.length}</strong> ${visible.length === 1 ? 'oferta' : 'ofert'}${activeSource !== 'Wszystkie' ? ' na ' + escapeHtml(activeSource) : ''}</div>
+      <div class="count"><strong>${visible.length}</strong> ${visible.length === 1 ? 'oferta' : 'ofert'}${activeSource !== 'Wszystkie' ? ' na ' + escapeHtml(activeSource) : ''}${favoritesOnly ? ' (tylko ulubione)' : ''}</div>
       ${visible.map(l => renderListing(l, !seenUrls.has(l.url), starredUrls.has(l.url))).join('')}
       ${renderHiddenSection(hiddenListings)}
     `;
 
-    resultsArea.querySelectorAll('.chip').forEach(btn => {
+    resultsArea.querySelectorAll('.chip[data-source]').forEach(btn => {
       btn.addEventListener('click', () => { activeSource = btn.dataset.source; render(); });
     });
+    const favFilterChip = document.getElementById('favFilterChip');
+    if (favFilterChip) favFilterChip.addEventListener('click', () => { favoritesOnly = !favoritesOnly; render(); });
     const sortSelect = document.getElementById('sortSelect');
     if (sortSelect) sortSelect.addEventListener('change', (e) => { sortMode = e.target.value; render(); });
+
+    if (mapVisible) updateMapMarkers(visible);
 
     resultsArea.querySelectorAll('.listing').forEach((el, i) => {
       el.addEventListener('click', (e) => {
@@ -1099,6 +1144,67 @@
   loadData();
   // Auto-odświeżanie co 5 minut, gdyby strona została otwarta na dłużej.
   setInterval(loadData, 5 * 60 * 1000);
+
+  // ---------- Mapka z pinezkami (Leaflet + OpenStreetMap, bez klucza API) ----------
+  const mapContainer = document.getElementById('mapContainer');
+  const mapToggleBtn = document.getElementById('mapToggleBtn');
+  // Wspolrzedne Emmerich am Rhein - punkt startowy mapy, zanim dojda pinezki ofert.
+  const EMMERICH_COORDS = [51.8971, 6.2436];
+
+  let leafletMap = null;
+  let mapMarkersLayer = null;
+  let mapVisible = false;
+
+  function ensureMap() {
+    if (leafletMap || typeof L === 'undefined') return;
+    leafletMap = L.map(mapContainer).setView(EMMERICH_COORDS, 11);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+    }).addTo(leafletMap);
+    mapMarkersLayer = L.layerGroup().addTo(leafletMap);
+  }
+
+  function updateMapMarkers(listings) {
+    if (!leafletMap || !mapMarkersLayer) return;
+    mapMarkersLayer.clearLayers();
+    const points = [];
+    listings.forEach(l => {
+      if (typeof l.lat !== 'number' || typeof l.lon !== 'number') return;
+      const marker = L.marker([l.lat, l.lon]);
+      const popupHtml = `
+        <div class="map-popup">
+          <strong>${escapeHtml(l.title)}</strong>
+          ${formatEuro(l.price)} · ${escapeHtml(l.source)}<br>
+          <a href="${l.url}" target="_blank" rel="noopener">Zobacz ogłoszenie →</a>
+        </div>
+      `;
+      marker.bindPopup(popupHtml);
+      marker.addTo(mapMarkersLayer);
+      points.push([l.lat, l.lon]);
+    });
+    if (points.length > 0) {
+      leafletMap.fitBounds(points, { padding: [30, 30], maxZoom: 14 });
+    } else {
+      leafletMap.setView(EMMERICH_COORDS, 11);
+    }
+  }
+
+  mapToggleBtn.addEventListener('click', () => {
+    mapVisible = !mapVisible;
+    mapContainer.style.display = mapVisible ? 'block' : 'none';
+    mapToggleBtn.classList.toggle('primary', mapVisible);
+    mapToggleBtn.textContent = mapVisible ? '🗺 Ukryj mapę' : '🗺 Mapa';
+    if (mapVisible) {
+      ensureMap();
+      // Kontener byl display:none podczas inicjalizacji Leaflet - bez tego mapa
+      // "myśli", że ma 0px wysokości i renderuje się źle, dopóki się jej nie ruszy.
+      setTimeout(() => {
+        if (leafletMap) leafletMap.invalidateSize();
+        updateMapMarkers(lastVisibleListings);
+      }, 50);
+    }
+  });
 
   // ---------- Przycisk "Sprawdź teraz" (wyzwala GitHub Actions przez Worker) ----------
   const triggerBtn = document.getElementById('triggerBtn');

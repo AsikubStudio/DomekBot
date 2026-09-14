@@ -62,6 +62,18 @@ def geocode(place_query: str) -> Optional[Tuple[float, float]]:
         return None
 
 
+def geocode_location(location_text: str) -> Optional[Tuple[float, float]]:
+    """
+    Zwraca (lat, lon) dla tekstowej lokalizacji oferty - do pokazania pinezki na
+    mapie na stronie. Korzysta z tego samego lru_cache co distance_from_center_km/
+    distance_from_sheerenberg_km, wiec dla lokalizacji juz gdzies policzonej w tym
+    samym przebiegu NIE generuje dodatkowego requestu do Nominatim.
+    """
+    if not location_text:
+        return None
+    return geocode(f"{location_text}, Germany")
+
+
 def distance_from_center_km(location_text: str) -> Optional[float]:
     """Próbuje wyliczyć odległość ogłoszenia od CENTER_CITY. None jeśli się nie uda."""
     if not location_text:

@@ -35,6 +35,12 @@ class Listing:
     # zamiast Emmerich am Rhein - patrz utils/geo.py.
     distance_sheerenberg_km: Optional[float] = None
 
+    # Współrzędne oferty (geokodowane po location_text) - do pinezki na mapie
+    # na stronie. Wyliczane w filters.py TYLKO dla ofert, które przeszły
+    # wszystkie inne filtry (patrz distance_sheerenberg_km - ta sama logika).
+    lat: Optional[float] = None
+    lon: Optional[float] = None
+
     def as_row(self) -> dict:
         return {
             "Portal": self.source,
@@ -52,6 +58,8 @@ class Listing:
             "Zdjęcia": self.images,
             "Czynsz z mediami (€)": self.warm_rent_eur,
             "Opis": self.full_description,
+            "Lat": self.lat,
+            "Lon": self.lon,
         }
 
     @staticmethod

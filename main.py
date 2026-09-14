@@ -115,7 +115,7 @@ def main():
     # co jest nowe od ostatniego uruchomienia (do powiadomienia Telegram).
     seen_ids = publish.load_seen_ids()
     new_listings, updated_ids = publish.split_new_listings(matched, seen_ids)
-    publish.write_latest_json(matched)
+    publish.write_latest_json(matched, first_seen=updated_ids)
     publish.save_seen_ids(updated_ids)
     logger.info("Nowych ofert od ostatniego uruchomienia: %d", len(new_listings))
     notify.notify_new_listings(new_listings)
