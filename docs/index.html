@@ -348,23 +348,21 @@
   <div class="push-panel" id="pushPanel">
     <div class="row">
       <div>
-        <p class="label">🔔 Powiadomienia push</p>
+        <p class="label">Powiadomienia</p>
         <p class="hint" id="pushHint">Dostawaj powiadomienie na telefon, gdy pojawi się nowa oferta.</p>
       </div>
       <button class="push-btn" id="pushBtn">Włącz powiadomienia</button>
     </div>
     <div class="subscription-box" id="subscriptionBox" style="display:none;">
       <p class="hint" style="margin-bottom:8px;">
-        Skopiuj poniższy tekst i wklej jako wartość sekretu <code>PUSH_SUBSCRIPTION</code>
-        w repo na GitHubie (Settings → Secrets and variables → Actions). To jednorazowa czynność —
-        potem bot będzie mógł wysyłać Ci powiadomienia.
+        Skopiuj tekst poniżej i wyślij Kubie, upewnij się że wklejony tekst ma nawiasy a nie sam link.
+        To jednorazowy setup, nie przejmuj się i miłego dnia.
       </p>
       <textarea id="subscriptionText" readonly></textarea>
       <button class="push-btn secondary" id="copyBtn" style="margin-top:8px;">Kopiuj</button>
       <button class="push-btn secondary" id="resetPushBtn" style="margin-top:8px; display:none;">Wymuś nową subskrypcję</button>
       <p class="hint" style="margin-top:6px;">
-        Użyj tego tylko jeśli zmieniał się klucz VAPID po stronie serwera i stara subskrypcja
-        przestała działać - to unieważni obecną subskrypcję i utworzy nową.
+        Nie klikaj "Wymuś nową subskrypcję", chyba że Kuba ci tak napisze, niech cię nie korci jeleniu.
       </p>
     </div>
   </div>
@@ -665,9 +663,6 @@
         render();
       });
     });
-
-    // Po wyrenderowaniu wszystko jest juz "widziane" w tej przegladarce.
-    saveSeenUrls(new Set(allListings.map(l => l.url)));
   }
 
   async function loadData() {
@@ -892,6 +887,17 @@
 
   function openModal(l) {
     if (!l) return;
+
+    // Oznacz jako "widziane" DOPIERO w momencie otwarcia szczegolow - dzieki
+    // temu podswietlenie "NOWE" trzyma sie oferty, dopoki ktos jej faktycznie
+    // nie kliknie (a nie znika po pierwszym wyrenderowaniu listy).
+    const seenUrls = getSeenUrls();
+    if (!seenUrls.has(l.url)) {
+      seenUrls.add(l.url);
+      saveSeenUrls(seenUrls);
+      render();
+    }
+
     currentListing = l;
     rollNotifyName();
 
@@ -1147,7 +1153,6 @@
     subscriptionText.value = JSON.stringify(subscription.toJSON(), null, 2);
     subscriptionBox.style.display = 'block';
     pushBtn.textContent = 'Pokaż dane subskrypcji ponownie';
-    pushHint.textContent = 'Powiadomienia włączone - dokończ konfigurację poniżej (jednorazowo).';
   }
 
   async function subscribeFresh(registration) {
