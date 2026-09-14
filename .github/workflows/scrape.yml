@@ -6,6 +6,10 @@ on:
     - cron: "0 */3 * * *"
   workflow_dispatch: {}   # pozwala odpalić ręcznie z zakładki "Actions" w GitHubie
 
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
 permissions:
   contents: write   # potrzebne żeby workflow mógł commitować wyniki z powrotem do repo
 
