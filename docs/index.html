@@ -278,6 +278,36 @@
   .modal-description[open] summary::after { content: ' ▴'; }
   .modal-description-text { margin-top: 10px; font-size: 13.5px; color: var(--ink-soft); white-space: pre-wrap; line-height: 1.6; }
   .modal-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; padding-top: 14px; border-top: 1px solid var(--border); }
+  .notify-row { margin-top: 12px; }
+  .notify-btn {
+    width: 100%; padding: 10px 16px; border-radius: 10px; box-sizing: border-box;
+    border: 1.5px solid var(--accent); background: transparent; color: var(--accent-ink);
+    font-size: 13.5px; font-weight: 600; cursor: pointer; font-family: inherit;
+  }
+  .notify-btn:hover { background: var(--accent-soft); }
+  .notify-dialog-overlay {
+    position: fixed; inset: 0; background: rgba(20,14,16,0.55); z-index: 200;
+    display: flex; align-items: center; justify-content: center; padding: 20px;
+  }
+  .notify-dialog {
+    background: var(--bg-raised); border-radius: 14px; padding: 22px; width: 100%; max-width: 420px;
+    box-shadow: 0 12px 40px rgba(20,14,16,0.35); box-sizing: border-box;
+  }
+  .notify-dialog h3 { margin: 0 0 6px; font-family: 'Fraunces', Georgia, serif; font-size: 18px; }
+  .notify-dialog p { margin: 0 0 14px; font-size: 13px; color: var(--ink-soft); }
+  .notify-dialog textarea {
+    width: 100%; min-height: 90px; border-radius: 10px; border: 1px solid var(--border);
+    padding: 10px 12px; font-family: inherit; font-size: 13.5px; resize: vertical; box-sizing: border-box;
+    background: var(--bg); color: var(--ink);
+  }
+  .notify-dialog-actions { display: flex; justify-content: flex-end; gap: 10px; margin-top: 14px; }
+  .notify-dialog-actions button { padding: 8px 16px; border-radius: 8px; font-size: 13.5px; font-weight: 600; cursor: pointer; font-family: inherit; border: none; }
+  .notify-cancel-btn { background: var(--slate-bg); color: var(--slate-ink); }
+  .notify-send-btn { background: var(--accent); color: #fff; }
+  .notify-send-btn:disabled { opacity: 0.6; cursor: default; }
+  .notify-status { font-size: 12.5px; margin-top: 10px; min-height: 16px; }
+  .notify-status.success { color: var(--accent-ink); }
+  .notify-status.error { color: #b0453f; }
   @media (max-width: 520px) {
     .modal { border-radius: 0; max-width: none; min-height: 100%; margin: 0; }
     .modal-overlay { padding: 0; align-items: stretch; }
@@ -293,8 +323,10 @@
     <span id="lastUpdated">Ładowanie...</span>
     <button class="refresh-btn" id="refreshBtn" title="Wczytuje ponownie już zapisane dane ze strony, bez odpytywania portalu">↻ Odśwież widok</button>
     <button class="refresh-btn primary" id="triggerBtn" title="Zleca botowi nowe sprawdzenie Kleinanzeigen w tej chwili, nie czekając na harmonogram co 3h">🔄 Sprawdź teraz (Kleinanzeigen)</button>
+    <button class="refresh-btn" id="discordTestBtn" title="Wysyła testowe powiadomienie na Discorda, żeby sprawdzić czy webhook działa">💬 Testuj Discord</button>
   </p>
   <p id="triggerStatus" class="subtitle" style="display:none; font-size:13px;"></p>
+  <p id="discordTestStatus" class="subtitle" style="display:none; font-size:13px;"></p>
 
   <div class="status-panel" id="statusPanel"></div>
 
@@ -351,6 +383,22 @@
         <span class="badge" id="modalBadge"></span>
         <a class="view-link" id="modalViewLink" href="#" target="_blank" rel="noopener">Zobacz ogłoszenie →</a>
       </div>
+      <div class="notify-row">
+        <button class="notify-btn" id="notifyBtn" type="button">Każ kubie odpisać na ofertę</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="notify-dialog-overlay" id="notifyDialogOverlay" hidden>
+  <div class="notify-dialog" role="dialog" aria-modal="true" aria-labelledby="notifyDialogTitle">
+    <h3 id="notifyDialogTitle">Każ kubie odpisać na ofertę</h3>
+    <p>Wyślę link do tej oferty na Discorda razem z Twoją notatką (opcjonalnie).</p>
+    <textarea id="notifyNotesInput" placeholder="Notatka (opcjonalnie)..."></textarea>
+    <div class="notify-status" id="notifyStatus"></div>
+    <div class="notify-dialog-actions">
+      <button class="notify-cancel-btn" id="notifyCancelBtn" type="button">Anuluj</button>
+      <button class="notify-send-btn" id="notifySendBtn" type="button">Wyślij</button>
     </div>
   </div>
 </div>
@@ -645,6 +693,71 @@
   let carouselImages = [];
   let carouselIndex = 0;
   let lastFocusedBeforeModal = null;
+  let currentListing = null;
+
+  // Webhook Discorda NIGDY nie ląduje w tym pliku - Worker go chowa jako sekret
+  // (Cloudflare Worker "domekbot-notify", sekret DISCORD_WEBHOOK_URL).
+  const DISCORD_NOTIFY_URL = 'https://domekbot-notify.shopifycontact3.workers.dev';
+
+  const notifyBtn = document.getElementById('notifyBtn');
+  const notifyDialogOverlay = document.getElementById('notifyDialogOverlay');
+  const notifyNotesInput = document.getElementById('notifyNotesInput');
+  const notifyCancelBtn = document.getElementById('notifyCancelBtn');
+  const notifySendBtn = document.getElementById('notifySendBtn');
+  const notifyStatus = document.getElementById('notifyStatus');
+
+  function openNotifyDialog() {
+    notifyNotesInput.value = '';
+    notifyStatus.textContent = '';
+    notifyStatus.className = 'notify-status';
+    notifySendBtn.disabled = false;
+    notifySendBtn.textContent = 'Wyślij';
+    notifyDialogOverlay.hidden = false;
+    notifyNotesInput.focus();
+  }
+
+  function closeNotifyDialog() {
+    notifyDialogOverlay.hidden = true;
+  }
+
+  notifyBtn.addEventListener('click', openNotifyDialog);
+  notifyCancelBtn.addEventListener('click', closeNotifyDialog);
+  notifyDialogOverlay.addEventListener('click', (e) => {
+    if (e.target === notifyDialogOverlay) closeNotifyDialog();
+  });
+
+  notifySendBtn.addEventListener('click', async () => {
+    if (!currentListing) return;
+    if (!DISCORD_NOTIFY_URL) {
+      notifyStatus.textContent = 'Funkcja jeszcze nieskonfigurowana (brak adresu Workera).';
+      notifyStatus.className = 'notify-status error';
+      return;
+    }
+    notifySendBtn.disabled = true;
+    notifySendBtn.textContent = 'Wysyłanie...';
+    notifyStatus.textContent = '';
+    notifyStatus.className = 'notify-status';
+    try {
+      const resp = await fetch(DISCORD_NOTIFY_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          url: currentListing.url,
+          title: currentListing.title,
+          notes: notifyNotesInput.value.trim(),
+        }),
+      });
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      notifyStatus.textContent = 'Wysłano ✓';
+      notifyStatus.className = 'notify-status success';
+      setTimeout(closeNotifyDialog, 1200);
+    } catch (err) {
+      notifyStatus.textContent = 'Nie udało się wysłać: ' + err.message;
+      notifyStatus.className = 'notify-status error';
+      notifySendBtn.disabled = false;
+      notifySendBtn.textContent = 'Wyślij';
+    }
+  });
 
   function renderCarousel() {
     if (carouselImages.length === 0) {
@@ -680,6 +793,7 @@
 
   function openModal(l) {
     if (!l) return;
+    currentListing = l;
 
     carouselImages = l.images || [];
     carouselIndex = 0;
@@ -726,6 +840,10 @@
     if (e.target === modalOverlay) closeModal();
   });
   document.addEventListener('keydown', (e) => {
+    if (!notifyDialogOverlay.hidden) {
+      if (e.key === 'Escape') closeNotifyDialog();
+      return;
+    }
     if (modalOverlay.hidden) return;
     if (e.key === 'Escape') closeModal();
     else if (e.key === 'ArrowLeft') goToSlide(carouselIndex - 1);
@@ -874,6 +992,41 @@
       triggerBtn.disabled = false;
       triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
       showTriggerStatus('Błąd połączenia z botem. Spróbuj później.');
+    }
+  });
+
+  // ---------- Przycisk "Testuj Discord" (szybki ping do Workera domekbot-notify) ----------
+  const discordTestBtn = document.getElementById('discordTestBtn');
+  const discordTestStatus = document.getElementById('discordTestStatus');
+
+  function showDiscordTestStatus(text) {
+    discordTestStatus.textContent = text;
+    discordTestStatus.style.display = 'block';
+  }
+
+  discordTestBtn.addEventListener('click', async () => {
+    discordTestBtn.disabled = true;
+    discordTestBtn.textContent = 'Wysyłanie...';
+    showDiscordTestStatus('Wysyłanie testowego powiadomienia na Discorda...');
+
+    try {
+      const resp = await fetch(DISCORD_NOTIFY_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ content: '🔔 Test powiadomień z DomekBot — jeśli to widzisz, wszystko działa!' }),
+      });
+      const data = await resp.json();
+
+      if (resp.ok && data.ok) {
+        showDiscordTestStatus('✅ Wysłano! Sprawdź kanał na Discordzie.');
+      } else {
+        showDiscordTestStatus('Nie udało się wysłać. Sprawdź sekret DISCORD_WEBHOOK_URL w Workerze domekbot-notify.');
+      }
+    } catch (e) {
+      showDiscordTestStatus('Błąd połączenia z Workerem. Spróbuj później.');
+    } finally {
+      discordTestBtn.disabled = false;
+      discordTestBtn.textContent = '💬 Testuj Discord';
     }
   });
 
