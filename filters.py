@@ -5,7 +5,7 @@ Każdy filtr jest osobną funkcją, żeby łatwo było dodać/wyłączyć/debugo
 from typing import List
 import config
 from models import Listing
-from utils.geo import within_radius, distance_from_sheerenberg_km, geocode_location
+from utils.geo import within_radius, distance_from_sheerenberg_km
 
 
 def _price_ok(listing: Listing) -> bool:
@@ -86,13 +86,10 @@ def apply_all_filters(listings: List[Listing]) -> List[Listing]:
         if all(check(listing) for check in checks):
             result.append(listing)
 
-    # Dystans do 's-Heerenberg i wspolrzedne (do pinezki na mapie) liczymy TYLKO
-    # dla ofert, które już przeszły wszystkie inne filtry - po co geokodować
-    # (i czekać 1s/request na Nominatim) coś, co i tak zostanie odrzucone.
+    # Dystans do 's-Heerenberg liczymy TYLKO dla ofert, które już przeszły
+    # wszystkie inne filtry - po co geokodować (i czekać 1s/request na Nominatim)
+    # coś, co i tak zostanie odrzucone.
     for listing in result:
         listing.distance_sheerenberg_km = distance_from_sheerenberg_km(listing.location_text)
-        coords = geocode_location(listing.location_text)
-        if coords:
-            listing.lat, listing.lon = coords
 
     return result
