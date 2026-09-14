@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-14T00:17:23.036001+00:00",
-  "count": 39,
+  "generated_at": "2026-09-14T00:41:36.248657+00:00",
+  "count": 38,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-14T00:17:23.036001+00:00",
+      "last_updated": "2026-09-14T00:41:36.248657+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -645,23 +645,6 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-helle-2-zi-wohnung-in-bauernhaus-in-haldern/3508297680-203-1389",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/2755a4b2-6030-4ddf-a038-20373ace1e7d?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": ""
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Etagenwohnung mit Balkon ab 01.10.2026 zu vermieten",
-      "Cena (€)": 600.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "47574 Goch",
-      "Odległość (km)": 12.0,
-      "Odległość od 's-Heerenberg (km)": 21.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/etagenwohnung-mit-balkon-ab-01-10-2026-zu-vermieten/3470485583-203-1147",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": ""
