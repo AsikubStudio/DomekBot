@@ -691,8 +691,8 @@
     modalTitle.textContent = l.title;
     modalPrice.innerHTML = `<span class="price-value">${formatEuro(l.price)}</span><span class="price-note">zimny</span>`;
     modalWarmRent.innerHTML = (l.warmRent !== undefined && l.warmRent !== null && l.warmRent !== '')
-      ? `Czynsz z mediami (ciepły): <strong>${escapeHtml(l.warmRent)} €</strong>`
-      : `Czynsz z mediami (ciepły): <strong>brak danych</strong>`;
+      ? `Czynsz ciepły: <strong>${escapeHtml(l.warmRent)} €</strong>`
+      : `Czynsz ciepły: <strong>brak danych</strong>`;
 
     const facts = [];
     if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
