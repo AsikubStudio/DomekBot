@@ -98,7 +98,11 @@ def send_web_push(title: str, body: str, url: str = "./") -> bool:
     """Wysyła jedno powiadomienie push do zarejestrowanej przeglądarki (PWA)."""
     sub_json = os.environ.get("PUSH_SUBSCRIPTION") or _read_local_secret("push_subscription.json")
     vapid_private_pem = os.environ.get("VAPID_PRIVATE_KEY_PEM") or _read_local_secret("vapid_private_key.pem")
-    claims_email = os.environ.get("VAPID_CLAIMS_EMAIL", DEFAULT_VAPID_CLAIMS_EMAIL)
+    # UWAGA: .get(klucz, domyślna) NIE zadziała jeśli GitHub Actions ustawi
+    # zmienną na pusty string (np. brakujący sekret VAPID_CLAIMS_EMAIL) - taki
+    # przypadek trzeba złapać osobno przez "or", inaczej VAPID dostanie sub=""
+    # i pywebpush/py_vapid wywali cały skrypt wyjątkiem VapidException.
+    claims_email = os.environ.get("VAPID_CLAIMS_EMAIL") or DEFAULT_VAPID_CLAIMS_EMAIL
 
     if not sub_json or not vapid_private_pem:
         logger.info(
@@ -133,7 +137,14 @@ def send_web_push(title: str, body: str, url: str = "./") -> bool:
             vapid_claims={"sub": claims_email},
         )
         return True
-    except WebPushException as exc:
+    except Exception as exc:
+        # Celowo szerokie except (nie tylko WebPushException): błąd samego
+        # podpisu VAPID rzuca py_vapid.VapidException, który NIE dziedziczy
+        # po WebPushException i wcześniej wywalał main.py z exit code 1 -
+        # przez co krok "Zapisz wyniki z powrotem do repo" w scrape.yml w
+        # ogóle się nie uruchamiał (bo nie ma if: always()) i świeże dane
+        # nigdy nie trafiały do repo, akurat wtedy gdy pojawiała się nowa
+        # oferta. Powiadomienie push nie może nigdy ubić całego przebiegu.
         logger.warning("Web Push: nie udało się wysłać powiadomienia: %s", exc)
         return False
     finally:
