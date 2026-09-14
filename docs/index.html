@@ -454,7 +454,7 @@
     const facts = [];
     if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
     if (l.size) facts.push(`<span class="fact"><strong>${l.size}</strong> m²</span>`);
-    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km</span>`);
+    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km od Emmerich</span>`);
     if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
 
     const thumb = l.image
@@ -695,7 +695,7 @@
     const facts = [];
     if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
     if (l.size) facts.push(`<span class="fact"><strong>${l.size}</strong> m²</span>`);
-    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km</span>`);
+    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km od Emmerich</span>`);
     if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
     modalFacts.innerHTML = facts.join('');
 
