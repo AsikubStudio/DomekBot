@@ -339,7 +339,7 @@
   <p class="subtitle">
     <span id="lastUpdated">Ładowanie...</span>
     <button class="refresh-btn" id="refreshBtn" title="Wczytuje ponownie już zapisane dane ze strony, bez odpytywania portalu">↻ Odśwież widok</button>
-    <button class="refresh-btn primary" id="triggerBtn" title="Zleca botowi nowe sprawdzenie Kleinanzeigen w tej chwili, nie czekając na harmonogram co 3h">🔄 Sprawdź teraz (Kleinanzeigen)</button>
+    <button class="refresh-btn primary" id="triggerBtn" title="Zleca botowi nowe sprawdzenie Kleinanzeigen w tej chwili, nie czekając na harmonogram co 3h">↻ Sprawdź teraz (Kleinanzeigen)</button>
   </p>
   <p id="triggerStatus" class="subtitle" style="display:none; font-size:13px;"></p>
 
@@ -1088,7 +1088,7 @@
           stopPolling();
           showTriggerStatus('✅ Zaktualizowano! Świeże dane Kleinanzeigen są już na stronie.');
           triggerBtn.disabled = false;
-          triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+          triggerBtn.textContent = '↻ Sprawdź teraz (Kleinanzeigen)';
           loadData();
           return;
         }
@@ -1098,7 +1098,7 @@
         stopPolling();
         showTriggerStatus('Sprawdzanie trwa dłużej niż zwykle - odśwież stronę ręcznie za chwilę.');
         triggerBtn.disabled = false;
-        triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+        triggerBtn.textContent = '↻ Sprawdź teraz (Kleinanzeigen)';
       }
     }, 15000);
   }
@@ -1120,16 +1120,16 @@
         startPollingForUpdate(baselineGeneratedAt);
       } else if (data.error === 'cooldown') {
         triggerBtn.disabled = false;
-        triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+        triggerBtn.textContent = '↻ Sprawdź teraz (Kleinanzeigen)';
         showTriggerStatus(`Sprawdzano już niedawno - spróbuj ponownie za ${data.remaining_seconds}s.`);
       } else {
         triggerBtn.disabled = false;
-        triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+        triggerBtn.textContent = '↻ Sprawdź teraz (Kleinanzeigen)';
         showTriggerStatus('Nie udało się zlecić sprawdzenia. Spróbuj później.');
       }
     } catch (e) {
       triggerBtn.disabled = false;
-      triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
+      triggerBtn.textContent = '↻ Sprawdź teraz (Kleinanzeigen)';
       showTriggerStatus('Błąd połączenia z botem. Spróbuj później.');
     }
   });
