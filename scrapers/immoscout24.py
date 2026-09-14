@@ -320,10 +320,20 @@ def _parse_detail_description(html: str) -> str:
         if text:
             return text
 
-    # Fallback dla zwyklych ofert (niezweryfikowany)
+    # Fallback dla zwyklych ofert - wariant 1 (czesciowo zweryfikowany)
     generic_desc = soup.select_one('[data-qa="is24-expose-description"], #is24-expose-description')
     if generic_desc:
         text = generic_desc.get_text(" ", strip=True)
+        if text:
+            return text
+
+    # Trzeci uklad - "zwykle" oferty agencyjne (ZWERYFIKOWANE 14.09.2026, przyklad
+    # z Kleve, agencja Immobilien Losch). Opis siedzi w span.expose-description-body
+    # wewnatrz sekcji #is24-description-section - bierzemy TYLKO ten span, zeby nie
+    # zlapac tresci bannera o tlumaczeniu ani przycisku "Show more/less".
+    body_el = soup.select_one("#is24-description-section .expose-description-body")
+    if body_el:
+        text = body_el.get_text(" ", strip=True)
         if text:
             return text
 
