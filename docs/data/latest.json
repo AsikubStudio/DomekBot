@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-14T15:11:08.503550+00:00",
-  "count": 35,
+  "generated_at": "2026-09-14T15:13:54.025958+00:00",
+  "count": 40,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-14T14:04:10.875135+00:00",
+      "last_updated": "2026-09-14T15:13:54.025958+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -12,379 +12,6 @@
     }
   },
   "listings": [
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Schöne 2-Zimmer- Wohnung in Emmerich mit WBS",
-      "Cena (€)": 282.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 51.0,
-      "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 8.0,
-      "Odległość od 's-Heerenberg (km)": 2.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-in-emmerich-mit-wbs/3495763542-203-1396",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eec58ec-1caf-4ec5-b130-8a4b3c4ce8e9?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4573b75-e703-4df4-a91f-d080759f94bf?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06d190e6-d5dc-4305-871f-fc7847c737f0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8d5d922-bf8f-42e9-bfb8-2475affac721?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 405.0,
-      "Opis": "Möbliert/Teilmöbliert • Balkon • Stufenloser Zugang • Aufzug • WBS benötigt\n\nSchöne und gemütliche Wohnung in zentraler Lage von Emmerich zu vermieten.\n\nDie Wohnung verfügt über ca. 50 m² Wohnfläche und befindet sich in Innenstadtnähe, nur wenige Gehminuten von EDEKA und weiteren Einkaufsmöglichkeiten entfernt.\n\nWichtig: Für die Anmietung ist ein gültiger Wohnberechtigungsschein (WBS) erforderlich.\n\nWenn Sie Interesse an der Wohnung haben, schreiben Sie mir gerne eine Nachricht.\n\nIch freue mich auf Ihre Nachricht!"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Single Wohnung. Kleve, Siegener Str. 31",
-      "Cena (€)": 429.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 2.0,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-single-wohnung-kleve-siegener-str-31/3500825219-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/3757b051-47fb-4ba6-adad-ba168c0239ee?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/3757b051-47fb-4ba6-adad-ba168c0239ee?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98a95d7f-d39e-43e7-960a-c4ec41283c47?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed200ab3-3a26-44ed-9d6c-881a0ccd1e29?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68490a9c-9fab-45a2-93db-aa8c6a1d09c9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79ce9983-cbe9-448d-945a-a31c7dc61a4c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42cac475-ad36-4621-aa96-fce6e469308f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7d42c23-2861-42e4-bd5c-5c3af69fb3f2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bff96e25-7f7b-4153-8a13-6bf9a33ae31c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46a2321c-30a7-4c87-8b48-ad8086db6ac5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c3c9527a-06a2-4220-8653-3f22a648a002?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f348073-b354-4023-ae9c-d7c95e19db2c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6b14d54-f8a7-4c7e-8589-f2324d83fe99?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 579.0,
-      "Opis": "Balkon\n\nzusätzlich kann ein großer Hobbyraum im Keller für €20 gemietet werden\nNur für Singles und Paare geeignet\nkeine Haustierhaltung, Mindestmietdauer 3 Jahre, Erforderlich: SChufa\nEK Nachweis, 3 MM Kaution\nMietbeginn VB, ----- Telefon 0176/99247393 -------"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Bitte online anfragen! Tolle 2-Zimmer-Wohnung im 2-Familienhaus in Kleve, Jahnstr.",
-      "Cena (€)": 490.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 2.0,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/bitte-online-anfragen-tolle-2-zimmer-wohnung-im-2-familienhaus-in-kleve-jahnstr-/3496075514-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd92db54-2f96-4d64-9ad3-468352c997d8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86af13ed-6f82-4862-ba8f-2c8474fb14a3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/793d8cee-51b9-4494-b134-10b3018f5845?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/138961cc-33ab-46ee-9278-318db3736e7c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a22c066f-bfb0-4613-9226-47247435cb42?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/00c42d20-a832-4c5e-bbf1-2b3b73ca84ed?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51183d2a-82fe-4f99-82c8-90015f602592?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/40/40b416c5-e8c5-4bdc-b53f-6770c64ebe86?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eee7275c-ca84-45f6-9980-77b53815c78f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7aefb86a-36b1-44b6-a168-6c4ba6316bb4?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/634bead9-285f-4963-9fb3-fc715a7b70ca?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 600.0,
-      "Opis": "Gäste WC\n\nBitte online anfragen! BEACHTEN SIE: Der Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n* Ihr Alter\n* Sind Haustiere vorhanden, wenn ja, welche?\n* Was machen Sie beruflich?\n* Rauchen Sie?\n\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen."
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Charmante 2 Zimmer Wohnung mit WBS",
-      "Cena (€)": 504.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 65.0,
-      "Lokalizacja": "47546 Kalkar",
-      "Odległość (km)": 12.0,
-      "Odległość od 's-Heerenberg (km)": 14.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-wohnung-mit-wbs/3508700331-203-1388",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5efbd51-1b0c-4d7c-9522-38865b47591d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/0653c9f5-ed1d-410d-9d34-213228ceb10d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8495717-08e2-41cd-823f-fe7aa242ad83?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0a4f991-502c-4cce-92e6-1c3b99f0d6bf?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84580a2e-b4e8-431c-be3e-fa9804a86e22?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7630d55-1c8a-4a8f-b896-b3dba9eb9932?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066ed109-d558-4eed-bdfa-162b4b7ed982?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43506c0e-a52d-4c56-b958-b3a29397b706?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 684.0,
-      "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • WBS benötigt • Garage/Stellplatz\n\nDiese großzügige 2-Zimmer-Wohnung mit ca. 65 m² Wohnfläche befindet sich in Kalkar. Die Wohnung überzeugt durch ihren offenen Wohn- und Essbereich, der direkten Zugang zum großzügigen Balkonbietet und somit ideal zum Entspannen im Freien ist. Ein separater Abstellraum innerhalb der Wohnung sorgt für zusätzlichen Stauraum.\n\nDie Anmietung der Wohnung ist ausschließlich mit einem gültigen Wohnberechtigungsschein (WBS) möglich."
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Große 2-Zimmer Wohnung Kleve- Oberstadt nähe EOC",
-      "Cena (€)": 510.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 70.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 1.0,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/grosse-2-zimmer-wohnung-kleve-oberstadt-naehe-eoc/3509128830-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6aadc4e-c548-481d-b805-d032d2cb90cd?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51098cb9-495c-4494-8b40-e9b2730cc7e3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/4206258c-638e-4cc1-b3dd-3a114e41ed81?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/739f34af-0929-4542-82f1-835dfc628e90?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b19af0db-8282-43bf-b9c0-834cc87d7738?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/ded975f6-82e0-4bb2-b29d-1b6186fd32ff?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6aadc4e-c548-481d-b805-d032d2cb90cd?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51098cb9-495c-4494-8b40-e9b2730cc7e3?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/4206258c-638e-4cc1-b3dd-3a114e41ed81?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/739f34af-0929-4542-82f1-835dfc628e90?rule=$_1.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Schöne Wohnung im 1. Obergeschoß eines ruhigen 6 Parteienhauses in zentraler Lage von Kleve in der Nähe der Hoffmannallee und des EOC. Die Wohnung besteht aus 2 Zimmern, 1 Küche, 1 komplett saniertem Badezimmer mit begehbarer Dusche, einem überdachten Süd- Balkon mit weiter Aussicht und einem großen Abstellraum im Keller. Auf dem Hofplatz hinterm Haus kann eine Garage zusätzlich angemietet werden ( € 45,00/Monat). Gaszentralheizung, Energieausweis vorhanden (Verbrauchsausweis). Die Wohnung ist in einem sehr gepflegten Zustand mit neuwertigen Laminatböden und wird ab Oktober 2026 an 1 oder 2 Personen vermietet. Hundehaltung ist nicht erlaubt. Bitte stellen Sie sich bei Interesse ausführlich schriftlich vor und geben Sie eine Telefonnummer zur Kontaktaufnahme an."
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung - Zwei Zimmer",
-      "Cena (€)": 540.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 9.0,
-      "Odległość od 's-Heerenberg (km)": 2.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-zwei-zimmer/3506615671-203-1396",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eeb439e8-cfe2-47fa-b71e-945872595c1d?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eeb439e8-cfe2-47fa-b71e-945872595c1d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d94a1252-feda-488d-8e95-6f97e4b0ea52?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/523d9acd-55f5-47d0-9a63-b37a49bc5cde?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23d9ab92-4c6f-4f5b-a5b3-f8199c783e8d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7470806-13a3-45e9-a1ee-0356bddf473d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9d3e33a-84d4-4a10-bf36-73892f94f358?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad981250-8a17-4e69-83ab-710502dddba1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/837789c1-9a56-47b4-8fd7-8d8f80e11a77?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae77fbd8-19fd-41af-b62a-5da785e8d778?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4573b75-e703-4df4-a91f-d080759f94bf?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43506c0e-a52d-4c56-b958-b3a29397b706?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Keller\n\nZwei-Zimmer-Wohnung in direkter Promenadennähe in Emmerich teilmöbiliert abzugeben.\n\nGesamtmiete: 540€ (bereits enthalten sind Betriebskosten), zzgl. Heizkosten (ca. 50€)\n\nMöbel die übernommen werden sollen:\n- Einbauküche voll ausgestattet (mit Geschirrspüler, Kühlschrank, Backofen, Induktionsherd, alle Geräte nur 18 Monate \"alt\")\n- Waschmaschine (18 Monate \"alt\")\n- Sofa (neu, Schlafsofa)\n- Kleiderschrank\n- Schreibtisch\n- Bett\n\nMöbel insgesamt für 3700€ VB abzugeben."
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2ZDDB auf 40m² im 6. OG mit Balkon / Aufzug",
-      "Cena (€)": 550.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 40.0,
-      "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 9.0,
-      "Odległość od 's-Heerenberg (km)": 2.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2zddb-auf-40m-im-6-og-mit-balkon-aufzug/3268574403-203-1396",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51f7936c-916e-475a-af4b-99f9ad47f793?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2ee8e341-e6d1-47ab-a3a9-1660c2b5480a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6ff8279-0eaf-4bf9-83e8-8c68fda6aaf9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13a2b56e-d10b-46a6-8f07-d74301c979ee?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1f6cc9b-eeca-4844-b51b-7cfc1dfc4793?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3ba3308-58d5-48a5-a0c7-350aaba7bfaa?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/1e/1e762340-23aa-44fc-a925-e6a85e7cdeee?rule=$_12.JPG"
-      ],
-      "Czynsz z mediami (€)": 670.0,
-      "Opis": "Balkon • Aufzug\n\nAb dem 01.11.2026 bieten wir diese Single-Whg in dem Hochhaus Am Busch 41 in 46446 Emmerich am Rhein an.\n\nDie Wohnung ist für max. 2 Personen geeignet und besteht aus\n\n1x Schlafzimmer\n1x Wohnzimmer mit Küchennische\n1x innenliegendes Duschbad\n1x Flur\n1x Balkon\n\nDie Wohnung wurde 2021 saniert. Die Bilder sind von einer anderen vergleichbaren Wohnung und dienen nur der Veranschaulichung.\n\nEs wird eine 2% Staffelmiete vereinbart.\n\nMit Rücksichtnahme auf den derzeitigen Mieter werden so wenig Besichtigungstermine wie möglich vergeben. Aus diesem Grunde bitte ich Sie um Kontaktaufnahme via Nachrichtenfunktion von Kleinanzeigen mit folgenden Informationen zu Ihrer Person:\n\nVorname:\n\nNachname:\n\nHandynummer:\n\nBei Abschluss eines Mietvertrages wird eine Vertragsabschlussgebühr von 250,00€ fällig\n\nUnterlagen die wir vor Vertragsunterzeichnung brauchen:\n- eine Kopie Ihres Personalausweises\n- Nachweis über eine Haftpflichtversicherung\n- Nachweis über eine Glasversicherung\n- Schufa Auskunft\n- die letzten drei Lohnabrechnungen / Bescheid vom Amt\n- Mieterselbstauskunft unterschrieben zurück bitte\n\nIrrtümer vorbehalten"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Gemütliche 2-Zimmer-Wohnung – Ideal für Singles oder Paare",
-      "Cena (€)": 550.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 3.0,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-wohnung-ideal-fuer-singles-oder-paare/3475163863-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9eacee09-5997-4905-8884-4a8e53196704?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9eacee09-5997-4905-8884-4a8e53196704?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd0a63ce-8c4c-48f3-ad54-2a8b2c4d511f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/513a2d65-65c6-4f94-9b13-ee83ae2648a2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f95b0ee-4e88-4ad4-97ea-94087de6f5c9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20235f88-678d-493c-8c3e-2724afdaa04c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7dc8a853-0e52-4f89-bfc1-c5dee306a7c7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/27/27ada965-66fc-4dcc-990a-fd5e3c43fda4?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43506c0e-a52d-4c56-b958-b3a29397b706?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b014a926-72bd-4b34-b62f-85190e1b36d6?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 650.0,
-      "Opis": "GEMÜTLICHE 2-ZIMMER-WOHNUNG IN BAHNHOFSNÄHE – MODERNES WOHNEN\n\nZur Vermietung steht eine moderne und gepflegte 2-Zimmer-Wohnung in attraktiver Lage, nur wenige Gehminuten vom Bahnhof entfernt. Die gute Anbindung an den öffentlichen Nahverkehr sowie Einkaufsmöglichkeiten und weitere Einrichtungen des täglichen Bedarfs machen die Wohnung besonders attraktiv.\n\nDie Wohnung überzeugt durch ihren modernen Stil und eine praktische Raumaufteilung. Das großzügige Wohnzimmer bietet viel Platz zum Wohnen und Entspannen. Ergänzt wird die Wohnung durch ein separates Schlafzimmer, einen Flur sowie ein Badezimmer mit Dusche und WC.\n\nVoraussetzung für die Vermietung ist ein bestehendes Arbeitsverhältnis.\n\nAusstattung:\n\n* 2 Zimmer\n* Großzügiges Wohnzimmer\n* Modernes Wohnambiente\n* Badezimmer mit Dusche und WC\n* Flur\n* Bahnhof in unmittelbarer Nähe\n\nMietkonditionen:\n\n* Grundmiete: 550 €\n* Betriebskosten: 100 €\n* Kaution: 1.650 €\n\nKontaktaufnahme ebay:\n\nKontaktaufnahme bitte ausschließlich über unsere Geschäftsmail oder die ebay Nachrichtenfunktion. Wir bitten von Anrufen abzusehen. Wir bitten um eine aussagekräftige Bewerbung. Dazu können Sie die Mieterselbstauskunft von unserer Homepage ausgefüllt an unsere Hausverwaltung zu senden. Sie finden die Mieterselbstauskunft unter kader-immobilien.de/Wohnungen-Haeuser."
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "50qm Etagen-Wohnung, zentral, teilmöbliert, EBK, Stellplatz",
-      "Cena (€)": 550.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 0.9,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/50qm-etagen-wohnung-zentral-teilmoebliert-ebk-stellplatz/3493348678-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9da69934-66ae-4273-955f-4a10cf81a70a?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9da69934-66ae-4273-955f-4a10cf81a70a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2de4cab9-1a6c-4d36-be0c-f2979d20afc0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/6127dc2e-4279-42ab-8931-64736510bd6a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78feaac2-f423-4b7a-b745-3efe33a8a3fe?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afd16680-0674-4318-833f-363db881819c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7969079c-bbc2-4688-8be5-18b90e79700e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08a9b090-2d75-44c8-9990-21e0f3df3205?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90800992-6ec2-4ca6-89a6-0e8d1146c4ac?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f4e06a5-e3a3-4d8e-b5a4-8e7eec850754?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7ece28b8-afb5-49df-8dba-af5f1e8ef973?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9522597-85c0-482f-b54c-82c97ab23ca8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82712826-1eee-4a38-9575-63dfce94a2ae?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 620.0,
-      "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Badewanne • Altbau • Garage/Stellplatz • Garten/-mitnutzung\n\nGroßzügige und gepflegte Wohnung auf zwei Etagen in ruhiger, aber zentralen Lage von Kleve mit 50qm Wohn- und 100qm Nutzfläche.\nDie Wohnung liegt in einem Einfamilienhauses, in dem es nur eine weitere Wohnung gibt – ein idealer Rückzugsort für alle, die Privatsphäre, Komfort und Naturverbundenheit schätzen.\n\nAusstattung im Überblick - Teilmöbliert, inkl.:  - Küchenschränke, Spüle, Herd, Backofen, Spülmaschine  - Kleiderschrank, Couch (Chaiselongue), Fernsehschrank, Geschirrschrank, Kommode  - Küchentisch mit 5 Stühlen, Badezimmerschrank, 2 Spiegel  - Fernseher mit Satellitenanschluss  - Lampen in Wohnräumen - Privater PKW-Stellplatz - Bad mit Badewanne - Waschmaschine im Gemeinschafts-Waschkeller - 250 m² großer Garten\n- 40 m² Terrasse - Ruhige Lage mit Panoramablick über Kleve und bis zur Emmericher Rheinbrücke - Zugang zum Reichswald am Ende der Straße\n\n Die Wohnung befindet sich in einer der begehrtesten Wohnlagen Kleves: ruhig, naturnah und dennoch zentrumsnah gelegen.  Nach hinten eröffnet sich der Blick über den eigenen Garten und eine Villa auf dem Hang, nach vorne genießen Sie eine beeindruckende Aussicht über die Stadt Kleve bis zum Rhein.\nDer Reichswald als Naherholungsgebiet ist fußläufig erreichbar – ideal für Spaziergänge, Jogging oder entspannte Stunden im Grünen.\n\nDie Nebenkosten sind derzeit durch Eigenleistungen (z. B. Hausflurreinigung, Mülltonnen herausstellen, Rasenmähen im Sommer) reduziert. Alternativ kann ein Dienstleister beauftragt werden (mit entsprechendem Nebenkostenaufschlag).  Das Rauchen ist im Haus nicht gestattet. \n\nBevorzugt wird die langfristige Vermietung an 1–2 Personen \nBenötigte Informationen: * Kurze Vorstellung und den Grund Ihres Umzugs * Anzahl der einziehenden Personen\n* Gewünschter Einzugstermin \nErforderliche Unterlagen:\n\nIdentitätsnachweis\nSCHUFA-Auskunft Mieterselbstauskunft Gehaltsnachweis der letzten drei Monate\nMietschuldenfreiheitsbescheinigung vom ehemaligen Vermieter"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Mietwohnung, singlewohnung 40m2 Bedburg Hau",
-      "Cena (€)": 560.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 40.0,
-      "Lokalizacja": "47551 Bedburg-Hau",
-      "Odległość (km)": 7.0,
-      "Odległość od 's-Heerenberg (km)": 13.4,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung-singlewohnung-40m2-bedburg-hau/3502974217-203-1123",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96b8bb32-1d39-4213-9943-49151c63e1fd?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96b8bb32-1d39-4213-9943-49151c63e1fd?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba3680c1-fb66-4929-801d-727ad336a939?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/405efcdb-2fc5-402e-b4e3-cef05532a79e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85149c25-f844-488c-96d9-3f20560682dd?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b986fddb-797a-4241-8f72-c5d27f697ab7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69fa0578-3184-45ec-973a-fd8cced1e25a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d1adcdc-2b24-4e93-9141-67d3e209391e?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84580a2e-b4e8-431c-be3e-fa9804a86e22?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/3841fd36-2ca3-4b49-8252-778ff56791f2?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7630d55-1c8a-4a8f-b896-b3dba9eb9932?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 625.0,
-      "Opis": "Einbauküche • Fußbodenheizung • Neubau\n\nEinziehen und wohlfühlen: Diese gemütliche 40 m² große Singlewohnung kombiniert den unverwechselbaren Charakter eines Bauernhofs mit modernstem Wohnkomfort. Die Wohnung liegt mitten in der idyllischen Natur und wurde komplett kernsaniert. Dank einer nachhaltigen Wärmepumpe und einer behaglichen Fußbodenheizung genießen Sie hier das ganze Jahr über ein perfektes Raumklima und niedrige Energiekosten.\n\nHerzstück der Wohnung: Ein großzügiges Wohn- und Esszimmer inklusive einer modernen, bereits integrierten Einbauküche. Die zu einem Aufpreis von 60€ mit vermietet wird.\nRückzugsort: Ein separates, gemütliches Schlafzimmer mit optimalen Stellmöglichkeiten.Komfort:\nEin stilvolles, frisch saniertes Badezimmer mit hochwertiger Ausstattung.Highlight im Grünen: Ein eigener Gartenanteil lädt zum Entspannen ein. Dieser wird aktuell neu angelegt und steht Ihnen ab 2027 zur vollen Nutzung zur Verfügung.\n\nDie Wohnung befindet sich in einer absolut ruhigen und grünen Oase auf einem charmanten alten Gutshof. Perfekt für Naturliebhaber, die nach dem Feierabend die Ruhe auf dem Land genießen möchten, ohne auf eine gute Anbindung an die umliegenden Ortschaften verzichten zu müssen.\nEinkaufsmöglichkeiten keine 5 Minuten entfernt. Bushaltestelle fussläufig."
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmerwohnung mit Balkon in Emmerich",
-      "Cena (€)": 580.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 10.0,
-      "Odległość od 's-Heerenberg (km)": 2.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmerwohnung-mit-balkon-in-emmerich/3500631522-203-1396",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bac39032-1b5c-44d0-a85e-a4fef182860d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/adf3612a-5225-4d5c-b710-bfd23b2f55a2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/840380a2-dd7e-430e-8848-cb002a9fd3aa?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad9c7fcb-aa4a-4759-ab4a-08eb73af77ac?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe6cc99-cac6-4f3f-a362-00bda2f05dd4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67c7c76a-3430-49b6-949b-476a0c539fd6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08eccc6f-78ff-4c30-a2d5-18cd538f0681?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/0d/0d3045eb-ad8f-4ad2-b4e9-2c90acf9b619?rule=$_12.JPG"
-      ],
-      "Czynsz z mediami (€)": 740.0,
-      "Opis": "Balkon • Einbauküche • Stufenloser Zugang • Fußbodenheizung • Neubau • Aufzug • Garage/Stellplatz\n\nDiese helle und moderne 2-Zimmer-Wohnung befindet sich in einer gepflegten Wohnanlage in Emmerich und bietet Ihnen alles, was Sie für ein ruhiges und angenehmes Wohnambiente benötigen. Ein Aufzug erleichtert den Alltag, besonders wenn Sie viel Mobility benötigen oder Einkaufstouren erledigen.\n\nDie Ausstattung im Überblick:\n\nHelle, freundliche Räume mit zeitgemäßer Gestaltung\nEinbauküche und passende Lampen können vom Vormieter für 2.000 € Verhandlungsbasis übernommen werden. Die Küche ist so gut wie neu, da der Mieter kaum zu Hause war.\nPkw-Stellplatz ist vorhanden und kostet 35 Euro pro Monat\nIdeal sowohl für Singles als auch Paare"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Etagenwohnung mit Balkon ab 01.10.2026 zu vermieten",
-      "Cena (€)": 600.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "47574 Goch",
-      "Odległość (km)": 12.0,
-      "Odległość od 's-Heerenberg (km)": 21.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/etagenwohnung-mit-balkon-ab-01-10-2026-zu-vermieten/3470485583-203-1147",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2393da9-c665-49c9-9a04-82785abcb1f7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe3add0-3453-40e7-a473-4d3f7d582b33?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ee206eb-71f5-413c-a1ff-43a6a9c68553?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1aa945e3-ad82-4509-90c8-678e27ee5425?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0957965e-9fcf-4f3b-af03-2f202bf5be89?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38814eb0-0b63-4616-9fe9-3641f44bde2f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63446d49-04b4-4f1a-adb5-b47a2dadfa1c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/245cb124-dffd-4ea8-b1d4-fcdc0c2a150a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1462b9d-3a4d-421a-ba3a-f203661b895f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df444b07-2d76-45a6-8922-c708a833ab92?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/eb/eb7c93a7-2590-4b29-b01b-ac994c4bb50b?rule=$_12.JPG"
-      ],
-      "Czynsz z mediami (€)": 680.0,
-      "Opis": "Balkon • Badewanne • Keller\n\nVermietet wird eine schöhe helle 2,5 Zimmerwohnung in der City von Goch.\n\ngeheizt wird mit einer eigenen Gastherme (muss mit den jeweiligen Betreiber direkt abgerechnet werden.\n\n1 Wohnraum mit Kochnische und Zugang zum Balkon\n\n1 Schlafzimmer\n\n1 Flur\n\n1 Bad mit Wanne + Dusche\n\n1 Kellerraum\n\nGesamt ca. 54 m²\n\nKosten:\n\nKaltmiete 600,00 €\n\nNK- Vorauszahlung für 1 Person 80,00 €\n\nKauiton 1.800,00 € (3 Kaltmieten)\n\nGas und Strom müssen direkt mit dem jeweiligen Betreiber abgerechnet werden.\n\nEnergieausweis wird zurzeit neu erstellt.\n\nVerdientsnachweise und eine Mieterselbsauskunft sowie eine positive Schufa werden vorausgesetzt."
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Exklusive 2 Zimmer Wohnung mit Dachterrasse",
-      "Cena (€)": 636.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 53.0,
-      "Lokalizacja": "47546 Kalkar",
-      "Odległość (km)": 12.0,
-      "Odległość od 's-Heerenberg (km)": 14.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/exklusive-2-zimmer-wohnung-mit-dachterrasse/3494995514-203-1388",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ade56a2f-d0be-47bf-9552-35d3dd21d96a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a496a744-f4ca-4dfb-af42-115d7807ae28?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15ad3d53-7114-4817-9d4d-abec3364f9b8?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55514f17-ae18-4082-a4b1-0967c8e90004?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0a4f991-502c-4cce-92e6-1c3b99f0d6bf?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe8d15b8-6d01-41ab-bb75-9034fb9e2da1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84580a2e-b4e8-431c-be3e-fa9804a86e22?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b1ba42f-938d-4c5f-b4ca-822914e2f4a4?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 776.0,
-      "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • Garage/Stellplatz\n\nDiese moderne 2-Zimmer-Penthousewohnung mit ca. 53 m² Wohnfläche bietet ein stilvolles und komfortables Zuhause für eine Person. Der hochwertige Neubau überzeugt durch seine Ausstattung, helle Räume und eine großzügige Dachterrasse.\n\nDer offene und großzügig gestaltete Wohn- und Essbereich bildet das Herzstück der Wohnung und sorgt für ein modernes, angenehmes Wohngefühl.\nEin praktischer separater Hauswirtschaftsraum (HWR) sorgt für zusätzlichen Stauraum und ermöglicht eine ordentliche und platzsparende Unterbringung von Waschmaschine, Trockner und weiteren Haushaltsgegenständen.\n\nDie Wohnung ist mit einem modernen Vinylboden ausgestattet. Hochwertige und zeitgemäße Fliesen in den entsprechenden Bereichen runden das moderne Erscheinungsbild ab.\n\nEin besonderes Highlight ist die großzügige Dachterrasse, die zum Entspannen, Sonnen oder gemütlichen Ausklingen des Tages einlädt."
-    },
     {
       "Portal": "ImmoScout24",
       "Tytuł": "Living with character: 2-room apartment in Emmerich am Rhein",
@@ -783,6 +410,503 @@
       ],
       "Czynsz z mediami (€)": 680.0,
       "Opis": "Generously sized, well-kept apartment over two floors in a quiet but central location in Kleve.\nThe apartment is located in a single-family house with only one other apartment—an ideal retreat for anyone who values privacy, comfort and a connection to nature.\n\nFeatures\n- Kitchen cabinets, sink, cooker, oven, dishwasher   - Wardrobe, couch (chaise longue), TV cabinet, dining-serving cabinet, chest of drawers   - Kitchen table with 5 chairs, bathroom cabinet, 2 mirrors   - TV with satellite connection   - Lamps in the living rooms - Private parking space for your car\n- Bathroom with bathtub\n- Washing machine in the shared laundry room\n- 250 m² garden\n- 40 m² terrace\n- \nQuiet location with panoramic views over Kleve and as far as the Emmerich Rhine bridge\n- Access to the Reichswald forest at the end of the street\n\n\nThe apartment is located in one of the most sought-after residential areas of Kleve: quiet, close to nature and yet still near the city centre. \nTo the rear, the view opens up over the private garden and a villa on the hillside; to the front, you can enjoy an impressive view over the city of Kleve up to the Rhine.\nThe Reichswald, a nearby recreation area, is within walking distance—ideal for strolls, jogging or relaxing hours in a green setting.\n\nThe service charges are currently reduced through self-managed services (e.g. cleaning the entrance hall, putting out rubbish bins, mowing the lawn in summer). Alternatively, a service provider can be commissioned (with a corresponding surcharge for service charges).  \n\n\nSmoking is not permitted in the house.  \n\n\nLong-term letting to 1–2 people is preferred. \nInformation required:\n * Brief introduction and the reason for your move\n * Number of people moving in\n* Desired move-in date\n\n\nRequired documents:\nSchufa report\nTenancy self-disclosure form\nProof of income for the last three months\nProof of no rental arrears from the former landlord"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Schöne 2-Zimmer- Wohnung in Emmerich mit WBS",
+      "Cena (€)": 282.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 51.0,
+      "Lokalizacja": "46446 Emmerich am Rhein",
+      "Odległość (km)": 0.6,
+      "Odległość od 's-Heerenberg (km)": 2.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-in-emmerich-mit-wbs/3495763542-203-1396",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eec58ec-1caf-4ec5-b130-8a4b3c4ce8e9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4573b75-e703-4df4-a91f-d080759f94bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06d190e6-d5dc-4305-871f-fc7847c737f0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8d5d922-bf8f-42e9-bfb8-2475affac721?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 405.0,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Stufenloser Zugang • Aufzug • WBS benötigt\n\nSchöne und gemütliche Wohnung in zentraler Lage von Emmerich zu vermieten.\n\nDie Wohnung verfügt über ca. 50 m² Wohnfläche und befindet sich in Innenstadtnähe, nur wenige Gehminuten von EDEKA und weiteren Einkaufsmöglichkeiten entfernt.\n\nWichtig: Für die Anmietung ist ein gültiger Wohnberechtigungsschein (WBS) erforderlich.\n\nWenn Sie Interesse an der Wohnung haben, schreiben Sie mir gerne eine Nachricht.\n\nIch freue mich auf Ihre Nachricht!"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2ZW, 60qm in Anholt zur Miete ab ca. 12/26 mit WBS",
+      "Cena (€)": 291.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "46419 Isselburg",
+      "Odległość (km)": 12.0,
+      "Odległość od 's-Heerenberg (km)": 15.1,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2zw-60qm-in-anholt-zur-miete-ab-ca-12-26-mit-wbs/3500494508-203-1848",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06d190e6-d5dc-4305-871f-fc7847c737f0?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06d190e6-d5dc-4305-871f-fc7847c737f0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9c15e89-0249-422f-97b6-72f769b1887a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b50b304-bfce-4b3b-a66e-92b02a757ab3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c1067ea-2916-4958-9894-2eb4adb0fca0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afcae646-758f-46d9-87de-4dfdea8b4c4c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6575685-8a6b-41a2-a8ec-b214f45c774b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89919bf1-f0f6-41d2-9984-748774802e70?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/3935b579-6995-4de6-ae4c-c82e226de002?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/eacf0500-f2ff-427d-925d-4c606a9fe9c7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/773a3326-760a-4651-9e88-0a7297421a04?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48f7c64d-9c00-4195-bf7c-428f6209c813?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8d5d922-bf8f-42e9-bfb8-2475affac721?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 520.0,
+      "Opis": "Balkon • Einbauküche • Badewanne • Aufzug • Keller • WBS benötigt\n\n2ZW, 60qm, Nähe Markt in Anholt zu vermieten ab Ende des Jahres - ggf. früher\nkalt 291€ + NK 229€ = 520€/Monat, WBS erforderlich, 870€ Kaution\nIdeal für ein Rentnerehepaar\n2 Personen werden vom Amt bevorzugt – bei 1 Person ist ggf. eine Ausnahme möglich\nsehr schön renoviert u.a. mit einem hochwertigen Vinylboden,\nEinbauküche vorhanden, Abstellraum, kleiner Balkon, Bad mit Wanne + Fenster, Aufzug, Keller, Waschraum, Trockenraum.\nBei Interesse melden Sie sich bitte mit einer kurzen Vorstellung.\nDanke Ihnen"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Mietwohnung ab 1.10",
+      "Cena (€)": 400.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 70.0,
+      "Lokalizacja": "46459 Rees",
+      "Odległość (km)": 15.0,
+      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung-ab-1-10/3488478656-203-1389",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066ed109-d558-4eed-bdfa-162b4b7ed982?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066ed109-d558-4eed-bdfa-162b4b7ed982?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5d22558-1448-4660-a958-d5e1a2d6db20?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2add2f03-b49b-40bb-bc0a-bcf2041884fe?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6b5b13c-2be0-48d3-8577-67dfb3ea3db7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7eb9bc2-5e21-43b0-851d-9e837a7d1093?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/455a2719-4253-41f1-86bd-9222b3e75bc2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85be50e5-a6b6-437e-86e5-e23c9fd76858?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59da66b9-3f3a-4fc2-92ff-b6ad21050b3e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a5632ec-aeaf-4a8d-8a2b-3c7043eb33a5?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7630d55-1c8a-4a8f-b896-b3dba9eb9932?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf9da7f4-3818-49c4-b7c5-666ce3fa5626?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee79755-46d5-413f-9b85-d6e51659a1e1?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 500.0,
+      "Opis": "Balkon • Badewanne • Garage/Stellplatz\n\nAngeboten wird eine 2 Zimmer Dachgeschosswohnung. Die Wohnung verfügt über 1 Schlafzimmer. Zur Wohnung gehört ein Stellplatz (ist in der Miete enthalten) sowie einen Kellerraum und waschkeller. Die Wohnung wird ab dem 1.10 frei und kann somit ab dann gemietet werden. Teile der Küche können bei Bedarf übernommen werden."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Single Wohnung. Kleve, Siegener Str. 31",
+      "Cena (€)": 429.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 54.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 10.0,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-single-wohnung-kleve-siegener-str-31/3500825219-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/3757b051-47fb-4ba6-adad-ba168c0239ee?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/3757b051-47fb-4ba6-adad-ba168c0239ee?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98a95d7f-d39e-43e7-960a-c4ec41283c47?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed200ab3-3a26-44ed-9d6c-881a0ccd1e29?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68490a9c-9fab-45a2-93db-aa8c6a1d09c9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79ce9983-cbe9-448d-945a-a31c7dc61a4c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42cac475-ad36-4621-aa96-fce6e469308f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7d42c23-2861-42e4-bd5c-5c3af69fb3f2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bff96e25-7f7b-4153-8a13-6bf9a33ae31c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46a2321c-30a7-4c87-8b48-ad8086db6ac5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c3c9527a-06a2-4220-8653-3f22a648a002?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f348073-b354-4023-ae9c-d7c95e19db2c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6b14d54-f8a7-4c7e-8589-f2324d83fe99?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 579.0,
+      "Opis": "Balkon\n\nzusätzlich kann ein großer Hobbyraum im Keller für €20 gemietet werden\nNur für Singles und Paare geeignet\nkeine Haustierhaltung, Mindestmietdauer 3 Jahre, Erforderlich: SChufa\nEK Nachweis, 3 MM Kaution\nMietbeginn VB, ----- Telefon 0176/99247393 -------"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Bitte online anfragen! Tolle 2-Zimmer-Wohnung im 2-Familienhaus in Kleve, Jahnstr.",
+      "Cena (€)": 490.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 63.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 7.0,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/bitte-online-anfragen-tolle-2-zimmer-wohnung-im-2-familienhaus-in-kleve-jahnstr-/3496075514-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd92db54-2f96-4d64-9ad3-468352c997d8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86af13ed-6f82-4862-ba8f-2c8474fb14a3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/793d8cee-51b9-4494-b134-10b3018f5845?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/138961cc-33ab-46ee-9278-318db3736e7c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a22c066f-bfb0-4613-9226-47247435cb42?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/00c42d20-a832-4c5e-bbf1-2b3b73ca84ed?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51183d2a-82fe-4f99-82c8-90015f602592?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/40/40b416c5-e8c5-4bdc-b53f-6770c64ebe86?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eee7275c-ca84-45f6-9980-77b53815c78f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7aefb86a-36b1-44b6-a168-6c4ba6316bb4?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/634bead9-285f-4963-9fb3-fc715a7b70ca?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 600.0,
+      "Opis": "Gäste WC\n\nBitte online anfragen! BEACHTEN SIE: Der Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n* Ihr Alter\n* Sind Haustiere vorhanden, wenn ja, welche?\n* Was machen Sie beruflich?\n* Rauchen Sie?\n\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Charmante 2 Zimmer Wohnung mit WBS",
+      "Cena (€)": 504.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 65.0,
+      "Lokalizacja": "47546 Kalkar",
+      "Odległość (km)": 12.0,
+      "Odległość od 's-Heerenberg (km)": 14.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-wohnung-mit-wbs/3508700331-203-1388",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5efbd51-1b0c-4d7c-9522-38865b47591d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/0653c9f5-ed1d-410d-9d34-213228ceb10d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8495717-08e2-41cd-823f-fe7aa242ad83?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0a4f991-502c-4cce-92e6-1c3b99f0d6bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84580a2e-b4e8-431c-be3e-fa9804a86e22?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7630d55-1c8a-4a8f-b896-b3dba9eb9932?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066ed109-d558-4eed-bdfa-162b4b7ed982?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43506c0e-a52d-4c56-b958-b3a29397b706?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 684.0,
+      "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • WBS benötigt • Garage/Stellplatz\n\nDiese großzügige 2-Zimmer-Wohnung mit ca. 65 m² Wohnfläche befindet sich in Kalkar. Die Wohnung überzeugt durch ihren offenen Wohn- und Essbereich, der direkten Zugang zum großzügigen Balkonbietet und somit ideal zum Entspannen im Freien ist. Ein separater Abstellraum innerhalb der Wohnung sorgt für zusätzlichen Stauraum.\n\nDie Anmietung der Wohnung ist ausschließlich mit einem gültigen Wohnberechtigungsschein (WBS) möglich."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Große 2-Zimmer Wohnung Kleve- Oberstadt nähe EOC",
+      "Cena (€)": 510.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 70.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 10.0,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/grosse-2-zimmer-wohnung-kleve-oberstadt-naehe-eoc/3509128830-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6aadc4e-c548-481d-b805-d032d2cb90cd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51098cb9-495c-4494-8b40-e9b2730cc7e3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/4206258c-638e-4cc1-b3dd-3a114e41ed81?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/739f34af-0929-4542-82f1-835dfc628e90?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b19af0db-8282-43bf-b9c0-834cc87d7738?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/ded975f6-82e0-4bb2-b29d-1b6186fd32ff?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6aadc4e-c548-481d-b805-d032d2cb90cd?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51098cb9-495c-4494-8b40-e9b2730cc7e3?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/4206258c-638e-4cc1-b3dd-3a114e41ed81?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/739f34af-0929-4542-82f1-835dfc628e90?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Schöne Wohnung im 1. Obergeschoß eines ruhigen 6 Parteienhauses in zentraler Lage von Kleve in der Nähe der Hoffmannallee und des EOC. Die Wohnung besteht aus 2 Zimmern, 1 Küche, 1 komplett saniertem Badezimmer mit begehbarer Dusche, einem überdachten Süd- Balkon mit weiter Aussicht und einem großen Abstellraum im Keller. Auf dem Hofplatz hinterm Haus kann eine Garage zusätzlich angemietet werden ( € 45,00/Monat). Gaszentralheizung, Energieausweis vorhanden (Verbrauchsausweis). Die Wohnung ist in einem sehr gepflegten Zustand mit neuwertigen Laminatböden und wird ab Oktober 2026 an 1 oder 2 Personen vermietet. Hundehaltung ist nicht erlaubt. Bitte stellen Sie sich bei Interesse ausführlich schriftlich vor und geben Sie eine Telefonnummer zur Kontaktaufnahme an."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung - Zwei Zimmer",
+      "Cena (€)": 540.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "46446 Emmerich am Rhein",
+      "Odległość (km)": 0.6,
+      "Odległość od 's-Heerenberg (km)": 2.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-zwei-zimmer/3506615671-203-1396",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eeb439e8-cfe2-47fa-b71e-945872595c1d?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eeb439e8-cfe2-47fa-b71e-945872595c1d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d94a1252-feda-488d-8e95-6f97e4b0ea52?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/523d9acd-55f5-47d0-9a63-b37a49bc5cde?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23d9ab92-4c6f-4f5b-a5b3-f8199c783e8d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7470806-13a3-45e9-a1ee-0356bddf473d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9d3e33a-84d4-4a10-bf36-73892f94f358?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad981250-8a17-4e69-83ab-710502dddba1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/837789c1-9a56-47b4-8fd7-8d8f80e11a77?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae77fbd8-19fd-41af-b62a-5da785e8d778?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4573b75-e703-4df4-a91f-d080759f94bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43506c0e-a52d-4c56-b958-b3a29397b706?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Keller\n\nZwei-Zimmer-Wohnung in direkter Promenadennähe in Emmerich teilmöbiliert abzugeben.\n\nGesamtmiete: 540€ (bereits enthalten sind Betriebskosten), zzgl. Heizkosten (ca. 50€)\n\nMöbel die übernommen werden sollen:\n- Einbauküche voll ausgestattet (mit Geschirrspüler, Kühlschrank, Backofen, Induktionsherd, alle Geräte nur 18 Monate \"alt\")\n- Waschmaschine (18 Monate \"alt\")\n- Sofa (neu, Schlafsofa)\n- Kleiderschrank\n- Schreibtisch\n- Bett\n\nMöbel insgesamt für 3700€ VB abzugeben."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2ZDDB auf 40m² im 6. OG mit Balkon / Aufzug",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 40.0,
+      "Lokalizacja": "46446 Emmerich am Rhein",
+      "Odległość (km)": 1.0,
+      "Odległość od 's-Heerenberg (km)": 2.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2zddb-auf-40m-im-6-og-mit-balkon-aufzug/3268574403-203-1396",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51f7936c-916e-475a-af4b-99f9ad47f793?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2ee8e341-e6d1-47ab-a3a9-1660c2b5480a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6ff8279-0eaf-4bf9-83e8-8c68fda6aaf9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13a2b56e-d10b-46a6-8f07-d74301c979ee?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1f6cc9b-eeca-4844-b51b-7cfc1dfc4793?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3ba3308-58d5-48a5-a0c7-350aaba7bfaa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/1e/1e762340-23aa-44fc-a925-e6a85e7cdeee?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 670.0,
+      "Opis": "Balkon • Aufzug\n\nAb dem 01.11.2026 bieten wir diese Single-Whg in dem Hochhaus Am Busch 41 in 46446 Emmerich am Rhein an.\n\nDie Wohnung ist für max. 2 Personen geeignet und besteht aus\n\n1x Schlafzimmer\n1x Wohnzimmer mit Küchennische\n1x innenliegendes Duschbad\n1x Flur\n1x Balkon\n\nDie Wohnung wurde 2021 saniert. Die Bilder sind von einer anderen vergleichbaren Wohnung und dienen nur der Veranschaulichung.\n\nEs wird eine 2% Staffelmiete vereinbart.\n\nMit Rücksichtnahme auf den derzeitigen Mieter werden so wenig Besichtigungstermine wie möglich vergeben. Aus diesem Grunde bitte ich Sie um Kontaktaufnahme via Nachrichtenfunktion von Kleinanzeigen mit folgenden Informationen zu Ihrer Person:\n\nVorname:\n\nNachname:\n\nHandynummer:\n\nBei Abschluss eines Mietvertrages wird eine Vertragsabschlussgebühr von 250,00€ fällig\n\nUnterlagen die wir vor Vertragsunterzeichnung brauchen:\n- eine Kopie Ihres Personalausweises\n- Nachweis über eine Haftpflichtversicherung\n- Nachweis über eine Glasversicherung\n- Schufa Auskunft\n- die letzten drei Lohnabrechnungen / Bescheid vom Amt\n- Mieterselbstauskunft unterschrieben zurück bitte\n\nIrrtümer vorbehalten"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Gemütliche 2-Zimmer-Wohnung – Ideal für Singles oder Paare",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 54.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 8.0,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-wohnung-ideal-fuer-singles-oder-paare/3475163863-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9eacee09-5997-4905-8884-4a8e53196704?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9eacee09-5997-4905-8884-4a8e53196704?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd0a63ce-8c4c-48f3-ad54-2a8b2c4d511f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/513a2d65-65c6-4f94-9b13-ee83ae2648a2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f95b0ee-4e88-4ad4-97ea-94087de6f5c9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20235f88-678d-493c-8c3e-2724afdaa04c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7dc8a853-0e52-4f89-bfc1-c5dee306a7c7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/27/27ada965-66fc-4dcc-990a-fd5e3c43fda4?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43506c0e-a52d-4c56-b958-b3a29397b706?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b014a926-72bd-4b34-b62f-85190e1b36d6?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 650.0,
+      "Opis": "GEMÜTLICHE 2-ZIMMER-WOHNUNG IN BAHNHOFSNÄHE – MODERNES WOHNEN\n\nZur Vermietung steht eine moderne und gepflegte 2-Zimmer-Wohnung in attraktiver Lage, nur wenige Gehminuten vom Bahnhof entfernt. Die gute Anbindung an den öffentlichen Nahverkehr sowie Einkaufsmöglichkeiten und weitere Einrichtungen des täglichen Bedarfs machen die Wohnung besonders attraktiv.\n\nDie Wohnung überzeugt durch ihren modernen Stil und eine praktische Raumaufteilung. Das großzügige Wohnzimmer bietet viel Platz zum Wohnen und Entspannen. Ergänzt wird die Wohnung durch ein separates Schlafzimmer, einen Flur sowie ein Badezimmer mit Dusche und WC.\n\nVoraussetzung für die Vermietung ist ein bestehendes Arbeitsverhältnis.\n\nAusstattung:\n\n* 2 Zimmer\n* Großzügiges Wohnzimmer\n* Modernes Wohnambiente\n* Badezimmer mit Dusche und WC\n* Flur\n* Bahnhof in unmittelbarer Nähe\n\nMietkonditionen:\n\n* Grundmiete: 550 €\n* Betriebskosten: 100 €\n* Kaution: 1.650 €\n\nKontaktaufnahme ebay:\n\nKontaktaufnahme bitte ausschließlich über unsere Geschäftsmail oder die ebay Nachrichtenfunktion. Wir bitten von Anrufen abzusehen. Wir bitten um eine aussagekräftige Bewerbung. Dazu können Sie die Mieterselbstauskunft von unserer Homepage ausgefüllt an unsere Hausverwaltung zu senden. Sie finden die Mieterselbstauskunft unter kader-immobilien.de/Wohnungen-Haeuser."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "50qm Etagen-Wohnung, zentral, teilmöbliert, EBK, Stellplatz",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 9.0,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/50qm-etagen-wohnung-zentral-teilmoebliert-ebk-stellplatz/3493348678-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9da69934-66ae-4273-955f-4a10cf81a70a?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9da69934-66ae-4273-955f-4a10cf81a70a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2de4cab9-1a6c-4d36-be0c-f2979d20afc0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/6127dc2e-4279-42ab-8931-64736510bd6a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78feaac2-f423-4b7a-b745-3efe33a8a3fe?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afd16680-0674-4318-833f-363db881819c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7969079c-bbc2-4688-8be5-18b90e79700e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08a9b090-2d75-44c8-9990-21e0f3df3205?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90800992-6ec2-4ca6-89a6-0e8d1146c4ac?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f4e06a5-e3a3-4d8e-b5a4-8e7eec850754?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7ece28b8-afb5-49df-8dba-af5f1e8ef973?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9522597-85c0-482f-b54c-82c97ab23ca8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82712826-1eee-4a38-9575-63dfce94a2ae?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 620.0,
+      "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Badewanne • Altbau • Garage/Stellplatz • Garten/-mitnutzung\n\nGroßzügige und gepflegte Wohnung auf zwei Etagen in ruhiger, aber zentralen Lage von Kleve mit 50qm Wohn- und 100qm Nutzfläche.\nDie Wohnung liegt in einem Einfamilienhauses, in dem es nur eine weitere Wohnung gibt – ein idealer Rückzugsort für alle, die Privatsphäre, Komfort und Naturverbundenheit schätzen.\n\nAusstattung im Überblick - Teilmöbliert, inkl.:  - Küchenschränke, Spüle, Herd, Backofen, Spülmaschine  - Kleiderschrank, Couch (Chaiselongue), Fernsehschrank, Geschirrschrank, Kommode  - Küchentisch mit 5 Stühlen, Badezimmerschrank, 2 Spiegel  - Fernseher mit Satellitenanschluss  - Lampen in Wohnräumen - Privater PKW-Stellplatz - Bad mit Badewanne - Waschmaschine im Gemeinschafts-Waschkeller - 250 m² großer Garten\n- 40 m² Terrasse - Ruhige Lage mit Panoramablick über Kleve und bis zur Emmericher Rheinbrücke - Zugang zum Reichswald am Ende der Straße\n\n Die Wohnung befindet sich in einer der begehrtesten Wohnlagen Kleves: ruhig, naturnah und dennoch zentrumsnah gelegen.  Nach hinten eröffnet sich der Blick über den eigenen Garten und eine Villa auf dem Hang, nach vorne genießen Sie eine beeindruckende Aussicht über die Stadt Kleve bis zum Rhein.\nDer Reichswald als Naherholungsgebiet ist fußläufig erreichbar – ideal für Spaziergänge, Jogging oder entspannte Stunden im Grünen.\n\nDie Nebenkosten sind derzeit durch Eigenleistungen (z. B. Hausflurreinigung, Mülltonnen herausstellen, Rasenmähen im Sommer) reduziert. Alternativ kann ein Dienstleister beauftragt werden (mit entsprechendem Nebenkostenaufschlag).  Das Rauchen ist im Haus nicht gestattet. \n\nBevorzugt wird die langfristige Vermietung an 1–2 Personen \nBenötigte Informationen: * Kurze Vorstellung und den Grund Ihres Umzugs * Anzahl der einziehenden Personen\n* Gewünschter Einzugstermin \nErforderliche Unterlagen:\n\nIdentitätsnachweis\nSCHUFA-Auskunft Mieterselbstauskunft Gehaltsnachweis der letzten drei Monate\nMietschuldenfreiheitsbescheinigung vom ehemaligen Vermieter"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Mietwohnung, singlewohnung 40m2 Bedburg Hau",
+      "Cena (€)": 560.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 40.0,
+      "Lokalizacja": "47551 Bedburg-Hau",
+      "Odległość (km)": 8.0,
+      "Odległość od 's-Heerenberg (km)": 13.4,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung-singlewohnung-40m2-bedburg-hau/3502974217-203-1123",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96b8bb32-1d39-4213-9943-49151c63e1fd?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96b8bb32-1d39-4213-9943-49151c63e1fd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba3680c1-fb66-4929-801d-727ad336a939?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/405efcdb-2fc5-402e-b4e3-cef05532a79e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85149c25-f844-488c-96d9-3f20560682dd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b986fddb-797a-4241-8f72-c5d27f697ab7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69fa0578-3184-45ec-973a-fd8cced1e25a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d1adcdc-2b24-4e93-9141-67d3e209391e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84580a2e-b4e8-431c-be3e-fa9804a86e22?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/3841fd36-2ca3-4b49-8252-778ff56791f2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7630d55-1c8a-4a8f-b896-b3dba9eb9932?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 625.0,
+      "Opis": "Einbauküche • Fußbodenheizung • Neubau\n\nEinziehen und wohlfühlen: Diese gemütliche 40 m² große Singlewohnung kombiniert den unverwechselbaren Charakter eines Bauernhofs mit modernstem Wohnkomfort. Die Wohnung liegt mitten in der idyllischen Natur und wurde komplett kernsaniert. Dank einer nachhaltigen Wärmepumpe und einer behaglichen Fußbodenheizung genießen Sie hier das ganze Jahr über ein perfektes Raumklima und niedrige Energiekosten.\n\nHerzstück der Wohnung: Ein großzügiges Wohn- und Esszimmer inklusive einer modernen, bereits integrierten Einbauküche. Die zu einem Aufpreis von 60€ mit vermietet wird.\nRückzugsort: Ein separates, gemütliches Schlafzimmer mit optimalen Stellmöglichkeiten.Komfort:\nEin stilvolles, frisch saniertes Badezimmer mit hochwertiger Ausstattung.Highlight im Grünen: Ein eigener Gartenanteil lädt zum Entspannen ein. Dieser wird aktuell neu angelegt und steht Ihnen ab 2027 zur vollen Nutzung zur Verfügung.\n\nDie Wohnung befindet sich in einer absolut ruhigen und grünen Oase auf einem charmanten alten Gutshof. Perfekt für Naturliebhaber, die nach dem Feierabend die Ruhe auf dem Land genießen möchten, ohne auf eine gute Anbindung an die umliegenden Ortschaften verzichten zu müssen.\nEinkaufsmöglichkeiten keine 5 Minuten entfernt. Bushaltestelle fussläufig."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmerwohnung mit Balkon in Emmerich",
+      "Cena (€)": 580.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 54.0,
+      "Lokalizacja": "46446 Emmerich am Rhein",
+      "Odległość (km)": 1.0,
+      "Odległość od 's-Heerenberg (km)": 2.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmerwohnung-mit-balkon-in-emmerich/3500631522-203-1396",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bac39032-1b5c-44d0-a85e-a4fef182860d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/adf3612a-5225-4d5c-b710-bfd23b2f55a2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/840380a2-dd7e-430e-8848-cb002a9fd3aa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad9c7fcb-aa4a-4759-ab4a-08eb73af77ac?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe6cc99-cac6-4f3f-a362-00bda2f05dd4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67c7c76a-3430-49b6-949b-476a0c539fd6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08eccc6f-78ff-4c30-a2d5-18cd538f0681?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/0d/0d3045eb-ad8f-4ad2-b4e9-2c90acf9b619?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 740.0,
+      "Opis": "Balkon • Einbauküche • Stufenloser Zugang • Fußbodenheizung • Neubau • Aufzug • Garage/Stellplatz\n\nDiese helle und moderne 2-Zimmer-Wohnung befindet sich in einer gepflegten Wohnanlage in Emmerich und bietet Ihnen alles, was Sie für ein ruhiges und angenehmes Wohnambiente benötigen. Ein Aufzug erleichtert den Alltag, besonders wenn Sie viel Mobility benötigen oder Einkaufstouren erledigen.\n\nDie Ausstattung im Überblick:\n\nHelle, freundliche Räume mit zeitgemäßer Gestaltung\nEinbauküche und passende Lampen können vom Vormieter für 2.000 € Verhandlungsbasis übernommen werden. Die Küche ist so gut wie neu, da der Mieter kaum zu Hause war.\nPkw-Stellplatz ist vorhanden und kostet 35 Euro pro Monat\nIdeal sowohl für Singles als auch Paare"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Dachgeschosswohnung in Millingen 66 m² zu vermieten",
+      "Cena (€)": 599.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 66.0,
+      "Lokalizacja": "46419 Isselburg",
+      "Odległość (km)": 15.0,
+      "Odległość od 's-Heerenberg (km)": 15.1,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-dachgeschosswohnung-in-millingen-66-m-zu-vermieten/3512357872-203-1848",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8532f64a-5d76-4416-86d6-0df2f403d4b3?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8532f64a-5d76-4416-86d6-0df2f403d4b3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/567f7f09-6be8-4e39-ac8f-28feef4c0820?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/880bbf9f-2e8a-433f-8b1c-16c73ab0078a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2f1c958-907e-4315-a44a-299604efd158?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de343150-ac74-4a90-855f-d9e8e814f311?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e4a1c51-601d-44e6-afee-18a7203bdadb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/869ccdeb-8272-4499-92d7-8222e743722d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8532f64a-5d76-4416-86d6-0df2f403d4b3?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/567f7f09-6be8-4e39-ac8f-28feef4c0820?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/880bbf9f-2e8a-433f-8b1c-16c73ab0078a?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2f1c958-907e-4315-a44a-299604efd158?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de343150-ac74-4a90-855f-d9e8e814f311?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Wir vermieten eine schöne 2- Zimmer Wohnung, die sich zentral in Rees Millingen befindet.\nVom Flur aus gelangen Sie in alle Räume der Wohnung.\nDie vorhandene Einbauküche kann gerne vom Vormieter übernommen werden.\nDas Wohnzimmer ist großzügig geschnitten, so dass noch eine Essecke / Homeoffice- Platz eingerichtet werden kann.\nDas Bad ist mit einer Dusche ausgestattet.\n\nZu der Wohnung gehört ein Kellerraum. Die Wohnung liegt im 2. OG, es ist kein Aufzug vorhanden.\n\nDie Wohnung hat keinen Balkon.\n\nBitte teilen Sie uns bei Ihrer Anfrage mindestens die folgenden Details mit:\n- mit wieviel Personen möchten Sie einziehen?\n- sind Sie berufstätig?\n- haben Sie Haustiere?"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Schöne helle 2-Zi Wohnung in Bauernhaus in  Haldern",
+      "Cena (€)": 600.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 65.0,
+      "Lokalizacja": "46459 Rees",
+      "Odległość (km)": 15.0,
+      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-helle-2-zi-wohnung-in-bauernhaus-in-haldern/3508297680-203-1389",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/2755a4b2-6030-4ddf-a038-20373ace1e7d?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": ""
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Etagenwohnung mit Balkon ab 01.10.2026 zu vermieten",
+      "Cena (€)": 600.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 54.0,
+      "Lokalizacja": "47574 Goch",
+      "Odległość (km)": 12.0,
+      "Odległość od 's-Heerenberg (km)": 21.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/etagenwohnung-mit-balkon-ab-01-10-2026-zu-vermieten/3470485583-203-1147",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2393da9-c665-49c9-9a04-82785abcb1f7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe3add0-3453-40e7-a473-4d3f7d582b33?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ee206eb-71f5-413c-a1ff-43a6a9c68553?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1aa945e3-ad82-4509-90c8-678e27ee5425?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0957965e-9fcf-4f3b-af03-2f202bf5be89?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38814eb0-0b63-4616-9fe9-3641f44bde2f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63446d49-04b4-4f1a-adb5-b47a2dadfa1c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/245cb124-dffd-4ea8-b1d4-fcdc0c2a150a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1462b9d-3a4d-421a-ba3a-f203661b895f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df444b07-2d76-45a6-8922-c708a833ab92?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/eb/eb7c93a7-2590-4b29-b01b-ac994c4bb50b?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Balkon • Badewanne • Keller\n\nVermietet wird eine schöhe helle 2,5 Zimmerwohnung in der City von Goch.\n\ngeheizt wird mit einer eigenen Gastherme (muss mit den jeweiligen Betreiber direkt abgerechnet werden.\n\n1 Wohnraum mit Kochnische und Zugang zum Balkon\n\n1 Schlafzimmer\n\n1 Flur\n\n1 Bad mit Wanne + Dusche\n\n1 Kellerraum\n\nGesamt ca. 54 m²\n\nKosten:\n\nKaltmiete 600,00 €\n\nNK- Vorauszahlung für 1 Person 80,00 €\n\nKauiton 1.800,00 € (3 Kaltmieten)\n\nGas und Strom müssen direkt mit dem jeweiligen Betreiber abgerechnet werden.\n\nEnergieausweis wird zurzeit neu erstellt.\n\nVerdientsnachweise und eine Mieterselbsauskunft sowie eine positive Schufa werden vorausgesetzt."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Exklusive 2 Zimmer Wohnung mit Dachterrasse",
+      "Cena (€)": 636.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 53.0,
+      "Lokalizacja": "47546 Kalkar",
+      "Odległość (km)": 12.0,
+      "Odległość od 's-Heerenberg (km)": 14.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/exklusive-2-zimmer-wohnung-mit-dachterrasse/3494995514-203-1388",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ade56a2f-d0be-47bf-9552-35d3dd21d96a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a496a744-f4ca-4dfb-af42-115d7807ae28?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15ad3d53-7114-4817-9d4d-abec3364f9b8?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55514f17-ae18-4082-a4b1-0967c8e90004?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0a4f991-502c-4cce-92e6-1c3b99f0d6bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe8d15b8-6d01-41ab-bb75-9034fb9e2da1?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84580a2e-b4e8-431c-be3e-fa9804a86e22?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b1ba42f-938d-4c5f-b4ca-822914e2f4a4?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 776.0,
+      "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • Garage/Stellplatz\n\nDiese moderne 2-Zimmer-Penthousewohnung mit ca. 53 m² Wohnfläche bietet ein stilvolles und komfortables Zuhause für eine Person. Der hochwertige Neubau überzeugt durch seine Ausstattung, helle Räume und eine großzügige Dachterrasse.\n\nDer offene und großzügig gestaltete Wohn- und Essbereich bildet das Herzstück der Wohnung und sorgt für ein modernes, angenehmes Wohngefühl.\nEin praktischer separater Hauswirtschaftsraum (HWR) sorgt für zusätzlichen Stauraum und ermöglicht eine ordentliche und platzsparende Unterbringung von Waschmaschine, Trockner und weiteren Haushaltsgegenständen.\n\nDie Wohnung ist mit einem modernen Vinylboden ausgestattet. Hochwertige und zeitgemäße Fliesen in den entsprechenden Bereichen runden das moderne Erscheinungsbild ab.\n\nEin besonderes Highlight ist die großzügige Dachterrasse, die zum Entspannen, Sonnen oder gemütlichen Ausklingen des Tages einlädt."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Dachgeschosswohnung 69 qm, Goch-Kessel",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 69.0,
+      "Lokalizacja": "47574 Goch",
+      "Odległość (km)": 15.0,
+      "Odległość od 's-Heerenberg (km)": 21.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschosswohnung-69-qm-goch-kessel/3495713151-203-1147",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/3841fd36-2ca3-4b49-8252-778ff56791f2?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": ""
     }
   ]
 }
