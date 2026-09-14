@@ -319,8 +319,15 @@
   .notify-status.success { color: var(--accent-ink); }
   .notify-status.error { color: #b0453f; }
   @media (max-width: 520px) {
-    .modal { border-radius: 0; max-width: none; min-height: 100%; margin: 0; }
-    .modal-overlay { padding: 0; align-items: stretch; }
+    .modal {
+      border-radius: 0; max-width: none; height: 100%; margin: 0;
+      display: flex; flex-direction: column;
+    }
+    .modal-overlay { padding: 0; align-items: stretch; overflow: hidden; }
+    .modal-carousel { flex-shrink: 0; }
+    .modal-body {
+      flex: 1; min-height: 0; overflow-y: auto; -webkit-overflow-scrolling: touch;
+    }
   }
 </style>
 </head>
