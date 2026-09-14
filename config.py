@@ -15,20 +15,19 @@ REQUIRE_SEPARATE_ROOMS = True  # odrzucaj oferty opisane jako "studio"/"1-Zimmer
 # --- Lokalizacja ---
 CENTER_CITY = "Emmerich am Rhein"
 CENTER_PLZ = "46446"
-MAX_DISTANCE_KM = 15
+MAX_DISTANCE_KM = 20
 DIRECTION_HINT = "Kleve"  # tylko informacyjnie w logach, filtrowanie i tak jest promieniem
 
-# Białą listę miejscowości w promieniu ~15 km od Emmerich (w stronę Kleve) można
+# Białą listę miejscowości w promieniu ~20 km od Emmerich (w stronę Kleve) można
 # rozszerzyć ręcznie, jeśli geokodowanie zawiedzie albo ogłoszenie nie ma współrzędnych.
-# Miejscowości/dzielnice orientacyjnie w promieniu 15 km od Emmerich am Rhein:
+# Miejscowości/dzielnice orientacyjnie w promieniu 20 km od Emmerich am Rhein:
 KNOWN_NEARBY_PLACES = [
     "emmerich am rhein", "emmerich",
     "rees", "isselburg", "elten",
     "kranenburg", "bedburg-hau", "kellen",
     "praest", "vrasselt", "hüthum", "huethum",
     "zevenaar",  # NL, blisko granicy
-    # "kleve" jest ~20 km, dodaj świadomie jeśli chcesz je uwzględnić mimo promienia:
-    # "kleve",
+    "kleve",  # ~20 km - mieści się w nowym promieniu
 ]
 
 # --- Wyposażenie ---
@@ -81,10 +80,12 @@ IMMOSCOUT24_LOCATION_SLUGS = [
 ]
 
 # Kleinanzeigen używa własnych wewnętrznych ID lokalizacji (nie PLZ!).
-# 1395 = Emmerich am Rhein, 1122 = Kleve - namierzone z realnych linków wyszukiwania.
+# 1395 = Emmerich am Rhein, 1122 = Kleve, 1387 = Rees - namierzone z realnych
+# linków wyszukiwania (1387 potwierdzone przez /s-ort-empfehlungen.json?query=Rees).
 KLEINANZEIGEN_LOCATIONS = [
-    {"slug": "emmerich-am-rhein", "location_id": "1395", "radius_km": 15},
-    {"slug": "kleve", "location_id": "1122", "radius_km": 15},
+    {"slug": "emmerich-am-rhein", "location_id": "1395", "radius_km": 20},
+    {"slug": "kleve", "location_id": "1122", "radius_km": 20},
+    {"slug": "rees", "location_id": "1387", "radius_km": 20},
 ]
 
 # Które portale mają być przeszukiwane (można wyłączyć pojedynczo do debugowania)

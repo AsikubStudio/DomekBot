@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Mieszkania — Emmerich / Kleve</title>
+<title>Mieszkania dla Jelenia</title>
 <meta name="theme-color" content="#9F415A">
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon-192.png">
@@ -278,6 +278,14 @@
   .modal-description summary::after { content: ' ▾'; }
   .modal-description[open] summary::after { content: ' ▴'; }
   .modal-description-text { margin-top: 10px; font-size: 13.5px; color: var(--ink-soft); white-space: pre-wrap; line-height: 1.6; }
+  .translate-btn {
+    margin-top: 10px; padding: 6px 12px; border-radius: 100px; border: 1px solid var(--border);
+    background: var(--bg-raised); color: var(--accent-ink); font-size: 12.5px; font-weight: 500;
+    cursor: pointer; font-family: inherit;
+  }
+  .translate-btn:hover { background: var(--accent-soft); }
+  .translate-btn:disabled { opacity: 0.6; cursor: default; }
+  .modal-description-translated { border-top: 1px dashed var(--border); padding-top: 10px; }
   .modal-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; padding-top: 14px; border-top: 1px solid var(--border); }
   .notify-row { margin-top: 12px; }
   .notify-btn {
@@ -319,16 +327,14 @@
 <body>
 <div class="wrap">
   <header class="top">
-    <h1>🏠 Mieszkania — Emmerich / Kleve</h1>
+    <h1>🏠 Mieszkania dla Jelenia</h1>
   </header>
   <p class="subtitle">
     <span id="lastUpdated">Ładowanie...</span>
     <button class="refresh-btn" id="refreshBtn" title="Wczytuje ponownie już zapisane dane ze strony, bez odpytywania portalu">↻ Odśwież widok</button>
     <button class="refresh-btn primary" id="triggerBtn" title="Zleca botowi nowe sprawdzenie Kleinanzeigen w tej chwili, nie czekając na harmonogram co 3h">🔄 Sprawdź teraz (Kleinanzeigen)</button>
-    <button class="refresh-btn" id="discordTestBtn" title="Wysyła testowe powiadomienie na Discorda, żeby sprawdzić czy webhook działa">💬 Testuj Discord</button>
   </p>
   <p id="triggerStatus" class="subtitle" style="display:none; font-size:13px;"></p>
-  <p id="discordTestStatus" class="subtitle" style="display:none; font-size:13px;"></p>
 
   <div class="status-panel" id="statusPanel"></div>
 
@@ -380,6 +386,8 @@
       <details class="modal-description" id="modalDescriptionDetails" hidden>
         <summary>Opis oferty</summary>
         <div class="modal-description-text" id="modalDescriptionText"></div>
+        <button class="translate-btn" id="translateDescBtn" type="button" style="display:none;">🌐 Przetłumacz na polski</button>
+        <div class="modal-description-text modal-description-translated" id="modalDescriptionTranslated" style="display:none;"></div>
       </details>
       <div class="modal-footer">
         <span class="badge" id="modalBadge"></span>
@@ -503,7 +511,7 @@
     const facts = [];
     if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
     if (l.size) facts.push(`<span class="fact"><strong>${l.size}</strong> m²</span>`);
-    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km</span>`);
+    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km od Emmerich</span>`);
     if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
 
     const thumb = l.image
@@ -689,11 +697,80 @@
   const modalFacts = document.getElementById('modalFacts');
   const modalDescriptionDetails = document.getElementById('modalDescriptionDetails');
   const modalDescriptionText = document.getElementById('modalDescriptionText');
+  const translateDescBtn = document.getElementById('translateDescBtn');
+  const modalDescriptionTranslated = document.getElementById('modalDescriptionTranslated');
   const modalBadge = document.getElementById('modalBadge');
   const modalViewLink = document.getElementById('modalViewLink');
 
   let carouselImages = [];
   let carouselIndex = 0;
+  let showingTranslation = false;
+
+  // Darmowe tłumaczenie DE -> PL przez publiczne API MyMemory (bez klucza, limit
+  // ok. 500 znaków/zapytanie i ok. 5000 znaków/dzień anonimowo - w sam raz do
+  // okazjonalnego tłumaczenia pojedynczych opisów ofert).
+  async function translateToPolish(text) {
+    const chunks = [];
+    let remaining = text;
+    while (remaining.length > 0) {
+      if (remaining.length <= 450) {
+        chunks.push(remaining);
+        break;
+      }
+      let cut = remaining.lastIndexOf('. ', 450);
+      if (cut < 100) cut = 450;
+      chunks.push(remaining.slice(0, cut + 1));
+      remaining = remaining.slice(cut + 1);
+    }
+    const parts = [];
+    for (const chunk of chunks) {
+      const resp = await fetch(
+        `https://api.mymemory.translated.net/get?q=${encodeURIComponent(chunk)}&langpair=de|pl`
+      );
+      const data = await resp.json();
+      parts.push(
+        data && data.responseData && data.responseData.translatedText
+          ? data.responseData.translatedText
+          : chunk
+      );
+    }
+    return parts.join(' ');
+  }
+
+  translateDescBtn.addEventListener('click', async () => {
+    if (showingTranslation) {
+      modalDescriptionTranslated.style.display = 'none';
+      modalDescriptionText.style.display = '';
+      translateDescBtn.textContent = '🌐 Przetłumacz na polski';
+      showingTranslation = false;
+      return;
+    }
+    if (modalDescriptionTranslated.dataset.cached) {
+      modalDescriptionTranslated.style.display = 'block';
+      modalDescriptionText.style.display = 'none';
+      translateDescBtn.textContent = '🇩🇪 Pokaż oryginał';
+      showingTranslation = true;
+      return;
+    }
+    translateDescBtn.disabled = true;
+    translateDescBtn.textContent = 'Tłumaczenie...';
+    try {
+      const translated = await translateToPolish(currentListing ? currentListing.description || '' : '');
+      modalDescriptionTranslated.textContent = translated;
+      modalDescriptionTranslated.dataset.cached = '1';
+      modalDescriptionTranslated.style.display = 'block';
+      modalDescriptionText.style.display = 'none';
+      translateDescBtn.textContent = '🇩🇪 Pokaż oryginał';
+      showingTranslation = true;
+    } catch (e) {
+      translateDescBtn.textContent = '⚠️ Nie udało się przetłumaczyć';
+      setTimeout(() => {
+        translateDescBtn.textContent = '🌐 Przetłumacz na polski';
+      }, 3000);
+    } finally {
+      translateDescBtn.disabled = false;
+    }
+  });
   let lastFocusedBeforeModal = null;
   let currentListing = null;
 
@@ -823,16 +900,25 @@
     const facts = [];
     if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
     if (l.size) facts.push(`<span class="fact"><strong>${l.size}</strong> m²</span>`);
-    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km</span>`);
+    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km od Emmerich</span>`);
     if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
     modalFacts.innerHTML = facts.join('');
 
+    modalDescriptionTranslated.style.display = 'none';
+    modalDescriptionTranslated.textContent = '';
+    delete modalDescriptionTranslated.dataset.cached;
+    modalDescriptionText.style.display = '';
+    showingTranslation = false;
     if (l.description) {
       modalDescriptionText.textContent = l.description;
       modalDescriptionDetails.hidden = false;
       modalDescriptionDetails.open = false;
+      translateDescBtn.style.display = 'inline-block';
+      translateDescBtn.disabled = false;
+      translateDescBtn.textContent = '🌐 Przetłumacz na polski';
     } else {
       modalDescriptionDetails.hidden = true;
+      translateDescBtn.style.display = 'none';
     }
 
     modalBadge.textContent = l.source;
@@ -1007,41 +1093,6 @@
       triggerBtn.disabled = false;
       triggerBtn.textContent = '🔄 Sprawdź teraz (Kleinanzeigen)';
       showTriggerStatus('Błąd połączenia z botem. Spróbuj później.');
-    }
-  });
-
-  // ---------- Przycisk "Testuj Discord" (szybki ping do Workera domekbot-notify) ----------
-  const discordTestBtn = document.getElementById('discordTestBtn');
-  const discordTestStatus = document.getElementById('discordTestStatus');
-
-  function showDiscordTestStatus(text) {
-    discordTestStatus.textContent = text;
-    discordTestStatus.style.display = 'block';
-  }
-
-  discordTestBtn.addEventListener('click', async () => {
-    discordTestBtn.disabled = true;
-    discordTestBtn.textContent = 'Wysyłanie...';
-    showDiscordTestStatus('Wysyłanie testowego powiadomienia na Discorda...');
-
-    try {
-      const resp = await fetch(DISCORD_NOTIFY_URL, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ content: '🔔 Test powiadomień z DomekBot — jeśli to widzisz, wszystko działa!' }),
-      });
-      const data = await resp.json();
-
-      if (resp.ok && data.ok) {
-        showDiscordTestStatus('✅ Wysłano! Sprawdź kanał na Discordzie.');
-      } else {
-        showDiscordTestStatus('Nie udało się wysłać. Sprawdź sekret DISCORD_WEBHOOK_URL w Workerze domekbot-notify.');
-      }
-    } catch (e) {
-      showDiscordTestStatus('Błąd połączenia z Workerem. Spróbuj później.');
-    } finally {
-      discordTestBtn.disabled = false;
-      discordTestBtn.textContent = '💬 Testuj Discord';
     }
   });
 
