@@ -43,6 +43,26 @@ logger = logging.getLogger("immo-bot")
 
 BASE_URL = "https://www.kleinanzeigen.de"
 
+# Dodatkowa siatka bezpieczenstwa NIEZALEZNA od filtra URL anzeige:angebote.
+# Zweryfikowane 14.09.2026: filtr anzeige:angebote poprawnie wyklucza Gesuche
+# ("Szukam mieszkania") na PIERWSZEJ stronie kazdej lokalizacji, ale na
+# stronie 2+ (parametr seite:N) Kleinanzeigen mimo filtra i tak potrafi
+# zwrocic ogloszenia typu Gesuche - to niekonsekwencja samej strony, nie
+# blad w budowanym URL-u. Dlatego odrzucamy dodatkowo po tytule.
+# UWAGA: samo "gesucht" jest CELOWO NIE lapane jako pojedyncze slowo, bo
+# ogloszenia typu "Nachmieter gesucht" ("szukam nastepcy najmu") to
+# LEGALNA, realna oferta wynajmu (ktos oddaje mieszkanie), a nie Gesuche -
+# lapiemy tylko "Wohnung/Zimmer gesucht" (ktos SZUKA mieszkania).
+_WANTED_AD_PATTERN = re.compile(
+    r"(^\s*(ich\s+)?suche\b)|(\b(wohnung|zimmer)\s+gesucht\b)", re.IGNORECASE
+)
+
+
+def _is_wanted_ad(title: str) -> bool:
+    """True jesli tytul wyglada na ogloszenie 'szukam mieszkania' (Gesuche),
+    a nie prawdziwa oferte wynajmu."""
+    return bool(_WANTED_AD_PATTERN.search(title or ""))
+
 
 def _build_search_url(slug: str, location_id: str, radius_km: int, page: int = 1) -> str:
     price_max = int(config.MAX_PRICE_EUR) if config.MAX_PRICE_EUR else ""
@@ -74,6 +94,9 @@ def _parse_cards(html: str, slug: str) -> List[Listing]:
             continue
 
         title_el = card.select_one("h3 a")
+        title_text = title_el.get_text(strip=True) if title_el else "(bez tytułu)"
+        if _is_wanted_ad(title_text):
+            continue
         price_el = card.select_one("p.my-xsmall.text-title3.font-strong.text-secondary")
         meta_el = card.select_one("p.font-strong.text-onSurfaceSubdued")  # np. "70 m² · 2 Zi."
         desc_el = card.select_one("p.mb-xsmall.text-bodyRegular.text-onSurfaceSubdued")
@@ -97,7 +120,7 @@ def _parse_cards(html: str, slug: str) -> List[Listing]:
 
         listings.append(Listing(
             source="Kleinanzeigen",
-            title=title_el.get_text(strip=True) if title_el else "(bez tytułu)",
+            title=title_text,
             url=full_url,
             price_eur=parse_price(price_el.get_text(strip=True) if price_el else meta_text),
             rooms=parse_rooms(meta_text),
