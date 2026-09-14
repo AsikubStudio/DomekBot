@@ -1,415 +1,44 @@
 {
-  "generated_at": "2026-09-14T23:10:22.518526+00:00",
-  "count": 53,
+  "generated_at": "2026-09-14T23:11:16.871118+00:00",
+  "count": 65,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-14T23:10:22.518526+00:00",
+      "last_updated": "2026-09-14T19:16:08.497832+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
-      "last_updated": "2026-09-14T22:10:48.716255+00:00",
+      "last_updated": "2026-09-14T23:11:16.871118+00:00",
       "interval_hours": 1
     }
   },
   "listings": [
     {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Living with character: 2-room apartment in Emmerich am Rhein",
-      "Cena (€)": 266.0,
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "schöne 2-Zimmer-Dachgeschoss-Wohnung in Kevelaer zu vermieten",
+      "Cena (€)": 275.0,
       "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "Emmerich am Rhein, Kleve (Kreis)",
-      "Odległość (km)": 2.0,
-      "Odległość od 's-Heerenberg (km)": 4.9,
+      "Powierzchnia (m²)": 35.0,
+      "Lokalizacja": "47623 Kevelaer",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 33.1,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/167404823",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 400.0,
-      "Opis": "This apartment, measuring 50 m², impresses with its well-thought-out floor plan and is divided into two bright rooms. The rooms offer a solid basis for individual design ideas and will be available for a new tenant from 2 May 2026. In addition to the living space, the apartment offers a practical layout that is ideal for single people or couples who value functional room design."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Living with character: compact apartment in Kleve",
-      "Cena (€)": 266.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 40.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170214430",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 400.0,
-      "Opis": "This charming apartment offers a well-thought-out layout on 30 square meters with one room. The apartment impresses with its clear structure and is ideal for a person looking for functional living in a central location. Move-in is possible from 23 November 2026. In addition to the living space, the floor plan provides efficient use of space, offering a variety of furnishing options."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Everyday-friendly 2-room apartment in Kleve",
-      "Cena (€)": 266.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170210769",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 400.0,
-      "Opis": "This practical 2-room apartment offers a solid base for everyday living with 54 square meters. The apartment impresses with its functional floor plan, which allows flexible use of the rooms. Move-in is possible from 23 September 2026. In addition, the apartment offers a clear layout that is ideal for individuals or couples who value a well-structured living environment."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "2-room apartment in Rees with 45 m² living space",
-      "Cena (€)": 299.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 45.0,
-      "Lokalizacja": "Rees, Kleve (Kreis)",
-      "Odległość (km)": 14.4,
-      "Odległość od 's-Heerenberg (km)": 16.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/166835346",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 450.0,
-      "Opis": "This bright 2-room apartment with approx. 45 m² living space is located in Rees. The apartment offers a practical floor plan, ideal for singles or couples. The apartment will be available from 24.03.2026. You can expect a pleasant living atmosphere in a quiet neighborhood."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Living with character: 2-room apartment in Kleve",
-      "Cena (€)": 332.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 99.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170728087",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 500.0,
-      "Opis": "This apartment offers a well thought-out layout with two rooms across 99 square meters of living space. The rooms are generously designed and provide a clear basis for individual furnishing ideas. The apartment is available from 12 September 2026. In addition to the living space, the apartment’s layout offers a variety of uses to suit personal needs."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Home with 2 rooms in a central location in Kleve",
-      "Cena (€)": 332.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 46.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/169343459",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 500.0,
-      "Opis": "This inviting apartment offers you, on 46 square meters, a well-thought-out layout with a total of two rooms. The apartment presents itself as an ideal retreat for anyone who values a functional and cozy living environment. The rooms can be occupied starting 16 August 2026. In addition to the living space, you benefit from the central transport connections and the solid building fabric on Gruftstraße, enabling relaxed living."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "New living space in Emmerich: Bright 2-room apartment",
-      "Cena (€)": 345.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "Emmerich am Rhein, Kleve (Kreis)",
-      "Odległość (km)": 2.0,
-      "Odległość od 's-Heerenberg (km)": 4.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/168256439",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 520.0,
-      "Opis": "This attractive 2-room apartment offers a well-planned layout across 50 square metres, making it ideal for everyday living. The rooms are bright and create a pleasant atmosphere for your new home. The apartment is available from 3 September 2026. In addition to the living areas, the property provides a solid basis for your individual furnishings. No further features are explicitly defined at present, giving you plenty of freedom to design your personal haven of comfort."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "2-room apartment in Kleve with approx. 50 m² living space",
-      "Cena (€)": 349.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/165900028",
-      "Zdjęcie": null,
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-dachgeschoss-wohnung-in-kevelaer-zu-vermieten/3488347972-203-1137",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ab8287b-5b05-4a8e-a14f-2cc33f50ba2b?rule=$_2.AUTO",
       "Zdjęcia": [
-        "https://pictures.immobilienscout24.de/listings/949f38c9-6f5e-4a39-bf70-c63dc94b5d21-1995358713.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/885554ca-ee67-49fe-9936-571188463ee6-1995358717.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/f198cd81-b1c7-4426-8194-a456fd68e0df-1995358716.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/a4e2fcfe-b931-4527-b0f0-21ebe4ac527c-1995358715.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/aafe28da-4a07-402a-b23f-279e856f2e08-1995358712.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ab8287b-5b05-4a8e-a14f-2cc33f50ba2b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac1c2469-e5a9-4d87-aa61-9681ed69a1f4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2055971b-a5cb-45c3-999c-e51e8531a680?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/039cf709-dfed-4543-a4b0-a6a276185a61?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/159e5452-4334-4c21-a49c-a49485e38a28?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f15714b7-2c51-40e3-8f9f-d5d1614c213b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/850cdff5-4013-4dfb-9414-212e000cffc4?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/361f88dd-14b7-4daa-bb7e-13e7b386aba6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ae4563e-7fca-455b-8724-50d0db7a116e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf320ae3-6192-408f-b2aa-564285cddcd0?rule=$_0.AUTO"
       ],
-      "Czynsz z mediami (€)": 525.0,
-      "Opis": "This bright 2-room apartment with approx. 50 m² living space is available for rent starting from 23.02.2026. It is located in Kleve and offers a good basis for your new home. The apartment is ideal for singles or couples looking for practical and well-located accommodation."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "2-room apartment in Bedburg-Hau with 44 m² living space",
-      "Cena (€)": 359.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 44.0,
-      "Lokalizacja": "Bedburg-Hau, Kleve (Kreis)",
-      "Odległość (km)": 7.8,
-      "Odległość od 's-Heerenberg (km)": 9.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/165918586",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 540.0,
-      "Opis": "This bright 2-room apartment with approx. 44 m² living space is located in Bedburg-Hau. The apartment offers a practical layout, ideal for singles or couples. It will be available from 24 May 2026. The exact features and condition of the apartment will be discussed in detail during a viewing."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Home with two rooms in Rees",
-      "Cena (€)": 372.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 55.0,
-      "Lokalizacja": "Rees, Kleve (Kreis)",
-      "Odległość (km)": 14.4,
-      "Odległość od 's-Heerenberg (km)": 16.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/168718972",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 560.0,
-      "Opis": "This inviting apartment offers 55 square meters of well thought-out room layout with two rooms, making it ideal for your personal needs. The rooms provide a comfortable base for your everyday life and impress with a functional room layout. In addition, the property will be ready for occupancy for you from 19 July 2026."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Practical 2-room apartment in Kleve",
-      "Cena (€)": 399.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/167735475",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 600.0,
-      "Opis": "This practical 2-room apartment offers 60 square metres of a well-thought-out layout that is ideal for everyday needs. The rooms are functionally designed and offer enough space for individual furnishing. The apartment is available for occupancy from 13 May 2026. In addition to the living areas, you benefit from the property's central connection, which enables short distances in everyday life. Further features are not specified based on the available data."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Flexible living: 2-room apartment in Kleve",
-      "Cena (€)": 399.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/167455147",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 600.0,
-      "Opis": "This attractive 2-room apartment offers you a well-designed layout for everyday life on approx. 60 square metres. The rooms are bright and can be furnished in a variety of ways, so you will find exactly the space you need for your personal development here. The apartment is available from 4 May 2026. In addition to the living spaces, the apartment offers a solid basis for relaxed living with convenient central connections."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Practical 2-room apartment in Rees",
-      "Cena (€)": 399.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 51.0,
-      "Lokalizacja": "Rees, Kleve (Kreis)",
-      "Odległość (km)": 14.4,
-      "Odległość od 's-Heerenberg (km)": 16.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/167354588",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 600.0,
-      "Opis": "This practical 2-room apartment offers a solid basis for your personal housing needs on 51 square metres. The well thought-out room layout ensures efficient use of the space and creates a pleasant setting for everyday living comfort. The apartment is available from 30 April 2026. Further details on the features can be discussed during a personal viewing."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Period building with shared garden access",
-      "Cena (€)": 408.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/165578690",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 615.0,
-      "Opis": "Period building, Diakone building, assisted living"
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Two-room apartment in Emmerich: your new home is waiting",
-      "Cena (€)": 418.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "Emmerich am Rhein, Kleve (Kreis)",
-      "Odległość (km)": 2.0,
-      "Odległość od 's-Heerenberg (km)": 4.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/169936336",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 630.0,
-      "Opis": "This attractive two-room apartment offers a well-thought-out layout across 50 square metres, ideal for everyday living. The rooms are bright and provide ample space for your individual furnishings, so you can shape the apartment exactly according to your preferences. From 10 November 2026, the apartment will be available to you and is waiting to be filled with life."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Beautiful 2-room apartment with balcony and fitted kitchen in Emmerich am Rhein",
-      "Cena (€)": 450.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "Emmerich am Rhein, Kleve (Kreis)",
-      "Odległość (km)": 2.0,
-      "Odległość od 's-Heerenberg (km)": 4.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/114904339",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://pictures.immobilienscout24.de/listings/2792798f-f2da-455d-b26b-5519a6363144-1340183881.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/f460075b-83ee-455b-89cc-6cd4d3019476-1340183882.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/5fd07984-d9aa-4ba5-bbcf-c2d7c08f9d9c-1340183883.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/4cdaca2f-3a27-4374-862b-c29f8e133e13-1340183884.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/785a4d42-6660-4aaf-abc1-2b32d1e6f08b-1340183885.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73"
-      ],
-      "Czynsz z mediami (€)": 550.0,
-      "Opis": "This attractive property is an apartment on the second floor, offering a high-quality interior finish and available for immediate move-in. The apartment includes two lovely rooms. In addition, the good layout makes it suitable for shared living. Please also note that you can wonderfully unwind from everyday life on the balcony. You also have access to a fitted kitchen and a basement storage room."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Everyday-suitable 2-room apartment in Kleve",
-      "Cena (€)": 465.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 41.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170732411",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 700.0,
-      "Opis": "This practical 2-room apartment offers 41 square meters of space with a well-thought-out layout that is ideal for everyday needs. The rooms are functional and provide enough space for comfortable living. Move-in to the property is possible from 12 September 2026. The apartment impresses with its clear structure and is an excellent choice for anyone looking for an uncomplicated place to live in a central location."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "2-room apartment in Rees",
-      "Cena (€)": 465.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "Rees, Kleve (Kreis)",
-      "Odległość (km)": 14.4,
-      "Odległość od 's-Heerenberg (km)": 16.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170113683",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 700.0,
-      "Opis": "This 2-room apartment offers living space of 50 m². The rooms are functionally laid out and provide a solid basis for individual design possibilities. Move-in is possible from 18 November 2026."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Cozy 2-room apartment with balcony in a central location",
-      "Cena (€)": 470.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 59.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170521521",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://pictures.immobilienscout24.de/listings/c028b418-ba88-4a88-b757-f9d70d4b01db-2085946263.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/78219599-0ffe-41e4-a370-f7fe87cdd537-2085937197.jpeg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/24ae6535-bdf3-4cb9-8930-105954b8a759-2085937206.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/453381ab-229e-44f0-9221-907b905e935a-2085937218.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/ef4309b6-f5d8-4475-be82-135a5e56f98e-2085937239.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/usercontent/95217354-213f-4460-8321-e2e0f7dde179.PNG/ORIG/resize/300x300>/format/webp/quality/100"
-      ],
-      "Czynsz z mediami (€)": 770.0,
-      "Opis": "In this residential complex, you will find this cozy apartment with a living space of 59 m². The apartment has one bedroom, one bathroom and a balcony that invites you to relax outdoors. Overall, the apartment comprises two rooms, providing enough space for individual living ideas.\n\nThe bedroom is spacious and offers plenty of room for a large bed and a wardrobe. The bathroom is modern and has a shower, a washbasin and a WC. The open-plan living and dining area impresses with lots of natural daylight and invites you to cook and dine together. From the living area, you can go directly out to the balcony, which offers a pleasant view and invites you to have breakfast or relax outdoors on warm days.\n\nThe residential complex has a lift, a bicycle cellar and a shared laundry room. In addition, the apartment includes its own basement storage room, which provides extra storage space. The location of the apartment is central yet quiet, with shopping facilities, restaurants and public transport in the immediate vicinity. An ideal apartment for singles or couples looking for a modern property in a good location."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Everyday-friendly 2-room apartment in Kleve",
-      "Cena (€)": 532.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 71.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170047468",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 800.0,
-      "Opis": "This practical 2-room apartment offers a solid basis for your personal living needs across 71 square meters. The well-planned unit impresses with its functional layout, which is ideal for everyday requirements. It is ready for occupancy from 16 November 2026. Further equipment details or specific features of the apartment are currently not available, so you will find a clear basis here for your individual design."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "2-room apartment in Bedburg-Hau with 50 m² living space",
-      "Cena (€)": 532.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "Bedburg-Hau, Kleve (Kreis)",
-      "Odległość (km)": 7.8,
-      "Odległość od 's-Heerenberg (km)": 9.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/166469739",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 800.0,
-      "Opis": "This bright 2-room apartment with approximately 50 m² living space is located in Bedburg-Hau. The apartment offers a cosy living atmosphere and is ideal for singles or couples. The apartment will be available starting from 21.04.2026."
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "50 m² maisonette apartment, central, partly furnished, fitted kitchen, parking space",
-      "Cena (€)": 550.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "Kleve, Kleve (Kreis)",
-      "Odległość (km)": 10.8,
-      "Odległość od 's-Heerenberg (km)": 12.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/170576513",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://pictures.immobilienscout24.de/listings/a62c5206-edc5-46ec-b967-10bf94707f67-2087149221.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/8fca488d-e8fa-4c94-92b8-732409b24ef9-2087149227.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/90e7da9f-2cb1-4a58-bbfc-6584278dff1d-2087149243.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/c61c41bf-11af-44ce-95ef-7f92d0f25ba3-2087149220.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
-        "https://pictures.immobilienscout24.de/listings/d518b936-b24e-4b81-9391-6649b545e0d0-2087149237.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73"
-      ],
-      "Czynsz z mediami (€)": 680.0,
-      "Opis": "Generously sized, well-kept apartment over two floors in a quiet but central location in Kleve.\nThe apartment is located in a single-family house with only one other apartment—an ideal retreat for anyone who values privacy, comfort and a connection to nature.\n\nFeatures\n- Kitchen cabinets, sink, cooker, oven, dishwasher   - Wardrobe, couch (chaise longue), TV cabinet, dining-serving cabinet, chest of drawers   - Kitchen table with 5 chairs, bathroom cabinet, 2 mirrors   - TV with satellite connection   - Lamps in the living rooms - Private parking space for your car\n- Bathroom with bathtub\n- Washing machine in the shared laundry room\n- 250 m² garden\n- 40 m² terrace\n- \nQuiet location with panoramic views over Kleve and as far as the Emmerich Rhine bridge\n- Access to the Reichswald forest at the end of the street\n\n\nThe apartment is located in one of the most sought-after residential areas of Kleve: quiet, close to nature and yet still near the city centre. \nTo the rear, the view opens up over the private garden and a villa on the hillside; to the front, you can enjoy an impressive view over the city of Kleve up to the Rhine.\nThe Reichswald, a nearby recreation area, is within walking distance—ideal for strolls, jogging or relaxing hours in a green setting.\n\nThe service charges are currently reduced through self-managed services (e.g. cleaning the entrance hall, putting out rubbish bins, mowing the lawn in summer). Alternatively, a service provider can be commissioned (with a corresponding surcharge for service charges).  \n\n\nSmoking is not permitted in the house.  \n\n\nLong-term letting to 1–2 people is preferred. \nInformation required:\n * Brief introduction and the reason for your move\n * Number of people moving in\n* Desired move-in date\n\n\nRequired documents:\nSchufa report\nTenancy self-disclosure form\nProof of income for the last three months\nProof of no rental arrears from the former landlord"
+      "Czynsz z mediami (€)": 395.0,
+      "Opis": "Einbauküche • Badewanne • Keller • Garage/Stellplatz • Haustiere erlaubt\n\nZur Vermietung steht eine schöne und gepflegte 2-Zimmer-Dachgeschoss-Wohnung in Kevelaer.\n\nDie in der Küche bereits eingebaute Küchenzeile kann vom Vormieter übernommen werden. So auch die vorhandenen Bodenbeläge, die erst vor knapp 2 Jahren verlegt wurden.\n\nBei Interesse senden Sie bitte eine kurze Nachricht mit folgenden Angaben:\n- Vollständiger Name\n- Anzahl der einziehenden Personen\n- Aktuelle berufliche Situation (z. B. berufstätig, in Ausbildung oder Studium)\n\nIch freue mich auf Ihre Anfrage."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -418,7 +47,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 51.0,
       "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 8.0,
+      "Odległość (km)": 0.6,
       "Odległość od 's-Heerenberg (km)": 2.9,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -433,8 +62,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8d5d922-bf8f-42e9-bfb8-2475affac721?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 405.0,
-      "Opis": "Möbliert/Teilmöbliert • Balkon • Stufenloser Zugang • Aufzug • WBS benötigt\n\nSchöne und gemütliche Wohnung in zentraler Lage von Emmerich zu vermieten.\n\nDie Wohnung verfügt über ca. 50 m² Wohnfläche und befindet sich in Innenstadtnähe, nur wenige Gehminuten von EDEKA und weiteren Einkaufsmöglichkeiten entfernt.\n\nWichtig: Für die Anmietung ist ein gültiger Wohnberechtigungsschein (WBS) erforderlich.\n\nWenn Sie Interesse an der Wohnung haben, schreiben Sie mir gerne eine Nachricht.\n\nIch freue mich auf Ihre Nachricht!",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Stufenloser Zugang • Aufzug • WBS benötigt\n\nSchöne und gemütliche Wohnung in zentraler Lage von Emmerich zu vermieten.\n\nDie Wohnung verfügt über ca. 50 m² Wohnfläche und befindet sich in Innenstadtnähe, nur wenige Gehminuten von EDEKA und weiteren Einkaufsmöglichkeiten entfernt.\n\nWichtig: Für die Anmietung ist ein gültiger Wohnberechtigungsschein (WBS) erforderlich.\n\nWenn Sie Interesse an der Wohnung haben, schreiben Sie mir gerne eine Nachricht.\n\nIch freue mich auf Ihre Nachricht!"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -443,7 +71,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 60.0,
       "Lokalizacja": "46419 Isselburg",
-      "Odległość (km)": 20.0,
+      "Odległość (km)": 12.0,
       "Odległość od 's-Heerenberg (km)": 15.1,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -464,8 +92,66 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8d5d922-bf8f-42e9-bfb8-2475affac721?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 520.0,
-      "Opis": "Balkon • Einbauküche • Badewanne • Aufzug • Keller • WBS benötigt\n\n2ZW, 60qm, Nähe Markt in Anholt zu vermieten ab Ende des Jahres - ggf. früher\nkalt 291€ + NK 229€ = 520€/Monat, WBS erforderlich, 870€ Kaution\nIdeal für ein Rentnerehepaar\n2 Personen werden vom Amt bevorzugt – bei 1 Person ist ggf. eine Ausnahme möglich\nsehr schön renoviert u.a. mit einem hochwertigen Vinylboden,\nEinbauküche vorhanden, Abstellraum, kleiner Balkon, Bad mit Wanne + Fenster, Aufzug, Keller, Waschraum, Trockenraum.\nBei Interesse melden Sie sich bitte mit einer kurzen Vorstellung.\nDanke Ihnen",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Einbauküche • Badewanne • Aufzug • Keller • WBS benötigt\n\n2ZW, 60qm, Nähe Markt in Anholt zu vermieten ab Ende des Jahres - ggf. früher\nkalt 291€ + NK 229€ = 520€/Monat, WBS erforderlich, 870€ Kaution\nIdeal für ein Rentnerehepaar\n2 Personen werden vom Amt bevorzugt – bei 1 Person ist ggf. eine Ausnahme möglich\nsehr schön renoviert u.a. mit einem hochwertigen Vinylboden,\nEinbauküche vorhanden, Abstellraum, kleiner Balkon, Bad mit Wanne + Fenster, Aufzug, Keller, Waschraum, Trockenraum.\nBei Interesse melden Sie sich bitte mit einer kurzen Vorstellung.\nDanke Ihnen"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Mietwohnung ab 1.10",
+      "Cena (€)": 400.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 70.0,
+      "Lokalizacja": "46459 Rees",
+      "Odległość (km)": 17.0,
+      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung-ab-1-10/3488478656-203-1389",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066ed109-d558-4eed-bdfa-162b4b7ed982?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066ed109-d558-4eed-bdfa-162b4b7ed982?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5d22558-1448-4660-a958-d5e1a2d6db20?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2add2f03-b49b-40bb-bc0a-bcf2041884fe?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6b5b13c-2be0-48d3-8577-67dfb3ea3db7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7eb9bc2-5e21-43b0-851d-9e837a7d1093?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/455a2719-4253-41f1-86bd-9222b3e75bc2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85be50e5-a6b6-437e-86e5-e23c9fd76858?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59da66b9-3f3a-4fc2-92ff-b6ad21050b3e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a5632ec-aeaf-4a8d-8a2b-3c7043eb33a5?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7630d55-1c8a-4a8f-b896-b3dba9eb9932?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf9da7f4-3818-49c4-b7c5-666ce3fa5626?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee79755-46d5-413f-9b85-d6e51659a1e1?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 500.0,
+      "Opis": "Balkon • Badewanne • Garage/Stellplatz\n\nAngeboten wird eine 2 Zimmer Dachgeschosswohnung. Die Wohnung verfügt über 1 Schlafzimmer. Zur Wohnung gehört ein Stellplatz (ist in der Miete enthalten) sowie einen Kellerraum und waschkeller. Die Wohnung wird ab dem 1.10 frei und kann somit ab dann gemietet werden. Teile der Küche können bei Bedarf übernommen werden."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Ich suche dringend eine Wohnung in Bocholt",
+      "Cena (€)": 400.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 53.0,
+      "Lokalizacja": "46399 Bocholt",
+      "Odległość (km)": 17.0,
+      "Odległość od 's-Heerenberg (km)": 23.4,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/ich-suche-dringend-eine-wohnung-in-bocholt/3316061354-203-1851",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbcf3918-beb4-418b-94ce-c5414390535a?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbcf3918-beb4-418b-94ce-c5414390535a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/8139d320-a0ac-4017-9fed-80bae04480a6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/728d494d-54de-4756-8a95-1bbed581c0bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df3d920e-9aee-4a86-9fbd-3ae943f90960?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bad28ee4-fe5a-4091-ae09-fd0ed061cf58?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd5fb11f-0261-4794-8d23-cebd0e234287?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/462ee519-7c99-4225-a5f9-e3ccb49a4ff6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31fcc19e-6768-44d0-8f5b-7555949a4c64?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76d2333d-c2d8-426b-a2cb-e6dbc81438be?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85a70021-7dee-4350-bdd9-a2750099ab13?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/937a5c22-bee4-449c-8514-f575f12cc55f?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Wir sind ein junges Paar (beide 30 Jahre alt) und suchen eine erste gemeinsame Wohnung in 46399 Bocholt. Die Wohnung sollte im Erdgeschoß\n\nWir haben einen Wohnberechtigungsschein und gesichertes Einkommen.\nWir freuen uns über Rückmeldunge wäre schön wenn wir ein wohnung bekommen"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -474,7 +160,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 54.0,
       "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 2.0,
+      "Odległość (km)": 10.0,
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -495,8 +181,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6b14d54-f8a7-4c7e-8589-f2324d83fe99?rule=$_59.AUTO"
       ],
       "Czynsz z mediami (€)": 579.0,
-      "Opis": "Balkon\n\nzusätzlich kann ein großer Hobbyraum im Keller für €20 gemietet werden\nNur für Singles und Paare geeignet\nkeine Haustierhaltung, Mindestmietdauer 3 Jahre, Erforderlich: SChufa\nEK Nachweis, 3 MM Kaution\nMietbeginn VB, ----- Telefon 0176/99247393 -------",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon\n\nzusätzlich kann ein großer Hobbyraum im Keller für €20 gemietet werden\nNur für Singles und Paare geeignet\nkeine Haustierhaltung, Mindestmietdauer 3 Jahre, Erforderlich: SChufa\nEK Nachweis, 3 MM Kaution\nMietbeginn VB, ----- Telefon 0176/99247393 -------"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -515,8 +200,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-user/images/e0/e092597b-15d0-4149-b2b8-cbb1fbda998a?rule=$_12.JPG"
       ],
       "Czynsz z mediami (€)": 691.0,
-      "Opis": "Balkon • Aufzug\n\n**Ausstattung:**\n\n* Ca. 49 m² Wohnfläche\n* Schlafzimmer\n* Wohn- und Essbereich mit offener Küche\n* Badezimmer mit Badewanne\n* Balkon\n* Separater Abstellraum auf dem Flur\n* Warmwasser über Durchlauferhitzer\n* Aufzug\n\n**Mietkonditionen:**\n\n* Kaltmiete: 441,00 €\n* Nebenkosten: 250,00 €\n* Kaution: 1.323,00 € (3 Kaltmieten)\n\nDie Wohnung ist ab sofort bezugsfrei.\n\nBei Interesse senden Sie uns bitte eine kurze Vorstellung Ihrer Person sowie sofern vorhanden Informationen zu Ihrem Beschäftigungsverhältnis. Wir freuen uns auf Ihre Anfrage und vereinbaren gerne einen Besichtigungstermin.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Aufzug\n\n**Ausstattung:**\n\n* Ca. 49 m² Wohnfläche\n* Schlafzimmer\n* Wohn- und Essbereich mit offener Küche\n* Badezimmer mit Badewanne\n* Balkon\n* Separater Abstellraum auf dem Flur\n* Warmwasser über Durchlauferhitzer\n* Aufzug\n\n**Mietkonditionen:**\n\n* Kaltmiete: 441,00 €\n* Nebenkosten: 250,00 €\n* Kaution: 1.323,00 € (3 Kaltmieten)\n\nDie Wohnung ist ab sofort bezugsfrei.\n\nBei Interesse senden Sie uns bitte eine kurze Vorstellung Ihrer Person sowie sofern vorhanden Informationen zu Ihrem Beschäftigungsverhältnis. Wir freuen uns auf Ihre Anfrage und vereinbaren gerne einen Besichtigungstermin."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -546,8 +230,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a177f06-d25c-4554-a280-bd1ec2792b59?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 650.0,
-      "Opis": "Einbauküche\n\nDie Wohnung besteht aus ein geräumiger Wohnzimmer mit integrierte Küche, 1 Schlafzimmer, Bad mit Dusche, Flur ( Eigene Eingang )\nKaltmiete: 450,-€ + Heiz- und Nebenkosten: 200,-€\nGesamtmiete: 650,-€",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Einbauküche\n\nDie Wohnung besteht aus ein geräumiger Wohnzimmer mit integrierte Küche, 1 Schlafzimmer, Bad mit Dusche, Flur ( Eigene Eingang )\nKaltmiete: 450,-€ + Heiz- und Nebenkosten: 200,-€\nGesamtmiete: 650,-€"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -566,8 +249,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-user/images/e0/e092597b-15d0-4149-b2b8-cbb1fbda998a?rule=$_12.JPG"
       ],
       "Czynsz z mediami (€)": 718.0,
-      "Opis": "Einbauküche • Haustiere erlaubt\n\n**Eckdaten:**\n\n* Wohnfläche: ca. 52 m²\n* Kaution: 1.404,00 € (3 Kaltmieten)\n* Badezimmer mit Dusche\n* Einbauküche vorhanden\n\n**Monatliche Gesamtmiete:**\n\n* Kaltmiete: 468,00 €\n* Küche: 50,00 €\n* Nebenkosten: 200,00 €\n* Gesamt: 718,00 € (zzgl. Strom)\n\nBei Interesse freuen wir uns über Ihre Nachricht. Bitte stellen Sie sich kurz vor und fügen Sie nach Möglichkeit bereits Angaben zu Ihrer Person sowie Ihrem Beschäftigungsverhältnis bei.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Einbauküche • Haustiere erlaubt\n\n**Eckdaten:**\n\n* Wohnfläche: ca. 52 m²\n* Kaution: 1.404,00 € (3 Kaltmieten)\n* Badezimmer mit Dusche\n* Einbauküche vorhanden\n\n**Monatliche Gesamtmiete:**\n\n* Kaltmiete: 468,00 €\n* Küche: 50,00 €\n* Nebenkosten: 200,00 €\n* Gesamt: 718,00 € (zzgl. Strom)\n\nBei Interesse freuen wir uns über Ihre Nachricht. Bitte stellen Sie sich kurz vor und fügen Sie nach Möglichkeit bereits Angaben zu Ihrer Person sowie Ihrem Beschäftigungsverhältnis bei."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -597,8 +279,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bad28ee4-fe5a-4091-ae09-fd0ed061cf58?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 660.0,
-      "Opis": "Einbauküche • Altbau\n\nZur Vermietung steht eine komplett renovierte Dachgeschosswohnung in zentraler Lage von Bocholt, in unmittelbarer Nähe zu den Arkaden.\n\nEckdaten:\n\n- 2 Zimmer\n- Kochnische\n- Badezimmer\n- komplett renoviert\n- ruhiges Haus\n- ab sofort verfügbar\n- nichtraucher!\n- keine Haustiere!\n\nMiete:\nKaltmiete: 480,-€ monatlich\nNebenkosten: 180,-€ monatlich\nKaution: 2 Monatskaltmieten\n\nDie Wohnung so bevorzugt an eine ruhige Einzelperson mittleren Alters vermietet werden.\n\nBei Interesse freuen wir uns über eine kurze Nachricht mit ein paar Informationen zur Person.\n\nBesichtigungstermine können anschließend gerne vereinbart werden.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Einbauküche • Altbau\n\nZur Vermietung steht eine komplett renovierte Dachgeschosswohnung in zentraler Lage von Bocholt, in unmittelbarer Nähe zu den Arkaden.\n\nEckdaten:\n\n- 2 Zimmer\n- Kochnische\n- Badezimmer\n- komplett renoviert\n- ruhiges Haus\n- ab sofort verfügbar\n- nichtraucher!\n- keine Haustiere!\n\nMiete:\nKaltmiete: 480,-€ monatlich\nNebenkosten: 180,-€ monatlich\nKaution: 2 Monatskaltmieten\n\nDie Wohnung so bevorzugt an eine ruhige Einzelperson mittleren Alters vermietet werden.\n\nBei Interesse freuen wir uns über eine kurze Nachricht mit ein paar Informationen zur Person.\n\nBesichtigungstermine können anschließend gerne vereinbart werden."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -607,7 +288,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 63.0,
       "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 2.0,
+      "Odległość (km)": 7.0,
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -628,8 +309,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/634bead9-285f-4963-9fb3-fc715a7b70ca?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 600.0,
-      "Opis": "Gäste WC\n\nBitte online anfragen! BEACHTEN SIE: Der Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n* Ihr Alter\n* Sind Haustiere vorhanden, wenn ja, welche?\n* Was machen Sie beruflich?\n* Rauchen Sie?\n\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Gäste WC\n\nBitte online anfragen! BEACHTEN SIE: Der Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n* Ihr Alter\n* Sind Haustiere vorhanden, wenn ja, welche?\n* Was machen Sie beruflich?\n* Rauchen Sie?\n\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -659,8 +339,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bad28ee4-fe5a-4091-ae09-fd0ed061cf58?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 490.0,
-      "Opis": "Einbauküche • Garage/Stellplatz\n\nDie Wohnung wird ab Dezember 2026 frei, ein früherer Bezug mag nach Absprache möglich sein. Weitere Fotos folgen, außerdem ist eine Besichtigung ab sofort möglich.\n\nEckdaten auf einen Blick:\n- Dachgeschosswohnung im 2. OG\n- Ca. 56 m² Wohnfläche, 2 Zimmer - Küche separat\n- Tageslichtbad mit Dusche\n- Abstellraum im Flur vor der Wohnung\n- Garage optional möglich\n- Alternativ offener Stellplatz\n\nDie dargestellte Grundrissgrafik dient ausschließlich zur Veranschaulichung. Die tatsächliche Raumaufteilung, Maße und Wohnflächen können abweichen. Für die Richtigkeit der Darstellung wird keine Gewähr übernommen.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Einbauküche • Garage/Stellplatz\n\nDie Wohnung wird ab Dezember 2026 frei, ein früherer Bezug mag nach Absprache möglich sein. Weitere Fotos folgen, außerdem ist eine Besichtigung ab sofort möglich.\n\nEckdaten auf einen Blick:\n- Dachgeschosswohnung im 2. OG\n- Ca. 56 m² Wohnfläche, 2 Zimmer - Küche separat\n- Tageslichtbad mit Dusche\n- Abstellraum im Flur vor der Wohnung\n- Garage optional möglich\n- Alternativ offener Stellplatz\n\nDie dargestellte Grundrissgrafik dient ausschließlich zur Veranschaulichung. Die tatsächliche Raumaufteilung, Maße und Wohnflächen können abweichen. Für die Richtigkeit der Darstellung wird keine Gewähr übernommen."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -690,8 +369,75 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4994126d-cadd-467c-9f3c-6d6483dfc315?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 660.0,
-      "Opis": "Keller • Garage/Stellplatz\n\nIn Bocholt erwartet Sie eine charmante 2-Zimmer-Etagenwohnung mit 48 m² Wohnfläche im 1. Obergeschoss eines 1937 erbauten Hauses. Die Wohnung besticht durch einen gemütlichen Laminatboden und ein helles Bad mit Badfenster. Die Küche ist ohne Einrichtung, sodass Sie Ihren persönlichen Stil verwirklichen können. Beheizt wird die Wohnung komfortabel mit einer Kombitherme. Ideal für alle, die eine angenehme Wohnatmosphäre in zentraler Lage suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-116-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Gasetagenheizung\n• Fahrradkeller\n• Mieterkeller\n• Wasch- und Trockenkeller\n• Bad mit Dusche und Fenster\n• Isolierverglasung\n• Mediaanschluss\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer attraktiven Lage, die besonders durch ihre Nähe zu verschiedenen Bildungseinrichtungen besticht, darunter die Clemens-Dülmer-Schule sowie die Overberg-Schule. Für Familien mit Kindern ist der Kubaai-Spielplatz in bequemer Gehweite ein idealer Ort zum Spielen und Verweilen. Einkaufsmöglichkeiten sind ebenfalls gut erreichbar: Die Supermärkte ALDI Süd und REWE bieten eine breite Auswahl für den täglichen Bedarf. Erholsame Stunden im Grünen verspricht der nahegelegene Museumsgarten, der zu Spaziergängen und Freizeitaktivitäten im Freien einlädt. Medizinische Versorgung ist durch mehrere Arztpraxen in der Umgebung gewährleistet, darunter die Praxen von M.D. Omar Dakik, Dr. med. Ulrich Holtkamp und Dr. Peter E. van de Velde. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 14 Bushaltestellen, beispielsweise an der Schwartzstraße, sind schnell erreichbar, und auch zwei Bahnhöfe, unter anderem Bocholt, liegen in akzeptabler Entfernung.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-116-M",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Keller • Garage/Stellplatz\n\nIn Bocholt erwartet Sie eine charmante 2-Zimmer-Etagenwohnung mit 48 m² Wohnfläche im 1. Obergeschoss eines 1937 erbauten Hauses. Die Wohnung besticht durch einen gemütlichen Laminatboden und ein helles Bad mit Badfenster. Die Küche ist ohne Einrichtung, sodass Sie Ihren persönlichen Stil verwirklichen können. Beheizt wird die Wohnung komfortabel mit einer Kombitherme. Ideal für alle, die eine angenehme Wohnatmosphäre in zentraler Lage suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-116-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Gasetagenheizung\n• Fahrradkeller\n• Mieterkeller\n• Wasch- und Trockenkeller\n• Bad mit Dusche und Fenster\n• Isolierverglasung\n• Mediaanschluss\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer attraktiven Lage, die besonders durch ihre Nähe zu verschiedenen Bildungseinrichtungen besticht, darunter die Clemens-Dülmer-Schule sowie die Overberg-Schule. Für Familien mit Kindern ist der Kubaai-Spielplatz in bequemer Gehweite ein idealer Ort zum Spielen und Verweilen. Einkaufsmöglichkeiten sind ebenfalls gut erreichbar: Die Supermärkte ALDI Süd und REWE bieten eine breite Auswahl für den täglichen Bedarf. Erholsame Stunden im Grünen verspricht der nahegelegene Museumsgarten, der zu Spaziergängen und Freizeitaktivitäten im Freien einlädt. Medizinische Versorgung ist durch mehrere Arztpraxen in der Umgebung gewährleistet, darunter die Praxen von M.D. Omar Dakik, Dr. med. Ulrich Holtkamp und Dr. Peter E. van de Velde. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 14 Bushaltestellen, beispielsweise an der Schwartzstraße, sind schnell erreichbar, und auch zwei Bahnhöfe, unter anderem Bocholt, liegen in akzeptabler Entfernung.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-116-M"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Demnächst frei! 2-Zimmer-Wohnung in Bocholt",
+      "Cena (€)": 499.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 18.0,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/demnaechst-frei-2-zimmer-wohnung-in-bocholt/3500655579-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76d2333d-c2d8-426b-a2cb-e6dbc81438be?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76d2333d-c2d8-426b-a2cb-e6dbc81438be?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b42125eb-61ce-4da6-87d1-c1cb16b25b6d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/911f089b-3a57-4a58-89a5-abd4b5e92362?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/8685b344-aa1a-4e7b-8490-381bb0caed8a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8f42eddb-ad8d-41a0-b8cb-c31ba634df0d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b102d95-9f38-45f1-a835-9539191ef142?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d217ff36-18d3-47a6-821c-aae72e8dc0c8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d219566-b41a-4ab2-aedd-30b3adab8eb6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6bc6dd49-4568-4ed1-9392-89aa9d76f225?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a9e3f62-d254-41ab-b846-8f4adefca49b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4994126d-cadd-467c-9f3c-6d6483dfc315?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 629.0,
+      "Opis": "Badewanne • Keller • Garage/Stellplatz\n\nEs handelt sich um eine 2-Zimmer-Wohnung im 1. OG eines ruhigen und gepflegten Mehrfamilienwohnhauses. In der netten Nachbarschaft werden Sie sich sicher wohl fühlen. Parkplätze sind in ausreichender Menge direkt an der Wohnanlage vorhanden.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-121-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Neues Wannenbad mit hellen Fliesen und Fenster\n• Waschküche mit eigenem Waschmaschinenstellplatz\n• eigener Mieterkeller\n• neue Wohnungseingangstüre\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-121-M"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Frisch sanierte 2-Zimmer-Wohnung - mit neuem Duschbad, Laminat und Tapeten",
+      "Cena (€)": 499.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 18.0,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-2-zimmer-wohnung-mit-neuem-duschbad-laminat-und-tapeten/3490458703-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a9e3f62-d254-41ab-b846-8f4adefca49b?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": ""
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Ich suche Wohnung",
+      "Cena (€)": 500.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/ich-suche-wohnung/3484943195-203-1867",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d176a1c5-7b3f-4f7f-a857-9db714f11c06?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/5931c0e2-2fb8-469c-96bd-ff01ead41065?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 550.0,
+      "Opis": "Hallo zusammen, ich suche eine Wohnung in Wesel, ca. 50 qm, für eine Person. Ich wünsche allen einen schönen Tag!"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -721,8 +467,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 684.0,
-      "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • WBS benötigt • Garage/Stellplatz\n\nDiese großzügige 2-Zimmer-Wohnung mit ca. 65 m² Wohnfläche befindet sich in Kalkar. Die Wohnung überzeugt durch ihren offenen Wohn- und Essbereich, der direkten Zugang zum großzügigen Balkonbietet und somit ideal zum Entspannen im Freien ist. Ein separater Abstellraum innerhalb der Wohnung sorgt für zusätzlichen Stauraum.\n\nDie Anmietung der Wohnung ist ausschließlich mit einem gültigen Wohnberechtigungsschein (WBS) möglich.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • WBS benötigt • Garage/Stellplatz\n\nDiese großzügige 2-Zimmer-Wohnung mit ca. 65 m² Wohnfläche befindet sich in Kalkar. Die Wohnung überzeugt durch ihren offenen Wohn- und Essbereich, der direkten Zugang zum großzügigen Balkonbietet und somit ideal zum Entspannen im Freien ist. Ein separater Abstellraum innerhalb der Wohnung sorgt für zusätzlichen Stauraum.\n\nDie Anmietung der Wohnung ist ausschließlich mit einem gültigen Wohnberechtigungsschein (WBS) möglich."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -731,7 +476,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 70.0,
       "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 1.0,
+      "Odległość (km)": 10.0,
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -752,8 +497,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/739f34af-0929-4542-82f1-835dfc628e90?rule=$_1.AUTO"
       ],
       "Czynsz z mediami (€)": null,
-      "Opis": "Schöne Wohnung im 1. Obergeschoß eines ruhigen 6 Parteienhauses in zentraler Lage von Kleve in der Nähe der Hoffmannallee und des EOC. Die Wohnung besteht aus 2 Zimmern, 1 Küche, 1 komplett saniertem Badezimmer mit begehbarer Dusche, einem überdachten Süd- Balkon mit weiter Aussicht und einem großen Abstellraum im Keller. Auf dem Hofplatz hinterm Haus kann eine Garage zusätzlich angemietet werden ( € 45,00/Monat). Gaszentralheizung, Energieausweis vorhanden (Verbrauchsausweis). Die Wohnung ist in einem sehr gepflegten Zustand mit neuwertigen Laminatböden und wird ab Oktober 2026 an 1 oder 2 Personen vermietet. Hundehaltung ist nicht erlaubt. Bitte stellen Sie sich bei Interesse ausführlich schriftlich vor und geben Sie eine Telefonnummer zur Kontaktaufnahme an.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Schöne Wohnung im 1. Obergeschoß eines ruhigen 6 Parteienhauses in zentraler Lage von Kleve in der Nähe der Hoffmannallee und des EOC. Die Wohnung besteht aus 2 Zimmern, 1 Küche, 1 komplett saniertem Badezimmer mit begehbarer Dusche, einem überdachten Süd- Balkon mit weiter Aussicht und einem großen Abstellraum im Keller. Auf dem Hofplatz hinterm Haus kann eine Garage zusätzlich angemietet werden ( € 45,00/Monat). Gaszentralheizung, Energieausweis vorhanden (Verbrauchsausweis). Die Wohnung ist in einem sehr gepflegten Zustand mit neuwertigen Laminatböden und wird ab Oktober 2026 an 1 oder 2 Personen vermietet. Hundehaltung ist nicht erlaubt. Bitte stellen Sie sich bei Interesse ausführlich schriftlich vor und geben Sie eine Telefonnummer zur Kontaktaufnahme an."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -762,7 +506,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 47.0,
       "Lokalizacja": "46509 Xanten",
-      "Odległość (km)": 13.0,
+      "Odległość (km)": 20.0,
       "Odległość od 's-Heerenberg (km)": 26.0,
       "Łazienka": "tak",
       "Kuchnia": "tak",
@@ -780,8 +524,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27a87333-4f28-4872-8e39-528df73a4cb4?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 720.0,
-      "Opis": "Balkon • Einbauküche • Fußbodenheizung • Aufzug • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung (Schlafzimmer und Wohnzimmer mit offener Küche)\nDiele, Bad, Balkon, Kellerabstellraum, Tiefgaragenstellplatz, Aufzug\nSie suchen ein langfristiges Zuhause ? Bringen die nötige Bonität mit ?\nDiese Wohnung ist optimal auf eine Person zugeschnitten. Die Kaltmiete von € 520,00 schließt die Nutzung des Tiefgaragenstellplatzes ein.\nDie \"Warmmiete\" von € 720,00 ist eine Angabe für die grobe Kostenübersicht und enthält die NK-Vorauszahlung von € 200,00. Eine Abrechnung erfolgt dann jährlich.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Einbauküche • Fußbodenheizung • Aufzug • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung (Schlafzimmer und Wohnzimmer mit offener Küche)\nDiele, Bad, Balkon, Kellerabstellraum, Tiefgaragenstellplatz, Aufzug\nSie suchen ein langfristiges Zuhause ? Bringen die nötige Bonität mit ?\nDiese Wohnung ist optimal auf eine Person zugeschnitten. Die Kaltmiete von € 520,00 schließt die Nutzung des Tiefgaragenstellplatzes ein.\nDie \"Warmmiete\" von € 720,00 ist eine Angabe für die grobe Kostenübersicht und enthält die NK-Vorauszahlung von € 200,00. Eine Abrechnung erfolgt dann jährlich."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -790,7 +533,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 50.0,
       "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 9.0,
+      "Odległość (km)": 0.6,
       "Odległość od 's-Heerenberg (km)": 2.9,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -811,8 +554,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43506c0e-a52d-4c56-b958-b3a29397b706?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": null,
-      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Keller\n\nZwei-Zimmer-Wohnung in direkter Promenadennähe in Emmerich teilmöbiliert abzugeben.\n\nGesamtmiete: 540€ (bereits enthalten sind Betriebskosten), zzgl. Heizkosten (ca. 50€)\n\nMöbel die übernommen werden sollen:\n- Einbauküche voll ausgestattet (mit Geschirrspüler, Kühlschrank, Backofen, Induktionsherd, alle Geräte nur 18 Monate \"alt\")\n- Waschmaschine (18 Monate \"alt\")\n- Sofa (neu, Schlafsofa)\n- Kleiderschrank\n- Schreibtisch\n- Bett\n\nMöbel insgesamt für 3700€ VB abzugeben.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Keller\n\nZwei-Zimmer-Wohnung in direkter Promenadennähe in Emmerich teilmöbiliert abzugeben.\n\nGesamtmiete: 540€ (bereits enthalten sind Betriebskosten), zzgl. Heizkosten (ca. 50€)\n\nMöbel die übernommen werden sollen:\n- Einbauküche voll ausgestattet (mit Geschirrspüler, Kühlschrank, Backofen, Induktionsherd, alle Geräte nur 18 Monate \"alt\")\n- Waschmaschine (18 Monate \"alt\")\n- Sofa (neu, Schlafsofa)\n- Kleiderschrank\n- Schreibtisch\n- Bett\n\nMöbel insgesamt für 3700€ VB abzugeben."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -821,7 +563,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 40.0,
       "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 9.0,
+      "Odległość (km)": 1.0,
       "Odległość od 's-Heerenberg (km)": 2.9,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -838,8 +580,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-user/images/1e/1e762340-23aa-44fc-a925-e6a85e7cdeee?rule=$_12.JPG"
       ],
       "Czynsz z mediami (€)": 670.0,
-      "Opis": "Balkon • Aufzug\n\nAb dem 01.11.2026 bieten wir diese Single-Whg in dem Hochhaus Am Busch 41 in 46446 Emmerich am Rhein an.\n\nDie Wohnung ist für max. 2 Personen geeignet und besteht aus\n\n1x Schlafzimmer\n1x Wohnzimmer mit Küchennische\n1x innenliegendes Duschbad\n1x Flur\n1x Balkon\n\nDie Wohnung wurde 2021 saniert. Die Bilder sind von einer anderen vergleichbaren Wohnung und dienen nur der Veranschaulichung.\n\nEs wird eine 2% Staffelmiete vereinbart.\n\nMit Rücksichtnahme auf den derzeitigen Mieter werden so wenig Besichtigungstermine wie möglich vergeben. Aus diesem Grunde bitte ich Sie um Kontaktaufnahme via Nachrichtenfunktion von Kleinanzeigen mit folgenden Informationen zu Ihrer Person:\n\nVorname:\n\nNachname:\n\nHandynummer:\n\nBei Abschluss eines Mietvertrages wird eine Vertragsabschlussgebühr von 250,00€ fällig\n\nUnterlagen die wir vor Vertragsunterzeichnung brauchen:\n- eine Kopie Ihres Personalausweises\n- Nachweis über eine Haftpflichtversicherung\n- Nachweis über eine Glasversicherung\n- Schufa Auskunft\n- die letzten drei Lohnabrechnungen / Bescheid vom Amt\n- Mieterselbstauskunft unterschrieben zurück bitte\n\nIrrtümer vorbehalten",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Aufzug\n\nAb dem 01.11.2026 bieten wir diese Single-Whg in dem Hochhaus Am Busch 41 in 46446 Emmerich am Rhein an.\n\nDie Wohnung ist für max. 2 Personen geeignet und besteht aus\n\n1x Schlafzimmer\n1x Wohnzimmer mit Küchennische\n1x innenliegendes Duschbad\n1x Flur\n1x Balkon\n\nDie Wohnung wurde 2021 saniert. Die Bilder sind von einer anderen vergleichbaren Wohnung und dienen nur der Veranschaulichung.\n\nEs wird eine 2% Staffelmiete vereinbart.\n\nMit Rücksichtnahme auf den derzeitigen Mieter werden so wenig Besichtigungstermine wie möglich vergeben. Aus diesem Grunde bitte ich Sie um Kontaktaufnahme via Nachrichtenfunktion von Kleinanzeigen mit folgenden Informationen zu Ihrer Person:\n\nVorname:\n\nNachname:\n\nHandynummer:\n\nBei Abschluss eines Mietvertrages wird eine Vertragsabschlussgebühr von 250,00€ fällig\n\nUnterlagen die wir vor Vertragsunterzeichnung brauchen:\n- eine Kopie Ihres Personalausweises\n- Nachweis über eine Haftpflichtversicherung\n- Nachweis über eine Glasversicherung\n- Schufa Auskunft\n- die letzten drei Lohnabrechnungen / Bescheid vom Amt\n- Mieterselbstauskunft unterschrieben zurück bitte\n\nIrrtümer vorbehalten"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -848,7 +589,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 54.0,
       "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 3.0,
+      "Odległość (km)": 8.0,
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -866,8 +607,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b014a926-72bd-4b34-b62f-85190e1b36d6?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 650.0,
-      "Opis": "GEMÜTLICHE 2-ZIMMER-WOHNUNG IN BAHNHOFSNÄHE – MODERNES WOHNEN\n\nZur Vermietung steht eine moderne und gepflegte 2-Zimmer-Wohnung in attraktiver Lage, nur wenige Gehminuten vom Bahnhof entfernt. Die gute Anbindung an den öffentlichen Nahverkehr sowie Einkaufsmöglichkeiten und weitere Einrichtungen des täglichen Bedarfs machen die Wohnung besonders attraktiv.\n\nDie Wohnung überzeugt durch ihren modernen Stil und eine praktische Raumaufteilung. Das großzügige Wohnzimmer bietet viel Platz zum Wohnen und Entspannen. Ergänzt wird die Wohnung durch ein separates Schlafzimmer, einen Flur sowie ein Badezimmer mit Dusche und WC.\n\nVoraussetzung für die Vermietung ist ein bestehendes Arbeitsverhältnis.\n\nAusstattung:\n\n* 2 Zimmer\n* Großzügiges Wohnzimmer\n* Modernes Wohnambiente\n* Badezimmer mit Dusche und WC\n* Flur\n* Bahnhof in unmittelbarer Nähe\n\nMietkonditionen:\n\n* Grundmiete: 550 €\n* Betriebskosten: 100 €\n* Kaution: 1.650 €\n\nKontaktaufnahme ebay:\n\nKontaktaufnahme bitte ausschließlich über unsere Geschäftsmail oder die ebay Nachrichtenfunktion. Wir bitten von Anrufen abzusehen. Wir bitten um eine aussagekräftige Bewerbung. Dazu können Sie die Mieterselbstauskunft von unserer Homepage ausgefüllt an unsere Hausverwaltung zu senden. Sie finden die Mieterselbstauskunft unter kader-immobilien.de/Wohnungen-Haeuser.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "GEMÜTLICHE 2-ZIMMER-WOHNUNG IN BAHNHOFSNÄHE – MODERNES WOHNEN\n\nZur Vermietung steht eine moderne und gepflegte 2-Zimmer-Wohnung in attraktiver Lage, nur wenige Gehminuten vom Bahnhof entfernt. Die gute Anbindung an den öffentlichen Nahverkehr sowie Einkaufsmöglichkeiten und weitere Einrichtungen des täglichen Bedarfs machen die Wohnung besonders attraktiv.\n\nDie Wohnung überzeugt durch ihren modernen Stil und eine praktische Raumaufteilung. Das großzügige Wohnzimmer bietet viel Platz zum Wohnen und Entspannen. Ergänzt wird die Wohnung durch ein separates Schlafzimmer, einen Flur sowie ein Badezimmer mit Dusche und WC.\n\nVoraussetzung für die Vermietung ist ein bestehendes Arbeitsverhältnis.\n\nAusstattung:\n\n* 2 Zimmer\n* Großzügiges Wohnzimmer\n* Modernes Wohnambiente\n* Badezimmer mit Dusche und WC\n* Flur\n* Bahnhof in unmittelbarer Nähe\n\nMietkonditionen:\n\n* Grundmiete: 550 €\n* Betriebskosten: 100 €\n* Kaution: 1.650 €\n\nKontaktaufnahme ebay:\n\nKontaktaufnahme bitte ausschließlich über unsere Geschäftsmail oder die ebay Nachrichtenfunktion. Wir bitten von Anrufen abzusehen. Wir bitten um eine aussagekräftige Bewerbung. Dazu können Sie die Mieterselbstauskunft von unserer Homepage ausgefüllt an unsere Hausverwaltung zu senden. Sie finden die Mieterselbstauskunft unter kader-immobilien.de/Wohnungen-Haeuser."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -876,7 +616,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 50.0,
       "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 0.9,
+      "Odległość (km)": 9.0,
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -897,8 +637,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82712826-1eee-4a38-9575-63dfce94a2ae?rule=$_59.AUTO"
       ],
       "Czynsz z mediami (€)": 620.0,
-      "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Badewanne • Altbau • Garage/Stellplatz • Garten/-mitnutzung\n\nGroßzügige und gepflegte Wohnung auf zwei Etagen in ruhiger, aber zentralen Lage von Kleve mit 50qm Wohn- und 100qm Nutzfläche.\nDie Wohnung liegt in einem Einfamilienhauses, in dem es nur eine weitere Wohnung gibt – ein idealer Rückzugsort für alle, die Privatsphäre, Komfort und Naturverbundenheit schätzen.\n\nAusstattung im Überblick - Teilmöbliert, inkl.:  - Küchenschränke, Spüle, Herd, Backofen, Spülmaschine  - Kleiderschrank, Couch (Chaiselongue), Fernsehschrank, Geschirrschrank, Kommode  - Küchentisch mit 5 Stühlen, Badezimmerschrank, 2 Spiegel  - Fernseher mit Satellitenanschluss  - Lampen in Wohnräumen - Privater PKW-Stellplatz - Bad mit Badewanne - Waschmaschine im Gemeinschafts-Waschkeller - 250 m² großer Garten\n- 40 m² Terrasse - Ruhige Lage mit Panoramablick über Kleve und bis zur Emmericher Rheinbrücke - Zugang zum Reichswald am Ende der Straße\n\n Die Wohnung befindet sich in einer der begehrtesten Wohnlagen Kleves: ruhig, naturnah und dennoch zentrumsnah gelegen.  Nach hinten eröffnet sich der Blick über den eigenen Garten und eine Villa auf dem Hang, nach vorne genießen Sie eine beeindruckende Aussicht über die Stadt Kleve bis zum Rhein.\nDer Reichswald als Naherholungsgebiet ist fußläufig erreichbar – ideal für Spaziergänge, Jogging oder entspannte Stunden im Grünen.\n\nDie Nebenkosten sind derzeit durch Eigenleistungen (z. B. Hausflurreinigung, Mülltonnen herausstellen, Rasenmähen im Sommer) reduziert. Alternativ kann ein Dienstleister beauftragt werden (mit entsprechendem Nebenkostenaufschlag).  Das Rauchen ist im Haus nicht gestattet. \n\nBevorzugt wird die langfristige Vermietung an 1–2 Personen \nBenötigte Informationen: * Kurze Vorstellung und den Grund Ihres Umzugs * Anzahl der einziehenden Personen\n* Gewünschter Einzugstermin \nErforderliche Unterlagen:\n\nIdentitätsnachweis\nSCHUFA-Auskunft Mieterselbstauskunft Gehaltsnachweis der letzten drei Monate\nMietschuldenfreiheitsbescheinigung vom ehemaligen Vermieter",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Badewanne • Altbau • Garage/Stellplatz • Garten/-mitnutzung\n\nGroßzügige und gepflegte Wohnung auf zwei Etagen in ruhiger, aber zentralen Lage von Kleve mit 50qm Wohn- und 100qm Nutzfläche.\nDie Wohnung liegt in einem Einfamilienhauses, in dem es nur eine weitere Wohnung gibt – ein idealer Rückzugsort für alle, die Privatsphäre, Komfort und Naturverbundenheit schätzen.\n\nAusstattung im Überblick - Teilmöbliert, inkl.:  - Küchenschränke, Spüle, Herd, Backofen, Spülmaschine  - Kleiderschrank, Couch (Chaiselongue), Fernsehschrank, Geschirrschrank, Kommode  - Küchentisch mit 5 Stühlen, Badezimmerschrank, 2 Spiegel  - Fernseher mit Satellitenanschluss  - Lampen in Wohnräumen - Privater PKW-Stellplatz - Bad mit Badewanne - Waschmaschine im Gemeinschafts-Waschkeller - 250 m² großer Garten\n- 40 m² Terrasse - Ruhige Lage mit Panoramablick über Kleve und bis zur Emmericher Rheinbrücke - Zugang zum Reichswald am Ende der Straße\n\n Die Wohnung befindet sich in einer der begehrtesten Wohnlagen Kleves: ruhig, naturnah und dennoch zentrumsnah gelegen.  Nach hinten eröffnet sich der Blick über den eigenen Garten und eine Villa auf dem Hang, nach vorne genießen Sie eine beeindruckende Aussicht über die Stadt Kleve bis zum Rhein.\nDer Reichswald als Naherholungsgebiet ist fußläufig erreichbar – ideal für Spaziergänge, Jogging oder entspannte Stunden im Grünen.\n\nDie Nebenkosten sind derzeit durch Eigenleistungen (z. B. Hausflurreinigung, Mülltonnen herausstellen, Rasenmähen im Sommer) reduziert. Alternativ kann ein Dienstleister beauftragt werden (mit entsprechendem Nebenkostenaufschlag).  Das Rauchen ist im Haus nicht gestattet. \n\nBevorzugt wird die langfristige Vermietung an 1–2 Personen \nBenötigte Informationen: * Kurze Vorstellung und den Grund Ihres Umzugs * Anzahl der einziehenden Personen\n* Gewünschter Einzugstermin \nErforderliche Unterlagen:\n\nIdentitätsnachweis\nSCHUFA-Auskunft Mieterselbstauskunft Gehaltsnachweis der letzten drei Monate\nMietschuldenfreiheitsbescheinigung vom ehemaligen Vermieter"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -928,8 +667,34 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86caecbc-b40f-4536-8305-09e5b9da8dde?rule=$_59.AUTO"
       ],
       "Czynsz z mediami (€)": 670.0,
-      "Opis": "Badewanne • Keller\n\nNach 28 Jahren harmonischen Miteinanders hat uns unser allseits so beliebter Mieter uns leider viel, viel zu früh verlassen.\nNun wünscht sich unsere kleine, friedvolle Hausgemeinschaft wieder eine ruhige, gerne alleinstehende Person als neue/n Nachbar/in, die gut in unsere Gemeinschaft passt.\n\nDie Eckdaten zur Wohnung:\nWohnfläche knapp 70 m² mit sinnvoller, großzügiger Aufteilung.\n\nZimmer:\n2 Räume (Wohnzimmer, Schlafzimmer plus Wohnküche, Bad, Diele).\n\nAusstattung:\nEigener Kellerraum, Waschmaschinenstellplatz (auf Wunsch auch Trocknerstellplatz) im Waschkeller.\nDie Dachgeschosswohnung verfügt über KEINEN Balkon.\n\nParken:\nKostenlose, öffentliche Stellplätze direkt gegenüber auf dem großen Parkplatz.\n\nVerfügbarkeit: Ab dem 01. Oktober 2026.\n\nIhre exklusiven Vorteile als Mieter:\nSicherheit vor Eigenbedarf.\nDie Vermietung erfolgt über eine Immobilien-Stiftung.\nDa die Stiftung an einem langfristigen Mietverhältnis interessiert ist, sind Sie vor einer Eigenbedarfskündigung geschützt.\n\nPlanungssicherheit bei den Kosten:\nDie Nettokaltmiete wird im Mietvertrag für die ersten 3 Jahre festgeschrieben. Die Nebenkostenvorauszahlungen sind fair für eine Person kalkuliert – mittelfristig sind daher keine Mieterhöhungen oder hohen Nachzahlungen zu erwarten.\n\nMietvertrag: Die Mindestmietdauer beträgt 2 Jahre.\n\nAufgrund der Raumaufteilung und der Dachgeschosslage eignet sich die Wohnung ideal für eine berufstätige Einzelperson oder einen Ruheständler, der ein langfristiges und harmonisches Zuhause sucht.\n\nHaben wir Ihr Interesse geweckt?\nDann freuen wir uns auf Ihre aussagekräftige Anfrage (gerne bereits mit ein paar Worten zu Ihrer Person).\n\n# Ausstattung\nSanitärbereich:\n+ Duschkabine\n+ Badewanne\n+ Warmwasser im Bad über el. Durchlauferhitzer\n+ Stand-WC\n+ Wandspiegel mit Beleuchtung und Ablage\n+ Flügel-Wäschetrockner (ausklappbar an der Wand)\n\n+ Im Wohnzimmer Abstellraum im Kniestock, (mit automatischer Beleuchtung)\n+ Giebelfenster mit Rollladen im Wohnzimmer\n+ Giebelfenster Kunststoff, 2-fach isolierverglast\n\n+ 2-fach isolierverglaste Holz-VELUX Fenster in Bad, Küche und Schlafzimmer\n\n+ Kellerraum mit Stromanschluss (Steckdose)\n+ Waschküche\n+ Trockenraum\n+ Wäschetrockneranschluss\n+ Türsprechanlage neu in 2016\n+ TECHEM-Funkheizkostenerfassung\n+ TECHEM-Rauchwarnmelder\n+ Stahlrippenheizkörper\n\n# Weitere Angaben\n- Separate WCs: 1\n- Objektzustand: modernisiert\n\n- Hinweis zur Kaution: 3 Nettokaltmieten = 1.650,00 €\n\n- Gesamtfläche: ca. 69,14 m²\n\n# Lagebeschreibung\nDas Objekt liegt in einer sehr ruhigen, kaum befahrenen Nebenstrasse im Ortsteil Winnekendonk.\nHier bietet sich eine gute Nahversorgung im gut sortierten EDEKA-Markt, beim Bäcker, Metzger oder in den 2 Bauernläden.\nGastronomisch bietet Winnekendonk 2 Gastwirtschaften, eine Pizzeria, einen Imbiss sowie eine Eisdiele.\nFilialen der Sparkasse und der Volksbank sind auch vorhanden.\n\nHausarzt, Zahnarzt, Apotheke und Physiotherapie sind ebenfalls fußläufig zu erreichen.\n\nSportplätze und Minigolf, wie auch die nahen Felder bieten Möglichkeiten für verschiedene Sport- und Freizeitaktivitäten.\n\nDie Haltestelle vom Bürgerbus befindet sich 1 Min. entfernt, die Linien 53 & 57 bringen Sie schnell nach Kevelaer (ca. 4 km), Sonsbeck, Uedem, oder Wesel.\n\nKindergärten und Grundschule befinden sich in Winnekendonk, weiterführende Schulen in Kevelaer.Entfernungen:\nRealschule 4 km\nGymnasium 4 km\nAutobahn 5 km\nZentrum 4 km\n\n# Sonstiges\nRechtliche Hinweise:\nAuf ausdrücklichen Wunsch der Eigentümer werden Besichtigungstermine ausschließlich über das Immobilienbüro vergeben. Von einer anderweitigen Kontaktaufnahme z.B. über die Mieter ist daher ausdrücklich abzusehen.\n\nBesuchen Sie uns auf www.rheinland.immo oder laden Sie sich bequem unsere App (\"rheinland.immo\" im App-Store eingeben) auf Ihr Mobilgerät.\n\nAlle hier genannten Daten und Fakten beruhen auf Angaben der Eigentümer und dienen einer ersten Information.\nEine Gewähr für die Richtigkeit wird nicht übernommen. Auslassungen, Irrtum und Zwischenverkauf / Zwischenvermietung bleiben vorbehalten.\nDieses Angebot ist als vertraulich zu behandeln, eine Verwertung durch Dritte bedarf der schriftlichen Zustimmung der Rheinische Immobilien Kompetenz GmbH.\n\nWir bitten um Verständnis dafür, dass wir auch den Immobilieneigentümern gegenüber zu einem sorgfältigen Umgang mit sensiblen Daten verpflichtet sind und nähere Informationen nur weitergeben, wenn Sie bei Ihrer Anfrage Ihre vollständigen Kontaktdaten angeben. Vielen Dank.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: OEL\n- Endenergiebedarf: 244.6 kWh/(m²*a)\n- Gültig bis: 2029-03-19\n- Baujahr (gemäß Energieausweis): 1972\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Öl\n\nAnbieter-Objekt-ID: 26-1002-WE3",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Badewanne • Keller\n\nNach 28 Jahren harmonischen Miteinanders hat uns unser allseits so beliebter Mieter uns leider viel, viel zu früh verlassen.\nNun wünscht sich unsere kleine, friedvolle Hausgemeinschaft wieder eine ruhige, gerne alleinstehende Person als neue/n Nachbar/in, die gut in unsere Gemeinschaft passt.\n\nDie Eckdaten zur Wohnung:\nWohnfläche knapp 70 m² mit sinnvoller, großzügiger Aufteilung.\n\nZimmer:\n2 Räume (Wohnzimmer, Schlafzimmer plus Wohnküche, Bad, Diele).\n\nAusstattung:\nEigener Kellerraum, Waschmaschinenstellplatz (auf Wunsch auch Trocknerstellplatz) im Waschkeller.\nDie Dachgeschosswohnung verfügt über KEINEN Balkon.\n\nParken:\nKostenlose, öffentliche Stellplätze direkt gegenüber auf dem großen Parkplatz.\n\nVerfügbarkeit: Ab dem 01. Oktober 2026.\n\nIhre exklusiven Vorteile als Mieter:\nSicherheit vor Eigenbedarf.\nDie Vermietung erfolgt über eine Immobilien-Stiftung.\nDa die Stiftung an einem langfristigen Mietverhältnis interessiert ist, sind Sie vor einer Eigenbedarfskündigung geschützt.\n\nPlanungssicherheit bei den Kosten:\nDie Nettokaltmiete wird im Mietvertrag für die ersten 3 Jahre festgeschrieben. Die Nebenkostenvorauszahlungen sind fair für eine Person kalkuliert – mittelfristig sind daher keine Mieterhöhungen oder hohen Nachzahlungen zu erwarten.\n\nMietvertrag: Die Mindestmietdauer beträgt 2 Jahre.\n\nAufgrund der Raumaufteilung und der Dachgeschosslage eignet sich die Wohnung ideal für eine berufstätige Einzelperson oder einen Ruheständler, der ein langfristiges und harmonisches Zuhause sucht.\n\nHaben wir Ihr Interesse geweckt?\nDann freuen wir uns auf Ihre aussagekräftige Anfrage (gerne bereits mit ein paar Worten zu Ihrer Person).\n\n# Ausstattung\nSanitärbereich:\n+ Duschkabine\n+ Badewanne\n+ Warmwasser im Bad über el. Durchlauferhitzer\n+ Stand-WC\n+ Wandspiegel mit Beleuchtung und Ablage\n+ Flügel-Wäschetrockner (ausklappbar an der Wand)\n\n+ Im Wohnzimmer Abstellraum im Kniestock, (mit automatischer Beleuchtung)\n+ Giebelfenster mit Rollladen im Wohnzimmer\n+ Giebelfenster Kunststoff, 2-fach isolierverglast\n\n+ 2-fach isolierverglaste Holz-VELUX Fenster in Bad, Küche und Schlafzimmer\n\n+ Kellerraum mit Stromanschluss (Steckdose)\n+ Waschküche\n+ Trockenraum\n+ Wäschetrockneranschluss\n+ Türsprechanlage neu in 2016\n+ TECHEM-Funkheizkostenerfassung\n+ TECHEM-Rauchwarnmelder\n+ Stahlrippenheizkörper\n\n# Weitere Angaben\n- Separate WCs: 1\n- Objektzustand: modernisiert\n\n- Hinweis zur Kaution: 3 Nettokaltmieten = 1.650,00 €\n\n- Gesamtfläche: ca. 69,14 m²\n\n# Lagebeschreibung\nDas Objekt liegt in einer sehr ruhigen, kaum befahrenen Nebenstrasse im Ortsteil Winnekendonk.\nHier bietet sich eine gute Nahversorgung im gut sortierten EDEKA-Markt, beim Bäcker, Metzger oder in den 2 Bauernläden.\nGastronomisch bietet Winnekendonk 2 Gastwirtschaften, eine Pizzeria, einen Imbiss sowie eine Eisdiele.\nFilialen der Sparkasse und der Volksbank sind auch vorhanden.\n\nHausarzt, Zahnarzt, Apotheke und Physiotherapie sind ebenfalls fußläufig zu erreichen.\n\nSportplätze und Minigolf, wie auch die nahen Felder bieten Möglichkeiten für verschiedene Sport- und Freizeitaktivitäten.\n\nDie Haltestelle vom Bürgerbus befindet sich 1 Min. entfernt, die Linien 53 & 57 bringen Sie schnell nach Kevelaer (ca. 4 km), Sonsbeck, Uedem, oder Wesel.\n\nKindergärten und Grundschule befinden sich in Winnekendonk, weiterführende Schulen in Kevelaer.Entfernungen:\nRealschule 4 km\nGymnasium 4 km\nAutobahn 5 km\nZentrum 4 km\n\n# Sonstiges\nRechtliche Hinweise:\nAuf ausdrücklichen Wunsch der Eigentümer werden Besichtigungstermine ausschließlich über das Immobilienbüro vergeben. Von einer anderweitigen Kontaktaufnahme z.B. über die Mieter ist daher ausdrücklich abzusehen.\n\nBesuchen Sie uns auf www.rheinland.immo oder laden Sie sich bequem unsere App (\"rheinland.immo\" im App-Store eingeben) auf Ihr Mobilgerät.\n\nAlle hier genannten Daten und Fakten beruhen auf Angaben der Eigentümer und dienen einer ersten Information.\nEine Gewähr für die Richtigkeit wird nicht übernommen. Auslassungen, Irrtum und Zwischenverkauf / Zwischenvermietung bleiben vorbehalten.\nDieses Angebot ist als vertraulich zu behandeln, eine Verwertung durch Dritte bedarf der schriftlichen Zustimmung der Rheinische Immobilien Kompetenz GmbH.\n\nWir bitten um Verständnis dafür, dass wir auch den Immobilieneigentümern gegenüber zu einem sorgfältigen Umgang mit sensiblen Daten verpflichtet sind und nähere Informationen nur weitergeben, wenn Sie bei Ihrer Anfrage Ihre vollständigen Kontaktdaten angeben. Vielen Dank.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: OEL\n- Endenergiebedarf: 244.6 kWh/(m²*a)\n- Gültig bis: 2029-03-19\n- Baujahr (gemäß Energieausweis): 1972\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Öl\n\nAnbieter-Objekt-ID: 26-1002-WE3"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Möblierte Mietwohnung in Kevelaer",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 42.0,
+      "Lokalizacja": "47623 Kevelaer",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 33.1,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-mietwohnung-in-kevelaer/3471681992-203-1137",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e432c87-48dd-4a9a-9154-71d636ca5380?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/159e5452-4334-4c21-a49c-a49485e38a28?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f15714b7-2c51-40e3-8f9f-d5d1614c213b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ab8287b-5b05-4a8e-a14f-2cc33f50ba2b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/850cdff5-4013-4dfb-9414-212e000cffc4?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/361f88dd-14b7-4daa-bb7e-13e7b386aba6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6228a31-39cf-4338-a0f2-e1eee7e6837f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ae4563e-7fca-455b-8724-50d0db7a116e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf320ae3-6192-408f-b2aa-564285cddcd0?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche\n\nKleine,\nmöblierte Wohnung zentral in Kevelaer, Preis zuzüglich Nebenkosten.\n\nBeantwortet werden nur vollständige Bewerbungen"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -938,7 +703,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 40.0,
       "Lokalizacja": "47551 Bedburg-Hau",
-      "Odległość (km)": 7.0,
+      "Odległość (km)": 8.0,
       "Odległość od 's-Heerenberg (km)": 13.4,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -959,8 +724,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 625.0,
-      "Opis": "Einbauküche • Fußbodenheizung • Neubau\n\nEinziehen und wohlfühlen: Diese gemütliche 40 m² große Singlewohnung kombiniert den unverwechselbaren Charakter eines Bauernhofs mit modernstem Wohnkomfort. Die Wohnung liegt mitten in der idyllischen Natur und wurde komplett kernsaniert. Dank einer nachhaltigen Wärmepumpe und einer behaglichen Fußbodenheizung genießen Sie hier das ganze Jahr über ein perfektes Raumklima und niedrige Energiekosten.\n\nHerzstück der Wohnung: Ein großzügiges Wohn- und Esszimmer inklusive einer modernen, bereits integrierten Einbauküche. Die zu einem Aufpreis von 60€ mit vermietet wird.\nRückzugsort: Ein separates, gemütliches Schlafzimmer mit optimalen Stellmöglichkeiten.Komfort:\nEin stilvolles, frisch saniertes Badezimmer mit hochwertiger Ausstattung.Highlight im Grünen: Ein eigener Gartenanteil lädt zum Entspannen ein. Dieser wird aktuell neu angelegt und steht Ihnen ab 2027 zur vollen Nutzung zur Verfügung.\n\nDie Wohnung befindet sich in einer absolut ruhigen und grünen Oase auf einem charmanten alten Gutshof. Perfekt für Naturliebhaber, die nach dem Feierabend die Ruhe auf dem Land genießen möchten, ohne auf eine gute Anbindung an die umliegenden Ortschaften verzichten zu müssen.\nEinkaufsmöglichkeiten keine 5 Minuten entfernt. Bushaltestelle fussläufig.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Einbauküche • Fußbodenheizung • Neubau\n\nEinziehen und wohlfühlen: Diese gemütliche 40 m² große Singlewohnung kombiniert den unverwechselbaren Charakter eines Bauernhofs mit modernstem Wohnkomfort. Die Wohnung liegt mitten in der idyllischen Natur und wurde komplett kernsaniert. Dank einer nachhaltigen Wärmepumpe und einer behaglichen Fußbodenheizung genießen Sie hier das ganze Jahr über ein perfektes Raumklima und niedrige Energiekosten.\n\nHerzstück der Wohnung: Ein großzügiges Wohn- und Esszimmer inklusive einer modernen, bereits integrierten Einbauküche. Die zu einem Aufpreis von 60€ mit vermietet wird.\nRückzugsort: Ein separates, gemütliches Schlafzimmer mit optimalen Stellmöglichkeiten.Komfort:\nEin stilvolles, frisch saniertes Badezimmer mit hochwertiger Ausstattung.Highlight im Grünen: Ein eigener Gartenanteil lädt zum Entspannen ein. Dieser wird aktuell neu angelegt und steht Ihnen ab 2027 zur vollen Nutzung zur Verfügung.\n\nDie Wohnung befindet sich in einer absolut ruhigen und grünen Oase auf einem charmanten alten Gutshof. Perfekt für Naturliebhaber, die nach dem Feierabend die Ruhe auf dem Land genießen möchten, ohne auf eine gute Anbindung an die umliegenden Ortschaften verzichten zu müssen.\nEinkaufsmöglichkeiten keine 5 Minuten entfernt. Bushaltestelle fussläufig."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -990,8 +754,31 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de18016f-7454-4827-af16-dfb29b9f093d?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 700.0,
-      "Opis": "Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung\n1. OG\nMit Einbauküche\nGas-Zentralheizung\nTreppenhaus- und Gartenpflege und Winterdienst extern vergeben\nDemnächst frisch renoviert",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung\n1. OG\nMit Einbauküche\nGas-Zentralheizung\nTreppenhaus- und Gartenpflege und Winterdienst extern vergeben\nDemnächst frisch renoviert"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "(bez tytułu)",
+      "Cena (€)": 560.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 68.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietangebot/3499707920-203-1867",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d5f3527-77fd-4380-825e-32165b06815f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2205d1ce-6879-4c74-94e9-74846dbe1b6f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d176a1c5-7b3f-4f7f-a857-9db714f11c06?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Balkon\n\nHelle Wohnung Innenstadt"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1021,8 +808,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41142016-a93a-493a-a3e1-36f609ea35e1?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 800.0,
-      "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nHelle Wohnung in gepflegtem 8-Familienhaus in ruhiger Lage.\nVinyl-Laminat in der gesamten Wohnung, neues WC und Waschbecken, Rolladen, Balkon, neue Lichtschalter/ Steckdosen. Privater Keller. Küche kann übernommen werden. Einbauschrank im Flur. Fahrrad-/ Waschkeller.\nDie Wohnung ist nur geeignet für 1-2 Personen. Kein WBS möglich.\nEinzelgarage € 70,— pM",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nHelle Wohnung in gepflegtem 8-Familienhaus in ruhiger Lage.\nVinyl-Laminat in der gesamten Wohnung, neues WC und Waschbecken, Rolladen, Balkon, neue Lichtschalter/ Steckdosen. Privater Keller. Küche kann übernommen werden. Einbauschrank im Flur. Fahrrad-/ Waschkeller.\nDie Wohnung ist nur geeignet für 1-2 Personen. Kein WBS möglich.\nEinzelgarage € 70,— pM"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1031,7 +817,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 54.0,
       "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 10.0,
+      "Odległość (km)": 1.0,
       "Odległość od 's-Heerenberg (km)": 2.9,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -1049,8 +835,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-user/images/0d/0d3045eb-ad8f-4ad2-b4e9-2c90acf9b619?rule=$_12.JPG"
       ],
       "Czynsz z mediami (€)": 740.0,
-      "Opis": "Balkon • Einbauküche • Stufenloser Zugang • Fußbodenheizung • Neubau • Aufzug • Garage/Stellplatz\n\nDiese helle und moderne 2-Zimmer-Wohnung befindet sich in einer gepflegten Wohnanlage in Emmerich und bietet Ihnen alles, was Sie für ein ruhiges und angenehmes Wohnambiente benötigen. Ein Aufzug erleichtert den Alltag, besonders wenn Sie viel Mobility benötigen oder Einkaufstouren erledigen.\n\nDie Ausstattung im Überblick:\n\nHelle, freundliche Räume mit zeitgemäßer Gestaltung\nEinbauküche und passende Lampen können vom Vormieter für 2.000 € Verhandlungsbasis übernommen werden. Die Küche ist so gut wie neu, da der Mieter kaum zu Hause war.\nPkw-Stellplatz ist vorhanden und kostet 35 Euro pro Monat\nIdeal sowohl für Singles als auch Paare",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Einbauküche • Stufenloser Zugang • Fußbodenheizung • Neubau • Aufzug • Garage/Stellplatz\n\nDiese helle und moderne 2-Zimmer-Wohnung befindet sich in einer gepflegten Wohnanlage in Emmerich und bietet Ihnen alles, was Sie für ein ruhiges und angenehmes Wohnambiente benötigen. Ein Aufzug erleichtert den Alltag, besonders wenn Sie viel Mobility benötigen oder Einkaufstouren erledigen.\n\nDie Ausstattung im Überblick:\n\nHelle, freundliche Räume mit zeitgemäßer Gestaltung\nEinbauküche und passende Lampen können vom Vormieter für 2.000 € Verhandlungsbasis übernommen werden. Die Küche ist so gut wie neu, da der Mieter kaum zu Hause war.\nPkw-Stellplatz ist vorhanden und kostet 35 Euro pro Monat\nIdeal sowohl für Singles als auch Paare"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1078,8 +863,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d0692d8-a233-4b9b-a28f-7ffa46888cfb?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 650.0,
-      "Opis": "2 Zimmer Wohnung\nSonsbeck\n65 m²\n590,00 € + 60,00 € NK pro Person\nWohnzimmer + Küche offen\nSchlafzimmer\nBadezimmer\nFlur\nkleiner Balkon\nKeller Abstellraum\nKFZ Stellplatz hinter dem Haus\nMülltonnen Stellplatz + Fahrrad Stellplatz\nhinten im Hof",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "2 Zimmer Wohnung\nSonsbeck\n65 m²\n590,00 € + 60,00 € NK pro Person\nWohnzimmer + Küche offen\nSchlafzimmer\nBadezimmer\nFlur\nkleiner Balkon\nKeller Abstellraum\nKFZ Stellplatz hinter dem Haus\nMülltonnen Stellplatz + Fahrrad Stellplatz\nhinten im Hof"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1108,8 +892,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40d8597c-350c-494a-ab16-ab52656010ed?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": null,
-      "Opis": "3-Zi.-Wohnung, 70qm mit Balkon\n590€kalt+Nbk.+Energie zum 1.11.26 evtl.\nfrüher zu vermieten. Kaution 2 Kaltmieten\n0172 6900634",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "3-Zi.-Wohnung, 70qm mit Balkon\n590€kalt+Nbk.+Energie zum 1.11.26 evtl.\nfrüher zu vermieten. Kaution 2 Kaltmieten\n0172 6900634"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1117,12 +900,12 @@
       "Cena (€)": 599.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 66.0,
-      "Lokalizacja": "46459 Rees",
-      "Odległość (km)": 18.0,
-      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Lokalizacja": "46419 Isselburg",
+      "Odległość (km)": 15.0,
+      "Odległość od 's-Heerenberg (km)": 15.1,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-dachgeschosswohnung-in-millingen-66-m-zu-vermieten/3512357872-203-1389",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-dachgeschosswohnung-in-millingen-66-m-zu-vermieten/3512357872-203-1848",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8532f64a-5d76-4416-86d6-0df2f403d4b3?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8532f64a-5d76-4416-86d6-0df2f403d4b3?rule=$_59.AUTO",
@@ -1132,46 +915,44 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de343150-ac74-4a90-855f-d9e8e814f311?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e4a1c51-601d-44e6-afee-18a7203bdadb?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/869ccdeb-8272-4499-92d7-8222e743722d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8532f64a-5d76-4416-86d6-0df2f403d4b3?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/567f7f09-6be8-4e39-ac8f-28feef4c0820?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/880bbf9f-2e8a-433f-8b1c-16c73ab0078a?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2f1c958-907e-4315-a44a-299604efd158?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de343150-ac74-4a90-855f-d9e8e814f311?rule=$_1.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/737f958d-f195-48c2-8ffe-442d6f67d82a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31fcc19e-6768-44d0-8f5b-7555949a4c64?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/155d825c-59cd-446e-bb46-fb41b89b41e0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4573b75-e703-4df4-a91f-d080759f94bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cab24248-c77a-48dc-88df-d9a9ac24f68e?rule=$_0.AUTO"
       ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Wir vermieten eine schöne 2- Zimmer Wohnung, die sich zentral in Rees Millingen befindet.\nVom Flur aus gelangen Sie in alle Räume der Wohnung.\nDie vorhandene Einbauküche kann gerne vom Vormieter übernommen werden.\nDas Wohnzimmer ist großzügig geschnitten, so dass noch eine Essecke / Homeoffice- Platz eingerichtet werden kann.\nDas Bad ist mit einer Dusche ausgestattet.\n\nZu der Wohnung gehört ein Kellerraum. Die Wohnung liegt im 2. OG, es ist kein Aufzug vorhanden.\n\nDie Wohnung hat keinen Balkon.\n\nBitte teilen Sie uns bei Ihrer Anfrage mindestens die folgenden Details mit:\n- mit wieviel Personen möchten Sie einziehen?\n- sind Sie berufstätig?\n- haben Sie Haustiere?",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Czynsz z mediami (€)": 764.0,
+      "Opis": "Einbauküche • Keller\n\nWir vermieten eine schöne 2- Zimmer Wohnung, die sich zentral in Rees Millingen befindet.\nVom Flur aus gelangen Sie in alle Räume der Wohnung.\nDie vorhandene Einbauküche kann gerne vom Vormieter übernommen werden.\nDas Wohnzimmer ist großzügig geschnitten, so dass noch eine Essecke / Homeoffice- Platz eingerichtet werden kann.\nDas Bad ist mit einer Dusche ausgestattet.\n\nZu der Wohnung gehört ein Kellerraum. Die Wohnung liegt im 2. OG, es ist kein Aufzug vorhanden.\n\nDie Wohnung hat keinen Balkon.\n\nBitte teilen Sie uns bei Ihrer Anfrage mindestens die folgenden Details mit:\n- mit wieviel Personen möchten Sie einziehen?\n- sind Sie berufstätig?\n- haben Sie Haustiere?"
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Etagenwohnung mit Balkon ab 01.10.2026 zu vermieten",
-      "Cena (€)": 600.0,
+      "Tytuł": "Ansprechende 2-Zimmer-Wohnung mit Balkon in Wesel",
+      "Cena (€)": 599.0,
       "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "47574 Goch",
-      "Odległość (km)": 12.0,
-      "Odległość od 's-Heerenberg (km)": 21.8,
+      "Powierzchnia (m²)": 65.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/etagenwohnung-mit-balkon-ab-01-10-2026-zu-vermieten/3470485583-203-1147",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_2.AUTO",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/ansprechende-2-zimmer-wohnung-mit-balkon-in-wesel/3420141612-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_2.AUTO",
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2393da9-c665-49c9-9a04-82785abcb1f7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe3add0-3453-40e7-a473-4d3f7d582b33?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ee206eb-71f5-413c-a1ff-43a6a9c68553?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1aa945e3-ad82-4509-90c8-678e27ee5425?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0957965e-9fcf-4f3b-af03-2f202bf5be89?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38814eb0-0b63-4616-9fe9-3641f44bde2f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63446d49-04b4-4f1a-adb5-b47a2dadfa1c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/245cb124-dffd-4ea8-b1d4-fcdc0c2a150a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1462b9d-3a4d-421a-ba3a-f203661b895f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df444b07-2d76-45a6-8922-c708a833ab92?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/eb/eb7c93a7-2590-4b29-b01b-ac994c4bb50b?rule=$_12.JPG"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a391c94-82a6-49b8-89e9-c9cf24b4c325?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8c63a7d-418f-442f-af78-0eec63fe665a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e71feba8-3c2b-4403-8373-4bed7c8832fe?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e44ed1e4-aed9-4403-bc0b-3fe81c6b0634?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f0a9a4-4d20-4382-97c2-f72437de3f2d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14dfaddd-71de-4e5c-9a07-890afb3a9be3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e11a6bfe-07c5-4453-bc65-9675b6c8e3e0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/359c1b1f-c51d-42cf-9529-396b11ce6dcf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/3165559d-9770-41be-8232-d7db2488992e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa015f36-096e-4a4c-b5ca-34e0c56212a5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/96/96650629-c3cb-448f-b7f2-7be5fbfb34cc?rule=$_12.JPG"
       ],
-      "Czynsz z mediami (€)": 680.0,
-      "Opis": "Balkon • Badewanne • Keller\n\nVermietet wird eine schöhe helle 2,5 Zimmerwohnung in der City von Goch.\n\ngeheizt wird mit einer eigenen Gastherme (muss mit den jeweiligen Betreiber direkt abgerechnet werden.\n\n1 Wohnraum mit Kochnische und Zugang zum Balkon\n\n1 Schlafzimmer\n\n1 Flur\n\n1 Bad mit Wanne + Dusche\n\n1 Kellerraum\n\nGesamt ca. 54 m²\n\nKosten:\n\nKaltmiete 600,00 €\n\nNK- Vorauszahlung für 1 Person 80,00 €\n\nKauiton 1.800,00 € (3 Kaltmieten)\n\nGas und Strom müssen direkt mit dem jeweiligen Betreiber abgerechnet werden.\n\nEnergieausweis wird zurzeit neu erstellt.\n\nVerdientsnachweise und eine Mieterselbsauskunft sowie eine positive Schufa werden vorausgesetzt.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Czynsz z mediami (€)": 759.0,
+      "Opis": "Balkon • Einbauküche • Badewanne\n\nDie Heizkosten sind in den Nebenkosten enthalten.\n\nDiese ansprechende 2-Zimmer-Wohnung im 2. Obergeschoss\neines gepflegten 4-Parteienhauses überzeugt mit einer\ndurchdachten Raumaufteilung und hochwertiger Ausstattung.\nMit ca. 65 m² Wohnfläche bietet sie genügend Platz für Singles\noder Paare, die Wert auf Komfort und eine zentrale Lage legen.\nHunde sind nicht erlaubt.\n\nDie Wohnung besticht durch eine helle Küche mit direktem\nZugang zum Balkon, eine Einbauküche sowie ein hochwertig\nsaniertes Badezimmer. Ein eigener Kellerraum sorgt für\nzusätzlichen Stauraum.\n\nAusstattung im Detail\n\nCa. 65 m² Wohnfläche\n2 Zimmer\nEinbauküche aus 2012 – Boden gefliest\nBalkon für entspannte Stunden im Freien\nModernisiertes Badezimmer (saniert 2012) mit Fenster\nLaminat im Flur, Schlafzimmer und Wohnzimmer 2012 erneuert\nWeiße Türelente, 2012 erneuert\nEigener Kellerraum für zusätzlichen Stauraum\nZentralheizung mit Gas\nEnergieeffizienzklasse: B\nÖffentliche Parkmöglichkeiten in der Nähe\n\nLage:\nDie Wohnung liegt in 46483 Wesel, in unmittelbarer Nähe zur\nFußgängerzone. Einkaufsmöglichkeiten, Cafés, Restaurants\nsowie öffentliche Verkehrsmittel befinden sich in direkter\nUmgebung. Die Rheinpromenade ist ebenfalls nur wenige\nMinuten entfernt und lädt zu entspannten Spaziergängen ein.\n\nWeitere Angaben:\nObjektzustand: im Jahre 2012 umfangreich saniert\nBaujahr: 1953\nQualität der Ausstattung: Normal\nHeizungsart: Zentralheizung (2012 saniert)\nWesentliche Energieträger: Gas\nHaustiere: Nach Vereinbarung"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1180,7 +961,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 65.0,
       "Lokalizacja": "46459 Rees",
-      "Odległość (km)": 5.0,
+      "Odległość (km)": 16.0,
       "Odległość od 's-Heerenberg (km)": 16.6,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -1201,8 +982,97 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3abf0dc-a376-4ec3-a18f-b92e123baccb?rule=$_1.AUTO"
       ],
       "Czynsz z mediami (€)": null,
-      "Opis": "Biete sehr schöne, helle Wohnung im 1.OG im beliebten Haldern. Für Altbauliebhaber, alter geweisster Dielenboden, teilmöblierte Einrichtung im Skandistyle. Großes Duschbad. Ländliche Umgebung mit toller Erreichbarkeit; herrlicher Weitblick auf Wiesen und Felder, zufuß Entfernung zu Bank, Post, einkaufen, Bahnstation RE19 und Restaurants!\nParkmöglichkeit immer vorhanden! Gartennutzung nach Absprache möglich. An 1 bis 2 Personen - auch auf Zeit - zu vermieten!\n\nAchtung: zur Wohnung führt eine relativ steile Treppe, typisch für die alten Bauernhäuser dieser Gegend.\n\nBitte stellen Sie sich kurz schriftlich vor, ich melde mich dann ggflls mit Besichtigungstermin zeitnah zurück!",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Biete sehr schöne, helle Wohnung im 1.OG im beliebten Haldern. Für Altbauliebhaber, alter geweisster Dielenboden, teilmöblierte Einrichtung im Skandistyle. Großes Duschbad. Ländliche Umgebung mit toller Erreichbarkeit; herrlicher Weitblick auf Wiesen und Felder, zufuß Entfernung zu Bank, Post, einkaufen, Bahnstation RE19 und Restaurants!\nParkmöglichkeit immer vorhanden! Gartennutzung nach Absprache möglich. An 1 bis 2 Personen - auch auf Zeit - zu vermieten!\n\nAchtung: zur Wohnung führt eine relativ steile Treppe, typisch für die alten Bauernhäuser dieser Gegend.\n\nBitte stellen Sie sich kurz schriftlich vor, ich melde mich dann ggflls mit Besichtigungstermin zeitnah zurück!"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Etagenwohnung mit Balkon ab 01.10.2026 zu vermieten",
+      "Cena (€)": 600.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 54.0,
+      "Lokalizacja": "47574 Goch",
+      "Odległość (km)": 18.0,
+      "Odległość od 's-Heerenberg (km)": 21.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/etagenwohnung-mit-balkon-ab-01-10-2026-zu-vermieten/3470485583-203-1147",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2393da9-c665-49c9-9a04-82785abcb1f7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe3add0-3453-40e7-a473-4d3f7d582b33?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ee206eb-71f5-413c-a1ff-43a6a9c68553?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1aa945e3-ad82-4509-90c8-678e27ee5425?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0957965e-9fcf-4f3b-af03-2f202bf5be89?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38814eb0-0b63-4616-9fe9-3641f44bde2f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63446d49-04b4-4f1a-adb5-b47a2dadfa1c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/245cb124-dffd-4ea8-b1d4-fcdc0c2a150a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1462b9d-3a4d-421a-ba3a-f203661b895f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df444b07-2d76-45a6-8922-c708a833ab92?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/eb/eb7c93a7-2590-4b29-b01b-ac994c4bb50b?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Balkon • Badewanne • Keller\n\nVermietet wird eine schöhe helle 2,5 Zimmerwohnung in der City von Goch.\n\ngeheizt wird mit einer eigenen Gastherme (muss mit den jeweiligen Betreiber direkt abgerechnet werden.\n\n1 Wohnraum mit Kochnische und Zugang zum Balkon\n\n1 Schlafzimmer\n\n1 Flur\n\n1 Bad mit Wanne + Dusche\n\n1 Kellerraum\n\nGesamt ca. 54 m²\n\nKosten:\n\nKaltmiete 600,00 €\n\nNK- Vorauszahlung für 1 Person 80,00 €\n\nKauiton 1.800,00 € (3 Kaltmieten)\n\nGas und Strom müssen direkt mit dem jeweiligen Betreiber abgerechnet werden.\n\nEnergieausweis wird zurzeit neu erstellt.\n\nVerdientsnachweise und eine Mieterselbsauskunft sowie eine positive Schufa werden vorausgesetzt."
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung in Zentrum wesel",
+      "Cena (€)": 600.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 61.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-in-zentrum-wesel/3491439610-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc639505-6901-461f-a6d0-8a01ea7f75ea?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc639505-6901-461f-a6d0-8a01ea7f75ea?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/336e306c-7553-40ec-9a1d-11d485510435?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a82a798a-f327-4e65-98eb-3c86c7e04d22?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a44e4b81-3fb6-4be8-bc6b-f713b4f5ffd3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/642e463b-4b0d-499d-a8ba-ac94d1385fd0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c319402f-ce4a-4af8-83e4-7591848071e1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0536d491-8a4f-41c5-bff8-56545e199bcc?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/7229071a-4ec9-46bf-af10-de5819bf0b38?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fc38898-6699-4639-a0d8-148281abbd83?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0e325d8-2dca-4ef3-b2cb-f816ee28ee77?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 800.0,
+      "Opis": "Wohnung in Zentrum Wesel neu renoviert Kaltmiete 600 Nebenkosten 200"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Souterrainwohnung ab 01.11. zu vermieten",
+      "Cena (€)": 620.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 70.0,
+      "Lokalizacja": "46459 Rees",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/souterrainwohnung-ab-01-11-zu-vermieten/3505304889-203-1389",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee79755-46d5-413f-9b85-d6e51659a1e1?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee79755-46d5-413f-9b85-d6e51659a1e1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b376621f-5912-48eb-b9d5-9648ef2823e5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0d1640c-6a31-474b-b9f9-d6300d86478a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82a2ed95-52a2-4564-9113-2333fe3f067d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f936720-ec54-43da-953f-4517e0f5e33f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ac6b133-2926-43be-950b-d5c3acd6b329?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da2293f6-9906-40b7-b2a9-d30c82ded0af?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/115521aa-12d5-40ef-908f-8fa2a545324d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/4422f418-30f5-4523-9b85-19bf57977a58?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e4314f0-1757-4e8f-8a8e-8bacbeb57296?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e930b5e4-fc9f-4449-b935-b2012028eacc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c54ca0e6-40d7-4d2e-b5a8-e257a7d1aabe?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 620.0,
+      "Opis": "Einbauküche • Haustiere erlaubt\n\nAb dem 01.11.2026 wird eine gemütliche Souterrainwohnung mit ca. 70 m² Wohnfläche frei.\n\nDie Wohnung verfügt über eine Einbauküche, die bereits Bestandteil der Wohnung ist. Direkt an die Küche grenzt ein kleiner Hauswirtschaftsraum, der zusätzlichen Stauraum und Platz bietet.\nDas Badezimmer ist sehr neuwertig und modern ausgestattet.\n\nDie Wohnung eignet sich aufgrund der Aufteilung ideal für eine Einzelperson und ist nicht für Paare oder Familien geeignet.\n\nEckdaten:\n\n* ca. 70 m² Wohnfläche\n* Souterrainwohnung / Kellerwohnung\n* frei ab 01.11.2026\n* für 1 Person\n* Einbauküche vorhanden\n* kleiner Hauswirtschaftsraum an der Küche\n* neuwertiges Badezimmer\n* kleinere Haustiere nach Absprache erlaubt\n* Warmmiete: 620 €\n* befindet sich in Rees/Mehr\n\nMögliche Übernahme von Möbeln:\nDer vorhandene Kleiderschrank und die Couch (ohne Mängel) würde sehr gerne gegen eine entsprechende Ablöse in der Wohnung bleiben.\n\nBei Interesse bitten wir um eine kurze Vorstellung, damit wir uns vorab einen groben Eindruck machen können. Bitte gebt dabei nach Möglichkeit folgende Informationen an:\n\n* Alter\n* Beruf / Beschäftigungsverhältnis\n* monatliches Nettoeinkommen\n\nBei Interesse oder weiteren Fragen gerne einfach eine Nachricht schreiben."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1232,39 +1102,34 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e0ba85e-4f91-4f02-a7af-5ed120c9ee1f?rule=$_59.AUTO"
       ],
       "Czynsz z mediami (€)": 680.0,
-      "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nDiese schön geschnittene 2-Zimmer-Wohnung mit ca. 59 m² Wohnfläche befindet sich in einer besonders attraktiven und hochwertigen Lage an der Adenauerallee in Bocholt.\n\nDie Wohnung überzeugt durch ihren durchdachten Grundriss, helle und freundliche Räume sowie eine angenehme Wohnatmosphäre. Die beiden Zimmer bieten vielfältige Möglichkeiten zur individuellen Gestaltung – ideal für Singles oder Paare, die Wert auf komfortables und ruhiges Wohnen legen.\n\nEin besonderes Highlight ist der großzügige, ruhige Balkon. Hier lässt sich wunderbar entspannen, den Tag in Ruhe ausklingen lassen oder bei einem Kaffee die angenehme Wohnlage genießen.\n\n# Ausstattung\nDie Highlights auf einen Blick:\n\nca. 59 m² Wohnfläche\n2 gut geschnittene Zimmer\nhelle, freundliche Räume\nWohnung wurde komplett neu weiß gestrichen\nNeuer hochwertiger Vinylboden\nWohnung wird in renoviertem Zustand vermietet. Keine Kosten für Mieter bei Einzug\ngroßzügiger und ruhiger Balkon\nhochwertige und gefragte Wohnlage an der Adenauerallee\neigener Kellerraum\nangenehme und ruhige Wohnatmosphäre, nettes Miteinander im Haus\ngerne langfristig zu vermieten\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.11.2026\n- Objektzustand: saniert\n- Qualität der Ausstattung: Gehoben\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDie Wohnung liegt in Bocholt Am Hasenkamp 2a. Einkaufsmöglichkeiten, alltägliche Besorgungen sowie verschiedene Wege des täglichen Lebens sind gut erreichbar. Durch die Lage in Bocholt profitieren Sie zudem von einer gewachsenen Infrastruktur und den kurzen Wegen innerhalb der Stadt sowie in die umliegenden Bereiche.\n\n# Sonstiges\nDie Wohnung ist ab dem 1. November 2026 verfügbar. Die Kaltmiete beträgt 620 EUR, zuzüglich 60 EUR Nebenkosten, sodass sich eine Gesamtmiete von 680 EUR pro Monat ergibt. Ein Außen-Stellplatz steht für 40 Euro im Monat zur Verfügung. Durch die Kombination aus Balkon, eingebauter Küche und Keller bietet die Wohnung praktischen Wohnkomfort im Alltag.\n\nWir freuen uns auf sympathische und zuverlässige Mieter, die sich hier langfristig wohlfühlen möchten.\n\n# Energie\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 211565",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nDiese schön geschnittene 2-Zimmer-Wohnung mit ca. 59 m² Wohnfläche befindet sich in einer besonders attraktiven und hochwertigen Lage an der Adenauerallee in Bocholt.\n\nDie Wohnung überzeugt durch ihren durchdachten Grundriss, helle und freundliche Räume sowie eine angenehme Wohnatmosphäre. Die beiden Zimmer bieten vielfältige Möglichkeiten zur individuellen Gestaltung – ideal für Singles oder Paare, die Wert auf komfortables und ruhiges Wohnen legen.\n\nEin besonderes Highlight ist der großzügige, ruhige Balkon. Hier lässt sich wunderbar entspannen, den Tag in Ruhe ausklingen lassen oder bei einem Kaffee die angenehme Wohnlage genießen.\n\n# Ausstattung\nDie Highlights auf einen Blick:\n\nca. 59 m² Wohnfläche\n2 gut geschnittene Zimmer\nhelle, freundliche Räume\nWohnung wurde komplett neu weiß gestrichen\nNeuer hochwertiger Vinylboden\nWohnung wird in renoviertem Zustand vermietet. Keine Kosten für Mieter bei Einzug\ngroßzügiger und ruhiger Balkon\nhochwertige und gefragte Wohnlage an der Adenauerallee\neigener Kellerraum\nangenehme und ruhige Wohnatmosphäre, nettes Miteinander im Haus\ngerne langfristig zu vermieten\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.11.2026\n- Objektzustand: saniert\n- Qualität der Ausstattung: Gehoben\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDie Wohnung liegt in Bocholt Am Hasenkamp 2a. Einkaufsmöglichkeiten, alltägliche Besorgungen sowie verschiedene Wege des täglichen Lebens sind gut erreichbar. Durch die Lage in Bocholt profitieren Sie zudem von einer gewachsenen Infrastruktur und den kurzen Wegen innerhalb der Stadt sowie in die umliegenden Bereiche.\n\n# Sonstiges\nDie Wohnung ist ab dem 1. November 2026 verfügbar. Die Kaltmiete beträgt 620 EUR, zuzüglich 60 EUR Nebenkosten, sodass sich eine Gesamtmiete von 680 EUR pro Monat ergibt. Ein Außen-Stellplatz steht für 40 Euro im Monat zur Verfügung. Durch die Kombination aus Balkon, eingebauter Küche und Keller bietet die Wohnung praktischen Wohnkomfort im Alltag.\n\nWir freuen uns auf sympathische und zuverlässige Mieter, die sich hier langfristig wohlfühlen möchten.\n\n# Energie\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 211565"
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Souterrainwohnung ab 01.11. zu vermieten",
-      "Cena (€)": 620.0,
+      "Tytuł": "2 Zimmer Wohnung, Nachmieter gesucht",
+      "Cena (€)": 625.0,
       "Pokoje": 2.0,
-      "Powierzchnia (m²)": 70.0,
-      "Lokalizacja": "46459 Rees",
-      "Odległość (km)": 8.0,
-      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Powierzchnia (m²)": 69.0,
+      "Lokalizacja": "46485 Wesel",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 36.9,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/souterrainwohnung-ab-01-11-zu-vermieten/3505304889-203-1389",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee79755-46d5-413f-9b85-d6e51659a1e1?rule=$_2.AUTO",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-nachmieter-gesucht/3483718645-203-1866",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_2.AUTO",
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee79755-46d5-413f-9b85-d6e51659a1e1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b376621f-5912-48eb-b9d5-9648ef2823e5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0d1640c-6a31-474b-b9f9-d6300d86478a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82a2ed95-52a2-4564-9113-2333fe3f067d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f936720-ec54-43da-953f-4517e0f5e33f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ac6b133-2926-43be-950b-d5c3acd6b329?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da2293f6-9906-40b7-b2a9-d30c82ded0af?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/115521aa-12d5-40ef-908f-8fa2a545324d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/4422f418-30f5-4523-9b85-19bf57977a58?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e4314f0-1757-4e8f-8a8e-8bacbeb57296?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e930b5e4-fc9f-4449-b935-b2012028eacc?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c54ca0e6-40d7-4d2e-b5a8-e257a7d1aabe?rule=$_59.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1805975a-cb7d-452c-94c2-25f27f7e6585?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/4759b88d-98c7-42bb-9265-f06c73ad0404?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fc38898-6699-4639-a0d8-148281abbd83?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0e325d8-2dca-4ef3-b2cb-f816ee28ee77?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7969a729-b8a5-4f12-b369-c1d54c612561?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d176a1c5-7b3f-4f7f-a857-9db714f11c06?rule=$_0.AUTO"
       ],
-      "Czynsz z mediami (€)": 620.0,
-      "Opis": "Einbauküche • Haustiere erlaubt\n\nAb dem 01.11.2026 wird eine gemütliche Souterrainwohnung mit ca. 70 m² Wohnfläche frei.\n\nDie Wohnung verfügt über eine Einbauküche, die bereits Bestandteil der Wohnung ist. Direkt an die Küche grenzt ein kleiner Hauswirtschaftsraum, der zusätzlichen Stauraum und Platz bietet.\nDas Badezimmer ist sehr neuwertig und modern ausgestattet.\n\nDie Wohnung eignet sich aufgrund der Aufteilung ideal für eine Einzelperson und ist nicht für Paare oder Familien geeignet.\n\nEckdaten:\n\n* ca. 70 m² Wohnfläche\n* Souterrainwohnung / Kellerwohnung\n* frei ab 01.11.2026\n* für 1 Person\n* Einbauküche vorhanden\n* kleiner Hauswirtschaftsraum an der Küche\n* neuwertiges Badezimmer\n* kleinere Haustiere nach Absprache erlaubt\n* Warmmiete: 620 €\n* befindet sich in Rees/Mehr\n\nMögliche Übernahme von Möbeln:\nDer vorhandene Kleiderschrank und die Couch (ohne Mängel) würde sehr gerne gegen eine entsprechende Ablöse in der Wohnung bleiben.\n\nBei Interesse bitten wir um eine kurze Vorstellung, damit wir uns vorab einen groben Eindruck machen können. Bitte gebt dabei nach Möglichkeit folgende Informationen an:\n\n* Alter\n* Beruf / Beschäftigungsverhältnis\n* monatliches Nettoeinkommen\n\nBei Interesse oder weiteren Fragen gerne einfach eine Nachricht schreiben.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Czynsz z mediami (€)": null,
+      "Opis": "Nachmieter für schöne 69 m² Wohnung in Wesel gesucht\n\nIch suche einen Nachmieter für meine ca. 69 m² große Wohnung in Wesel.\n\nDie Kaltmiete beträgt 625 € (zzgl. Nebenkosten). Die Wohnung eignet sich ideal für Singles oder Paare.\n\nEin besonderes Highlight ist der große Balkon mit einem schönen Blick ins Grüne – perfekt zum Entspannen. Die Wohnung liegt in einer ruhigen Wohngegend. Sie befindet sich zwar nicht direkt im Stadtzentrum, ist aber dennoch gut angebunden. Den Bahnhof erreicht man in etwa 5–10 Minuten zu Fuß. Ich persönlich finde die Lage sehr angenehm, da sie eher ruhig ist und nicht von starkem Verkehrslärm geprägt wird.\n\nDie Wohnung verfügt über:\n\t•\teine Diele\n\t•\teine große Küche\n\t•\tein Schlafzimmer\n\t•\tein großes Wohnzimmer mit großem Panoramafenster\n\t•\tein Badezimmer mit Badewanne, WC und Waschmaschinenanschluss\n\nFür die Wohnung wird ein Nachmieter gesucht, der das vorhandene Inventar vollständig übernimmt.\n\nDer Übernahmepreis beträgt 2.800 € und beinhaltet die Einbauküche, das Wohnzimmer sowie das Schlafzimmer.\n\nPersönliche Gegenstände sind selbstverständlich von der Übernahme ausgeschlossen.\n\nEine komplette Übernahme des Inventars ist Voraussetzung. Eine teilweise Übernahme einzelner Möbel oder Gegenstände ist leider nicht möglich.\n\nBei Interesse freue ich mich über eine kurze Nachricht mit ein paar Informationen zu Ihrer Person.\n\nViele Grüße"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1293,8 +1158,7 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b1ba42f-938d-4c5f-b4ca-822914e2f4a4?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 776.0,
-      "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • Garage/Stellplatz\n\nDiese moderne 2-Zimmer-Penthousewohnung mit ca. 53 m² Wohnfläche bietet ein stilvolles und komfortables Zuhause für eine Person. Der hochwertige Neubau überzeugt durch seine Ausstattung, helle Räume und eine großzügige Dachterrasse.\n\nDer offene und großzügig gestaltete Wohn- und Essbereich bildet das Herzstück der Wohnung und sorgt für ein modernes, angenehmes Wohngefühl.\nEin praktischer separater Hauswirtschaftsraum (HWR) sorgt für zusätzlichen Stauraum und ermöglicht eine ordentliche und platzsparende Unterbringung von Waschmaschine, Trockner und weiteren Haushaltsgegenständen.\n\nDie Wohnung ist mit einem modernen Vinylboden ausgestattet. Hochwertige und zeitgemäße Fliesen in den entsprechenden Bereichen runden das moderne Erscheinungsbild ab.\n\nEin besonderes Highlight ist die großzügige Dachterrasse, die zum Entspannen, Sonnen oder gemütlichen Ausklingen des Tages einlädt.",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • Garage/Stellplatz\n\nDiese moderne 2-Zimmer-Penthousewohnung mit ca. 53 m² Wohnfläche bietet ein stilvolles und komfortables Zuhause für eine Person. Der hochwertige Neubau überzeugt durch seine Ausstattung, helle Räume und eine großzügige Dachterrasse.\n\nDer offene und großzügig gestaltete Wohn- und Essbereich bildet das Herzstück der Wohnung und sorgt für ein modernes, angenehmes Wohngefühl.\nEin praktischer separater Hauswirtschaftsraum (HWR) sorgt für zusätzlichen Stauraum und ermöglicht eine ordentliche und platzsparende Unterbringung von Waschmaschine, Trockner und weiteren Haushaltsgegenständen.\n\nDie Wohnung ist mit einem modernen Vinylboden ausgestattet. Hochwertige und zeitgemäße Fliesen in den entsprechenden Bereichen runden das moderne Erscheinungsbild ab.\n\nEin besonderes Highlight ist die großzügige Dachterrasse, die zum Entspannen, Sonnen oder gemütlichen Ausklingen des Tages einlädt."
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1303,7 +1167,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 96.0,
       "Lokalizacja": "46499 Hamminkeln",
-      "Odległość (km)": 8.0,
+      "Odległość (km)": 20.0,
       "Odległość od 's-Heerenberg (km)": 29.2,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -1322,8 +1186,458 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/296ed13a-8132-4228-94b4-728ae1f88471?rule=$_2.AUTO"
       ],
       "Czynsz z mediami (€)": null,
-      "Opis": "In der Bahnhofstraße in Hamminkeln erwartet Sie eine Dachgeschosswohnung im 3. Stock mit einer Wohnfläche von 96 qm. Die Wohnung ist mit insgesamt 2 Zimmern aufgeteilt und bietet 1 Schlafzimmer sowie 1 Badezimmer. Zusätzlich steht ein Gäste-WC zur Verfügung, was den Alltag im Wohnbereich besonders praktisch macht. Der Balkon ergänzt das Raumangebot um einen eigenen Aussenbereich, auf dem Sie den Tag entspannt ausklingen lassen können.\n\n# Ausstattung\nDie Wohnung wird mit Gas beheizt. Durch den vorhandenen Balkon lässt sich zusätzlicher Wohnkomfort im Freien nutzen. Als praktische Extras ist ein Gäste-WC vorhanden. Die Lage im Gebäude ist zudem angenehm, da sich in unmittelbarer Nähe ein Einkaufsbereich befindet.\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.10.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Bahnhofstraße in Hamminkeln ist eine zentrale Adresse, an der sich Einkäufe und Erledigungen unkompliziert gestalten. Das Gebäude verfügt im Erdgeschoss über Geschäfte, was den Alltag besonders kurz und bequem macht. So erreichen Sie wichtige Dinge des täglichen Bedarfs in fußläufiger Nähe, während Sie gleichzeitig schnell in die Umgebung von Hamminkeln gelangen.\n\n# Sonstiges\nDie Wohnung ist ab dem 1. Oktober 2026 verfügbar. Die Kaltmiete beträgt 650 EUR, die Nebenkosten belaufen sich auf 220 EUR, sodass sich eine Gesamtmiete von 870 EUR pro Monat ergibt. Mit dem Balkon und der durchdachten Raumaufteilung bietet die Wohnung einen angenehmen Wohnstandard in zentraler Lage an der Bahnhofstraße.\n\n# Energie\n- Baujahr: 1986\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 212537",
-      "PierwszyRaz": "2026-09-14T23:10:22.517405+00:00"
+      "Opis": "In der Bahnhofstraße in Hamminkeln erwartet Sie eine Dachgeschosswohnung im 3. Stock mit einer Wohnfläche von 96 qm. Die Wohnung ist mit insgesamt 2 Zimmern aufgeteilt und bietet 1 Schlafzimmer sowie 1 Badezimmer. Zusätzlich steht ein Gäste-WC zur Verfügung, was den Alltag im Wohnbereich besonders praktisch macht. Der Balkon ergänzt das Raumangebot um einen eigenen Aussenbereich, auf dem Sie den Tag entspannt ausklingen lassen können.\n\n# Ausstattung\nDie Wohnung wird mit Gas beheizt. Durch den vorhandenen Balkon lässt sich zusätzlicher Wohnkomfort im Freien nutzen. Als praktische Extras ist ein Gäste-WC vorhanden. Die Lage im Gebäude ist zudem angenehm, da sich in unmittelbarer Nähe ein Einkaufsbereich befindet.\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.10.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Bahnhofstraße in Hamminkeln ist eine zentrale Adresse, an der sich Einkäufe und Erledigungen unkompliziert gestalten. Das Gebäude verfügt im Erdgeschoss über Geschäfte, was den Alltag besonders kurz und bequem macht. So erreichen Sie wichtige Dinge des täglichen Bedarfs in fußläufiger Nähe, während Sie gleichzeitig schnell in die Umgebung von Hamminkeln gelangen.\n\n# Sonstiges\nDie Wohnung ist ab dem 1. Oktober 2026 verfügbar. Die Kaltmiete beträgt 650 EUR, die Nebenkosten belaufen sich auf 220 EUR, sodass sich eine Gesamtmiete von 870 EUR pro Monat ergibt. Mit dem Balkon und der durchdachten Raumaufteilung bietet die Wohnung einen angenehmen Wohnstandard in zentraler Lage an der Bahnhofstraße.\n\n# Energie\n- Baujahr: 1986\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 212537"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Gemütliche 2 Zimmer Dachgeschosswohnung mit schönem Ausblick",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 56.0,
+      "Lokalizacja": "46499 Hamminkeln",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 29.2,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-dachgeschosswohnung-mit-schoenem-ausblick/3484416010-203-1386",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/737f958d-f195-48c2-8ffe-442d6f67d82a?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/737f958d-f195-48c2-8ffe-442d6f67d82a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a3591d8-ca67-479f-8baa-ec1ab59666a7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6af3bd0-b2a7-4666-b9b7-2040b183de6a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d50bbd03-0ddc-4bb3-9678-edb81ed00282?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a4b88da-4adc-4d31-a51e-58ed2f89dde4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/74966f24-7a35-4530-a021-7b6da88e99ff?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f99da7d-4327-4899-82a1-c10146c52af5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c27450c8-3978-4f3b-8f92-0b9418f60b95?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd5dd81a-a061-4c4a-b1e1-0c59d937766c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de3f7b89-d5a8-489f-b8cc-697d4503ce97?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c71cea2-e2d3-43e6-9e4f-fe9dfde29533?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03fb49a5-d342-4306-80da-2c353d520b37?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 650.0,
+      "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nWohnungsinserat - 2-Zimmer-Wohnung in Hamminkeln\n(Mehrhoog)\n\nAb dem 01.10.2026 steht diese attraktive 2-Zimmer-Wohnung in 46499 Hamminkeln(Mehrhoog) zur Vermietung bereit.\n\nDie Wohnung bietet auf ca. 56m? Wohnfläche eine durchdachte Raumaufteilung. Ein Balkon lädt zum Entspannen ein und sorgt für zusätzlichen Wohnkomfort.\n\nZur Ausstattung gehören außerdem:\n\n* Einbauküche ohne Kühlschrank ( in der Miete enthalten)\n\n* Spanndecken im Wohnzimmer, Küche, Flur und Schlafzimmer\n\n* Waschraum & Trockenraum im Haus\n\n* Kellerraum für zusätzlichen Stauraum\n\nDie Wohnung befindet sich in einer sehr angenehmen Umgebung mit guter Anbindung und Infrastruktur.\n\nMietkonditionen:\n\n* Kaltmiete: 500€\n\n* Nebenkosten (ohne. Heizkosten): 150 € , Mieter muss Heizung separat anmelden\n\n* Warmmiete gesamt: 650 €\n\n*Stellplatz kostet 30 € zusätzlich (Bei Interesse)\n\nEs sind keine Haustiere erlaubt.\n\nBei Interesse freuen wir uns über Ihre informative Anfrage!\n\nMfG\nHerr W. Hasenkamp"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Living with character: 2-room apartment in Emmerich am Rhein",
+      "Cena (€)": 266.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "Emmerich am Rhein, Kleve (Kreis)",
+      "Odległość (km)": 2.0,
+      "Odległość od 's-Heerenberg (km)": 4.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/167404823",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 400.0,
+      "Opis": "This apartment, measuring 50 m², impresses with its well-thought-out floor plan and is divided into two bright rooms. The rooms offer a solid basis for individual design ideas and will be available for a new tenant from 2 May 2026. In addition to the living space, the apartment offers a practical layout that is ideal for single people or couples who value functional room design.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Living with character: compact apartment in Kleve",
+      "Cena (€)": 266.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 40.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/170214430",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 400.0,
+      "Opis": "This charming apartment offers a well-thought-out layout on 30 square meters with one room. The apartment impresses with its clear structure and is ideal for a person looking for functional living in a central location. Move-in is possible from 23 November 2026. In addition to the living space, the floor plan provides efficient use of space, offering a variety of furnishing options.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Everyday-friendly 2-room apartment in Kleve",
+      "Cena (€)": 266.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 54.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/170210769",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 400.0,
+      "Opis": "This practical 2-room apartment offers a solid base for everyday living with 54 square meters. The apartment impresses with its functional floor plan, which allows flexible use of the rooms. Move-in is possible from 23 September 2026. In addition, the apartment offers a clear layout that is ideal for individuals or couples who value a well-structured living environment.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "2-room apartment in Rees with 45 m² living space",
+      "Cena (€)": 299.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "Rees, Kleve (Kreis)",
+      "Odległość (km)": 14.4,
+      "Odległość od 's-Heerenberg (km)": 16.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/166835346",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 450.0,
+      "Opis": "This bright 2-room apartment with approx. 45 m² living space is located in Rees. The apartment offers a practical floor plan, ideal for singles or couples. The apartment will be available from 24.03.2026. You can expect a pleasant living atmosphere in a quiet neighborhood.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Living with character: 2-room apartment in Kleve",
+      "Cena (€)": 332.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 99.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/170728087",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 500.0,
+      "Opis": "This apartment offers a well thought-out layout with two rooms across 99 square meters of living space. The rooms are generously designed and provide a clear basis for individual furnishing ideas. The apartment is available from 12 September 2026. In addition to the living space, the apartment’s layout offers a variety of uses to suit personal needs.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Home with 2 rooms in a central location in Kleve",
+      "Cena (€)": 332.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 46.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/169343459",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 500.0,
+      "Opis": "This inviting apartment offers you, on 46 square meters, a well-thought-out layout with a total of two rooms. The apartment presents itself as an ideal retreat for anyone who values a functional and cozy living environment. The rooms can be occupied starting 16 August 2026. In addition to the living space, you benefit from the central transport connections and the solid building fabric on Gruftstraße, enabling relaxed living.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "New living space in Emmerich: Bright 2-room apartment",
+      "Cena (€)": 345.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "Emmerich am Rhein, Kleve (Kreis)",
+      "Odległość (km)": 2.0,
+      "Odległość od 's-Heerenberg (km)": 4.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/168256439",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 520.0,
+      "Opis": "This attractive 2-room apartment offers a well-planned layout across 50 square metres, making it ideal for everyday living. The rooms are bright and create a pleasant atmosphere for your new home. The apartment is available from 3 September 2026. In addition to the living areas, the property provides a solid basis for your individual furnishings. No further features are explicitly defined at present, giving you plenty of freedom to design your personal haven of comfort.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "2-room apartment in Kleve with approx. 50 m² living space",
+      "Cena (€)": 349.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/165900028",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://pictures.immobilienscout24.de/listings/949f38c9-6f5e-4a39-bf70-c63dc94b5d21-1995358713.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/885554ca-ee67-49fe-9936-571188463ee6-1995358717.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/f198cd81-b1c7-4426-8194-a456fd68e0df-1995358716.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/a4e2fcfe-b931-4527-b0f0-21ebe4ac527c-1995358715.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/aafe28da-4a07-402a-b23f-279e856f2e08-1995358712.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73"
+      ],
+      "Czynsz z mediami (€)": 525.0,
+      "Opis": "This bright 2-room apartment with approx. 50 m² living space is available for rent starting from 23.02.2026. It is located in Kleve and offers a good basis for your new home. The apartment is ideal for singles or couples looking for practical and well-located accommodation.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "2-room apartment in Bedburg-Hau with 44 m² living space",
+      "Cena (€)": 359.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 44.0,
+      "Lokalizacja": "Bedburg-Hau, Kleve (Kreis)",
+      "Odległość (km)": 7.8,
+      "Odległość od 's-Heerenberg (km)": 9.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/165918586",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 540.0,
+      "Opis": "This bright 2-room apartment with approx. 44 m² living space is located in Bedburg-Hau. The apartment offers a practical layout, ideal for singles or couples. It will be available from 24 May 2026. The exact features and condition of the apartment will be discussed in detail during a viewing.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Home with two rooms in Rees",
+      "Cena (€)": 372.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 55.0,
+      "Lokalizacja": "Rees, Kleve (Kreis)",
+      "Odległość (km)": 14.4,
+      "Odległość od 's-Heerenberg (km)": 16.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/168718972",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 560.0,
+      "Opis": "This inviting apartment offers 55 square meters of well thought-out room layout with two rooms, making it ideal for your personal needs. The rooms provide a comfortable base for your everyday life and impress with a functional room layout. In addition, the property will be ready for occupancy for you from 19 July 2026.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Practical 2-room apartment in Kleve",
+      "Cena (€)": 399.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/167735475",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 600.0,
+      "Opis": "This practical 2-room apartment offers 60 square metres of a well-thought-out layout that is ideal for everyday needs. The rooms are functionally designed and offer enough space for individual furnishing. The apartment is available for occupancy from 13 May 2026. In addition to the living areas, you benefit from the property's central connection, which enables short distances in everyday life. Further features are not specified based on the available data.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Flexible living: 2-room apartment in Kleve",
+      "Cena (€)": 399.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/167455147",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 600.0,
+      "Opis": "This attractive 2-room apartment offers you a well-designed layout for everyday life on approx. 60 square metres. The rooms are bright and can be furnished in a variety of ways, so you will find exactly the space you need for your personal development here. The apartment is available from 4 May 2026. In addition to the living spaces, the apartment offers a solid basis for relaxed living with convenient central connections.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Practical 2-room apartment in Rees",
+      "Cena (€)": 399.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 51.0,
+      "Lokalizacja": "Rees, Kleve (Kreis)",
+      "Odległość (km)": 14.4,
+      "Odległość od 's-Heerenberg (km)": 16.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/167354588",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 600.0,
+      "Opis": "This practical 2-room apartment offers a solid basis for your personal housing needs on 51 square metres. The well thought-out room layout ensures efficient use of the space and creates a pleasant setting for everyday living comfort. The apartment is available from 30 April 2026. Further details on the features can be discussed during a personal viewing.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Period building with shared garden access",
+      "Cena (€)": 408.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/165578690",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 615.0,
+      "Opis": "Period building, Diakone building, assisted living",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Two-room apartment in Emmerich: your new home is waiting",
+      "Cena (€)": 418.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "Emmerich am Rhein, Kleve (Kreis)",
+      "Odległość (km)": 2.0,
+      "Odległość od 's-Heerenberg (km)": 4.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/169936336",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 630.0,
+      "Opis": "This attractive two-room apartment offers a well-thought-out layout across 50 square metres, ideal for everyday living. The rooms are bright and provide ample space for your individual furnishings, so you can shape the apartment exactly according to your preferences. From 10 November 2026, the apartment will be available to you and is waiting to be filled with life.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Beautiful 2-room apartment with balcony and fitted kitchen in Emmerich am Rhein",
+      "Cena (€)": 450.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 52.0,
+      "Lokalizacja": "Emmerich am Rhein, Kleve (Kreis)",
+      "Odległość (km)": 2.0,
+      "Odległość od 's-Heerenberg (km)": 4.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/114904339",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://pictures.immobilienscout24.de/listings/2792798f-f2da-455d-b26b-5519a6363144-1340183881.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/f460075b-83ee-455b-89cc-6cd4d3019476-1340183882.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/5fd07984-d9aa-4ba5-bbcf-c2d7c08f9d9c-1340183883.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/4cdaca2f-3a27-4374-862b-c29f8e133e13-1340183884.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/785a4d42-6660-4aaf-abc1-2b32d1e6f08b-1340183885.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73"
+      ],
+      "Czynsz z mediami (€)": 550.0,
+      "Opis": "This attractive property is an apartment on the second floor, offering a high-quality interior finish and available for immediate move-in. The apartment includes two lovely rooms. In addition, the good layout makes it suitable for shared living. Please also note that you can wonderfully unwind from everyday life on the balcony. You also have access to a fitted kitchen and a basement storage room.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Everyday-suitable 2-room apartment in Kleve",
+      "Cena (€)": 465.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 41.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/170732411",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 700.0,
+      "Opis": "This practical 2-room apartment offers 41 square meters of space with a well-thought-out layout that is ideal for everyday needs. The rooms are functional and provide enough space for comfortable living. Move-in to the property is possible from 12 September 2026. The apartment impresses with its clear structure and is an excellent choice for anyone looking for an uncomplicated place to live in a central location.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "2-room apartment in Rees",
+      "Cena (€)": 465.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "Rees, Kleve (Kreis)",
+      "Odległość (km)": 14.4,
+      "Odległość od 's-Heerenberg (km)": 16.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/170113683",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 700.0,
+      "Opis": "This 2-room apartment offers living space of 50 m². The rooms are functionally laid out and provide a solid basis for individual design possibilities. Move-in is possible from 18 November 2026.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Cozy 2-room apartment with balcony in a central location",
+      "Cena (€)": 470.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 59.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/170521521",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://pictures.immobilienscout24.de/listings/c028b418-ba88-4a88-b757-f9d70d4b01db-2085946263.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/78219599-0ffe-41e4-a370-f7fe87cdd537-2085937197.jpeg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/24ae6535-bdf3-4cb9-8930-105954b8a759-2085937206.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/453381ab-229e-44f0-9221-907b905e935a-2085937218.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/ef4309b6-f5d8-4475-be82-135a5e56f98e-2085937239.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/usercontent/95217354-213f-4460-8321-e2e0f7dde179.PNG/ORIG/resize/300x300>/format/webp/quality/100"
+      ],
+      "Czynsz z mediami (€)": 770.0,
+      "Opis": "In this residential complex, you will find this cozy apartment with a living space of 59 m². The apartment has one bedroom, one bathroom and a balcony that invites you to relax outdoors. Overall, the apartment comprises two rooms, providing enough space for individual living ideas.\n\nThe bedroom is spacious and offers plenty of room for a large bed and a wardrobe. The bathroom is modern and has a shower, a washbasin and a WC. The open-plan living and dining area impresses with lots of natural daylight and invites you to cook and dine together. From the living area, you can go directly out to the balcony, which offers a pleasant view and invites you to have breakfast or relax outdoors on warm days.\n\nThe residential complex has a lift, a bicycle cellar and a shared laundry room. In addition, the apartment includes its own basement storage room, which provides extra storage space. The location of the apartment is central yet quiet, with shopping facilities, restaurants and public transport in the immediate vicinity. An ideal apartment for singles or couples looking for a modern property in a good location.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "Everyday-friendly 2-room apartment in Kleve",
+      "Cena (€)": 532.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 71.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/170047468",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 800.0,
+      "Opis": "This practical 2-room apartment offers a solid basis for your personal living needs across 71 square meters. The well-planned unit impresses with its functional layout, which is ideal for everyday requirements. It is ready for occupancy from 16 November 2026. Further equipment details or specific features of the apartment are currently not available, so you will find a clear basis here for your individual design.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "2-room apartment in Bedburg-Hau with 50 m² living space",
+      "Cena (€)": 532.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "Bedburg-Hau, Kleve (Kreis)",
+      "Odległość (km)": 7.8,
+      "Odległość od 's-Heerenberg (km)": 9.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/166469739",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": 800.0,
+      "Opis": "This bright 2-room apartment with approximately 50 m² living space is located in Bedburg-Hau. The apartment offers a cosy living atmosphere and is ideal for singles or couples. The apartment will be available starting from 21.04.2026.",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
+    },
+    {
+      "Portal": "ImmoScout24",
+      "Tytuł": "50 m² maisonette apartment, central, partly furnished, fitted kitchen, parking space",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "Kleve, Kleve (Kreis)",
+      "Odległość (km)": 10.8,
+      "Odległość od 's-Heerenberg (km)": 12.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.immobilienscout24.de/en/expose/170576513",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://pictures.immobilienscout24.de/listings/a62c5206-edc5-46ec-b967-10bf94707f67-2087149221.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/8fca488d-e8fa-4c94-92b8-732409b24ef9-2087149227.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/90e7da9f-2cb1-4a58-bbfc-6584278dff1d-2087149243.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/c61c41bf-11af-44ce-95ef-7f92d0f25ba3-2087149220.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73",
+        "https://pictures.immobilienscout24.de/listings/d518b936-b24e-4b81-9391-6649b545e0d0-2087149237.jpg/ORIG/resize/1106x830%3E/format/webp/quality/73"
+      ],
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Generously sized, well-kept apartment over two floors in a quiet but central location in Kleve.\nThe apartment is located in a single-family house with only one other apartment—an ideal retreat for anyone who values privacy, comfort and a connection to nature.\n\nFeatures\n- Kitchen cabinets, sink, cooker, oven, dishwasher   - Wardrobe, couch (chaise longue), TV cabinet, dining-serving cabinet, chest of drawers   - Kitchen table with 5 chairs, bathroom cabinet, 2 mirrors   - TV with satellite connection   - Lamps in the living rooms - Private parking space for your car\n- Bathroom with bathtub\n- Washing machine in the shared laundry room\n- 250 m² garden\n- 40 m² terrace\n- \nQuiet location with panoramic views over Kleve and as far as the Emmerich Rhine bridge\n- Access to the Reichswald forest at the end of the street\n\n\nThe apartment is located in one of the most sought-after residential areas of Kleve: quiet, close to nature and yet still near the city centre. \nTo the rear, the view opens up over the private garden and a villa on the hillside; to the front, you can enjoy an impressive view over the city of Kleve up to the Rhine.\nThe Reichswald, a nearby recreation area, is within walking distance—ideal for strolls, jogging or relaxing hours in a green setting.\n\nThe service charges are currently reduced through self-managed services (e.g. cleaning the entrance hall, putting out rubbish bins, mowing the lawn in summer). Alternatively, a service provider can be commissioned (with a corresponding surcharge for service charges).  \n\n\nSmoking is not permitted in the house.  \n\n\nLong-term letting to 1–2 people is preferred. \nInformation required:\n * Brief introduction and the reason for your move\n * Number of people moving in\n* Desired move-in date\n\n\nRequired documents:\nSchufa report\nTenancy self-disclosure form\nProof of income for the last three months\nProof of no rental arrears from the former landlord",
+      "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
     }
   ]
 }
