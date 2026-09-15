@@ -443,10 +443,16 @@
 (function() {
   const DATA_URL = './data/latest.json';
   const NEW_SINCE_KEY = 'immo-last-seen-visit';
-  const HIDDEN_KEY = 'immo-hidden-urls';
-  const STARRED_KEY = 'immo-starred-urls';
   // Adres Cloudflare Workera, ktory bezpiecznie wyzwala GitHub Actions (patrz cloudflare-worker/worker.js).
   const TRIGGER_WORKER_URL = 'https://domekbot-refresh.shopifycontact3.workers.dev';
+  // Adres Cloudflare Workera trzymajacego ulubione/ukryte GLOBALNIE (w Cloudflare KV),
+  // zamiast lokalnie w przegladarce - dzieki temu telefon i komputer widza to samo.
+  // Token to nie jest "prawdziwy" sekret (jest jawny w kodzie strony, kazdy kto
+  // otworzy DevTools go zobaczy) - chroni tylko przed przypadkowymi/losowymi
+  // botami trafiajacymi na adres workera, nie przed kims kto celowo czyta ten plik.
+  const STATE_WORKER_URL = 'https://domekbot-state.shopifycontact3.workers.dev';
+  const STATE_AUTH_TOKEN = 'Zo03EUDLz7KEogqxbq2ewXzQUP6qeMOCS2IqiSCVfBQ';
+  const STATE_CACHE_KEY = 'immo-global-state-cache';
   // Klucz publiczny VAPID - bezpieczny do trzymania jawnie w kodzie strony (to standard Web Push).
   const VAPID_PUBLIC_KEY = 'BA7SgzTaUYLTmHA5dDA8X9LS1D3khBwMFomPu67Uv91xdJRgIjYjn-Gu8RQXvXjMQm8QtC736IxC1PbH1szNf0M';
 
@@ -500,18 +506,79 @@
     try { localStorage.setItem(NEW_SINCE_KEY, JSON.stringify([...urlSet])); } catch (e) {}
   }
 
+  // ---------- Ulubione/ukryte - stan globalny (Cloudflare Worker + KV) ----------
+  // localStorage tutaj to juz TYLKO blyskawiczny cache "co bylo ostatnio wiadomo",
+  // zeby strona nie migala pustym stanem zanim odpowie serwer, i fallback na
+  // wypadek gdyby Worker byl akurat niedostepny. Zrodlem prawdy jest Cloudflare KV.
+  let starredUrlsState = new Set();
+  let hiddenUrlsState = new Set();
+
+  function loadCachedGlobalState() {
+    try {
+      const cached = JSON.parse(localStorage.getItem(STATE_CACHE_KEY) || 'null');
+      if (cached) {
+        starredUrlsState = new Set(Array.isArray(cached.starred) ? cached.starred : []);
+        hiddenUrlsState = new Set(Array.isArray(cached.hidden) ? cached.hidden : []);
+      }
+    } catch (e) { /* ignoruj - zaczynamy z pustym stanem, fetchGlobalState() go uzupelni */ }
+  }
+
+  function saveCachedGlobalState() {
+    try {
+      localStorage.setItem(STATE_CACHE_KEY, JSON.stringify({
+        starred: [...starredUrlsState],
+        hidden: [...hiddenUrlsState],
+      }));
+    } catch (e) {}
+  }
+
+  async function fetchGlobalState() {
+    try {
+      const resp = await fetch(STATE_WORKER_URL, {
+        headers: { 'X-Auth-Token': STATE_AUTH_TOKEN },
+      });
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+      const data = await resp.json();
+      starredUrlsState = new Set(Array.isArray(data.starred) ? data.starred : []);
+      hiddenUrlsState = new Set(Array.isArray(data.hidden) ? data.hidden : []);
+      saveCachedGlobalState();
+      // Dopiero jak lista ofert juz jest wczytana - inaczej wyrenderowalibysmy
+      // przedwczesnie "brak ofert" zamiast zostawic ekran "Ładowanie ofert...".
+      if (allListings.length > 0) render();
+    } catch (e) {
+      console.warn('Nie udało się wczytać globalnego stanu (ulubione/ukryte) - używam lokalnej kopii.', e);
+    }
+  }
+
+  async function pushGlobalState() {
+    try {
+      const resp = await fetch(STATE_WORKER_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Auth-Token': STATE_AUTH_TOKEN },
+        body: JSON.stringify({ starred: [...starredUrlsState], hidden: [...hiddenUrlsState] }),
+      });
+      if (!resp.ok) throw new Error('HTTP ' + resp.status);
+    } catch (e) {
+      console.warn('Nie udało się zapisać globalnego stanu (ulubione/ukryte) - spróbuję przy następnej zmianie.', e);
+    }
+  }
+
   function getHiddenUrls() {
-    try { return new Set(JSON.parse(localStorage.getItem(HIDDEN_KEY) || '[]')); } catch (e) { return new Set(); }
+    return hiddenUrlsState;
   }
   function saveHiddenUrls(urlSet) {
-    try { localStorage.setItem(HIDDEN_KEY, JSON.stringify([...urlSet])); } catch (e) {}
+    hiddenUrlsState = urlSet;
+    saveCachedGlobalState();
+    pushGlobalState();
   }
 
   function getStarredUrls() {
-    try { return new Set(JSON.parse(localStorage.getItem(STARRED_KEY) || '[]')); } catch (e) { return new Set(); }
+    return starredUrlsState;
   }
   function saveStarredUrls(urlSet) {
-    try { localStorage.setItem(STARRED_KEY, JSON.stringify([...urlSet])); } catch (e) {}
+    starredUrlsState = urlSet;
+    saveCachedGlobalState();
+    pushGlobalState();
   }
 
   function renderChips() {
@@ -1113,7 +1180,15 @@
     });
   }
 
-  refreshBtn.addEventListener('click', loadData);
+  // Lokalna kopia od razu (zeby nie bylo mrugniecia pustym stanem), a wlasciwy,
+  // globalny stan (moze rozny na innym urzadzeniu) doleci chwile pozniej.
+  loadCachedGlobalState();
+  fetchGlobalState();
+  // Co 5 minut odswiez tez globalny stan - zeby gwiazdki/ukryte ustawione na
+  // telefonie pojawily sie na komputerze (i odwrotnie) bez przeladowania strony.
+  setInterval(fetchGlobalState, 5 * 60 * 1000);
+
+  refreshBtn.addEventListener('click', () => { loadData(); fetchGlobalState(); });
   loadData();
   // Auto-odświeżanie co 5 minut, gdyby strona została otwarta na dłużej.
   setInterval(loadData, 5 * 60 * 1000);
