@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T19:06:22.213958+00:00",
-  "count": 57,
+  "generated_at": "2026-09-15T21:12:27.389397+00:00",
+  "count": 67,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-15T19:06:22.213958+00:00",
+      "last_updated": "2026-09-15T21:12:27.389397+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -435,6 +435,34 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "schöne 2-Zimmer-Dachgeschoss-Wohnung in Kevelaer zu vermieten",
+      "Cena (€)": 275.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 35.0,
+      "Lokalizacja": "47623 Kevelaer",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 33.1,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-dachgeschoss-wohnung-in-kevelaer-zu-vermieten/3488347972-203-1137",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ab8287b-5b05-4a8e-a14f-2cc33f50ba2b?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ab8287b-5b05-4a8e-a14f-2cc33f50ba2b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac1c2469-e5a9-4d87-aa61-9681ed69a1f4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2055971b-a5cb-45c3-999c-e51e8531a680?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/039cf709-dfed-4543-a4b0-a6a276185a61?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/159e5452-4334-4c21-a49c-a49485e38a28?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f15714b7-2c51-40e3-8f9f-d5d1614c213b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ecbcb57f-35a9-4005-a607-92a6dc2c21a6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/361f88dd-14b7-4daa-bb7e-13e7b386aba6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf320ae3-6192-408f-b2aa-564285cddcd0?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 395.0,
+      "Opis": "Einbauküche • Badewanne • Keller • Garage/Stellplatz • Haustiere erlaubt\n\nZur Vermietung steht eine schöne und gepflegte 2-Zimmer-Dachgeschoss-Wohnung in Kevelaer.\n\nDie in der Küche bereits eingebaute Küchenzeile kann vom Vormieter übernommen werden. So auch die vorhandenen Bodenbeläge, die erst vor knapp 2 Jahren verlegt wurden.\n\nBei Interesse senden Sie bitte eine kurze Nachricht mit folgenden Angaben:\n- Vollständiger Name\n- Anzahl der einziehenden Personen\n- Aktuelle berufliche Situation (z. B. berufstätig, in Ausbildung oder Studium)\n\nIch freue mich auf Ihre Anfrage.",
+      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Schöne 2-Zimmer- Wohnung in Emmerich mit WBS",
       "Cena (€)": 282.0,
       "Pokoje": 2.0,
@@ -646,9 +674,11 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-einbaukueche-in-wesel-zu-vermieten/3476751401-203-1867",
       "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/e0/e092597b-15d0-4149-b2b8-cbb1fbda998a?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 718.0,
+      "Opis": "Einbauküche • Haustiere erlaubt\n\n**Eckdaten:**\n\n* Wohnfläche: ca. 52 m²\n* Kaution: 1.404,00 € (3 Kaltmieten)\n* Badezimmer mit Dusche\n* Einbauküche vorhanden\n\n**Monatliche Gesamtmiete:**\n\n* Kaltmiete: 468,00 €\n* Küche: 50,00 €\n* Nebenkosten: 200,00 €\n* Gesamt: 718,00 € (zzgl. Strom)\n\nBei Interesse freuen wir uns über Ihre Nachricht. Bitte stellen Sie sich kurz vor und fügen Sie nach Möglichkeit bereits Angaben zu Ihrer Person sowie Ihrem Beschäftigungsverhältnis bei.",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
     {
@@ -715,6 +745,24 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Helle 2 Zimmer Wohnung mit Balkon zu vermieten",
+      "Cena (€)": 494.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 52.0,
+      "Lokalizacja": "46485 Wesel",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 36.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-mit-balkon-zu-vermieten/3464670201-203-1866",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fc38898-6699-4639-a0d8-148281abbd83?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "PierwszyRaz": "2026-09-15T09:14:10.844317+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt zu vermieten",
       "Cena (€)": 499.0,
       "Pokoje": 2.0,
@@ -743,6 +791,55 @@
       "Czynsz z mediami (€)": 660.0,
       "Opis": "Keller • Garage/Stellplatz\n\nIn Bocholt erwartet Sie eine charmante 2-Zimmer-Etagenwohnung mit 48 m² Wohnfläche im 1. Obergeschoss eines 1937 erbauten Hauses. Die Wohnung besticht durch einen gemütlichen Laminatboden und ein helles Bad mit Badfenster. Die Küche ist ohne Einrichtung, sodass Sie Ihren persönlichen Stil verwirklichen können. Beheizt wird die Wohnung komfortabel mit einer Kombitherme. Ideal für alle, die eine angenehme Wohnatmosphäre in zentraler Lage suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-116-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Gasetagenheizung\n• Fahrradkeller\n• Mieterkeller\n• Wasch- und Trockenkeller\n• Bad mit Dusche und Fenster\n• Isolierverglasung\n• Mediaanschluss\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer attraktiven Lage, die besonders durch ihre Nähe zu verschiedenen Bildungseinrichtungen besticht, darunter die Clemens-Dülmer-Schule sowie die Overberg-Schule. Für Familien mit Kindern ist der Kubaai-Spielplatz in bequemer Gehweite ein idealer Ort zum Spielen und Verweilen. Einkaufsmöglichkeiten sind ebenfalls gut erreichbar: Die Supermärkte ALDI Süd und REWE bieten eine breite Auswahl für den täglichen Bedarf. Erholsame Stunden im Grünen verspricht der nahegelegene Museumsgarten, der zu Spaziergängen und Freizeitaktivitäten im Freien einlädt. Medizinische Versorgung ist durch mehrere Arztpraxen in der Umgebung gewährleistet, darunter die Praxen von M.D. Omar Dakik, Dr. med. Ulrich Holtkamp und Dr. Peter E. van de Velde. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 14 Bushaltestellen, beispielsweise an der Schwartzstraße, sind schnell erreichbar, und auch zwei Bahnhöfe, unter anderem Bocholt, liegen in akzeptabler Entfernung.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-116-M",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Demnächst frei! 2-Zimmer-Wohnung in Bocholt",
+      "Cena (€)": 499.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 18.0,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/demnaechst-frei-2-zimmer-wohnung-in-bocholt/3500655579-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76d2333d-c2d8-426b-a2cb-e6dbc81438be?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Frisch sanierte 2-Zimmer-Wohnung - mit neuem Duschbad, Laminat und Tapeten",
+      "Cena (€)": 499.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 18.0,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-2-zimmer-wohnung-mit-neuem-duschbad-laminat-und-tapeten/3490458703-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a9e3f62-d254-41ab-b846-8f4adefca49b?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a9e3f62-d254-41ab-b846-8f4adefca49b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89a6ee6f-9759-4ead-9532-75076dcab9a2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f57f5f74-35ae-4df0-be2c-40a15dfb2a70?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df08a94f-4f69-4a2b-b755-0eefddbf7789?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17489278-5dd1-4322-bdb1-4efcae4ccdcb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ed7b6d5-1af9-4df8-9726-d40453fa4198?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a25223c9-7be0-4df3-a465-009893e39804?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/084f2357-490b-433f-a133-6f276aa1ae33?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22117d94-f346-4ae4-961b-992258f83aeb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08843888-9a74-496c-9612-8890c2e24b44?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76d2333d-c2d8-426b-a2cb-e6dbc81438be?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 614.0,
+      "Opis": "Keller • Garage/Stellplatz\n\nEs handelt sich um eine 2-Zimmer-Wohnung im 1. OG eines ruhigen und gepflegten Mehrfamilienwohnhauses. In der netten Nachbarschaft werden Sie sich sicher wohl fühlen. Parkplätze sind in ausreichender Menge direkt an der Wohnanlage vorhanden.\n\nGepflegtes, niedriggeschössiges Mehrfamilienhaus aus dem Baujahr 1937. Grünes Umfeld, öffentliche Parkmöglichkeiten vor der Tür. Kleine Wohneinheit.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-153-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n- neues Bad mit Dusche und Fenster\n- neuer Laminat\n- Wände und Decken neu tapeziert und weiß gestrichen\n- Türen und Heizkörper frisch weiß lackiert\n- neues Schaltermaterial\n- neuer Fliesenspiegel in der Wohnung\n- eigener Kellerraum\n\n# Weitere Angaben\n- Verfügbar ab: 01.12.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 255 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-153-M",
+      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -984,6 +1081,24 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Möblierte Mietwohnung in Kevelaer",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 42.0,
+      "Lokalizacja": "47623 Kevelaer",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 33.1,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-mietwohnung-in-kevelaer/3471681992-203-1137",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Mietwohnung, singlewohnung 40m2 Bedburg Hau",
       "Cena (€)": 560.0,
       "Pokoje": 2.0,
@@ -1026,10 +1141,79 @@
       "Kuchnia": "tak",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-inkl-stellplatz-in-voerde-friedrichsfeld/3505985510-203-1384",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1cf4f42f-b72b-481a-a3d3-09f341ec4ebd?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1cf4f42f-b72b-481a-a3d3-09f341ec4ebd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9f02f5b-12a5-4617-a8be-cc1c1f5cb326?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/969d71e2-59d2-4fde-8134-e6df4bc9e3e4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d0e97df-2ce3-47f1-9964-efe3be6648c8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07f055a4-9ff2-4f8d-8c00-f78ad90628c9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/558b3e1c-a4ac-4bc3-b087-c1795ede8904?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/6406b616-6695-4964-aa8f-5bc501cad11e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1d24b79-5845-48ed-a182-4d180cca628d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90c3493a-7de6-4bd3-b7cb-cae847575220?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/75b654bc-22f6-4fb4-a0ea-bdee2abc83e2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c13b0283-3ce5-4b42-8af0-72dcfc6e3abf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de18016f-7454-4827-af16-dfb29b9f093d?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 700.0,
+      "Opis": "Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung\n1. OG\nMit Einbauküche\nGas-Zentralheizung\nTreppenhaus- und Gartenpflege und Winterdienst extern vergeben\nDemnächst frisch renoviert",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "(bez tytułu)",
+      "Cena (€)": 560.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 68.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietangebot/3499707920-203-1867",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d5f3527-77fd-4380-825e-32165b06815f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2205d1ce-6879-4c74-94e9-74846dbe1b6f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/980392c6-cc59-4bc6-a47b-1f92f7d83d3b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Balkon\n\nHelle Wohnung Innenstadt",
+      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer-Wohnung mit Garten sucht Käufer, sonst neue Mieter",
+      "Cena (€)": 560.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 56.0,
+      "Lokalizacja": "46399 Bocholt",
+      "Odległość (km)": 18.0,
+      "Odległość od 's-Heerenberg (km)": 23.4,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-garten-sucht-kaeufer-sonst-neue-mieter/3482879409-203-1851",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80f55928-0fca-4160-993b-10c32f7efc9f?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80f55928-0fca-4160-993b-10c32f7efc9f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa430fa6-0c12-45a1-9777-6d0b41942ca3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/ccc3402b-b3d7-41c0-8dae-fdf45b199985?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38989f98-b950-4d20-b63b-b8c2fbb908c7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/273dbd76-cbb4-4b10-ad21-dff79740b57e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/baa0cee1-d067-4556-bd77-b168ab8be745?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/331b8316-f8b3-412d-bc40-a049857cb69c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d2a70311-44e6-4a08-ac62-b57c24b0e160?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/1046dee5-3462-48d7-b1ac-02c7940a9acd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a368653-b6be-48fe-91ae-05e539a25c97?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47b335e1-f165-4b7f-9328-a1648057958f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09b73659-08d7-4e6f-8efd-a6070c98e3b7?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Vorabinformation: Besichtigungen mit möglichen Käufern nach Absprache der jetzigen Mieter. Besichtigungen mit möglichen Mietern erst ab Mitte September.\n\nKaufpreis: 189000€ VB\n\nDiese charmante 2-Zimmer-Souterrainwohnung in einer der beliebtesten Wohnlagen Bocholts steckt aktuell mitten in einer kleinen Entscheidungsphase: Wird sie verkauft oder begrüßt sie ab November einen neuen Mieter?\nPlan A:\nJemand verliebt sich bis Ende September so sehr in die Wohnung, dass er sie kaufen möchte. Die Wohnung wäre darüber durchaus erfreut. Der Eigentümer übrigens auch... vorausgesetzt, der Preis sorgt bei beiden Seiten für gute Laune.\nPlan B:\nFalls sich bis Ende September kein passender Käufer findet, bleibt die Wohnung einfach, wo sie ist, und freut sich ab November 2026 auf einen neuen Mieter.\nKaltmiete: 560 € monatlich\nDa die Wohnung derzeit noch zum Verkauf angeboten wird, werden Entscheidungen über eine Neuvermietung erst im Oktober getroffen. Mietverträge können daher frühestens ab Oktober abgeschlossen werden.\nDas erwartet Sie:\n✅ Ruhige Top-Lage in Bocholt zwischen Markgrafenstraße und Adenauerallee ✅ Innenstadt bequem zu Fuß erreichbar ✅ Große Terrasse mit eigenem Gartenanteil ✅ Zusätzliche Nutzung des Gemeinschaftsgartens möglich ✅ Eigener Stellplatz direkt vor dem Haus ✅ Kellerraum mit ca. 7 m² Nutzfläche ✅ Modernes Bad mit Dusche ✅ Pflegeleichte Fliesenböden ✅ Heizungsanlage 2021 umfassend modernisiert ✅ Sämtliche Fenster und Terrassentür 2025 erneuert ✅ Bezugsfrei ab Oktober 2026, eventuell nach Absprache bereits früher\nFür Eigennutzer und Kapitalanleger interessant\nDie Wohnung ist aktuell bis Ende September vermietet und bietet anschließend maximale Flexibilität: selbst einziehen, neu vermieten oder langfristig als Kapitalanlage nutzen. Die begehrte Wohnlage und die durchgeführten Modernisierungen sorgen dabei für eine attraktive Kombination aus Wohnkomfort und Werterhalt.\nNoch ein offenes Wort\nDie Wohnung muss nicht verkauft werden. Sie ist weder in Eile noch unter Druck. Bis Ende September wird ganz entspannt nach dem passenden Käufer gesucht. Sollte dieser nicht vorbeischauen, wird sie ab November einfach wieder vermietet.\nKurz gesagt:\nDer richtige Käufer bekommt eine schöne Wohnung.  Der richtige Mieter bekommt eine schöne Wohnung.  Nur Schnellschüsse und Dumping-Angebote haben leider schlechte Karten.\nInteresse? Dann melden Sie sich gerne. Vielleicht werden Sie Eigentümer. Vielleicht Mieter. Die Wohnung hält sich derzeit noch alle Optionen offen.\n\n---\n\nPrivatverkauf ohne Makler\nDie Wohnung wird privat verkauft. Bitte keine Kontaktaufnahme durch Makler, Vermittler oder Vertriebsunternehmen. Ein Maklerauftrag ist nicht gewünscht.\nEnergieausweis\nVerbrauchsausweis vorhanden. Endenergieverbrauch: 144,8 kWh/(m²·a), Energieeffizienzklasse E, Energieträger Gas, gültig bis 19.05.2029.\nHinweis: Die im Energieausweis angegebenen Werte wurden vor der Erneuerung sämtlicher Fenster und der Terrassentür im Jahr 2025 ermittelt. Die dadurch erzielte energetische Verbesserung ist in den ausgewiesenen Werten noch nicht berücksichtigt.",
+      "PierwszyRaz": "2026-09-15T21:12:27.388477+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1092,6 +1276,24 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2- Zimmer Wohnung zu Vermieten in Wesel Stadtnah 1OG",
+      "Cena (€)": 580.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-zu-vermieten-in-wesel-stadtnah-1og/3501433417-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "PierwszyRaz": "2026-09-15T21:12:27.388477+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "2 Zimmer Wohnung Sonsbeck 1. OG",
       "Cena (€)": 590.0,
       "Pokoje": 2.0,
@@ -1132,9 +1334,21 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung/3507459452-203-1850",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb179fbd-f4a6-4b01-911f-b0dcdc5c9a1c?rule=$_2.AUTO",
-      "Zdjęcia": [],
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb179fbd-f4a6-4b01-911f-b0dcdc5c9a1c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31fcc19e-6768-44d0-8f5b-7555949a4c64?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/7792d0c6-a7d1-445a-8589-76c3bca08fea?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cab24248-c77a-48dc-88df-d9a9ac24f68e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85022962-d411-4e78-a562-4fb3b176b09c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85a70021-7dee-4350-bdd9-a2750099ab13?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/937a5c22-bee4-449c-8514-f575f12cc55f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4994126d-cadd-467c-9f3c-6d6483dfc315?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44415bdb-fedd-458a-a342-6b3bfb05bb18?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df608ec5-4736-4190-9924-28aa98b85af9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91048813-af6a-440f-8076-54f7defad525?rule=$_0.AUTO"
+      ],
       "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Opis": "3-Zi.-Wohnung, 70qm mit Balkon\n590€kalt+Nbk.+Energie zum 1.11.26 evtl.\nfrüher zu vermieten. Kaution 2 Kaltmieten\n0172 6900634",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
     {
@@ -1167,6 +1381,37 @@
       "Czynsz z mediami (€)": null,
       "Opis": "Wir vermieten eine schöne 2- Zimmer Wohnung, die sich zentral in Rees Millingen befindet.\nVom Flur aus gelangen Sie in alle Räume der Wohnung.\nDie vorhandene Einbauküche kann gerne vom Vormieter übernommen werden.\nDas Wohnzimmer ist großzügig geschnitten, so dass noch eine Essecke / Homeoffice- Platz eingerichtet werden kann.\nDas Bad ist mit einer Dusche ausgestattet.\n\nZu der Wohnung gehört ein Kellerraum. Die Wohnung liegt im 2. OG, es ist kein Aufzug vorhanden.\n\nDie Wohnung hat keinen Balkon.\n\nBitte teilen Sie uns bei Ihrer Anfrage mindestens die folgenden Details mit:\n- mit wieviel Personen möchten Sie einziehen?\n- sind Sie berufstätig?\n- haben Sie Haustiere?",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Ansprechende 2-Zimmer-Wohnung mit Balkon in Wesel",
+      "Cena (€)": 599.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 65.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/ansprechende-2-zimmer-wohnung-mit-balkon-in-wesel/3420141612-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a391c94-82a6-49b8-89e9-c9cf24b4c325?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8c63a7d-418f-442f-af78-0eec63fe665a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e71feba8-3c2b-4403-8373-4bed7c8832fe?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e44ed1e4-aed9-4403-bc0b-3fe81c6b0634?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f0a9a4-4d20-4382-97c2-f72437de3f2d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14dfaddd-71de-4e5c-9a07-890afb3a9be3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e11a6bfe-07c5-4453-bc65-9675b6c8e3e0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/359c1b1f-c51d-42cf-9529-396b11ce6dcf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/3165559d-9770-41be-8232-d7db2488992e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa015f36-096e-4a4c-b5ca-34e0c56212a5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/96/96650629-c3cb-448f-b7f2-7be5fbfb34cc?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 759.0,
+      "Opis": "Balkon • Einbauküche • Badewanne\n\nDie Heizkosten sind in den Nebenkosten enthalten.\n\nDiese ansprechende 2-Zimmer-Wohnung im 2. Obergeschoss\neines gepflegten 4-Parteienhauses überzeugt mit einer\ndurchdachten Raumaufteilung und hochwertiger Ausstattung.\nMit ca. 65 m² Wohnfläche bietet sie genügend Platz für Singles\noder Paare, die Wert auf Komfort und eine zentrale Lage legen.\nHunde sind nicht erlaubt.\n\nDie Wohnung besticht durch eine helle Küche mit direktem\nZugang zum Balkon, eine Einbauküche sowie ein hochwertig\nsaniertes Badezimmer. Ein eigener Kellerraum sorgt für\nzusätzlichen Stauraum.\n\nAusstattung im Detail\n\nCa. 65 m² Wohnfläche\n2 Zimmer\nEinbauküche aus 2012 – Boden gefliest\nBalkon für entspannte Stunden im Freien\nModernisiertes Badezimmer (saniert 2012) mit Fenster\nLaminat im Flur, Schlafzimmer und Wohnzimmer 2012 erneuert\nWeiße Türelente, 2012 erneuert\nEigener Kellerraum für zusätzlichen Stauraum\nZentralheizung mit Gas\nEnergieeffizienzklasse: B\nÖffentliche Parkmöglichkeiten in der Nähe\n\nLage:\nDie Wohnung liegt in 46483 Wesel, in unmittelbarer Nähe zur\nFußgängerzone. Einkaufsmöglichkeiten, Cafés, Restaurants\nsowie öffentliche Verkehrsmittel befinden sich in direkter\nUmgebung. Die Rheinpromenade ist ebenfalls nur wenige\nMinuten entfernt und lädt zu entspannten Spaziergängen ein.\n\nWeitere Angaben:\nObjektzustand: im Jahre 2012 umfangreich saniert\nBaujahr: 1953\nQualität der Ausstattung: Normal\nHeizungsart: Zentralheizung (2012 saniert)\nWesentliche Energieträger: Gas\nHaustiere: Nach Vereinbarung",
+      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1232,6 +1477,37 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung in Zentrum wesel",
+      "Cena (€)": 600.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 61.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-in-zentrum-wesel/3491439610-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc639505-6901-461f-a6d0-8a01ea7f75ea?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc639505-6901-461f-a6d0-8a01ea7f75ea?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/336e306c-7553-40ec-9a1d-11d485510435?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a82a798a-f327-4e65-98eb-3c86c7e04d22?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a44e4b81-3fb6-4be8-bc6b-f713b4f5ffd3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/642e463b-4b0d-499d-a8ba-ac94d1385fd0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c319402f-ce4a-4af8-83e4-7591848071e1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0536d491-8a4f-41c5-bff8-56545e199bcc?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/7229071a-4ec9-46bf-af10-de5819bf0b38?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fc38898-6699-4639-a0d8-148281abbd83?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0e325d8-2dca-4ef3-b2cb-f816ee28ee77?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 800.0,
+      "Opis": "Wohnung in Zentrum Wesel neu renoviert Kaltmiete 600 Nebenkosten 200",
+      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Souterrainwohnung ab 01.11. zu vermieten",
       "Cena (€)": 620.0,
       "Pokoje": 2.0,
@@ -1274,10 +1550,51 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmerwohnung-direkt-an-der-adenauerallee-zu-vermieten/3506963306-203-1850",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cab24248-c77a-48dc-88df-d9a9ac24f68e?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cab24248-c77a-48dc-88df-d9a9ac24f68e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02c5c982-38af-42c7-b6b7-40ed411a4aa7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a5e0968-a9f2-4e8d-917c-9a3236489be1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b55cd2b6-a7f8-43f4-a42d-2782a25e2c06?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9bdcb96-578d-47c5-b2ef-a15eb15f89c7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2021bc97-42fd-4e58-9815-76c7d6b48188?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3bbc5112-d22f-441d-acdd-4fa37025dd5f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac8f913f-e287-45f1-aacb-36c8d277ffe2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77ca58cd-7d51-4630-8700-77ed0bf33c4b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/efd55652-ad48-47a7-89bc-329eaed31ade?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a624fbb-32e9-4147-97ca-33a5a95fb1c6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e0ba85e-4f91-4f02-a7af-5ed120c9ee1f?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nDiese schön geschnittene 2-Zimmer-Wohnung mit ca. 59 m² Wohnfläche befindet sich in einer besonders attraktiven und hochwertigen Lage an der Adenauerallee in Bocholt.\n\nDie Wohnung überzeugt durch ihren durchdachten Grundriss, helle und freundliche Räume sowie eine angenehme Wohnatmosphäre. Die beiden Zimmer bieten vielfältige Möglichkeiten zur individuellen Gestaltung – ideal für Singles oder Paare, die Wert auf komfortables und ruhiges Wohnen legen.\n\nEin besonderes Highlight ist der großzügige, ruhige Balkon. Hier lässt sich wunderbar entspannen, den Tag in Ruhe ausklingen lassen oder bei einem Kaffee die angenehme Wohnlage genießen.\n\n# Ausstattung\nDie Highlights auf einen Blick:\n\nca. 59 m² Wohnfläche\n2 gut geschnittene Zimmer\nhelle, freundliche Räume\nWohnung wurde komplett neu weiß gestrichen\nNeuer hochwertiger Vinylboden\nWohnung wird in renoviertem Zustand vermietet. Keine Kosten für Mieter bei Einzug\ngroßzügiger und ruhiger Balkon\nhochwertige und gefragte Wohnlage an der Adenauerallee\neigener Kellerraum\nangenehme und ruhige Wohnatmosphäre, nettes Miteinander im Haus\ngerne langfristig zu vermieten\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.11.2026\n- Objektzustand: saniert\n- Qualität der Ausstattung: Gehoben\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDie Wohnung liegt in Bocholt Am Hasenkamp 2a. Einkaufsmöglichkeiten, alltägliche Besorgungen sowie verschiedene Wege des täglichen Lebens sind gut erreichbar. Durch die Lage in Bocholt profitieren Sie zudem von einer gewachsenen Infrastruktur und den kurzen Wegen innerhalb der Stadt sowie in die umliegenden Bereiche.\n\n# Sonstiges\nDie Wohnung ist ab dem 1. November 2026 verfügbar. Die Kaltmiete beträgt 620 EUR, zuzüglich 60 EUR Nebenkosten, sodass sich eine Gesamtmiete von 680 EUR pro Monat ergibt. Ein Außen-Stellplatz steht für 40 Euro im Monat zur Verfügung. Durch die Kombination aus Balkon, eingebauter Küche und Keller bietet die Wohnung praktischen Wohnkomfort im Alltag.\n\nWir freuen uns auf sympathische und zuverlässige Mieter, die sich hier langfristig wohlfühlen möchten.\n\n# Energie\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 211565",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Wohnung, Nachmieter gesucht",
+      "Cena (€)": 625.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 69.0,
+      "Lokalizacja": "46485 Wesel",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 36.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-nachmieter-gesucht/3483718645-203-1866",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1805975a-cb7d-452c-94c2-25f27f7e6585?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/4759b88d-98c7-42bb-9265-f06c73ad0404?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acb4b9c0-b890-45e0-98f6-3e65f1c95c8a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fc38898-6699-4639-a0d8-148281abbd83?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0e325d8-2dca-4ef3-b2cb-f816ee28ee77?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7969a729-b8a5-4f12-b369-c1d54c612561?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Nachmieter für schöne 69 m² Wohnung in Wesel gesucht\n\nIch suche einen Nachmieter für meine ca. 69 m² große Wohnung in Wesel.\n\nDie Kaltmiete beträgt 625 € (zzgl. Nebenkosten). Die Wohnung eignet sich ideal für Singles oder Paare.\n\nEin besonderes Highlight ist der große Balkon mit einem schönen Blick ins Grüne – perfekt zum Entspannen. Die Wohnung liegt in einer ruhigen Wohngegend. Sie befindet sich zwar nicht direkt im Stadtzentrum, ist aber dennoch gut angebunden. Den Bahnhof erreicht man in etwa 5–10 Minuten zu Fuß. Ich persönlich finde die Lage sehr angenehm, da sie eher ruhig ist und nicht von starkem Verkehrslärm geprägt wird.\n\nDie Wohnung verfügt über:\n\t•\teine Diele\n\t•\teine große Küche\n\t•\tein Schlafzimmer\n\t•\tein großes Wohnzimmer mit großem Panoramafenster\n\t•\tein Badezimmer mit Badewanne, WC und Waschmaschinenanschluss\n\nFür die Wohnung wird ein Nachmieter gesucht, der das vorhandene Inventar vollständig übernimmt.\n\nDer Übernahmepreis beträgt 2.800 € und beinhaltet die Einbauküche, das Wohnzimmer sowie das Schlafzimmer.\n\nPersönliche Gegenstände sind selbstverständlich von der Übernahme ausgeschlossen.\n\nEine komplette Übernahme des Inventars ist Voraussetzung. Eine teilweise Übernahme einzelner Möbel oder Gegenstände ist leider nicht möglich.\n\nBei Interesse freue ich mich über eine kurze Nachricht mit ein paar Informationen zu Ihrer Person.\n\nViele Grüße",
+      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1368,37 +1685,6 @@
       "Czynsz z mediami (€)": null,
       "Opis": "In der Bahnhofstraße in Hamminkeln erwartet Sie eine Dachgeschosswohnung im 3. Stock mit einer Wohnfläche von 96 qm. Die Wohnung ist mit insgesamt 2 Zimmern aufgeteilt und bietet 1 Schlafzimmer sowie 1 Badezimmer. Zusätzlich steht ein Gäste-WC zur Verfügung, was den Alltag im Wohnbereich besonders praktisch macht. Der Balkon ergänzt das Raumangebot um einen eigenen Aussenbereich, auf dem Sie den Tag entspannt ausklingen lassen können.\n\n# Ausstattung\nDie Wohnung wird mit Gas beheizt. Durch den vorhandenen Balkon lässt sich zusätzlicher Wohnkomfort im Freien nutzen. Als praktische Extras ist ein Gäste-WC vorhanden. Die Lage im Gebäude ist zudem angenehm, da sich in unmittelbarer Nähe ein Einkaufsbereich befindet.\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.10.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Bahnhofstraße in Hamminkeln ist eine zentrale Adresse, an der sich Einkäufe und Erledigungen unkompliziert gestalten. Das Gebäude verfügt im Erdgeschoss über Geschäfte, was den Alltag besonders kurz und bequem macht. So erreichen Sie wichtige Dinge des täglichen Bedarfs in fußläufiger Nähe, während Sie gleichzeitig schnell in die Umgebung von Hamminkeln gelangen.\n\n# Sonstiges\nDie Wohnung ist ab dem 1. Oktober 2026 verfügbar. Die Kaltmiete beträgt 650 EUR, die Nebenkosten belaufen sich auf 220 EUR, sodass sich eine Gesamtmiete von 870 EUR pro Monat ergibt. Mit dem Balkon und der durchdachten Raumaufteilung bietet die Wohnung einen angenehmen Wohnstandard in zentraler Lage an der Bahnhofstraße.\n\n# Energie\n- Baujahr: 1986\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 212537",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Dachgeschosswohnung 69 qm, Goch-Kessel",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 69.0,
-      "Lokalizacja": "47574 Goch",
-      "Odległość (km)": 19.0,
-      "Odległość od 's-Heerenberg (km)": 21.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschosswohnung-69-qm-goch-kessel/3495713151-203-1147",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/3841fd36-2ca3-4b49-8252-778ff56791f2?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/3841fd36-2ca3-4b49-8252-778ff56791f2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01f09807-8bf7-4a5c-9add-e151f964d600?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f05b128-582f-43e8-8425-e2150e60ed97?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/5082606c-0802-46d8-b556-810afaf4279a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5dd47b01-1b2a-4e79-9a9e-148e3d182bbb?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f02540b-9451-4e0d-88f0-3ab311f96595?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d94c667-7465-458f-be23-59aca45756cd?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14449235-b4db-4dc2-ab9d-bf9aafac3498?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44bb7ef8-ccf0-4275-bac6-55368dd63904?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ee98547-1a65-41ce-af4a-efa991fa91e8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a34b6882-1f31-48b8-8c28-19ca80bb2a5d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6610389-ce81-404d-bae2-c97989b3761b?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Schöne , frisch renovierte Dachgeschosswohnung ab mitte September zu vermieten . Außerhalb von Kessel , sehr ruhig und ländlich . Zum Mietpreis von 850€warm incl. aller Nebenkosten, (ausser Telefon) gehört eine voll ausgestattete Küche , mit neuem Geschirrspüler ,Mikrowelle ,Kochinsel , Kühlschrank , auf Wunsch Teil oder auch vollmöbliert. Abstellraum., Einbauschränke , Satanlage , in Kürze Glasfaseranschluss möglich, Stellplatz und Gartenbereich auf Wunsch , Anfragen bitte nur mit aktueller Schufaauskunft und Lohnnachweiss . Besichtigungtermine ab 9.9.26 möglich .",
-      "PierwszyRaz": "2026-09-15T03:13:50.896622+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
