@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-15T08:42:06.042060+00:00",
-  "count": 66,
+  "generated_at": "2026-09-15T09:10:49.021119+00:00",
+  "count": 65,
   "sources": {
     "Kleinanzeigen": {
       "last_updated": "2026-09-15T06:15:08.478857+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
-      "last_updated": "2026-09-15T08:42:06.042060+00:00",
+      "last_updated": "2026-09-15T09:10:49.021119+00:00",
       "interval_hours": 1
     }
   },
@@ -1428,8 +1428,8 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 44.0,
       "Lokalizacja": "Bedburg-Hau, Kleve (Kreis)",
-      "Odległość (km)": null,
-      "Odległość od 's-Heerenberg (km)": null,
+      "Odległość (km)": 7.8,
+      "Odległość od 's-Heerenberg (km)": 9.5,
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.immobilienscout24.de/en/expose/165918586",
@@ -1438,24 +1438,6 @@
       "Czynsz z mediami (€)": 540.0,
       "Opis": "This bright 2-room apartment with approx. 44 m² living space is located in Bedburg-Hau. The apartment offers a practical layout, ideal for singles or couples. It will be available from 24 May 2026. The exact features and condition of the apartment will be discussed in detail during a viewing.",
       "PierwszyRaz": "2026-09-14T23:11:16.862756+00:00"
-    },
-    {
-      "Portal": "ImmoScout24",
-      "Tytuł": "Characterful living: two-room apartment in Uedem",
-      "Cena (€)": 365.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "Uedem, Kleve (Kreis)",
-      "Odległość (km)": null,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.immobilienscout24.de/en/expose/169677495",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": 550.0,
-      "Opis": "This attractive two-room apartment offers a well-planned room layout on a living space of 60 square metres. The property presents itself as functional and is ideally suited for interested parties who value a clear structure. The apartment will be available from 30 July 2026. In addition to the living areas, the floor plan provides a solid basis for individual customisation. No further features can be inferred from the available property details, which gives you the freedom to furnish the space according to your personal ideas.",
-      "PierwszyRaz": "2026-09-15T08:42:06.033389+00:00"
     },
     {
       "Portal": "ImmoScout24",
@@ -1675,8 +1657,8 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 50.0,
       "Lokalizacja": "Bedburg-Hau, Kleve (Kreis)",
-      "Odległość (km)": null,
-      "Odległość od 's-Heerenberg (km)": null,
+      "Odległość (km)": 7.8,
+      "Odległość od 's-Heerenberg (km)": 9.5,
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.immobilienscout24.de/en/expose/166469739",
