@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T00:17:37.802046+00:00",
-  "count": 63,
+  "generated_at": "2026-09-15T03:13:50.897645+00:00",
+  "count": 64,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-15T00:17:37.802046+00:00",
+      "last_updated": "2026-09-15T03:13:50.897645+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -1088,9 +1088,19 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-mietwohnung-in-kevelaer/3471681992-203-1137",
       "Zdjęcie": null,
-      "Zdjęcia": [],
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e432c87-48dd-4a9a-9154-71d636ca5380?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/159e5452-4334-4c21-a49c-a49485e38a28?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f15714b7-2c51-40e3-8f9f-d5d1614c213b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ab8287b-5b05-4a8e-a14f-2cc33f50ba2b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/850cdff5-4013-4dfb-9414-212e000cffc4?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/361f88dd-14b7-4daa-bb7e-13e7b386aba6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6228a31-39cf-4338-a0f2-e1eee7e6837f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ae4563e-7fca-455b-8724-50d0db7a116e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf320ae3-6192-408f-b2aa-564285cddcd0?rule=$_0.AUTO"
+      ],
       "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche\n\nKleine,\nmöblierte Wohnung zentral in Kevelaer, Preis zuzüglich Nebenkosten.\n\nBeantwortet werden nur vollständige Bewerbungen",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
@@ -1168,9 +1178,16 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mietangebot/3499707920-203-1867",
       "Zdjęcie": null,
-      "Zdjęcia": [],
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d5f3527-77fd-4380-825e-32165b06815f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2205d1ce-6879-4c74-94e9-74846dbe1b6f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d176a1c5-7b3f-4f7f-a857-9db714f11c06?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_0.AUTO"
+      ],
       "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Opis": "Balkon\n\nHelle Wohnung Innenstadt",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
@@ -1335,9 +1352,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/ansprechende-2-zimmer-wohnung-mit-balkon-in-wesel/3420141612-203-1867",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a391c94-82a6-49b8-89e9-c9cf24b4c325?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8c63a7d-418f-442f-af78-0eec63fe665a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e71feba8-3c2b-4403-8373-4bed7c8832fe?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e44ed1e4-aed9-4403-bc0b-3fe81c6b0634?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f0a9a4-4d20-4382-97c2-f72437de3f2d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14dfaddd-71de-4e5c-9a07-890afb3a9be3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e11a6bfe-07c5-4453-bc65-9675b6c8e3e0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/359c1b1f-c51d-42cf-9529-396b11ce6dcf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/3165559d-9770-41be-8232-d7db2488992e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa015f36-096e-4a4c-b5ca-34e0c56212a5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/96/96650629-c3cb-448f-b7f2-7be5fbfb34cc?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 759.0,
+      "Opis": "Balkon • Einbauküche • Badewanne\n\nDie Heizkosten sind in den Nebenkosten enthalten.\n\nDiese ansprechende 2-Zimmer-Wohnung im 2. Obergeschoss\neines gepflegten 4-Parteienhauses überzeugt mit einer\ndurchdachten Raumaufteilung und hochwertiger Ausstattung.\nMit ca. 65 m² Wohnfläche bietet sie genügend Platz für Singles\noder Paare, die Wert auf Komfort und eine zentrale Lage legen.\nHunde sind nicht erlaubt.\n\nDie Wohnung besticht durch eine helle Küche mit direktem\nZugang zum Balkon, eine Einbauküche sowie ein hochwertig\nsaniertes Badezimmer. Ein eigener Kellerraum sorgt für\nzusätzlichen Stauraum.\n\nAusstattung im Detail\n\nCa. 65 m² Wohnfläche\n2 Zimmer\nEinbauküche aus 2012 – Boden gefliest\nBalkon für entspannte Stunden im Freien\nModernisiertes Badezimmer (saniert 2012) mit Fenster\nLaminat im Flur, Schlafzimmer und Wohnzimmer 2012 erneuert\nWeiße Türelente, 2012 erneuert\nEigener Kellerraum für zusätzlichen Stauraum\nZentralheizung mit Gas\nEnergieeffizienzklasse: B\nÖffentliche Parkmöglichkeiten in der Nähe\n\nLage:\nDie Wohnung liegt in 46483 Wesel, in unmittelbarer Nähe zur\nFußgängerzone. Einkaufsmöglichkeiten, Cafés, Restaurants\nsowie öffentliche Verkehrsmittel befinden sich in direkter\nUmgebung. Die Rheinpromenade ist ebenfalls nur wenige\nMinuten entfernt und lädt zu entspannten Spaziergängen ein.\n\nWeitere Angaben:\nObjektzustand: im Jahre 2012 umfangreich saniert\nBaujahr: 1953\nQualität der Ausstattung: Normal\nHeizungsart: Zentralheizung (2012 saniert)\nWesentliche Energieträger: Gas\nHaustiere: Nach Vereinbarung",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
@@ -1415,9 +1445,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-in-zentrum-wesel/3491439610-203-1867",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc639505-6901-461f-a6d0-8a01ea7f75ea?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc639505-6901-461f-a6d0-8a01ea7f75ea?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/336e306c-7553-40ec-9a1d-11d485510435?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a82a798a-f327-4e65-98eb-3c86c7e04d22?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a44e4b81-3fb6-4be8-bc6b-f713b4f5ffd3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/642e463b-4b0d-499d-a8ba-ac94d1385fd0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c319402f-ce4a-4af8-83e4-7591848071e1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0536d491-8a4f-41c5-bff8-56545e199bcc?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/7229071a-4ec9-46bf-af10-de5819bf0b38?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fc38898-6699-4639-a0d8-148281abbd83?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0e325d8-2dca-4ef3-b2cb-f816ee28ee77?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 800.0,
+      "Opis": "Wohnung in Zentrum Wesel neu renoviert Kaltmiete 600 Nebenkosten 200",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
@@ -1568,6 +1611,37 @@
       "Czynsz z mediami (€)": null,
       "Opis": "In der Bahnhofstraße in Hamminkeln erwartet Sie eine Dachgeschosswohnung im 3. Stock mit einer Wohnfläche von 96 qm. Die Wohnung ist mit insgesamt 2 Zimmern aufgeteilt und bietet 1 Schlafzimmer sowie 1 Badezimmer. Zusätzlich steht ein Gäste-WC zur Verfügung, was den Alltag im Wohnbereich besonders praktisch macht. Der Balkon ergänzt das Raumangebot um einen eigenen Aussenbereich, auf dem Sie den Tag entspannt ausklingen lassen können.\n\n# Ausstattung\nDie Wohnung wird mit Gas beheizt. Durch den vorhandenen Balkon lässt sich zusätzlicher Wohnkomfort im Freien nutzen. Als praktische Extras ist ein Gäste-WC vorhanden. Die Lage im Gebäude ist zudem angenehm, da sich in unmittelbarer Nähe ein Einkaufsbereich befindet.\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.10.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Bahnhofstraße in Hamminkeln ist eine zentrale Adresse, an der sich Einkäufe und Erledigungen unkompliziert gestalten. Das Gebäude verfügt im Erdgeschoss über Geschäfte, was den Alltag besonders kurz und bequem macht. So erreichen Sie wichtige Dinge des täglichen Bedarfs in fußläufiger Nähe, während Sie gleichzeitig schnell in die Umgebung von Hamminkeln gelangen.\n\n# Sonstiges\nDie Wohnung ist ab dem 1. Oktober 2026 verfügbar. Die Kaltmiete beträgt 650 EUR, die Nebenkosten belaufen sich auf 220 EUR, sodass sich eine Gesamtmiete von 870 EUR pro Monat ergibt. Mit dem Balkon und der durchdachten Raumaufteilung bietet die Wohnung einen angenehmen Wohnstandard in zentraler Lage an der Bahnhofstraße.\n\n# Energie\n- Baujahr: 1986\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 212537",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Dachgeschosswohnung 69 qm, Goch-Kessel",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 69.0,
+      "Lokalizacja": "47574 Goch",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 21.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschosswohnung-69-qm-goch-kessel/3495713151-203-1147",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/3841fd36-2ca3-4b49-8252-778ff56791f2?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/3841fd36-2ca3-4b49-8252-778ff56791f2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01f09807-8bf7-4a5c-9add-e151f964d600?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f05b128-582f-43e8-8425-e2150e60ed97?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/5082606c-0802-46d8-b556-810afaf4279a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5dd47b01-1b2a-4e79-9a9e-148e3d182bbb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f02540b-9451-4e0d-88f0-3ab311f96595?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d94c667-7465-458f-be23-59aca45756cd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14449235-b4db-4dc2-ab9d-bf9aafac3498?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44bb7ef8-ccf0-4275-bac6-55368dd63904?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ee98547-1a65-41ce-af4a-efa991fa91e8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a34b6882-1f31-48b8-8c28-19ca80bb2a5d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6610389-ce81-404d-bae2-c97989b3761b?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Schöne , frisch renovierte Dachgeschosswohnung ab mitte September zu vermieten . Außerhalb von Kessel , sehr ruhig und ländlich . Zum Mietpreis von 850€warm incl. aller Nebenkosten, (ausser Telefon) gehört eine voll ausgestattete Küche , mit neuem Geschirrspüler ,Mikrowelle ,Kochinsel , Kühlschrank , auf Wunsch Teil oder auch vollmöbliert. Abstellraum., Einbauschränke , Satanlage , in Kürze Glasfaseranschluss möglich, Stellplatz und Gartenbereich auf Wunsch , Anfragen bitte nur mit aktueller Schufaauskunft und Lohnnachweiss . Besichtigungtermine ab 9.9.26 möglich .",
+      "PierwszyRaz": "2026-09-15T03:13:50.896622+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
