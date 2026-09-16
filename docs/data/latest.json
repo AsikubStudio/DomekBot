@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T18:13:51.875773+00:00",
-  "count": 63,
+  "generated_at": "2026-09-16T21:12:32.979823+00:00",
+  "count": 62,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-16T18:13:51.875773+00:00",
+      "last_updated": "2026-09-16T21:12:32.979823+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -886,37 +886,6 @@
       ],
       "Czynsz z mediami (€)": 650.0,
       "Opis": "GEMÜTLICHE 2-ZIMMER-WOHNUNG IN BAHNHOFSNÄHE – MODERNES WOHNEN\n\nZur Vermietung steht eine moderne und gepflegte 2-Zimmer-Wohnung in attraktiver Lage, nur wenige Gehminuten vom Bahnhof entfernt. Die gute Anbindung an den öffentlichen Nahverkehr sowie Einkaufsmöglichkeiten und weitere Einrichtungen des täglichen Bedarfs machen die Wohnung besonders attraktiv.\n\nDie Wohnung überzeugt durch ihren modernen Stil und eine praktische Raumaufteilung. Das großzügige Wohnzimmer bietet viel Platz zum Wohnen und Entspannen. Ergänzt wird die Wohnung durch ein separates Schlafzimmer, einen Flur sowie ein Badezimmer mit Dusche und WC.\n\nVoraussetzung für die Vermietung ist ein bestehendes Arbeitsverhältnis.\n\nAusstattung:\n\n* 2 Zimmer\n* Großzügiges Wohnzimmer\n* Modernes Wohnambiente\n* Badezimmer mit Dusche und WC\n* Flur\n* Bahnhof in unmittelbarer Nähe\n\nMietkonditionen:\n\n* Grundmiete: 550 €\n* Betriebskosten: 100 €\n* Kaution: 1.650 €\n\nKontaktaufnahme ebay:\n\nKontaktaufnahme bitte ausschließlich über unsere Geschäftsmail oder die ebay Nachrichtenfunktion. Wir bitten von Anrufen abzusehen. Wir bitten um eine aussagekräftige Bewerbung. Dazu können Sie die Mieterselbstauskunft von unserer Homepage ausgefüllt an unsere Hausverwaltung zu senden. Sie finden die Mieterselbstauskunft unter kader-immobilien.de/Wohnungen-Haeuser.",
-      "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "50qm Etagen-Wohnung, zentral, teilmöbliert, EBK, Stellplatz",
-      "Cena (€)": 550.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 9.0,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/50qm-etagen-wohnung-zentral-teilmoebliert-ebk-stellplatz/3493348678-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9da69934-66ae-4273-955f-4a10cf81a70a?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9da69934-66ae-4273-955f-4a10cf81a70a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2de4cab9-1a6c-4d36-be0c-f2979d20afc0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/6127dc2e-4279-42ab-8931-64736510bd6a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78feaac2-f423-4b7a-b745-3efe33a8a3fe?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afd16680-0674-4318-833f-363db881819c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7969079c-bbc2-4688-8be5-18b90e79700e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08a9b090-2d75-44c8-9990-21e0f3df3205?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90800992-6ec2-4ca6-89a6-0e8d1146c4ac?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f4e06a5-e3a3-4d8e-b5a4-8e7eec850754?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7ece28b8-afb5-49df-8dba-af5f1e8ef973?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9522597-85c0-482f-b54c-82c97ab23ca8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82712826-1eee-4a38-9575-63dfce94a2ae?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 620.0,
-      "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Badewanne • Altbau • Garage/Stellplatz • Garten/-mitnutzung\n\nGroßzügige und gepflegte Wohnung auf zwei Etagen in ruhiger, aber zentralen Lage von Kleve mit 50qm Wohn- und 100qm Nutzfläche.\nDie Wohnung liegt in einem Einfamilienhauses, in dem es nur eine weitere Wohnung gibt – ein idealer Rückzugsort für alle, die Privatsphäre, Komfort und Naturverbundenheit schätzen.\n\nAusstattung im Überblick - Teilmöbliert, inkl.:  - Küchenschränke, Spüle, Herd, Backofen, Spülmaschine  - Kleiderschrank, Couch (Chaiselongue), Fernsehschrank, Geschirrschrank, Kommode  - Küchentisch mit 5 Stühlen, Badezimmerschrank, 2 Spiegel  - Fernseher mit Satellitenanschluss  - Lampen in Wohnräumen - Privater PKW-Stellplatz - Bad mit Badewanne - Waschmaschine im Gemeinschafts-Waschkeller - 250 m² großer Garten\n- 40 m² Terrasse - Ruhige Lage mit Panoramablick über Kleve und bis zur Emmericher Rheinbrücke - Zugang zum Reichswald am Ende der Straße\n\n Die Wohnung befindet sich in einer der begehrtesten Wohnlagen Kleves: ruhig, naturnah und dennoch zentrumsnah gelegen.  Nach hinten eröffnet sich der Blick über den eigenen Garten und eine Villa auf dem Hang, nach vorne genießen Sie eine beeindruckende Aussicht über die Stadt Kleve bis zum Rhein.\nDer Reichswald als Naherholungsgebiet ist fußläufig erreichbar – ideal für Spaziergänge, Jogging oder entspannte Stunden im Grünen.\n\nDie Nebenkosten sind derzeit durch Eigenleistungen (z. B. Hausflurreinigung, Mülltonnen herausstellen, Rasenmähen im Sommer) reduziert. Alternativ kann ein Dienstleister beauftragt werden (mit entsprechendem Nebenkostenaufschlag).  Das Rauchen ist im Haus nicht gestattet. \n\nBevorzugt wird die langfristige Vermietung an 1–2 Personen \nBenötigte Informationen: * Kurze Vorstellung und den Grund Ihres Umzugs * Anzahl der einziehenden Personen\n* Gewünschter Einzugstermin \nErforderliche Unterlagen:\n\nIdentitätsnachweis\nSCHUFA-Auskunft Mieterselbstauskunft Gehaltsnachweis der letzten drei Monate\nMietschuldenfreiheitsbescheinigung vom ehemaligen Vermieter",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
     {
