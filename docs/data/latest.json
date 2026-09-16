@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T00:15:43.859772+00:00",
+  "generated_at": "2026-09-16T03:12:13.394883+00:00",
   "count": 66,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-16T00:15:43.859772+00:00",
+      "last_updated": "2026-09-16T03:12:13.394883+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -1087,9 +1087,19 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-mietwohnung-in-kevelaer/3471681992-203-1137",
       "Zdjęcie": null,
-      "Zdjęcia": [],
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e432c87-48dd-4a9a-9154-71d636ca5380?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/159e5452-4334-4c21-a49c-a49485e38a28?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f15714b7-2c51-40e3-8f9f-d5d1614c213b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ab8287b-5b05-4a8e-a14f-2cc33f50ba2b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ecbcb57f-35a9-4005-a607-92a6dc2c21a6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/361f88dd-14b7-4daa-bb7e-13e7b386aba6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6228a31-39cf-4338-a0f2-e1eee7e6837f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf320ae3-6192-408f-b2aa-564285cddcd0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d5ef15d-f25a-412e-838d-ce7504bfd6b4?rule=$_0.AUTO"
+      ],
       "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche\n\nKleine,\nmöblierte Wohnung zentral in Kevelaer, Preis zuzüglich Nebenkosten.\n\nBeantwortet werden nur vollständige Bewerbungen",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
