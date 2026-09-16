@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-15T21:12:27.389397+00:00",
-  "count": 67,
+  "generated_at": "2026-09-16T00:15:43.859772+00:00",
+  "count": 66,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-15T21:12:27.389397+00:00",
+      "last_updated": "2026-09-16T00:15:43.859772+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -745,24 +745,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Helle 2 Zimmer Wohnung mit Balkon zu vermieten",
-      "Cena (€)": 494.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "46485 Wesel",
-      "Odległość (km)": 20.0,
-      "Odległość od 's-Heerenberg (km)": 36.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-wohnung-mit-balkon-zu-vermieten/3464670201-203-1866",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fc38898-6699-4639-a0d8-148281abbd83?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "PierwszyRaz": "2026-09-15T09:14:10.844317+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt zu vermieten",
       "Cena (€)": 499.0,
       "Pokoje": 2.0,
@@ -805,9 +787,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/demnaechst-frei-2-zimmer-wohnung-in-bocholt/3500655579-203-1850",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76d2333d-c2d8-426b-a2cb-e6dbc81438be?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76d2333d-c2d8-426b-a2cb-e6dbc81438be?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b42125eb-61ce-4da6-87d1-c1cb16b25b6d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/911f089b-3a57-4a58-89a5-abd4b5e92362?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/8685b344-aa1a-4e7b-8490-381bb0caed8a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8f42eddb-ad8d-41a0-b8cb-c31ba634df0d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b102d95-9f38-45f1-a835-9539191ef142?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d217ff36-18d3-47a6-821c-aae72e8dc0c8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d219566-b41a-4ab2-aedd-30b3adab8eb6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a9e3f62-d254-41ab-b846-8f4adefca49b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44415bdb-fedd-458a-a342-6b3bfb05bb18?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4994126d-cadd-467c-9f3c-6d6483dfc315?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 629.0,
+      "Opis": "Badewanne • Keller • Garage/Stellplatz\n\nEs handelt sich um eine 2-Zimmer-Wohnung im 1. OG eines ruhigen und gepflegten Mehrfamilienwohnhauses. In der netten Nachbarschaft werden Sie sich sicher wohl fühlen. Parkplätze sind in ausreichender Menge direkt an der Wohnanlage vorhanden.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-121-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Neues Wannenbad mit hellen Fliesen und Fenster\n• Waschküche mit eigenem Waschmaschinenstellplatz\n• eigener Mieterkeller\n• neue Wohnungseingangstüre\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-121-M",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
@@ -1287,9 +1282,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-zu-vermieten-in-wesel-stadtnah-1og/3501433417-203-1867",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_2.AUTO",
-      "Zdjęcia": [],
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54e17934-58bd-4f31-99c4-110bdc92bdd5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f372ec24-0d7f-4706-b3e6-b3c9fc5ae928?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fed63835-b7d0-4228-a3fc-2f0e426477bf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/1949cf45-5f22-4c57-a4c2-0c80942fbac8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9e07a21-2ac9-452e-abea-4ee220aa4892?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f2e5913-db00-4ef6-b7ec-192f1462e50c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/906e619b-145e-4e54-8e09-9323cb2d0320?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0b44c11-e74f-48c0-b98f-813f81f8fef8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79db23d4-cdac-49f2-bf0f-c9a8a5a1f938?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec133a2a-b82c-4298-ad68-a8451877b53f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d44d4f7-6a0f-4a65-9678-da4596750608?rule=$_59.AUTO"
+      ],
       "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Opis": "Schöne helle 2-Zimmerwohnung in Wesel zu vermieten ab dem 1.11.2026\nHaustierhaltung ist leider nicht erlaubt.\nAktuelle Schufa Auskunft und Gehaltsnachweise, müssen vor dem Besichtigungstermin vorgelegt werden.\n\nKaltmiete 580€\nNeben u. Betriebskosten 100€\nHeizkosten 125€\nStromkosten 50€\nGesamt Monatlich 855€\n\nDie Wohnung befindet sich in einem 9 Familien Haus im 1 OG\nStadtnah, der Bahnhof, Ärzte, sämtliche Einkaufsmöglichkeiten sind zu Fuß zu erreichen.\nDie Wohnung hat ein großes Badezimmer, ein Schlafzimmer, ein Wohnzimmer mit Küchenbereich.\n1 Kellerraum.",
       "PierwszyRaz": "2026-09-15T21:12:27.388477+00:00"
     },
     {
