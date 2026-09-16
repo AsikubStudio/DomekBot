@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T09:12:24.324684+00:00",
+  "generated_at": "2026-09-16T12:15:00.683223+00:00",
   "count": 65,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-16T09:12:24.324684+00:00",
+      "last_updated": "2026-09-16T12:15:00.683223+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -897,37 +897,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung - Zwei Zimmer",
-      "Cena (€)": 540.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 0.6,
-      "Odległość od 's-Heerenberg (km)": 2.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-zwei-zimmer/3506615671-203-1396",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eeb439e8-cfe2-47fa-b71e-945872595c1d?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eeb439e8-cfe2-47fa-b71e-945872595c1d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d94a1252-feda-488d-8e95-6f97e4b0ea52?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/523d9acd-55f5-47d0-9a63-b37a49bc5cde?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23d9ab92-4c6f-4f5b-a5b3-f8199c783e8d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7470806-13a3-45e9-a1ee-0356bddf473d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9d3e33a-84d4-4a10-bf36-73892f94f358?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad981250-8a17-4e69-83ab-710502dddba1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/837789c1-9a56-47b4-8fd7-8d8f80e11a77?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae77fbd8-19fd-41af-b62a-5da785e8d778?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4573b75-e703-4df4-a91f-d080759f94bf?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43506c0e-a52d-4c56-b958-b3a29397b706?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Keller\n\nZwei-Zimmer-Wohnung in direkter Promenadennähe in Emmerich teilmöbiliert abzugeben.\n\nGesamtmiete: 540€ (bereits enthalten sind Betriebskosten), zzgl. Heizkosten (ca. 50€)\n\nMöbel die übernommen werden sollen:\n- Einbauküche voll ausgestattet (mit Geschirrspüler, Kühlschrank, Backofen, Induktionsherd, alle Geräte nur 18 Monate \"alt\")\n- Waschmaschine (18 Monate \"alt\")\n- Sofa (neu, Schlafsofa)\n- Kleiderschrank\n- Schreibtisch\n- Bett\n\nMöbel insgesamt für 3700€ VB abzugeben.",
-      "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "2ZDDB auf 40m² im 6. OG mit Balkon / Aufzug",
       "Cena (€)": 550.0,
       "Pokoje": 2.0,
@@ -1616,6 +1585,37 @@
       "Czynsz z mediami (€)": null,
       "Opis": "Wärmepumpe, niedrige Heizkosten, 50- 60 €\nan Paar zu vermieten, Mindestmietdauer 3 Jahre\nerforderlich: Schufa, Einkommen Nachweis, PH, Telefon017699247393\nKüche kann vom jetzigen Mieter abgekauft werden",
       "PierwszyRaz": "2026-09-16T09:12:24.323383+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Neu renovierte zwei-Zimmer Wohnung",
+      "Cena (€)": 630.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 42.0,
+      "Lokalizacja": "46395 Bocholt",
+      "Odległość (km)": 15.0,
+      "Odległość od 's-Heerenberg (km)": 23.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/neu-renovierte-zwei-zimmer-wohnung/3513586806-203-1849",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c87b96a4-d13d-4539-969e-88da5a892001?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c87b96a4-d13d-4539-969e-88da5a892001?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8b166a7-e1cd-4f01-9524-2704fd50a04f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77d2d7d4-5334-4a2f-a8c6-7fc0f5142976?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bad28ee4-fe5a-4091-ae09-fd0ed061cf58?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cab24248-c77a-48dc-88df-d9a9ac24f68e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/2755a4b2-6030-4ddf-a038-20373ace1e7d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/737f958d-f195-48c2-8ffe-442d6f67d82a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8532f64a-5d76-4416-86d6-0df2f403d4b3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee79755-46d5-413f-9b85-d6e51659a1e1?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31fcc19e-6768-44d0-8f5b-7555949a4c64?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd5fb11f-0261-4794-8d23-cebd0e234287?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/7792d0c6-a7d1-445a-8589-76c3bca08fea?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Terrasse • Einbauküche • Keller • Garten/-mitnutzung\n\nNeu renovierte zwei Zimmer- Wohnung in zentraler Lage in Bocholt-Lowick zu vermieten.\n\nDie Wohnung wird gerade umfassend renoviert und verfügt über einen sehr hellen, offenen Wohn-/Essbereich, ein modernes Badezimmer mit Dusche und ein separates, großzügiges Schlafzimmer.\n\nVom offenen Wohn-/Essbereich gelingt man direkt auf die Terasse mit kleinem Garten zur alleinigen Nutzung.\n\nIn der Wohnung wird eine neue, hochwertige Küche mit Kühl-/Gefrierkombination, Backofen, Induktionskochfeld und Spühlmaschine durch den Vermieter eingebaut.\nFür die Küche ist ein mtl. Abschlag von 50,00 EUR zu zahlen.\n\nDie Wohnung befindet sich im Erdgeschoss eines zwei Parteienhauses.\n\nFür beide Parteien steht ein großer Gemeinschaftskeller als Wasch- und Abstellmöglichkeit für Fahrräder etc. zur Verfügung.\n\nDer Abschlag für Strom/ Gas/ Wasser beträgt 150,00 EUR monatlich.\n\nOptional besteht die Möglichkeit eine direkt ans Haus angrenzende Garage mit Stellplatz für zusätzlich 50,00 EUR mtl. zu mieten.\n\nDas gesamte Haus wird gerade umfassend renoviert, eine Besichtigung ist nach Absprache möglich.\n\nWie freuen uns über Ihre aussagekräftige Nachricht.",
+      "PierwszyRaz": "2026-09-16T12:15:00.681561+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
