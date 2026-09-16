@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T03:12:13.394883+00:00",
-  "count": 66,
+  "generated_at": "2026-09-16T06:15:31.253179+00:00",
+  "count": 65,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-16T03:12:13.394883+00:00",
+      "last_updated": "2026-09-16T06:15:31.253179+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -1249,34 +1249,6 @@
       ],
       "Czynsz z mediami (€)": 800.0,
       "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nHelle Wohnung in gepflegtem 8-Familienhaus in ruhiger Lage.\nVinyl-Laminat in der gesamten Wohnung, neues WC und Waschbecken, Rolladen, Balkon, neue Lichtschalter/ Steckdosen. Privater Keller. Küche kann übernommen werden. Einbauschrank im Flur. Fahrrad-/ Waschkeller.\nDie Wohnung ist nur geeignet für 1-2 Personen. Kein WBS möglich.\nEinzelgarage € 70,— pM",
-      "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmerwohnung mit Balkon in Emmerich",
-      "Cena (€)": 580.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 1.0,
-      "Odległość od 's-Heerenberg (km)": 2.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmerwohnung-mit-balkon-in-emmerich/3500631522-203-1396",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f00b1676-fc84-4664-8181-03c1d26cba69?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bac39032-1b5c-44d0-a85e-a4fef182860d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/adf3612a-5225-4d5c-b710-bfd23b2f55a2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/840380a2-dd7e-430e-8848-cb002a9fd3aa?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad9c7fcb-aa4a-4759-ab4a-08eb73af77ac?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe6cc99-cac6-4f3f-a362-00bda2f05dd4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67c7c76a-3430-49b6-949b-476a0c539fd6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08eccc6f-78ff-4c30-a2d5-18cd538f0681?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/0d/0d3045eb-ad8f-4ad2-b4e9-2c90acf9b619?rule=$_12.JPG"
-      ],
-      "Czynsz z mediami (€)": 740.0,
-      "Opis": "Balkon • Einbauküche • Stufenloser Zugang • Fußbodenheizung • Neubau • Aufzug • Garage/Stellplatz\n\nDiese helle und moderne 2-Zimmer-Wohnung befindet sich in einer gepflegten Wohnanlage in Emmerich und bietet Ihnen alles, was Sie für ein ruhiges und angenehmes Wohnambiente benötigen. Ein Aufzug erleichtert den Alltag, besonders wenn Sie viel Mobility benötigen oder Einkaufstouren erledigen.\n\nDie Ausstattung im Überblick:\n\nHelle, freundliche Räume mit zeitgemäßer Gestaltung\nEinbauküche und passende Lampen können vom Vormieter für 2.000 € Verhandlungsbasis übernommen werden. Die Küche ist so gut wie neu, da der Mieter kaum zu Hause war.\nPkw-Stellplatz ist vorhanden und kostet 35 Euro pro Monat\nIdeal sowohl für Singles als auch Paare",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
     {
