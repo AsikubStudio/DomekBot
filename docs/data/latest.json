@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T09:12:22.330682+00:00",
-  "count": 62,
+  "generated_at": "2026-09-17T12:15:35.189607+00:00",
+  "count": 63,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-17T09:12:22.330682+00:00",
+      "last_updated": "2026-09-17T12:15:35.189607+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -652,37 +652,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Bitte online anfragen! Tolle 2-Zimmer-Wohnung im 2-Familienhaus in Kleve, Jahnstr.",
-      "Cena (€)": 490.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 7.0,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/bitte-online-anfragen-tolle-2-zimmer-wohnung-im-2-familienhaus-in-kleve-jahnstr-/3496075514-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd92db54-2f96-4d64-9ad3-468352c997d8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86af13ed-6f82-4862-ba8f-2c8474fb14a3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/793d8cee-51b9-4494-b134-10b3018f5845?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/138961cc-33ab-46ee-9278-318db3736e7c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a22c066f-bfb0-4613-9226-47247435cb42?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/00c42d20-a832-4c5e-bbf1-2b3b73ca84ed?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51183d2a-82fe-4f99-82c8-90015f602592?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/40/40b416c5-e8c5-4bdc-b53f-6770c64ebe86?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eee7275c-ca84-45f6-9980-77b53815c78f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7aefb86a-36b1-44b6-a168-6c4ba6316bb4?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/634bead9-285f-4963-9fb3-fc715a7b70ca?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 600.0,
-      "Opis": "Gäste WC\n\nBitte online anfragen! BEACHTEN SIE: Der Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n* Ihr Alter\n* Sind Haustiere vorhanden, wenn ja, welche?\n* Was machen Sie beruflich?\n* Rauchen Sie?\n\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen.",
-      "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt zu vermieten",
       "Cena (€)": 499.0,
       "Pokoje": 2.0,
@@ -1064,6 +1033,68 @@
       "Czynsz z mediami (€)": null,
       "Opis": "Vorabinformation: Besichtigungen mit möglichen Käufern nach Absprache der jetzigen Mieter. Besichtigungen mit möglichen Mietern erst ab Mitte September.\n\nKaufpreis: 189000€ VB\n\nDiese charmante 2-Zimmer-Souterrainwohnung in einer der beliebtesten Wohnlagen Bocholts steckt aktuell mitten in einer kleinen Entscheidungsphase: Wird sie verkauft oder begrüßt sie ab November einen neuen Mieter?\nPlan A:\nJemand verliebt sich bis Ende September so sehr in die Wohnung, dass er sie kaufen möchte. Die Wohnung wäre darüber durchaus erfreut. Der Eigentümer übrigens auch... vorausgesetzt, der Preis sorgt bei beiden Seiten für gute Laune.\nPlan B:\nFalls sich bis Ende September kein passender Käufer findet, bleibt die Wohnung einfach, wo sie ist, und freut sich ab November 2026 auf einen neuen Mieter.\nKaltmiete: 560 € monatlich\nDa die Wohnung derzeit noch zum Verkauf angeboten wird, werden Entscheidungen über eine Neuvermietung erst im Oktober getroffen. Mietverträge können daher frühestens ab Oktober abgeschlossen werden.\nDas erwartet Sie:\n✅ Ruhige Top-Lage in Bocholt zwischen Markgrafenstraße und Adenauerallee ✅ Innenstadt bequem zu Fuß erreichbar ✅ Große Terrasse mit eigenem Gartenanteil ✅ Zusätzliche Nutzung des Gemeinschaftsgartens möglich ✅ Eigener Stellplatz direkt vor dem Haus ✅ Kellerraum mit ca. 7 m² Nutzfläche ✅ Modernes Bad mit Dusche ✅ Pflegeleichte Fliesenböden ✅ Heizungsanlage 2021 umfassend modernisiert ✅ Sämtliche Fenster und Terrassentür 2025 erneuert ✅ Bezugsfrei ab Oktober 2026, eventuell nach Absprache bereits früher\nFür Eigennutzer und Kapitalanleger interessant\nDie Wohnung ist aktuell bis Ende September vermietet und bietet anschließend maximale Flexibilität: selbst einziehen, neu vermieten oder langfristig als Kapitalanlage nutzen. Die begehrte Wohnlage und die durchgeführten Modernisierungen sorgen dabei für eine attraktive Kombination aus Wohnkomfort und Werterhalt.\nNoch ein offenes Wort\nDie Wohnung muss nicht verkauft werden. Sie ist weder in Eile noch unter Druck. Bis Ende September wird ganz entspannt nach dem passenden Käufer gesucht. Sollte dieser nicht vorbeischauen, wird sie ab November einfach wieder vermietet.\nKurz gesagt:\nDer richtige Käufer bekommt eine schöne Wohnung.  Der richtige Mieter bekommt eine schöne Wohnung.  Nur Schnellschüsse und Dumping-Angebote haben leider schlechte Karten.\nInteresse? Dann melden Sie sich gerne. Vielleicht werden Sie Eigentümer. Vielleicht Mieter. Die Wohnung hält sich derzeit noch alle Optionen offen.\n\n---\n\nPrivatverkauf ohne Makler\nDie Wohnung wird privat verkauft. Bitte keine Kontaktaufnahme durch Makler, Vermittler oder Vertriebsunternehmen. Ein Maklerauftrag ist nicht gewünscht.\nEnergieausweis\nVerbrauchsausweis vorhanden. Endenergieverbrauch: 144,8 kWh/(m²·a), Energieeffizienzklasse E, Energieträger Gas, gültig bis 19.05.2029.\nHinweis: Die im Energieausweis angegebenen Werte wurden vor der Erneuerung sämtlicher Fenster und der Terrassentür im Jahr 2025 ermittelt. Die dadurch erzielte energetische Verbesserung ist in den ausgewiesenen Werten noch nicht berücksichtigt.",
       "PierwszyRaz": "2026-09-15T21:12:27.388477+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Schöne 2 Zimmer Wohnung in Wesel Stadtmitte",
+      "Cena (€)": 570.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "tak",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-in-wesel-stadtmitte/3515161954-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96edc5f1-18b9-4857-b253-32501efe6fcc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9aa649d-acae-4f3b-b434-bf28ac7ef2a0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36792485-b6d0-4114-9792-9484676140fa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37eff6ca-6d21-400b-aa41-5237b474659b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0c8c192-2958-41af-a046-7f424804f441?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03c9d842-bf26-4b58-87b9-7ad4214a1682?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c14ef145-3401-492e-9db0-8bcab87818ba?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/255b71e0-2a8b-4e6e-b294-8a9b42d48fba?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbaf65ef-b715-4260-b1c7-0f42ad051ec0?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 570.0,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Terrasse • Einbauküche\n\nSchöne 2 Zimmer Wohnung in der Stadmitte von Wesel, 45 qm , 2 Zimmer, Balkon, Einbauküche sollte übernommen werden, Möbel können ebenfalls übernommen werden",
+      "PierwszyRaz": "2026-09-17T12:15:35.188566+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Schöne 2 Zimmer Wohnung in Wesel Stadtmitte",
+      "Cena (€)": 570.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "tak",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-in-wesel-stadtmitte/3515161390-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96edc5f1-18b9-4857-b253-32501efe6fcc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9aa649d-acae-4f3b-b434-bf28ac7ef2a0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36792485-b6d0-4114-9792-9484676140fa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37eff6ca-6d21-400b-aa41-5237b474659b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0c8c192-2958-41af-a046-7f424804f441?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03c9d842-bf26-4b58-87b9-7ad4214a1682?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c14ef145-3401-492e-9db0-8bcab87818ba?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/255b71e0-2a8b-4e6e-b294-8a9b42d48fba?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbaf65ef-b715-4260-b1c7-0f42ad051ec0?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 570.0,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Terrasse • Einbauküche\n\nSchöne 2 Zimmer Wohnung in der Stadmitte von Wesel, 45 qm , 2 Zimmer, Balkon, Einbauküche sollte übernommen werden, Möbel können ebenfalls übernommen werden",
+      "PierwszyRaz": "2026-09-17T12:15:35.188566+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
