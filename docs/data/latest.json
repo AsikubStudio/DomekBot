@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T12:23:42.717317+00:00",
-  "count": 63,
+  "generated_at": "2026-09-17T13:25:59.499820+00:00",
+  "count": 64,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-17T12:23:42.717317+00:00",
+      "last_updated": "2026-09-17T13:25:59.499820+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -547,6 +547,37 @@
       "Czynsz z mediami (€)": 500.0,
       "Opis": "Balkon • Badewanne • Garage/Stellplatz\n\nAngeboten wird eine 2 Zimmer Dachgeschosswohnung. Die Wohnung verfügt über 1 Schlafzimmer. Zur Wohnung gehört ein Stellplatz (ist in der Miete enthalten) sowie einen Kellerraum und waschkeller. Die Wohnung wird ab dem 1.10 frei und kann somit ab dann gemietet werden. Teile der Küche können bei Bedarf übernommen werden.",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung Wesel-Ginderich",
+      "Cena (€)": 420.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "46487 Wesel",
+      "Odległość (km)": 17.0,
+      "Odległość od 's-Heerenberg (km)": 30.3,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-wesel-ginderich/3515316389-203-1868",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3babad4b-f629-45d6-9f3a-82f2008039ae?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3babad4b-f629-45d6-9f3a-82f2008039ae?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5c9634a-8ad2-4336-b0e4-20632013b4eb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/18be4470-13ae-49d2-90bc-30bd7ae922df?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3c0fbc7-bff6-4930-8bd3-ea978dbd5397?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf5c623d-cb8f-47f4-8d96-f25ab6b489ba?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39e3ef27-9c82-42b1-8851-33129616a9aa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a76a873b-7468-4a29-be6a-fa820f0eea72?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb49b12d-ee3c-4359-9c70-673befee1bd0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/1930e19d-63c4-4f67-a75e-01fd926bd999?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85363429-b173-4e67-ad35-7ce245683007?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3eaab974-c536-4799-b60f-aba941f66a70?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066ed109-d558-4eed-bdfa-162b4b7ed982?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 420.0,
+      "Opis": "Badewanne • Dachboden • Garage/Stellplatz\n\nWir vermieten diese 2 Raum Wohnung am Ortsrand von Wesel Ginderich. Über einen separaten Eingang gelangen Sie direkt in die 60 m2 große Wohnung, welche sich in der ersten Etage befindet.\n\nDie Wohnung überzeugt durch ein großes Badezimmer mit Badewanne sowie einem eigenen Stellplatz für das Auto direkt vor der Haustüre.\n\nWie auf den Fotos zu erkennen, befindet sich im Wohn- / Essbereich noch kein Fußboden. Dieser wird in Absprache mit dem zukünftigen Mieter ausgesucht und verlegt.\n\nDie Kaltmiete beträgt 420 Euro. Dazu kommt eine Nebenkostenpauschale in Höhe von 100 Euro. Diese beinhaltet keine Heizkosten. Die Wohnung besitzt einen eigenen Zähler wodurch die Heizkosten separat abgerechnet werden. Diese betragen ca. 100 Euro pro Monat - abhängig vom Heizverhalten.\n\nBei Interesse können Sie sich gerne mit einer kurzen Vorstellung melden. Selbstverständlich können auch weitere Fragen gestellt werden.",
+      "PierwszyRaz": "2026-09-17T13:25:59.498688+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
