@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T18:14:40.488425+00:00",
-  "count": 65,
+  "generated_at": "2026-09-17T18:25:53.687888+00:00",
+  "count": 67,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-17T18:14:40.488425+00:00",
+      "last_updated": "2026-09-17T18:25:53.687888+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -1323,9 +1323,20 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-kleve/3515465384-203-1125",
       "Zdjęcie": null,
-      "Zdjęcia": [],
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/346bc96c-0f0f-4a21-8d4c-4ca2e15a9e96?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/4357d129-c1fb-4e69-9c97-37e28d39231a?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/7076c422-8f7e-4358-8061-66a18d010707?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7aefb86a-36b1-44b6-a168-6c4ba6316bb4?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be95945a-8fa0-439d-ac97-afa328e09b67?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c1dcaa9-670d-4b88-8ce4-e94bf95b7626?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f2723b85-1ed4-4618-a092-59060d79e3b5?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0a4f991-502c-4cce-92e6-1c3b99f0d6bf?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4573b75-e703-4df4-a91f-d080759f94bf?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/155d825c-59cd-446e-bb46-fb41b89b41e0?rule=$_2.AUTO"
+      ],
       "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Opis": "Helle 2-Zimmer-Dachgeschosswohnung mit ca. 60 m² – sofort verfügbar.\n\nDie Wohnung verfügt über eine große Dachterrasse, Einbauküche, Badezimmer mit Dusche sowie einen großzügigen Wohnbereich.\n\nMiete: 600 € inkl. Nebenkosten, zzgl. Heizkosten.\n\nBei Interesse gerne melden. Besichtigung nach Absprache möglich.",
       "PierwszyRaz": "2026-09-17T18:14:40.487377+00:00"
     },
     {
@@ -1420,6 +1431,24 @@
       "Czynsz z mediami (€)": 800.0,
       "Opis": "Wohnung in Zentrum Wesel neu renoviert Kaltmiete 600 Nebenkosten 200",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Seniorenwohnung ab 60 Jahre in Emmerich-Elten",
+      "Cena (€)": 615.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 59.1,
+      "Lokalizacja": "46446 Emmerich am Rhein",
+      "Odległość (km)": 7.0,
+      "Odległość od 's-Heerenberg (km)": 2.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/seniorenwohnung-ab-60-jahre-in-emmerich-elten/3489443406-203-1396",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9dfd546f-6026-42f5-978a-c5ec71eae0a9?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "PierwszyRaz": "2026-09-17T18:25:53.686541+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1693,6 +1722,24 @@
       "Czynsz z mediami (€)": 650.0,
       "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nWohnungsinserat - 2-Zimmer-Wohnung in Hamminkeln\n(Mehrhoog)\n\nAb dem 01.10.2026 steht diese attraktive 2-Zimmer-Wohnung in 46499 Hamminkeln(Mehrhoog) zur Vermietung bereit.\n\nDie Wohnung bietet auf ca. 56m? Wohnfläche eine durchdachte Raumaufteilung. Ein Balkon lädt zum Entspannen ein und sorgt für zusätzlichen Wohnkomfort.\n\nZur Ausstattung gehören außerdem:\n\n* Einbauküche ohne Kühlschrank ( in der Miete enthalten)\n\n* Spanndecken im Wohnzimmer, Küche, Flur und Schlafzimmer\n\n* Waschraum & Trockenraum im Haus\n\n* Kellerraum für zusätzlichen Stauraum\n\nDie Wohnung befindet sich in einer sehr angenehmen Umgebung mit guter Anbindung und Infrastruktur.\n\nMietkonditionen:\n\n* Kaltmiete: 500€\n\n* Nebenkosten (ohne. Heizkosten): 150 € , Mieter muss Heizung separat anmelden\n\n* Warmmiete gesamt: 650 €\n\n*Stellplatz kostet 30 € zusätzlich (Bei Interesse)\n\nEs sind keine Haustiere erlaubt.\n\nBei Interesse freuen wir uns über Ihre informative Anfrage!\n\nMfG\nHerr W. Hasenkamp",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zi. Wohnung mit vorhandener Einbauküche + Gäste-WC",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 75.0,
+      "Lokalizacja": "46519 Alpen",
+      "Odległość (km)": 18.0,
+      "Odległość od 's-Heerenberg (km)": 35.3,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zi-wohnung-mit-vorhandener-einbaukueche-gaeste-wc/3500104193-203-1398",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a9f92d4-7408-4d4c-bb47-43e4ec467239?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "PierwszyRaz": "2026-09-17T18:25:53.686541+00:00"
     }
   ]
 }
