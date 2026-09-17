@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T18:25:53.687888+00:00",
+  "generated_at": "2026-09-17T21:12:30.844899+00:00",
   "count": 67,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-17T18:25:53.687888+00:00",
+      "last_updated": "2026-09-17T21:12:30.844899+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -776,6 +776,32 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "schöne Wohnung",
+      "Cena (€)": 500.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 40.0,
+      "Lokalizacja": "46509 Xanten",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 26.0,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-wohnung/3515694810-203-1403",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066ed109-d558-4eed-bdfa-162b4b7ed982?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/7066fd3a-3b0d-4a0a-ba93-7752f2246600?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f2a7671-0228-447f-af00-496775465215?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3babad4b-f629-45d6-9f3a-82f2008039ae?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Ich bitte eine schöne Wohnung für 2 Monate in xanten\nBei Interesse einfach melden",
+      "PierwszyRaz": "2026-09-17T21:12:30.843368+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Charmante 2 Zimmer Wohnung mit WBS",
       "Cena (€)": 504.0,
       "Pokoje": 2.0,
@@ -1312,6 +1338,37 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Single und Paare aufgepasst- sanierte 2 Zi.Wh ab 1.10.",
+      "Cena (€)": 600.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 51.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 12.0,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/single-und-paare-aufgepasst-sanierte-2-zi-wh-ab-1-10-/3515645975-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/32307866-3a2c-4de8-b5c0-eba13d1c614f?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/32307866-3a2c-4de8-b5c0-eba13d1c614f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97780f60-5dd8-48fe-b263-44f73d676ec6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8577578a-de7f-44ca-b70d-45ff259f5377?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0457533-f282-4c19-8acc-a68fd22783c5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c86cb69-3cf0-4125-a742-154ef6ab2a48?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c6b6389-7aca-4302-bd9a-bbeee664929c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67697665-bbfd-46a3-8d96-99343d457872?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b04becf-fb76-44f9-82e4-cfed3e0b4df1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6db57ea7-5342-4f11-8016-91dbeb06e37d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f6c833d-29d5-429c-8260-d05f15ed968e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90859d7b-5dcc-42eb-b136-c5bfcc3db51d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55bf604a-00a0-44d6-95c1-e50270206118?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 750.0,
+      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Keller\n\nDiese helle und modernisierte 2-Zimmer-Wohnung befindet sich im zweiten Obergeschoss eines 6 Parteienhauses und bietet auf 51 Quadratmetern eine zeitgemäße Wohnfläche. Die Räume sind klar strukturiert und wurden im Zuge der Sanierung auf einen aktuellen Stand gebracht. Die Wohnung ist mit hochwertigen Fliesen und hochwertigen Holzboden ausgestattet. Die Beheizung der Wohneinheit erfolgt über eine Gasheizung.\n\nEine moderne Einbauküche ist inklusive und wird mitvermietet. Waschmaschine und Trockner können im Badezimmer angeschlossen werden.\n\nEin Gemeinschaftskeller sowie ein separater Kellerraum steht zur Verfügung.\n\nHeizkosten werden über die Nebenkostenabrechnung berechnet.\nStrom muss separat durch den Mieter mit einem Versorger abgeschlossen und abgerechnet werden.\nDie Kaution beträgt 3 Monatskaltmieten, die im Voraus zu zahlen sind.\n\nDie letzten 3 Gehaltsabrechnungen sowie eine positive Schufa Auskunft sind Voraussetzung.",
+      "PierwszyRaz": "2026-09-17T21:12:30.843368+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Wohnung Kleve",
       "Cena (€)": 600.0,
       "Pokoje": 2.0,
@@ -1431,24 +1488,6 @@
       "Czynsz z mediami (€)": 800.0,
       "Opis": "Wohnung in Zentrum Wesel neu renoviert Kaltmiete 600 Nebenkosten 200",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Seniorenwohnung ab 60 Jahre in Emmerich-Elten",
-      "Cena (€)": 615.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 59.1,
-      "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 7.0,
-      "Odległość od 's-Heerenberg (km)": 2.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/seniorenwohnung-ab-60-jahre-in-emmerich-elten/3489443406-203-1396",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9dfd546f-6026-42f5-978a-c5ec71eae0a9?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "PierwszyRaz": "2026-09-17T18:25:53.686541+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1722,24 +1761,6 @@
       "Czynsz z mediami (€)": 650.0,
       "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nWohnungsinserat - 2-Zimmer-Wohnung in Hamminkeln\n(Mehrhoog)\n\nAb dem 01.10.2026 steht diese attraktive 2-Zimmer-Wohnung in 46499 Hamminkeln(Mehrhoog) zur Vermietung bereit.\n\nDie Wohnung bietet auf ca. 56m? Wohnfläche eine durchdachte Raumaufteilung. Ein Balkon lädt zum Entspannen ein und sorgt für zusätzlichen Wohnkomfort.\n\nZur Ausstattung gehören außerdem:\n\n* Einbauküche ohne Kühlschrank ( in der Miete enthalten)\n\n* Spanndecken im Wohnzimmer, Küche, Flur und Schlafzimmer\n\n* Waschraum & Trockenraum im Haus\n\n* Kellerraum für zusätzlichen Stauraum\n\nDie Wohnung befindet sich in einer sehr angenehmen Umgebung mit guter Anbindung und Infrastruktur.\n\nMietkonditionen:\n\n* Kaltmiete: 500€\n\n* Nebenkosten (ohne. Heizkosten): 150 € , Mieter muss Heizung separat anmelden\n\n* Warmmiete gesamt: 650 €\n\n*Stellplatz kostet 30 € zusätzlich (Bei Interesse)\n\nEs sind keine Haustiere erlaubt.\n\nBei Interesse freuen wir uns über Ihre informative Anfrage!\n\nMfG\nHerr W. Hasenkamp",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zi. Wohnung mit vorhandener Einbauküche + Gäste-WC",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 75.0,
-      "Lokalizacja": "46519 Alpen",
-      "Odległość (km)": 18.0,
-      "Odległość od 's-Heerenberg (km)": 35.3,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zi-wohnung-mit-vorhandener-einbaukueche-gaeste-wc/3500104193-203-1398",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a9f92d4-7408-4d4c-bb47-43e4ec467239?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "PierwszyRaz": "2026-09-17T18:25:53.686541+00:00"
     }
   ]
 }
