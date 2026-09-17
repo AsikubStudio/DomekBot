@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T13:25:59.499820+00:00",
+  "generated_at": "2026-09-17T15:13:01.666439+00:00",
   "count": 64,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-17T13:25:59.499820+00:00",
+      "last_updated": "2026-09-17T15:13:01.666439+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -601,6 +601,37 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Dachgeschosswohnung in Winnekendonk",
+      "Cena (€)": 450.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "47626 Kevelaer",
+      "Odległość (km)": 19.0,
+      "Odległość od 's-Heerenberg (km)": 31.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschosswohnung-in-winnekendonk/3513903492-203-1136",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d5ef15d-f25a-412e-838d-ce7504bfd6b4?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d5ef15d-f25a-412e-838d-ce7504bfd6b4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed9e40db-2f18-4bb0-86ee-8d3da8daf81a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/844aa934-7d89-431d-aa51-40009ef42ed5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/633d1a9f-49ca-477c-bc6a-87eab822ed2d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76e3766b-4638-4e82-926e-d9d3142db1f5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b17fae8-8f65-4902-9996-0e0090307e2f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f404a1d3-5479-463b-b5d8-359772e9f8da?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6a72d99-6864-4214-8660-7a0a5ec7a04f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce9d4b31-41a1-4c7e-b86a-02226060e836?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38bfe714-05ab-4c0e-9851-2f721c141d5c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/9644d276-f266-4018-bf52-26b74aecbf13?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c77444-f606-442f-be6e-693d47a147b6?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 450.0,
+      "Opis": "Möbliert/Teilmöbliert • Einbauküche\n\nWir suchen einen neuen netten und ruhigen Mieter/Mieterin für die Dachgeschoss in unserem Einfamilienhaus\nDie Wohnung ist geeignet für eine Person maximal Zwei und liegt ruhig im Ortsteil Winnekendonk.\n\nDie Wohnung hat circa 50 qm und verfügt über ein Bad mit Dusche, eine Wohnküche, ein Schlafzimmer , einen kleinen Flur und einen Abstellraum.\nEs besteht die Möglichkeit vom aktuellen Mieter einige Möbel zu übernehmen\nDie Küche ist Bestandteil der Wohnung\n\nDie Wohnung ist frei zum 1.11.26 kann aber nach Absprache früher übernommen werden\nBei Einzug ist eine Kaution von 450€ zu hinterlegen\n\nKeine Haustiere\nWenn Sie Interesse haben dann melden sie sich gerne via Mail und stellen sich bitte kurz vor\nWir melden uns schnellstmöglich zurück",
+      "PierwszyRaz": "2026-09-15T19:06:22.213325+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "2 Zimmer Wohnung in Bocholt zu vermieten",
       "Cena (€)": 450.0,
       "Pokoje": 2.0,
@@ -886,37 +917,6 @@
       ],
       "Czynsz z mediami (€)": 650.0,
       "Opis": "GEMÜTLICHE 2-ZIMMER-WOHNUNG IN BAHNHOFSNÄHE – MODERNES WOHNEN\n\nZur Vermietung steht eine moderne und gepflegte 2-Zimmer-Wohnung in attraktiver Lage, nur wenige Gehminuten vom Bahnhof entfernt. Die gute Anbindung an den öffentlichen Nahverkehr sowie Einkaufsmöglichkeiten und weitere Einrichtungen des täglichen Bedarfs machen die Wohnung besonders attraktiv.\n\nDie Wohnung überzeugt durch ihren modernen Stil und eine praktische Raumaufteilung. Das großzügige Wohnzimmer bietet viel Platz zum Wohnen und Entspannen. Ergänzt wird die Wohnung durch ein separates Schlafzimmer, einen Flur sowie ein Badezimmer mit Dusche und WC.\n\nVoraussetzung für die Vermietung ist ein bestehendes Arbeitsverhältnis.\n\nAusstattung:\n\n* 2 Zimmer\n* Großzügiges Wohnzimmer\n* Modernes Wohnambiente\n* Badezimmer mit Dusche und WC\n* Flur\n* Bahnhof in unmittelbarer Nähe\n\nMietkonditionen:\n\n* Grundmiete: 550 €\n* Betriebskosten: 100 €\n* Kaution: 1.650 €\n\nKontaktaufnahme ebay:\n\nKontaktaufnahme bitte ausschließlich über unsere Geschäftsmail oder die ebay Nachrichtenfunktion. Wir bitten von Anrufen abzusehen. Wir bitten um eine aussagekräftige Bewerbung. Dazu können Sie die Mieterselbstauskunft von unserer Homepage ausgefüllt an unsere Hausverwaltung zu senden. Sie finden die Mieterselbstauskunft unter kader-immobilien.de/Wohnungen-Haeuser.",
-      "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Zweizimmer DACHGESCHOSSWOHNUNG in KEVELAER-WIDO mit ATTRAKTIVER AUFTEILUNG!",
-      "Cena (€)": 550.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 69.14,
-      "Lokalizacja": "47626 Kevelaer",
-      "Odległość (km)": 20.0,
-      "Odległość od 's-Heerenberg (km)": 31.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/zweizimmer-dachgeschosswohnung-in-kevelaer-wido-mit-attraktiver-aufteilung-/3493271470-203-1136",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ecbcb57f-35a9-4005-a607-92a6dc2c21a6?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ecbcb57f-35a9-4005-a607-92a6dc2c21a6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a9628bb-5a05-45c2-97bd-4e89e0eef5f2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3564d8f3-6f8f-4ca9-ad26-6b5862f2949d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/1641b94c-6fa0-4a2c-be87-a43196389455?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f84f5b0b-4a6a-46b2-be6b-8eb2881c5fc3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7b184d2-19ad-4b0d-9f4b-d86ee913e6a6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/650ad9b3-e2ac-46ad-aa89-0aba6e0fc176?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc70bf2d-8877-42c6-95e9-3d0b422a4142?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/8104e75f-285a-4ca1-878d-126e9c222ecb?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63858bb6-45a7-4ad8-a213-fe3b9c68f558?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b33aabae-d326-4104-bbd1-ffaa1ce41b77?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1ae0d7fc-c2d0-4303-be78-ac6663823a93?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 700.0,
-      "Opis": "Badewanne • Keller\n\nNach 28 Jahren harmonischen Miteinanders hat uns unser allseits so beliebter Mieter uns leider viel, viel zu früh verlassen.\nNun wünscht sich unsere kleine, friedvolle Hausgemeinschaft wieder eine ruhige, gerne alleinstehende Person als neue/n Nachbar/in, die gut in unsere Gemeinschaft passt.\n\nDie Eckdaten zur Wohnung:\nWohnfläche knapp 70 m² mit sinnvoller, großzügiger Aufteilung.\n\nZimmer:\n2 Räume (Wohnzimmer, Schlafzimmer plus Wohnküche, Bad, Diele).\n\nAusstattung:\nEigener Kellerraum, Waschmaschinenstellplatz (auf Wunsch auch Trocknerstellplatz) im Waschkeller.\nDie Dachgeschosswohnung verfügt über KEINEN Balkon.\n\nParken:\nKostenlose, öffentliche Stellplätze direkt gegenüber auf dem großen Parkplatz.\n\nVerfügbarkeit: Ab dem 01. Oktober 2026.\n\nIhre exklusiven Vorteile als Mieter:\nSicherheit vor Eigenbedarf.\nDie Vermietung erfolgt über eine Immobilien-Stiftung.\nDa die Stiftung an einem langfristigen Mietverhältnis interessiert ist, sind Sie vor einer Eigenbedarfskündigung geschützt.\n\nPlanungssicherheit bei den Kosten:\nDie Nettokaltmiete wird im Mietvertrag für die ersten 3 Jahre festgeschrieben. Die Nebenkostenvorauszahlungen sind fair für eine Person kalkuliert – mittelfristig sind daher keine Mieterhöhungen oder hohen Nachzahlungen zu erwarten.\n\nMietvertrag: Die Mindestmietdauer beträgt 2 Jahre.\n\nAufgrund der Raumaufteilung und der Dachgeschosslage eignet sich die Wohnung ideal für eine berufstätige Einzelperson oder einen Ruheständler, der ein langfristiges und harmonisches Zuhause sucht.\n\nHaben wir Ihr Interesse geweckt?\nDann freuen wir uns auf Ihre aussagekräftige Anfrage (gerne bereits mit ein paar Worten zu Ihrer Person).\n\n# Ausstattung\nSanitärbereich:\n+ Duschkabine\n+ Badewanne\n+ Warmwasser im Bad über el. Durchlauferhitzer\n+ Stand-WC\n+ Wandspiegel mit Beleuchtung und Ablage\n+ Flügel-Wäschetrockner (ausklappbar an der Wand)\n\n+ Im Wohnzimmer Abstellraum im Kniestock, (mit automatischer Beleuchtung)\n+ Giebelfenster mit Rollladen im Wohnzimmer\n+ Giebelfenster Kunststoff, 2-fach isolierverglast\n\n+ 2-fach isolierverglaste Holz-VELUX Fenster in Bad, Küche und Schlafzimmer\n\n+ Kellerraum mit Stromanschluss (Steckdose)\n+ Waschküche\n+ Trockenraum\n+ Wäschetrockneranschluss\n+ Türsprechanlage neu in 2016\n+ TECHEM-Funkheizkostenerfassung\n+ TECHEM-Rauchwarnmelder\n+ Stahlrippenheizkörper\n\n# Weitere Angaben\n- Separate WCs: 1\n- Objektzustand: modernisiert\n\n- Hinweis zur Kaution: 3 Nettokaltmieten = 1.650,00 €\n\n- Gesamtfläche: ca. 69,14 m²\n\n# Lagebeschreibung\nDas Objekt liegt in einer sehr ruhigen, kaum befahrenen Nebenstrasse im Ortsteil Winnekendonk.\nHier bietet sich eine gute Nahversorgung im gut sortierten EDEKA-Markt, beim Bäcker, Metzger oder in den 2 Bauernläden.\nGastronomisch bietet Winnekendonk 2 Gastwirtschaften, eine Pizzeria, einen Imbiss sowie eine Eisdiele.\nFilialen der Sparkasse und der Volksbank sind auch vorhanden.\n\nHausarzt, Zahnarzt, Apotheke und Physiotherapie sind ebenfalls fußläufig zu erreichen.\n\nSportplätze und Minigolf, wie auch die nahen Felder bieten Möglichkeiten für verschiedene Sport- und Freizeitaktivitäten.\n\nDie Haltestelle vom Bürgerbus befindet sich 1 Min. entfernt, die Linien 53 & 57 bringen Sie schnell nach Kevelaer (ca. 4 km), Sonsbeck, Uedem, oder Wesel.\n\nKindergärten und Grundschule befinden sich in Winnekendonk, weiterführende Schulen in Kevelaer.Entfernungen:\nRealschule 4 km\nGymnasium 4 km\nAutobahn 5 km\nZentrum 4 km\n\n# Sonstiges\nRechtliche Hinweise:\nAuf ausdrücklichen Wunsch der Eigentümer werden Besichtigungstermine ausschließlich über das Immobilienbüro vergeben. Von einer anderweitigen Kontaktaufnahme z.B. über die Mieter ist daher ausdrücklich abzusehen.\n\nBesuchen Sie uns auf www.rheinland.immo oder laden Sie sich bequem unsere App (\"rheinland.immo\" im App-Store eingeben) auf Ihr Mobilgerät.\n\nAlle hier genannten Daten und Fakten beruhen auf Angaben der Eigentümer und dienen einer ersten Information.\nEine Gewähr für die Richtigkeit wird nicht übernommen. Auslassungen, Irrtum und Zwischenverkauf / Zwischenvermietung bleiben vorbehalten.\nDieses Angebot ist als vertraulich zu behandeln, eine Verwertung durch Dritte bedarf der schriftlichen Zustimmung der Rheinische Immobilien Kompetenz GmbH.\n\nWir bitten um Verständnis dafür, dass wir auch den Immobilieneigentümern gegenüber zu einem sorgfältigen Umgang mit sensiblen Daten verpflichtet sind und nähere Informationen nur weitergeben, wenn Sie bei Ihrer Anfrage Ihre vollständigen Kontaktdaten angeben. Vielen Dank.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: OEL\n- Endenergiebedarf: 244.6 kWh/(m²*a)\n- Gültig bis: 2029-03-19\n- Baujahr (gemäß Energieausweis): 1972\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Öl\n\nAnbieter-Objekt-ID: 26-1002-WE3",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
     {
