@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T15:12:20.478745+00:00",
-  "count": 64,
+  "generated_at": "2026-09-18T18:10:52.659399+00:00",
+  "count": 66,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-18T15:12:20.478745+00:00",
+      "last_updated": "2026-09-18T18:10:52.659399+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -794,6 +794,37 @@
       "Czynsz z mediami (€)": 614.0,
       "Opis": "Keller • Garage/Stellplatz\n\nEs handelt sich um eine 2-Zimmer-Wohnung im 1. OG eines ruhigen und gepflegten Mehrfamilienwohnhauses. In der netten Nachbarschaft werden Sie sich sicher wohl fühlen. Parkplätze sind in ausreichender Menge direkt an der Wohnanlage vorhanden.\n\nGepflegtes, niedriggeschössiges Mehrfamilienhaus aus dem Baujahr 1937. Grünes Umfeld, öffentliche Parkmöglichkeiten vor der Tür. Kleine Wohneinheit.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-153-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n- neues Bad mit Dusche und Fenster\n- neuer Laminat\n- Wände und Decken neu tapeziert und weiß gestrichen\n- Türen und Heizkörper frisch weiß lackiert\n- neues Schaltermaterial\n- neuer Fliesenspiegel in der Wohnung\n- eigener Kellerraum\n\n# Weitere Angaben\n- Verfügbar ab: 01.12.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 255 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-153-M",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung  für 1 Person, zentral, PKW-Stellplatz, modernisiert 2025",
+      "Cena (€)": 500.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 42.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 10.0,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-fuer-1-person-zentral-pkw-stellplatz-modernisiert-2025/3516474591-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29cd94ec-50eb-448b-b9c9-d41e5e362f02?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29cd94ec-50eb-448b-b9c9-d41e5e362f02?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/488308e6-186d-4863-8d1b-825a2961cb59?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2406e30-6449-45e2-8f7f-4e531207acd7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37d7996d-0814-4f2d-80bd-e3ce689581c1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8f94d29-4316-4bd0-a10d-36ddf8c43c72?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29cd94ec-50eb-448b-b9c9-d41e5e362f02?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/488308e6-186d-4863-8d1b-825a2961cb59?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2406e30-6449-45e2-8f7f-4e531207acd7?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37d7996d-0814-4f2d-80bd-e3ce689581c1?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8f94d29-4316-4bd0-a10d-36ddf8c43c72?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67194d01-7459-43c0-b3d1-f30f0dc1bc44?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Wohnung für 1 Person, ideal für Pendler.\nZentral in Kleve Oberstadt.\nNichtraucher-Wohnung, keine Haustiere.\n\nModernisiert 2025 mit neuen Fenstern, Fassadendämmung, Klimaanlage.\n\nAusstattung: Fußbodenheizung, elektronische Rollläden, kleine Einbauküche, PKW-Stellplatz.\nBad mit Badewanne.\n\nÜbernahme von Einrichtungs-Gegenständen vom Vormieter möglich.\n\nFrei ab 01.01.2027\n\n—————\nBitte nur schriftliche, aussagekräftige Anfragen\n—————",
+      "PierwszyRaz": "2026-09-18T18:10:52.658220+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1672,6 +1703,37 @@
       "Czynsz z mediami (€)": 650.0,
       "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nWohnungsinserat - 2-Zimmer-Wohnung in Hamminkeln\n(Mehrhoog)\n\nAb dem 01.10.2026 steht diese attraktive 2-Zimmer-Wohnung in 46499 Hamminkeln(Mehrhoog) zur Vermietung bereit.\n\nDie Wohnung bietet auf ca. 56m? Wohnfläche eine durchdachte Raumaufteilung. Ein Balkon lädt zum Entspannen ein und sorgt für zusätzlichen Wohnkomfort.\n\nZur Ausstattung gehören außerdem:\n\n* Einbauküche ohne Kühlschrank ( in der Miete enthalten)\n\n* Spanndecken im Wohnzimmer, Küche, Flur und Schlafzimmer\n\n* Waschraum & Trockenraum im Haus\n\n* Kellerraum für zusätzlichen Stauraum\n\nDie Wohnung befindet sich in einer sehr angenehmen Umgebung mit guter Anbindung und Infrastruktur.\n\nMietkonditionen:\n\n* Kaltmiete: 500€\n\n* Nebenkosten (ohne. Heizkosten): 150 € , Mieter muss Heizung separat anmelden\n\n* Warmmiete gesamt: 650 €\n\n*Stellplatz kostet 30 € zusätzlich (Bei Interesse)\n\nEs sind keine Haustiere erlaubt.\n\nBei Interesse freuen wir uns über Ihre informative Anfrage!\n\nMfG\nHerr W. Hasenkamp",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Erdgeschoss Wohnung, 2 Zimmer, 48qm, mit überdachter Terrasse",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46499 Hamminkeln",
+      "Odległość (km)": 14.0,
+      "Odległość od 's-Heerenberg (km)": 29.2,
+      "Łazienka": "tak",
+      "Kuchnia": "tak",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/erdgeschoss-wohnung-2-zimmer-48qm-mit-ueberdachter-terrasse/3516418396-203-1386",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d5908ed-1ce8-48eb-a216-0f528f447740?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d5908ed-1ce8-48eb-a216-0f528f447740?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd26147d-c30b-4351-af0e-0beb206a2e91?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd19585f-b91d-439c-8579-ea9bea02afbd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8533bac-ffe7-444d-887e-a431791d8508?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/132930bf-b40f-4f26-a37f-324c044f676f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13a3e772-6573-4fea-8bdf-8ff736188425?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e589593-acb6-4e76-aadc-60b55cd92112?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03c9d842-bf26-4b58-87b9-7ad4214a1682?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d14b96b-cc9c-4456-80ec-b18b2a2f461f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c87b96a4-d13d-4539-969e-88da5a892001?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44415bdb-fedd-458a-a342-6b3bfb05bb18?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Stufenloser Zugang • Garage/Stellplatz\n\n2 Zimmer Wohnung, inkl Küche, überdachter Terrasse, Tiefgaragenplatz, neues Badezimmer. Gerne Ü 50. Kaltmiete 650 Euro. Nur Einzelperson und keine Haustiere erlaubt.",
+      "PierwszyRaz": "2026-09-18T18:10:52.658220+00:00"
     }
   ]
 }
