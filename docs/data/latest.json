@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-17T21:12:30.844899+00:00",
-  "count": 67,
+  "generated_at": "2026-09-18T00:15:57.964866+00:00",
+  "count": 69,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-17T21:12:30.844899+00:00",
+      "last_updated": "2026-09-18T00:15:57.964866+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -435,6 +435,27 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "(bez tytułu)",
+      "Cena (€)": 1.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 10.0,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-naehe-saturn-zum-vermieten-/3515723666-203-1125",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f00dcb3-95d1-4e05-931b-9728bee5a2c2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca405ee0-2347-469b-9ce9-b366b8a7c98a?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 151.0,
+      "Opis": "Kurzfristig vermieten",
+      "PierwszyRaz": "2026-09-18T00:15:57.963902+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "schöne 2-Zimmer-Dachgeschoss-Wohnung in Kevelaer zu vermieten",
       "Cena (€)": 275.0,
       "Pokoje": 2.0,
@@ -516,6 +537,37 @@
       "Czynsz z mediami (€)": 520.0,
       "Opis": "Balkon • Einbauküche • Badewanne • Aufzug • Keller • WBS benötigt\n\n2ZW, 60qm, Nähe Markt in Anholt zu vermieten ab Ende des Jahres - ggf. früher\nkalt 291€ + NK 229€ = 520€/Monat, WBS erforderlich, 870€ Kaution\nIdeal für ein Rentnerehepaar\n2 Personen werden vom Amt bevorzugt – bei 1 Person ist ggf. eine Ausnahme möglich\nsehr schön renoviert u.a. mit einem hochwertigen Vinylboden,\nEinbauküche vorhanden, Abstellraum, kleiner Balkon, Bad mit Wanne + Fenster, Aufzug, Keller, Waschraum, Trockenraum.\nBei Interesse melden Sie sich bitte mit einer kurzen Vorstellung.\nDanke Ihnen",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung ab sofort verfügbar",
+      "Cena (€)": 400.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 49.0,
+      "Lokalizacja": "46459 Rees",
+      "Odległość (km)": 13.0,
+      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-ab-sofort-verfuegbar/3515742546-203-1389",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed29414a-34b3-46a1-b08c-1b4f71403569?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed29414a-34b3-46a1-b08c-1b4f71403569?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e13ab31b-40cd-4f09-ac52-bc9746d17e5f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a56134a-d9e7-4ed8-a070-27fb92577f72?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97c73082-bee1-4b23-82ab-cce91db755a9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48acbd17-7436-419a-b5f0-3d33979cfbe3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/825fc511-2516-4a87-ada8-acd94ba28780?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8ff3ca55-39ea-440c-b61b-6a838e4f8892?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d93f184f-2f97-4044-88ee-ec0eff7a06eb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/2100e24c-ba67-4dd7-8662-83dee9d01596?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9524d64-ebf8-432b-92d8-10a620a33d7b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d903a212-514c-4839-8498-4d1163c159b6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/265e7ac7-1f57-403b-8274-9733d3ed35a7?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Kontaktdaten:\n\nVSC Schneider & van der Linden Immobilienbewirtschaftung GbR\nTel: +49 2824 92608\nE-Mail: Info (add) vsc-kalkar.de\n\n1 Person: 566,89€\n2 Personen: 594,39€",
+      "PierwszyRaz": "2026-09-18T00:15:57.963902+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
