@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T09:11:54.998900+00:00",
-  "count": 67,
+  "generated_at": "2026-09-18T11:12:30.403403+00:00",
+  "count": 66,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-18T09:11:54.998900+00:00",
+      "last_updated": "2026-09-18T11:12:30.403403+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -1055,31 +1055,6 @@
       "Czynsz z mediami (€)": 700.0,
       "Opis": "Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung\n1. OG\nMit Einbauküche\nGas-Zentralheizung\nTreppenhaus- und Gartenpflege und Winterdienst extern vergeben\nDemnächst frisch renoviert",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "(bez tytułu)",
-      "Cena (€)": 560.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 68.0,
-      "Lokalizacja": "46483 Wesel",
-      "Odległość (km)": 19.0,
-      "Odległość od 's-Heerenberg (km)": 34.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietangebot/3499707920-203-1867",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d5f3527-77fd-4380-825e-32165b06815f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2205d1ce-6879-4c74-94e9-74846dbe1b6f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/980392c6-cc59-4bc6-a47b-1f92f7d83d3b?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Balkon\n\nHelle Wohnung Innenstadt",
-      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
