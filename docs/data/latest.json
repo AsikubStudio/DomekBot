@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T11:12:30.403403+00:00",
-  "count": 66,
+  "generated_at": "2026-09-18T12:14:39.130215+00:00",
+  "count": 65,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-18T11:12:30.403403+00:00",
+      "last_updated": "2026-09-18T12:14:39.130215+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -1484,34 +1484,6 @@
       "Czynsz z mediami (€)": 680.0,
       "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nDiese schön geschnittene 2-Zimmer-Wohnung mit ca. 59 m² Wohnfläche befindet sich in einer besonders attraktiven und hochwertigen Lage an der Adenauerallee in Bocholt.\n\nDie Wohnung überzeugt durch ihren durchdachten Grundriss, helle und freundliche Räume sowie eine angenehme Wohnatmosphäre. Die beiden Zimmer bieten vielfältige Möglichkeiten zur individuellen Gestaltung – ideal für Singles oder Paare, die Wert auf komfortables und ruhiges Wohnen legen.\n\nEin besonderes Highlight ist der großzügige, ruhige Balkon. Hier lässt sich wunderbar entspannen, den Tag in Ruhe ausklingen lassen oder bei einem Kaffee die angenehme Wohnlage genießen.\n\n# Ausstattung\nDie Highlights auf einen Blick:\n\nca. 59 m² Wohnfläche\n2 gut geschnittene Zimmer\nhelle, freundliche Räume\nWohnung wurde komplett neu weiß gestrichen\nNeuer hochwertiger Vinylboden\nWohnung wird in renoviertem Zustand vermietet. Keine Kosten für Mieter bei Einzug\ngroßzügiger und ruhiger Balkon\nhochwertige und gefragte Wohnlage an der Adenauerallee\neigener Kellerraum\nangenehme und ruhige Wohnatmosphäre, nettes Miteinander im Haus\ngerne langfristig zu vermieten\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.11.2026\n- Objektzustand: saniert\n- Qualität der Ausstattung: Gehoben\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDie Wohnung liegt in Bocholt Am Hasenkamp 2a. Einkaufsmöglichkeiten, alltägliche Besorgungen sowie verschiedene Wege des täglichen Lebens sind gut erreichbar. Durch die Lage in Bocholt profitieren Sie zudem von einer gewachsenen Infrastruktur und den kurzen Wegen innerhalb der Stadt sowie in die umliegenden Bereiche.\n\n# Sonstiges\nDie Wohnung ist ab dem 1. November 2026 verfügbar. Die Kaltmiete beträgt 620 EUR, zuzüglich 60 EUR Nebenkosten, sodass sich eine Gesamtmiete von 680 EUR pro Monat ergibt. Ein Außen-Stellplatz steht für 40 Euro im Monat zur Verfügung. Durch die Kombination aus Balkon, eingebauter Küche und Keller bietet die Wohnung praktischen Wohnkomfort im Alltag.\n\nWir freuen uns auf sympathische und zuverlässige Mieter, die sich hier langfristig wohlfühlen möchten.\n\n# Energie\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 211565",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Wohnung, Nachmieter gesucht",
-      "Cena (€)": 625.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 69.0,
-      "Lokalizacja": "46485 Wesel",
-      "Odległość (km)": 20.0,
-      "Odległość od 's-Heerenberg (km)": 36.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-nachmieter-gesucht/3483718645-203-1866",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/731bcb57-b3af-4992-b274-a3ffea66cd62?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1805975a-cb7d-452c-94c2-25f27f7e6585?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/4759b88d-98c7-42bb-9265-f06c73ad0404?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acb4b9c0-b890-45e0-98f6-3e65f1c95c8a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fc38898-6699-4639-a0d8-148281abbd83?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0e325d8-2dca-4ef3-b2cb-f816ee28ee77?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7969a729-b8a5-4f12-b369-c1d54c612561?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Nachmieter für schöne 69 m² Wohnung in Wesel gesucht\n\nIch suche einen Nachmieter für meine ca. 69 m² große Wohnung in Wesel.\n\nDie Kaltmiete beträgt 625 € (zzgl. Nebenkosten). Die Wohnung eignet sich ideal für Singles oder Paare.\n\nEin besonderes Highlight ist der große Balkon mit einem schönen Blick ins Grüne – perfekt zum Entspannen. Die Wohnung liegt in einer ruhigen Wohngegend. Sie befindet sich zwar nicht direkt im Stadtzentrum, ist aber dennoch gut angebunden. Den Bahnhof erreicht man in etwa 5–10 Minuten zu Fuß. Ich persönlich finde die Lage sehr angenehm, da sie eher ruhig ist und nicht von starkem Verkehrslärm geprägt wird.\n\nDie Wohnung verfügt über:\n\t•\teine Diele\n\t•\teine große Küche\n\t•\tein Schlafzimmer\n\t•\tein großes Wohnzimmer mit großem Panoramafenster\n\t•\tein Badezimmer mit Badewanne, WC und Waschmaschinenanschluss\n\nFür die Wohnung wird ein Nachmieter gesucht, der das vorhandene Inventar vollständig übernimmt.\n\nDer Übernahmepreis beträgt 2.800 € und beinhaltet die Einbauküche, das Wohnzimmer sowie das Schlafzimmer.\n\nPersönliche Gegenstände sind selbstverständlich von der Übernahme ausgeschlossen.\n\nEine komplette Übernahme des Inventars ist Voraussetzung. Eine teilweise Übernahme einzelner Möbel oder Gegenstände ist leider nicht möglich.\n\nBei Interesse freue ich mich über eine kurze Nachricht mit ein paar Informationen zu Ihrer Person.\n\nViele Grüße",
-      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
