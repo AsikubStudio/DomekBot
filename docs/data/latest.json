@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T03:12:21.857089+00:00",
-  "count": 69,
+  "generated_at": "2026-09-18T06:15:12.245491+00:00",
+  "count": 68,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-18T03:12:21.857089+00:00",
+      "last_updated": "2026-09-18T06:15:12.245491+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -1024,37 +1024,6 @@
       "Czynsz z mediami (€)": null,
       "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche\n\nKleine,\nmöblierte Wohnung zentral in Kevelaer, Preis zuzüglich Nebenkosten.\n\nBeantwortet werden nur vollständige Bewerbungen",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Single Wohnung 38 m in Xanten Wardt",
-      "Cena (€)": 560.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 38.0,
-      "Lokalizacja": "46509 Xanten",
-      "Odległość (km)": 20.0,
-      "Odległość od 's-Heerenberg (km)": 26.0,
-      "Łazienka": "tak",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/single-wohnung-38-m-in-xanten-wardt/3507825876-203-1403",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/019726a4-2ee4-4945-bf19-395446202316?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/019726a4-2ee4-4945-bf19-395446202316?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/787eb0b9-c47b-459d-8c7a-87cc078fd196?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d6172b2-1a03-4fb0-b51d-5fd24e535c20?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/71f2eb17-d90b-4cbb-acb9-d14f92790c59?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11861fe4-ccd5-46c1-9019-88e40eb413a4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a28eab28-1538-4410-a0c1-accfb6bf98e4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/019726a4-2ee4-4945-bf19-395446202316?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/787eb0b9-c47b-459d-8c7a-87cc078fd196?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d6172b2-1a03-4fb0-b51d-5fd24e535c20?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/71f2eb17-d90b-4cbb-acb9-d14f92790c59?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11861fe4-ccd5-46c1-9019-88e40eb413a4?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a28eab28-1538-4410-a0c1-accfb6bf98e4?rule=$_1.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "2 Zimmer Bad Diele Abstellraum Terrasse\nStellplatz\nKeine Haustiere",
-      "PierwszyRaz": "2026-09-17T18:14:40.487377+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
