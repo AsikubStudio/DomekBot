@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-18T12:14:39.130215+00:00",
-  "count": 65,
+  "generated_at": "2026-09-18T15:12:20.478745+00:00",
+  "count": 64,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-18T12:14:39.130215+00:00",
+      "last_updated": "2026-09-18T15:12:20.478745+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -794,32 +794,6 @@
       "Czynsz z mediami (€)": 614.0,
       "Opis": "Keller • Garage/Stellplatz\n\nEs handelt sich um eine 2-Zimmer-Wohnung im 1. OG eines ruhigen und gepflegten Mehrfamilienwohnhauses. In der netten Nachbarschaft werden Sie sich sicher wohl fühlen. Parkplätze sind in ausreichender Menge direkt an der Wohnanlage vorhanden.\n\nGepflegtes, niedriggeschössiges Mehrfamilienhaus aus dem Baujahr 1937. Grünes Umfeld, öffentliche Parkmöglichkeiten vor der Tür. Kleine Wohneinheit.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-153-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n- neues Bad mit Dusche und Fenster\n- neuer Laminat\n- Wände und Decken neu tapeziert und weiß gestrichen\n- Türen und Heizkörper frisch weiß lackiert\n- neues Schaltermaterial\n- neuer Fliesenspiegel in der Wohnung\n- eigener Kellerraum\n\n# Weitere Angaben\n- Verfügbar ab: 01.12.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 255 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-153-M",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "schöne Wohnung",
-      "Cena (€)": 500.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 40.0,
-      "Lokalizacja": "46509 Xanten",
-      "Odległość (km)": 20.0,
-      "Odległość od 's-Heerenberg (km)": 26.0,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-wohnung/3515694810-203-1403",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/066ed109-d558-4eed-bdfa-162b4b7ed982?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/7066fd3a-3b0d-4a0a-ba93-7752f2246600?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f2a7671-0228-447f-af00-496775465215?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3babad4b-f629-45d6-9f3a-82f2008039ae?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Ich bitte eine schöne Wohnung für 2 Monate in xanten\nBei Interesse einfach melden",
-      "PierwszyRaz": "2026-09-17T21:12:30.843368+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
