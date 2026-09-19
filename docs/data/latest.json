@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T11:35:18.844426+00:00",
+  "generated_at": "2026-09-19T12:14:07.105298+00:00",
   "count": 67,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-19T11:35:18.844426+00:00",
+      "last_updated": "2026-09-19T12:14:07.105298+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -1345,7 +1345,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-kleve/3515465384-203-1125",
-      "Zdjęcie": null,
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8f9b120-a532-49b6-857f-24754f0779fd?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/346bc96c-0f0f-4a21-8d4c-4ca2e15a9e96?rule=$_2.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/4357d129-c1fb-4e69-9c97-37e28d39231a?rule=$_2.AUTO",
