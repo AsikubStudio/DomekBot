@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T15:11:04.418767+00:00",
-  "count": 67,
+  "generated_at": "2026-09-19T18:12:45.719782+00:00",
+  "count": 66,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-19T15:11:04.418767+00:00",
+      "last_updated": "2026-09-19T18:12:45.719782+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -731,6 +731,37 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Altbauwohnung zu vermieten",
+      "Cena (€)": 480.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 68.0,
+      "Lokalizacja": "46485 Wesel",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 36.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/altbauwohnung-zu-vermieten/3517450832-203-1866",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dee77ae1-ad7c-466c-9054-3a7a5066047e?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dee77ae1-ad7c-466c-9054-3a7a5066047e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88ccb1bb-f4b2-4e6e-b07d-7a22af867401?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb042a40-5a6e-4520-810a-a45221944314?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44b8189c-ce42-497d-b276-5dadd52b9b27?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/134ff887-dba6-447a-ab15-66579fc4ecad?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22b8c18c-f6bd-4eac-a746-71d4f99f699c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7877c86e-1d81-42df-959e-e5eaf5db888a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33fa8fb8-9e90-4fa5-9772-b1717846be5d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8f0ccb0-eb4e-445d-8bd4-82a825fccaa8?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1ceb9757-179c-4e5d-a973-fca84b57a407?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/7066fd3a-3b0d-4a0a-ba93-7752f2246600?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3eaab974-c536-4799-b60f-aba941f66a70?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 730.0,
+      "Opis": "Badewanne • Altbau • Keller • Garage/Stellplatz • Haustiere erlaubt\n\nEinen schönen Altbauwohnung zum vermieten, Teils mit hohe Decken .Einen Stellplatz auf den Hof.\nIn die Nähe von Bahnhof.",
+      "PierwszyRaz": "2026-09-19T18:12:45.718179+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Helle 2-Zimmer-Wohnung mit großem Balkon und Aufzug in Bocholt",
       "Cena (€)": 480.0,
       "Pokoje": 2.0,
@@ -821,37 +852,6 @@
       "Czynsz z mediami (€)": 614.0,
       "Opis": "Keller • Garage/Stellplatz\n\nEs handelt sich um eine 2-Zimmer-Wohnung im 1. OG eines ruhigen und gepflegten Mehrfamilienwohnhauses. In der netten Nachbarschaft werden Sie sich sicher wohl fühlen. Parkplätze sind in ausreichender Menge direkt an der Wohnanlage vorhanden.\n\nGepflegtes, niedriggeschössiges Mehrfamilienhaus aus dem Baujahr 1937. Grünes Umfeld, öffentliche Parkmöglichkeiten vor der Tür. Kleine Wohneinheit.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-153-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n- neues Bad mit Dusche und Fenster\n- neuer Laminat\n- Wände und Decken neu tapeziert und weiß gestrichen\n- Türen und Heizkörper frisch weiß lackiert\n- neues Schaltermaterial\n- neuer Fliesenspiegel in der Wohnung\n- eigener Kellerraum\n\n# Weitere Angaben\n- Verfügbar ab: 01.12.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 255 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-153-M",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung  für 1 Person, zentral, PKW-Stellplatz, modernisiert 2025",
-      "Cena (€)": 500.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 42.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 10.0,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-fuer-1-person-zentral-pkw-stellplatz-modernisiert-2025/3516474591-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29cd94ec-50eb-448b-b9c9-d41e5e362f02?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29cd94ec-50eb-448b-b9c9-d41e5e362f02?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/488308e6-186d-4863-8d1b-825a2961cb59?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2406e30-6449-45e2-8f7f-4e531207acd7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37d7996d-0814-4f2d-80bd-e3ce689581c1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8f94d29-4316-4bd0-a10d-36ddf8c43c72?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29cd94ec-50eb-448b-b9c9-d41e5e362f02?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/488308e6-186d-4863-8d1b-825a2961cb59?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2406e30-6449-45e2-8f7f-4e531207acd7?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37d7996d-0814-4f2d-80bd-e3ce689581c1?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8f94d29-4316-4bd0-a10d-36ddf8c43c72?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67194d01-7459-43c0-b3d1-f30f0dc1bc44?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Wohnung für 1 Person, ideal für Pendler.\nZentral in Kleve Oberstadt.\nNichtraucher-Wohnung, keine Haustiere.\n\nModernisiert 2025 mit neuen Fenstern, Fassadendämmung, Klimaanlage.\n\nAusstattung: Fußbodenheizung, elektronische Rollläden, kleine Einbauküche, PKW-Stellplatz.\nBad mit Badewanne.\n\nÜbernahme von Einrichtungs-Gegenständen vom Vormieter möglich.\n\nFrei ab 01.01.2027\n\n—————\nBitte nur schriftliche, aussagekräftige Anfragen\n—————",
-      "PierwszyRaz": "2026-09-18T18:10:52.658220+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1547,37 +1547,6 @@
       "Czynsz z mediami (€)": 784.0,
       "Opis": "Keller • Garage/Stellplatz\n\nDiese gepflegte Souterrainwohnung in Hamminkeln bietet auf ca. 57 m² Wohnfläche eine gut durchdachte Raumaufteilung und eignet sich ideal für Singles oder Paare, die eine solide Mietwohnung in angenehmer Wohnlage suchen.\n\nDie Wohnung befindet sich in einem im Jahr 1990 erbauten, unterkellerten Mehrfamilienhaus mit insgesamt drei Etagen. Sie verfügt über zwei Zimmer, darunter ein Schlafzimmer, ein Badezimmer sowie einen Wohnbereich mit angenehmer Größe. Ergänzt wird das Raumangebot durch einen praktischen Abstellraum innerhalb der Wohnung sowie einen separaten Kellerraum, der zusätzlichen Stauraum bietet. Die Ausstattung ist zweckmäßig und entspricht einer normalen Ausstattungsqualität.\n\nIm Jahr 2023 wurde die Wohnung renoviert und umgebaut. Dadurch präsentiert sie sich heute in einem zeitgemäßen, gepflegten Zustand und bietet ein ansprechendes Wohnumfeld für Mieter, die Wert auf eine praktische und zugleich wohnliche Gestaltung legen.\n\nEin Stellplatz gehört ebenfalls zur Wohnung und rundet das Angebot komfortabel ab. Die Immobilie ist ab dem 01.12.2026 verfügbar und stellt eine attraktive Mietmöglichkeit für alle dar, die eine gut aufgeteilte Wohnung in Hamminkeln suchen.\n\n# Ausstattung\n- 2 Zimmer\n-> 1 Wohn-/Essbereich mit offener Küche\n-> 1 Schlafzimmer\n- Abstellraum\n- Kellerraum\n- 1 Badezimmer\n- 1 Stellplatz\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.12.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Garagen/Stellplatzmiete: 25,00 €\n\n# Lagebeschreibung\nDie angebotene Souterrainwohnung befindet sich in einer ruhigen, gewachsenen Wohnlage von Hamminkeln-Dingden. Das Umfeld ist geprägt von gepflegter Wohnbebauung und einer angenehmen Nachbarschaft, wodurch sich ein entspanntes und zugleich alltagstaugliches Wohnumfeld ergibt.\n\nEinkaufsmöglichkeiten für den täglichen Bedarf, ärztliche Versorgung sowie weitere Dienstleister sind in der näheren Umgebung erreichbar. Darüber hinaus bietet Hamminkeln ein familienfreundliches Angebot an Kindergärten und Schulen sowie vielfältige Freizeitmöglichkeiten im Grünen, die zu Spaziergängen, Radtouren und Erholung einladen.\n\nDie Verkehrsanbindung ist als vorteilhaft zu bewerten: Über die regionalen Straßenverbindungen lassen sich umliegende Ortsteile und benachbarte Städte zügig erreichen. Auch der öffentliche Nahverkehr steht in der Umgebung zur Verfügung und ermöglicht eine flexible Mobilität im Alltag.\n\n# Sonstiges\nHaftungsausschluss für inhaltliche Richtigkeit übermittelter Daten: Der Makler weist darauf hin, dass für die inhaltliche Richtigkeit der übermittelten Daten des oben genannten Objektes nicht gehaftet werden kann, da er diese vom Eigentümer lediglich zur Verfügung gestellt bekommen hat.\n\nUnsere Angebote sind freibleibend. Zwischenverkauf oder -vermietung, Irrtum und Auslassungen bleiben vorbehalten. Mit dieser Immobilienanfrage erklärt sich der Interessent einverstanden, dass die Butzke & Schroer Real Invest GmbH Ihn bzgl. dieses und weiterer Angebote telefonisch, schriftlich oder per E-Mail-Kontakt erfasst und informiert.\n\nBitte richten Sie Ihre Anfrage an:\n\ninfo@bs-realinvest.de\n\nWir bitten um Ihr Verständnis, dass wir die vollständigen Angaben zur Immobilie nur übermitteln können, wenn uns alle Kontaktdaten des Interessenten (Postanschrift, Telefon, E-Mail-Adresse) vorliegen.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: GAS\n- Energieverbrauch: 83.2 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Gültig bis: 2036-07-26\n- Baujahr (gemäß Energieausweis): 1990\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2026-1245",
       "PierwszyRaz": "2026-09-15T09:14:10.844317+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer, Küche, Diele, Bad, großer Balkon",
-      "Cena (€)": 630.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 75.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 11.0,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-kueche-diele-bad-grosser-balkon/3514149022-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/5759c043-2a5b-4df0-aa9d-56f5e5b73267?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/5759c043-2a5b-4df0-aa9d-56f5e5b73267?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d2dd357e-b384-4df6-845c-9e2bf99108ba?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ece8fa7-3ad6-4cf3-8496-0c2d0da6bd4a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65bd6286-4ff6-44c4-b834-e20aa02e4ee1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fab31c67-e5d3-4a41-bfe9-83819f69cc36?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/57b87f17-d7b3-47cf-8026-74aacb4606f6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99d0b2bd-c916-43c2-b638-14b7b852c118?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1db48d90-2df5-423c-893c-76a48fb94241?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f52fe31-3616-4dcc-9ac5-caadbcc8807f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82df7fc6-45bc-4fb9-880d-13221b6f317a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d05ac22-45bf-4c8b-a20e-cc3b3c8fd08b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07b650de-3359-4453-a935-df9525dd1030?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Wärmepumpe, niedrige Heizkosten, 50- 60 €\nan Paar zu vermieten, Mindestmietdauer 3 Jahre\nerforderlich: Schufa, Einkommen Nachweis, PH, Telefon017699247393\nKüche kann vom jetzigen Mieter abgekauft werden",
-      "PierwszyRaz": "2026-09-16T09:12:24.323383+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
