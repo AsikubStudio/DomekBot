@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T19:45:04.109553+00:00",
+  "generated_at": "2026-09-19T20:23:42.876091+00:00",
   "count": 66,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-19T19:45:04.109553+00:00",
+      "last_updated": "2026-09-19T20:23:42.876091+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -603,7 +603,7 @@
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 60.0,
       "Lokalizacja": "46487 Wesel",
-      "Odległość (km)": 17.0,
+      "Odległość (km)": 16.0,
       "Odległość od 's-Heerenberg (km)": 30.3,
       "Łazienka": "?",
       "Kuchnia": "?",
