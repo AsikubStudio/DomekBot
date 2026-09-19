@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-19T12:14:07.105298+00:00",
+  "generated_at": "2026-09-19T13:21:49.802737+00:00",
   "count": 67,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-19T12:14:07.105298+00:00",
+      "last_updated": "2026-09-19T13:21:49.802737+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -1245,6 +1245,37 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Wohnung in Rheinberg Borth",
+      "Cena (€)": 590.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "47495 Rheinberg",
+      "Odległość (km)": 20.0,
+      "Odległość od 's-Heerenberg (km)": 43.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-rheinberg-borth/3517120566-203-1399",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db1c81d1-a0cb-456c-9f30-f841c4e70584?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db1c81d1-a0cb-456c-9f30-f841c4e70584?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/caac5a30-e195-4f5a-b058-4a52815e5efc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc7f0a2e-3033-4bee-8b18-74f2e62c0bbc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1af0d67f-0e26-4cc4-bc6b-a204fa45c8c1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/285b9e1f-2b33-4f26-8ed7-b3481ccf6a8c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b86e6959-92d5-49bb-99fa-4c2179f52502?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c221c098-e1fe-42fe-b82b-e938b7a15396?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e2abd4b-8076-4b8d-8028-b190da195bba?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b60dea2e-81f8-459b-bd1e-be3a3c7aef8d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4127f13-a64c-42f1-8e67-27554d1cc544?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/270e358a-df06-4c80-b8fc-96d248db52b9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fb6ee68-fdc0-4872-a8d7-db8e7c90580e?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 590.0,
+      "Opis": "Balkon • Einbauküche • Keller • Haustiere erlaubt\n\nWir suchen einen Nachmieter für unsere Wohnung in Rheinberg Borth.\n\nDie Wohnung kann zum 01.12.26 bezogen werden.\n\nAngaben zur Miete, Nebenkosten etc. können leicht abweichen und müssen nochmals mit der Vermieterin besprochen werden.\n\nDie Küche gehört zur Wohnung bis auf der große Kühlschrank. Ein normaler Kühlschrank ist aber in der Küche vorhanden, genauso wie alle Elektrogeräte.\n\nEinige Möbel könnten bei Bedarf übernommen werden.",
+      "PierwszyRaz": "2026-09-19T13:21:49.801801+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "2 Zimmer Wohnung Sonsbeck 1. OG",
       "Cena (€)": 590.0,
       "Pokoje": 2.0,
@@ -1454,37 +1485,6 @@
       "Czynsz z mediami (€)": 800.0,
       "Opis": "Wohnung in Zentrum Wesel neu renoviert Kaltmiete 600 Nebenkosten 200",
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Souterrainwohnung ab 01.11. zu vermieten",
-      "Cena (€)": 620.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 70.0,
-      "Lokalizacja": "46459 Rees",
-      "Odległość (km)": 20.0,
-      "Odległość od 's-Heerenberg (km)": 16.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/souterrainwohnung-ab-01-11-zu-vermieten/3505304889-203-1389",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee79755-46d5-413f-9b85-d6e51659a1e1?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee79755-46d5-413f-9b85-d6e51659a1e1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b376621f-5912-48eb-b9d5-9648ef2823e5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0d1640c-6a31-474b-b9f9-d6300d86478a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82a2ed95-52a2-4564-9113-2333fe3f067d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f936720-ec54-43da-953f-4517e0f5e33f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ac6b133-2926-43be-950b-d5c3acd6b329?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da2293f6-9906-40b7-b2a9-d30c82ded0af?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/115521aa-12d5-40ef-908f-8fa2a545324d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/4422f418-30f5-4523-9b85-19bf57977a58?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e4314f0-1757-4e8f-8a8e-8bacbeb57296?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e930b5e4-fc9f-4449-b935-b2012028eacc?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c54ca0e6-40d7-4d2e-b5a8-e257a7d1aabe?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 620.0,
-      "Opis": "Einbauküche • Haustiere erlaubt\n\nAb dem 01.11.2026 wird eine gemütliche Souterrainwohnung mit ca. 70 m² Wohnfläche frei.\n\nDie Wohnung verfügt über eine Einbauküche, die bereits Bestandteil der Wohnung ist. Direkt an die Küche grenzt ein kleiner Hauswirtschaftsraum, der zusätzlichen Stauraum und Platz bietet.\nDas Badezimmer ist sehr neuwertig und modern ausgestattet.\n\nDie Wohnung eignet sich aufgrund der Aufteilung ideal für eine Einzelperson und ist nicht für Paare oder Familien geeignet.\n\nEckdaten:\n\n* ca. 70 m² Wohnfläche\n* Souterrainwohnung / Kellerwohnung\n* frei ab 01.11.2026\n* für 1 Person\n* Einbauküche vorhanden\n* kleiner Hauswirtschaftsraum an der Küche\n* neuwertiges Badezimmer\n* kleinere Haustiere nach Absprache erlaubt\n* Warmmiete: 620 €\n* befindet sich in Rees/Mehr\n\nMögliche Übernahme von Möbeln:\nDer vorhandene Kleiderschrank und die Couch (ohne Mängel) würde sehr gerne gegen eine entsprechende Ablöse in der Wohnung bleiben.\n\nBei Interesse bitten wir um eine kurze Vorstellung, damit wir uns vorab einen groben Eindruck machen können. Bitte gebt dabei nach Möglichkeit folgende Informationen an:\n\n* Alter\n* Beruf / Beschäftigungsverhältnis\n* monatliches Nettoeinkommen\n\nBei Interesse oder weiteren Fragen gerne einfach eine Nachricht schreiben.",
-      "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
