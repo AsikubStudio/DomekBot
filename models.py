@@ -41,6 +41,12 @@ class Listing:
     # (wtedy filtr i tak zadziałał, tylko na zapasowym kryterium - dystans_km).
     drive_minutes: Optional[int] = None
 
+    # Oferty pracy w pobliżu TEJ konkretnej oferty (nie wokół Emmerich) - wypełniane
+    # w main.py PO apply_all_filters(), przez jobs.py::search_jobs_near(location_text).
+    # Puste jeśli JOB_SEARCH_ENABLED=False, brak lokalizacji, albo Bundesagentur API
+    # zawiodło - front-end (docs/index.html) po prostu nie pokazuje wtedy dropdownu.
+    nearby_jobs: List[dict] = field(default_factory=list)
+
     def as_row(self) -> dict:
         return {
             "Portal": self.source,
@@ -59,6 +65,7 @@ class Listing:
             "Zdjęcia": self.images,
             "Czynsz z mediami (€)": self.warm_rent_eur,
             "Opis": self.full_description,
+            "OfertyPracy": self.nearby_jobs,
         }
 
     @staticmethod

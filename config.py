@@ -142,3 +142,42 @@ MAX_WARM_RENT_EUR = 800
 # Jeśli oferta MA znaną powierzchnię i jest <= tej wartości - odrzuć.
 # Brak danych o powierzchni (None) - NIE odrzucaj, zostaw ofertę.
 MIN_SIZE_SQM = 30
+
+# --- Oferty pracy w pobliżu ZNALEZIONYCH mieszkań (Bundesagentur für Arbeit) ---
+# WAŻNE: to NIE jest osobny, stały harmonogram wyszukiwania - patrz jobs.py i
+# main.py. Szukamy pracy TYLKO w promieniu od lokalizacji ofert mieszkań, które
+# już przeszły wszystkie inne filtry (apply_all_filters()) - nie wokół Emmerich
+# ogólnie. Wyniki pokazują się jako dropdown "Praca w pobliżu" w modalu danej
+# oferty na stronie (docs/index.html), BEZ osobnych powiadomień Telegram/Push -
+# tylko do przeglądania.
+# API jest darmowe i publiczne (reverse-engineered z oficjalnej apki mobilnej
+# Bundesagentur für Arbeit, ale stabilne, szeroko używane) - nie wymaga
+# zakładania konta ani własnego klucza, patrz jobs.py.
+JOB_SEARCH_ENABLED = True
+JOB_SEARCH_RADIUS_KM = 30   # promień wokół KAŻDEJ oferty mieszkania (nie Emmerich)
+JOB_SEARCH_EMPLOYMENT_TYPES = ["vz", "tz"]   # vz=pełny etat, tz=część etatu (kody Bundesagentur)
+JOB_SEARCH_MAX_RESULTS_PER_KEYWORD = 10      # limit wyników na słowo kluczowe - dropdown ma być czytelny, nie zalany
+
+# Słowa kluczowe dopasowane pod konkretny profil (przekazany przez użytkownika):
+# brak wymaganego niemieckiego jako priorytet (angielski płynny, polski ojczysty),
+# prawo jazdy kat. B, lubi zwierzęta, technikum graficzne, pakiety Office,
+# podstawy Blendera, zainteresowania pieniądze/firmy/e-commerce/modeling 3D,
+# 21 lat, najlepiej bez wymaganego doświadczenia.
+# UWAGA: Bundesagentur NIE MA filtra "bez wymaganego niemieckiego" ani "bez
+# doświadczenia" - to tylko dobór BRANŻ, gdzie taka oferta jest statystycznie
+# bardziej prawdopodobna (magazyny/logistyka i e-commerce w regionie przygranicznym
+# z Holandią często biorą bez niemieckiego; "Quereinsteiger" to niemiecki termin
+# na "bez wymaganego doświadczenia/przebranżowienie"), NIE gwarancja - wyniki
+# trzeba i tak przejrzeć ręcznie.
+JOB_SEARCH_KEYWORDS = [
+    "Lagerhelfer",
+    "Kommissionierer",
+    "E-Commerce",
+    "Kundenservice",
+    "Grafikdesign",
+    "Mediengestalter",
+    "3D Visualisierung",
+    "Quereinsteiger",
+    "Tierpfleger",
+    "Fahrer",
+]

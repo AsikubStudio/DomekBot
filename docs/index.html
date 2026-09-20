@@ -303,6 +303,13 @@
   .translate-btn:hover { background: var(--accent-soft); }
   .translate-btn:disabled { opacity: 0.6; cursor: default; }
   .modal-description-translated { border-top: 1px dashed var(--border); padding-top: 10px; }
+  .modal-jobs-list { margin-top: 10px; display: flex; flex-direction: column; gap: 8px; }
+  .job-item { padding: 8px 10px; border: 1px solid var(--border); border-radius: 10px; background: var(--bg-raised); }
+  .job-item-title { font-size: 13.5px; font-weight: 600; color: var(--ink); }
+  .job-item-meta { font-size: 12.5px; color: var(--ink-soft); margin-top: 2px; }
+  .job-item-link { font-size: 12.5px; color: var(--accent-ink); text-decoration: none; }
+  .job-item-link:hover { text-decoration: underline; }
+  .modal-jobs-empty { font-size: 13px; color: var(--ink-soft); margin-top: 10px; }
   .modal-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 12px; padding-top: 14px; border-top: 1px solid var(--border); }
   .notify-row { margin-top: 12px; }
   .notify-btn {
@@ -412,6 +419,10 @@
         <button class="translate-btn" id="translateDescBtn" type="button" style="display:none;">Przetłumacz na polski</button>
         <div class="modal-description-text modal-description-translated" id="modalDescriptionTranslated" style="display:none;"></div>
       </details>
+      <details class="modal-description modal-jobs" id="modalJobsDetails" hidden>
+        <summary id="modalJobsSummary">Praca w pobliżu</summary>
+        <div class="modal-jobs-list" id="modalJobsList"></div>
+      </details>
       <div class="modal-footer">
         <div style="display:flex; align-items:center; gap:10px;">
           <span class="badge" id="modalBadge"></span>
@@ -481,6 +492,7 @@
       distance: row['Odległość (km)'],
       driveMinutes: row['Czas dojazdu (min)'] ?? null,
       distanceSheerenberg: row["Odległość od 's-Heerenberg (km)"] ?? null,
+      nearbyJobs: Array.isArray(row['OfertyPracy']) ? row['OfertyPracy'] : [],
       bathroom: row['Łazienka'],
       kitchen: row['Kuchnia'],
       location: row['Lokalizacja'],
@@ -814,6 +826,9 @@
   const modalDescriptionDetails = document.getElementById('modalDescriptionDetails');
   const modalDescriptionText = document.getElementById('modalDescriptionText');
   const translateDescBtn = document.getElementById('translateDescBtn');
+  const modalJobsDetails = document.getElementById('modalJobsDetails');
+  const modalJobsSummary = document.getElementById('modalJobsSummary');
+  const modalJobsList = document.getElementById('modalJobsList');
   const modalDescriptionTranslated = document.getElementById('modalDescriptionTranslated');
   const modalBadge = document.getElementById('modalBadge');
   const modalSheerenberg = document.getElementById('modalSheerenberg');
@@ -1049,6 +1064,29 @@
     } else {
       modalDescriptionDetails.hidden = true;
       translateDescBtn.style.display = 'none';
+    }
+
+    const nearbyJobs = Array.isArray(l.nearbyJobs) ? l.nearbyJobs : [];
+    if (nearbyJobs.length > 0) {
+      modalJobsDetails.hidden = false;
+      modalJobsDetails.open = false;
+      modalJobsSummary.textContent = `Praca w pobliżu (${nearbyJobs.length})`;
+      modalJobsList.innerHTML = nearbyJobs.map(job => {
+        const tytul = escapeHtml(job.titel || '(bez tytułu)');
+        const pracodawca = escapeHtml(job.pracodawca || '?');
+        const miejscowosc = job.miejscowosc ? ` · ${escapeHtml(job.miejscowosc)}` : '';
+        const link = job.link || '#';
+        return `
+          <div class="job-item">
+            <div class="job-item-title">${tytul}</div>
+            <div class="job-item-meta">${pracodawca}${miejscowosc}</div>
+            <a class="job-item-link" href="${escapeHtml(link)}" target="_blank" rel="noopener">Zobacz ofertę →</a>
+          </div>
+        `;
+      }).join('');
+    } else {
+      modalJobsDetails.hidden = true;
+      modalJobsList.innerHTML = '';
     }
 
     modalBadge.textContent = l.source;

@@ -19,6 +19,7 @@ import sys
 from datetime import datetime
 
 import config
+import jobs
 import notify
 import publish
 from filters import apply_all_filters
@@ -83,6 +84,28 @@ def print_results(listings):
         print()
 
 
+def attach_nearby_jobs(listings) -> None:
+    """
+    Dla każdej dopasowanej oferty mieszkania szuka ofert pracy w pobliżu JEJ
+    lokalizacji (nie Emmerich) - patrz jobs.py. Cache'owane po location_text w
+    ramach jednego przebiegu, żeby kilka mieszkań w tej samej miejscowości nie
+    odpytywało Bundesagentur API kilka razy o to samo.
+    """
+    if not config.JOB_SEARCH_ENABLED or not listings:
+        return
+
+    cache: dict[str, list] = {}
+    for listing in listings:
+        key = listing.location_text
+        if key not in cache:
+            cache[key] = jobs.search_jobs_near(key)
+        listing.nearby_jobs = cache[key]
+
+    total_jobs = sum(len(l.nearby_jobs) for l in listings)
+    logger.info("Oferty pracy w pobliżu: %d unikalnych lokalizacji sprawdzonych, %d ofert pracy łącznie.",
+                len(cache), total_jobs)
+
+
 def save_results(listings):
     if not listings:
         return
@@ -110,6 +133,10 @@ def main():
 
     matched = apply_all_filters(raw_listings)
     print_results(matched)
+
+    # Praca w pobliżu TYLKO dla ofert, które już przeszły wszystkie inne filtry -
+    # patrz jobs.py i attach_nearby_jobs() wyżej.
+    attach_nearby_jobs(matched)
 
     # Zawsze publikujemy najświeższe wyniki dla strony GitHub Pages i sprawdzamy,
     # co jest nowe od ostatniego uruchomienia (do powiadomienia Telegram).
