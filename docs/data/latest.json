@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:11:05.232305+00:00",
+  "generated_at": "2026-09-20T21:21:27.595004+00:00",
   "count": 105,
   "sources": {
     "Kleinanzeigen": {
@@ -7,7 +7,7 @@
       "interval_hours": 3
     },
     "ImmoScout24": {
-      "last_updated": "2026-09-20T21:11:05.232305+00:00",
+      "last_updated": "2026-09-20T21:21:27.595004+00:00",
       "interval_hours": 1
     }
   },
