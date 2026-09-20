@@ -8,7 +8,8 @@ działa w tle ani cyklicznie.
 
 - Kaltmiete max **650 €**
 - **2 pokoje**, oddzielne (odrzuca oferty opisane jako otwarte studio)
-- Lokalizacja: **Emmerich am Rhein** lub w promieniu **15 km** (w stronę Kleve)
+- Lokalizacja: **Emmerich am Rhein** lub do **~42 minut jazdy autem** (w stronę Kleve) -
+  liczone przez OpenRouteService, patrz Krok 3c niżej
 - Łazienka: preferowana/wymagana
 - Kuchnia: nieistotna
 
@@ -37,8 +38,9 @@ Wyniki lądują w konsoli oraz (domyślnie) w `results/wyniki_<data>.json` i `.c
 
 ## Jak dopasować kryteria
 
-Wszystko w `config.py` — cena, liczba pokoi, promień, wymagania co do łazienki/kuchni,
-lista znanych miejscowości w promieniu (fallback gdy geokodowanie zawiedzie).
+Wszystko w `config.py` — cena, liczba pokoi, próg czasu dojazdu (`MAX_DRIVE_TIME_MINUTES`),
+wymagania co do łazienki/kuchni, lista znanych miejscowości (fallback gdy geokodowanie
+i OpenRouteService jednocześnie zawiodą).
 
 ## Gdy scraper przestaje działać
 
@@ -58,37 +60,6 @@ logowane w `main.py::run_scrapers`).
 zwracać 403 nawet z poprawnymi selektorami. Jeśli to się utrzymuje, jedyne sensowne
 obejścia to: prawdziwa przeglądarka (Playwright/Selenium) albo ręczne sprawdzanie
 tego portalu od czasu do czasu.
-
-## Szczegóły oferty na stronie (karuzela zdjęć + czynsz z mediami)
-
-Kliknięcie oferty na stronie (`docs/index.html`) otwiera okienko ze wszystkimi
-danymi, karuzelą zdjęć i wierszem "Czynsz z mediami (ciepły)". Same dane wymagają
-dodatkowego wejścia na PODSTRONĘ każdej oferty (lista wyników tego nie zawiera) -
-robią to `Kleinanzeigen` (w chmurze) i `ImmoScout24` lokalnie, zaraz po znalezieniu
-ofert, zanim zwrócą wyniki dalej do filtrowania.
-
-Ważne właściwości tego mechanizmu:
-
-- **Pamięć między przebiegami** - raz pobrana oferta (zdjęcia + czynsz) jest
-  zapisana w `docs/data/latest.json` i przy kolejnych uruchomieniach NIE jest
-  pobierana ponownie (patrz `scrapers/base.py::load_cached_details`). W praktyce
-  dodatkowe requesty dotyczą tylko naprawdę nowych ofert, nie każdego przebiegu.
-- **Limit na przebieg** - `config.MAX_DETAIL_FETCHES_PER_RUN` (domyślnie 15) chroni
-  przed nagłym skokiem requestów (np. zaraz po włączeniu tej funkcji). Oferty ponad
-  limit po prostu poczekają do następnego przebiegu - dostaną "brak danych" przez
-  jeden cykl dłużej, nic się nie gubi.
-- **Wyłącznik awaryjny** - `config.FETCH_LISTING_DETAILS = False` całkowicie wyłącza
-  wchodzenie na podstrony (strona nadal działa, tylko bez karuzeli/czynszu z mediami).
-- Selektory HTML podstrony oferty (`_parse_detail_images` / `_parse_detail_warm_rent`
-  w `scrapers/kleinanzeigen.py` i `scrapers/immoscout24.py`) są **najlepszym
-  przypuszczeniem, NIE zweryfikowanym na żywym HTML-u** (jak większość selektorów
-  w tym projekcie - patrz sekcja wyżej). Kleinanzeigen: szukają zdjęć z CDN
-  `img.kleinanzeigen.de` i pól "Nebenkosten"/"Warmmiete" w `dt`/`dd`. ImmoScout24:
-  szukają zdjęć z CDN `pictures.immobilienscout24.de` i pól `data-qa="is24qa-*"`.
-  Jeśli po wdrożeniu w logu zawsze widzisz `0 z pamięci, N nowo pobranych` ale na
-  stronie ciągle "brak danych" i brak dodatkowych zdjęć - wyślij fragment HTML-a
-  prawdziwej podstrony oferty (sekcja galerii i sekcja z ceną), to dopracujemy
-  selektory tak jak przy każdym innym scraperze w tym projekcie.
 
 ## Uwagi prawne / etyczne (nie jestem prawnikiem, to nie jest porada prawna)
 
@@ -205,6 +176,24 @@ albo wyczyścisz dane przeglądarki, powtórz kroki 1-4 z nowym urządzeniem.
 **iOS (iPhone):** Web Push na Safari wymaga iOS 16.4+ i strony dodanej do ekranu głównego
 ("Do ekranu początkowego" w menu udostępniania) - powiadomienia nie zadziałają z poziomu
 zwykłej karty przeglądarki.
+
+### Krok 3c - klucz do OpenRouteService (czas dojazdu autem)
+
+Filtr lokalizacji sprawdza czas dojazdu autem (nie odległość w linii prostej) przez
+darmowe API OpenRouteService. Bez klucza bot i tak działa - automatycznie wraca na
+starą metodę (odległość w linii prostej, `MAX_DISTANCE_KM_FALLBACK` w `config.py`) -
+ale z kluczem filtrowanie jest dokładniejsze.
+
+1. Załóż darmowe konto na [openrouteservice.org](https://openrouteservice.org/dev/#/signup)
+   i wygeneruj klucz API (Dashboard → Request a token → "Standard", darmowy plan:
+   2500 zapytań/dzień, w zupełności wystarczy).
+2. **W chmurze (Kleinanzeigen przez GitHub Actions):** Settings → Secrets and variables →
+   Actions → **New repository secret** → nazwa `ORS_API_KEY`, wartość: Twój klucz.
+3. **Lokalnie (ImmoScout24 przez Task Scheduler):** stwórz plik `local_secrets/ors_api_key.txt`
+   obok `main.py` i wklej do niego sam klucz (bez cudzysłowów) - ten folder jest w
+   `.gitignore`, nigdy nie trafia do repo. Ten sam mechanizm jak dla lokalnych powiadomień
+   Web Push (Krok 3b) - jeśli już masz folder `local_secrets/`, po prostu dodaj do niego
+   ten jeden plik.
 
 ### Krok 4 - pierwsze uruchomienie
 

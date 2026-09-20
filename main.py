@@ -65,7 +65,7 @@ def run_scrapers(only_site: str | None):
 def print_results(listings):
     if not listings:
         print("\nBrak ofert spełniających kryteria. Spróbuj poluzować config.py "
-              "(np. MAX_DISTANCE_KM albo REQUIRE_BATHROOM) albo sprawdź czy scrapery "
+              "(np. MAX_DRIVE_TIME_MINUTES albo REQUIRE_BATHROOM) albo sprawdź czy scrapery "
               "w ogóle zwracają dane (--site <nazwa> pojedynczo, żeby zdebugować).\n")
         return
 

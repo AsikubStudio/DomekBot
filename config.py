@@ -15,19 +15,31 @@ REQUIRE_SEPARATE_ROOMS = True  # odrzucaj oferty opisane jako "studio"/"1-Zimmer
 # --- Lokalizacja ---
 CENTER_CITY = "Emmerich am Rhein"
 CENTER_PLZ = "46446"
-MAX_DISTANCE_KM = 20
-DIRECTION_HINT = "Kleve"  # tylko informacyjnie w logach, filtrowanie i tak jest promieniem
+DIRECTION_HINT = "Kleve"  # tylko informacyjnie w logach, filtrowanie i tak jest wg czasu dojazdu
 
-# Białą listę miejscowości w promieniu ~20 km od Emmerich (w stronę Kleve) można
-# rozszerzyć ręcznie, jeśli geokodowanie zawiedzie albo ogłoszenie nie ma współrzędnych.
-# Miejscowości/dzielnice orientacyjnie w promieniu 20 km od Emmerich am Rhein:
+# GŁÓWNE kryterium zasięgu: czas dojazdu AUTEM od CENTER_CITY (nie odległość w linii
+# prostej), liczony przez OpenRouteService - patrz utils/geo.py::drive_time_minutes().
+# Wymaga darmowego konta + klucza API:
+#   - w chmurze (GitHub Actions): sekret repo ORS_API_KEY
+#   - lokalnie (ImmoScout24): local_secrets/ors_api_key.txt (patrz README.md)
+# Bez klucza (albo gdy ORS zawiedzie - limit/awaria/timeout) automatycznie
+# używany jest zapasowy próg MAX_DISTANCE_KM_FALLBACK poniżej.
+MAX_DRIVE_TIME_MINUTES = 42
+
+# Używane TYLKO jako zapasowe kryterium, gdy OpenRouteService jest niedostępny -
+# dystans w linii prostej z marginesem (żeby przypadkiem nie odrzucić czegoś, co
+# w linii prostej wygląda dalej niż promień, ale autem mieści się w ~42 minutach).
+MAX_DISTANCE_KM_FALLBACK = 30
+
+# Białą listę miejscowości w zasięgu (w stronę Kleve) można rozszerzyć ręcznie,
+# jako ostatnia deska ratunku gdy i geokodowanie, i ORS zawiodą:
 KNOWN_NEARBY_PLACES = [
     "emmerich am rhein", "emmerich",
     "rees", "isselburg", "elten",
     "kranenburg", "bedburg-hau", "kellen",
     "praest", "vrasselt", "hüthum", "huethum",
     "zevenaar",  # NL, blisko granicy
-    "kleve",  # ~20 km - mieści się w nowym promieniu
+    "kleve",  # ~20 km, w zasięgu
 ]
 
 # --- Wyposażenie ---
@@ -82,10 +94,15 @@ IMMOSCOUT24_LOCATION_SLUGS = [
 # Kleinanzeigen używa własnych wewnętrznych ID lokalizacji (nie PLZ!).
 # 1395 = Emmerich am Rhein, 1122 = Kleve, 1387 = Rees - namierzone z realnych
 # linków wyszukiwania (1387 potwierdzone przez /s-ort-empfehlungen.json?query=Rees).
+# radius_km to promień ZAPYTANIA do samego portalu (żeby portal w ogóle zwrócił
+# oferty do rozpatrzenia) - podbity z 20 do 30 km, żeby nie odciąć z góry ofert,
+# które w linii prostej są dalej niż dawny promień, ale mieszczą się w
+# MAX_DRIVE_TIME_MINUTES (patrz wyżej) - to WŁAŚCIWY filtr stosowany później
+# w filters.py, ten promień to tylko "zarzucenie szerszej siatki".
 KLEINANZEIGEN_LOCATIONS = [
-    {"slug": "emmerich-am-rhein", "location_id": "1395", "radius_km": 20},
-    {"slug": "kleve", "location_id": "1122", "radius_km": 20},
-    {"slug": "rees", "location_id": "1387", "radius_km": 20},
+    {"slug": "emmerich-am-rhein", "location_id": "1395", "radius_km": 30},
+    {"slug": "kleve", "location_id": "1122", "radius_km": 30},
+    {"slug": "rees", "location_id": "1387", "radius_km": 30},
 ]
 
 # Które portale mają być przeszukiwane (można wyłączyć pojedynczo do debugowania)

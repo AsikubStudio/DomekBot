@@ -479,6 +479,7 @@
       rooms: row['Pokoje'],
       size: row['Powierzchnia (m²)'],
       distance: row['Odległość (km)'],
+      driveMinutes: row['Czas dojazdu (min)'] ?? null,
       distanceSheerenberg: row["Odległość od 's-Heerenberg (km)"] ?? null,
       bathroom: row['Łazienka'],
       kitchen: row['Kuchnia'],
@@ -605,12 +606,19 @@
     `;
   }
 
+  function formatDistanceFact(l) {
+    if (l.distance === undefined || l.distance === null || l.distance === '') return '';
+    const driveText = (l.driveMinutes !== undefined && l.driveMinutes !== null) ? ` ・ ~${l.driveMinutes} min autem` : '';
+    return `<span class="fact">Do Emmerich: <strong>${l.distance}</strong> km${driveText}</span>`;
+  }
+
   function renderListing(l, isNew, isStarred) {
     const price = formatEuro(l.price);
     const facts = [];
     if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
     if (l.size) facts.push(`<span class="fact"><strong>${l.size}</strong> m²</span>`);
-    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km od Emmerich</span>`);
+    const distanceFact = formatDistanceFact(l);
+    if (distanceFact) facts.push(distanceFact);
     if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
 
     const thumb = l.image
@@ -1021,7 +1029,8 @@
     const facts = [];
     if (l.rooms) facts.push(`<span class="fact"><strong>${l.rooms}</strong> pok.</span>`);
     if (l.size) facts.push(`<span class="fact"><strong>${l.size}</strong> m²</span>`);
-    if (l.distance !== undefined && l.distance !== null && l.distance !== '') facts.push(`<span class="fact"><strong>${l.distance}</strong> km od Emmerich</span>`);
+    const modalDistanceFact = formatDistanceFact(l);
+    if (modalDistanceFact) facts.push(modalDistanceFact);
     if (l.location) facts.push(`<span class="fact">${escapeHtml(l.location)}</span>`);
     modalFacts.innerHTML = facts.join('');
 

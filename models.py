@@ -35,6 +35,12 @@ class Listing:
     # zamiast Emmerich am Rhein - patrz utils/geo.py.
     distance_sheerenberg_km: Optional[float] = None
 
+    # Czas dojazdu autem od CENTER_CITY (Emmerich am Rhein), liczony przez
+    # OpenRouteService w filters.py::_location_ok - patrz utils/geo.py::
+    # drive_time_minutes(). None jeśli brak klucza API albo ORS zawiódł
+    # (wtedy filtr i tak zadziałał, tylko na zapasowym kryterium - dystans_km).
+    drive_minutes: Optional[int] = None
+
     def as_row(self) -> dict:
         return {
             "Portal": self.source,
@@ -44,6 +50,7 @@ class Listing:
             "Powierzchnia (m²)": self.size_sqm,
             "Lokalizacja": self.location_text,
             "Odległość (km)": self.distance_km,
+            "Czas dojazdu (min)": self.drive_minutes,
             "Odległość od 's-Heerenberg (km)": self.distance_sheerenberg_km,
             "Łazienka": self.bool_label(self.has_bathroom),
             "Kuchnia": self.bool_label(self.has_kitchen),

@@ -5,7 +5,7 @@ Każdy filtr jest osobną funkcją, żeby łatwo było dodać/wyłączyć/debugo
 from typing import List
 import config
 from models import Listing
-from utils.geo import within_radius, distance_from_sheerenberg_km
+from utils.geo import evaluate_location, distance_from_sheerenberg_km
 
 
 def _price_ok(listing: Listing) -> bool:
@@ -69,10 +69,13 @@ def _kitchen_ok(listing: Listing) -> bool:
 
 
 def _location_ok(listing: Listing) -> bool:
-    if listing.distance_km is not None:
-        return listing.distance_km <= config.MAX_DISTANCE_KM
-    ok, distance = within_radius(listing.location_text)
-    listing.distance_km = distance
+    # GŁÓWNE kryterium to teraz czas dojazdu autem (nie km w linii prostej) -
+    # patrz utils/geo.py::evaluate_location(). Jeśli portal już podał dystans
+    # w linii prostej (np. Kleinanzeigen na karcie wyniku, listing.distance_km),
+    # przekazujemy go dalej, żeby nie geokodować drugi raz tylko po to samo.
+    ok, drive_minutes, distance_km = evaluate_location(listing.location_text, listing.distance_km)
+    listing.drive_minutes = drive_minutes
+    listing.distance_km = distance_km
     return ok
 
 
