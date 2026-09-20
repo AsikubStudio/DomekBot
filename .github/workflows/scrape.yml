@@ -1,17 +1,17 @@
-name: Szukaj mieszkaĹ„
+name: Szukaj mieszkań
 
 on:
   schedule:
     # Co 3 godziny, 8x dziennie. Czas w UTC (Polska/Niemcy to UTC+1 lub UTC+2 latem).
     - cron: "0 */3 * * *"
-  workflow_dispatch: {}   # pozwala odpaliÄ‡ rÄ™cznie z zakĹ‚adki "Actions" w GitHubie
+  workflow_dispatch: {}   # pozwala odpalić ręcznie z zakładki "Actions" w GitHubie
 
 concurrency:
   group: scrape
   cancel-in-progress: false
 
 permissions:
-  contents: write   # potrzebne ĹĽeby workflow mĂłgĹ‚ commitowaÄ‡ wyniki z powrotem do repo
+  contents: write   # potrzebne żeby workflow mógł commitować wyniki z powrotem do repo
 
 jobs:
   scrape:
@@ -25,10 +25,10 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Zainstaluj zaleĹĽnoĹ›ci
+      - name: Zainstaluj zależności
         run: pip install -r requirements.txt
 
-      - name: Zainstaluj przeglÄ…darkÄ™ dla Playwright (ImmoScout24)
+      - name: Zainstaluj przeglądarkę dla Playwright (ImmoScout24)
         run: playwright install --with-deps chromium
 
       - name: Uruchom bota
@@ -57,37 +57,37 @@ jobs:
           git diff --cached --quiet && { echo "Brak zmian - nic do zacommitowania"; exit 0; }
           git commit -m "Aktualizacja ofert $(date -u +'%Y-%m-%d %H:%M UTC')"
 
-          # docs/data/latest.json i data/seen_ids.json to pliki W CAĹOĹšCI generowane
-          # automatycznie - jeĹ›li w miÄ™dzyczasie (rÄ™czne uruchomienie, drugi przebieg)
-          # ktoĹ› inny zdÄ…ĹĽyĹ‚ je zmieniÄ‡ i wypchnÄ…Ä‡, zwykĹ‚y "git pull --rebase" moĹĽe
-          # trafiÄ‡ na prawdziwy konflikt treĹ›ci i wywaliÄ‡ caĹ‚y krok (a razem z nim
+          # docs/data/latest.json i data/seen_ids.json to pliki W CAŁOŚCI generowane
+          # automatycznie - jeśli w międzyczasie (ręczne uruchomienie, drugi przebieg)
+          # ktoś inny zdążył je zmienić i wypchnąć, zwykły "git pull --rebase" może
+          # trafić na prawdziwy konflikt treści i wywalić cały krok (a razem z nim
           # dane z TEGO przebiegu, bez ponawiania). Zamiast tego: przy konflikcie
-          # Ĺ›wiadomie zachowujemy wersjÄ™ z TEGO przebiegu (ma najĹ›wieĹĽsze dane -
-          # podczas "git rebase" "theirs" to commit odtwarzany, czyli WĹAĹšNIE nasz
-          # lokalny, Ĺ›wieĹĽy commit; "ours" to cel, czyli origin/main) i prĂłbujemy
-          # ponownie kilka razy, na wypadek gdyby ktoĹ› zdÄ…ĹĽyĹ‚ wypchnÄ…Ä‡ coĹ› jeszcze
-          # raz w miÄ™dzyczasie.
+          # świadomie zachowujemy wersję z TEGO przebiegu (ma najświeższe dane -
+          # podczas "git rebase" "theirs" to commit odtwarzany, czyli WŁAŚNIE nasz
+          # lokalny, świeży commit; "ours" to cel, czyli origin/main) i próbujemy
+          # ponownie kilka razy, na wypadek gdyby ktoś zdążył wypchnąć coś jeszcze
+          # raz w międzyczasie.
           for i in 1 2 3 4 5; do
             git fetch origin main
             if git rebase origin/main; then
               if git push origin HEAD:main; then
-                echo "Push OK (prĂłba $i)"
+                echo "Push OK (próba $i)"
                 exit 0
               fi
-              echo "Push odrzucony mimo udanego rebase (ktoĹ› wypchnÄ…Ĺ‚ w miÄ™dzyczasie) - ponawiam (prĂłba $i)..."
+              echo "Push odrzucony mimo udanego rebase (ktoś wypchnął w międzyczasie) - ponawiam (próba $i)..."
               sleep 5
               continue
             fi
-            echo "Konflikt podczas rebase w pliku(-ach) z danymi - zachowujÄ™ Ĺ›wieĹĽo wygenerowanÄ… wersjÄ™ z tego przebiegu."
+            echo "Konflikt podczas rebase w pliku(-ach) z danymi - zachowuję świeżo wygenerowaną wersję z tego przebiegu."
             git checkout --theirs docs/data/latest.json data/seen_ids.json 2>/dev/null || true
             git add docs/data/latest.json data/seen_ids.json
             if ! git rebase --continue; then
-              echo "Rebase nadal siÄ™ nie udaĹ‚ - poddajÄ™ prĂłbÄ™ i przerywam."
+              echo "Rebase nadal się nie udał - poddaję próbę i przerywam."
               git rebase --abort || true
               exit 1
             fi
             sleep 3
           done
 
-          echo "Nie udaĹ‚o siÄ™ wypchnÄ…Ä‡ zmian po kilku prĂłbach."
+          echo "Nie udało się wypchnąć zmian po kilku próbach."
           exit 1
