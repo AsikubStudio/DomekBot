@@ -14,15 +14,18 @@ apki mobilnej "Jobsuche" Bundesagentur für Arbeit, ale stabilne i szeroko używ
 w społeczności - NIE wymaga zakładania konta/klucza, tylko wspólny, publicznie
 znany nagłówek X-API-Key poniżej, dokładnie tak jak w oficjalnej apce).
 
-NIEZWERYFIKOWANE jeszcze na żywych danych (jak inne integracje w tym projekcie
-przy pierwszym wdrożeniu - patrz komentarze w scrapers/kleinanzeigen.py). Dokładne
-nazwy pól w odpowiedzi JSON i separator dla wielu wartości "arbeitszeit" oparte
-na dokumentacji openapi.yaml z repo, NIE na ręcznie sprawdzonej żywej odpowiedzi.
-Jeśli coś nie pasuje (brak wyników mimo sensownego zapytania, KeyError w logach,
-puste dropdowny mimo że oferty na pewno istnieją) - wyślij surową odpowiedź JSON
-z jednego zapytania (np. przez przeglądarkę:
-https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/app/jobs?was=Lagerhelfer&wo=Kleve&umkreis=30
-z nagłówkiem X-API-Key: jobboerse-jobsuche) żeby to doprecyzować.
+ZWERYFIKOWANE na żywym przebiegu 20.09.2026: pierwsza wersja używała błędnej
+ścieżki ".../pc/v4/app/jobs" (z dodatkowym segmentem "/app/"), co dawało
+403 "No match found for request for url" na KAŻDYM zapytaniu (błąd routingu
+API gateway, nie autoryzacji). Poprawna ścieżka to ".../pc/v4/jobs" - potwierdzona
+niezależnie w oficjalnym przykładowym kodzie (api_example.py) i README repo
+bundesAPI/jobsuche-api. Nazwy pól w odpowiedzi JSON (beruf/arbeitgeber/
+arbeitsort.ort/externeUrl) wciąż nie były ręcznie zweryfikowane na żywej
+odpowiedzi - jeśli dropdown dalej jest pusty mimo że w logach nie ma już
+błędów 403, sprawdź surową odpowiedź JSON (np. przez przeglądarkę:
+https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs?was=Lagerhelfer&wo=Kleve&umkreis=30
+z nagłówkiem X-API-Key: jobboerse-jobsuche) i dopasuj _parse_job() do realnych
+nazw pól.
 """
 import time
 import logging
@@ -34,7 +37,7 @@ import config
 
 logger = logging.getLogger("immo-bot")
 
-JOBS_API_URL = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/app/jobs"
+JOBS_API_URL = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs"
 JOBS_API_HEADERS = {
     # Publicznie znany, wspólny klucz używany przez oficjalną apkę mobilną - NIE
     # jest to sekret użytkownika, nie trzeba niczego zakładać/generować.
@@ -128,6 +131,7 @@ def search_jobs_near(location_text: str) -> List[Dict]:
             "angebotsart": 1,  # 1 = zwykła praca (nie samozatrudnienie/szkolenie/praktyka)
             "size": config.JOB_SEARCH_MAX_RESULTS_PER_KEYWORD,
             "page": 1,
+            "pav": "false",  # wyklucz agencje pośrednictwa pracy - tak jak w oficjalnych przykładach API
         }
         data = _throttled_get(params)
         if not data:
