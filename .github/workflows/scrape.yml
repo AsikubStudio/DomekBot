@@ -38,6 +38,7 @@ jobs:
           PUSH_SUBSCRIPTION: ${{ secrets.PUSH_SUBSCRIPTION }}
           VAPID_PRIVATE_KEY_PEM: ${{ secrets.VAPID_PRIVATE_KEY_PEM }}
           VAPID_CLAIMS_EMAIL: ${{ secrets.VAPID_CLAIMS_EMAIL }}
+          ORS_API_KEY: ${{ secrets.ORS_API_KEY }}
         run: python main.py --no-save
 
       - name: Zapisz zrzut ekranu ImmoScout24 (debug)
