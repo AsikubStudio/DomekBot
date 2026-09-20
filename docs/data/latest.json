@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-20T12:14:06.283286+00:00",
+  "generated_at": "2026-09-20T15:11:22.016752+00:00",
   "count": 65,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-20T12:14:06.283286+00:00",
+      "last_updated": "2026-09-20T15:11:22.016752+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -444,15 +444,16 @@
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-naehe-saturn-zum-vermieten-/3515723666-203-1125",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-naehe-saturn-ab-01-10-2026-zum-vermieten-/3515723666-203-1125",
       "Zdjęcie": null,
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f00dcb3-95d1-4e05-931b-9728bee5a2c2?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca405ee0-2347-469b-9ce9-b366b8a7c98a?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4b99716-0107-4128-ba61-9973b5dde82e?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/94cd5190-8d05-4bab-86dd-2c413d55c365?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8f9b120-a532-49b6-857f-24754f0779fd?rule=$_2.AUTO"
       ],
-      "Czynsz z mediami (€)": 151.0,
-      "Opis": "Kurzfristig vermieten",
-      "PierwszyRaz": "2026-09-18T00:15:57.963902+00:00"
+      "Czynsz z mediami (€)": null,
+      "Opis": "Ab 01.10.2026 zum vermieten",
+      "PierwszyRaz": "2026-09-20T15:11:22.015711+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1059,6 +1060,37 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer-Souterrainwohnung mit Terrasse & Garten – ab 01.11.2026",
+      "Cena (€)": 560.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 56.0,
+      "Lokalizacja": "46399 Bocholt",
+      "Odległość (km)": 18.0,
+      "Odległość od 's-Heerenberg (km)": 23.4,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-souterrainwohnung-mit-terrasse-garten-ab-01-11-2026/3482879409-203-1851",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80f55928-0fca-4160-993b-10c32f7efc9f?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80f55928-0fca-4160-993b-10c32f7efc9f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa430fa6-0c12-45a1-9777-6d0b41942ca3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcbaf27b-c8a3-40a6-a40b-988a48d6bb53?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/ccc3402b-b3d7-41c0-8dae-fdf45b199985?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d2a70311-44e6-4a08-ac62-b57c24b0e160?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38989f98-b950-4d20-b63b-b8c2fbb908c7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/273dbd76-cbb4-4b10-ad21-dff79740b57e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/1046dee5-3462-48d7-b1ac-02c7940a9acd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a368653-b6be-48fe-91ae-05e539a25c97?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/baa0cee1-d067-4556-bd77-b168ab8be745?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae566350-7366-4d50-9dc6-5e8622422912?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47b335e1-f165-4b7f-9328-a1648057958f?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "2-Zimmer-Souterrainwohnung mit Terrasse & Garten – ab 01.11.2026\n\nRuhig wohnen, eine große Terrasse genießen und trotzdem schnell in der Bocholter Innenstadt sein.\nZur Vermietung steht eine gemütliche 2-Zimmer-Souterrainwohnung in einer ruhigen und beliebten Wohnlage in Bocholt, zwischen Adenauerallee und Dinxperloer Straße. Das historische Rathaus ist zu Fuß etwa 1,2 km entfernt.\nEin besonderes Highlight ist die große Terrasse mit eigenem Gartenanteil, die zusätzlichen Platz zum Entspannen im Freien bietet. Ein eigener Stellplatz befindet sich direkt am Haus.\nDas bietet die Wohnung\n✅ 2 Zimmer, davon 1 Schlafzimmer ✅ Große Terrasse mit eigenem Gartenanteil ✅ Zusätzliche Nutzung des Gemeinschaftsgartens möglich ✅ Eigener Außenstellplatz direkt am Haus ✅ Kellerraum mit ca. 7 m² Nutzfläche ✅ Bad mit Dusche ✅ Pflegeleichte Fliesenböden ✅ Heizungsanlage 2021 umfassend modernisiert ✅ Sämtliche Fenster und die Terrassentür 2025 erneuert ✅ Ruhige Wohnlage und trotzdem nah an der Innenstadt\nBitte beachten: Die Wohnung befindet sich im Souterrain und ist über Treppen erreichbar. Sie verfügt über ein separates Schlafzimmer.\nMonatliche Kosten\n* Kaltmiete: 560 €\n* Küche: 50 €\n* Außenstellplatz: 20 €\n* Nebenkosten 2025: 82,50 € inklusive Wasser\nMonatlich insgesamt: 712,50 € zuzüglich Strom und Gas.\nStrom und Gas werden direkt mit der BEW abgerechnet. Die bisherige Mieterin hat hierfür im Jahr 2025 zusammen rund 160 € monatlich gezahlt. Der tatsächliche Verbrauch kann je nach Personenanzahl und persönlichem Nutzungsverhalten abweichen.\nMietbeginn\nDie Wohnung wird zum 01.11.2026 vermietet. Ein Mietbeginn zu diesem Termin ist Voraussetzung für die Anmietung.\nBesichtigungstermine\nBesichtigungen sind an folgenden Tagen möglich:\n* Mittwoch, 23.09.2026, ab 16:00 Uhr\n* Sonntag, 27.09.2026, ab 13:00 Uhr\n* Montag, 28.09.2026, ab 16:00 Uhr\nBitte teilen Sie mir bei Ihrer Anfrage direkt mit, welcher Tag und welche Uhrzeiten für Sie möglich wären. Gerne können Sie mehrere Zeitfenster nennen.\n✉️ Interesse an der Wohnung?\nDamit ich mir vorab einen kleinen Eindruck verschaffen und die Besichtigungstermine sinnvoll vergeben kann, schicken Sie mir bitte kurz folgende Angaben:\n* Vor- und Nachname\n* Alter\n* Anzahl der einziehenden Personen\n* Beruf und Arbeitgeber\n* Monatliches Nettoeinkommen\n* Haustiere, falls vorhanden\n* Raucher oder Nichtraucher\n* Kurze Information zur aktuellen Wohnsituation und zum Grund des Umzugs\n* Gewünschter Besichtigungstag und mögliche Uhrzeiten\nFür die weitere Auswahl werden eine Mieterselbstauskunft, eine aktuelle SCHUFA-Auskunft sowie die letzten drei Gehaltsabrechnungen oder ein vergleichbarer Einkommensnachweis benötigt.\nKontakt\nDie gesamte Kommunikation erfolgt ausschließlich über Kleinanzeigen. Bitte daher von Rückrufbitten oder einer Kontaktaufnahme per E-Mail absehen.\nNach Sichtung der Angaben melde ich mich über Kleinanzeigen zurück und vergebe die Besichtigungstermine.\nIch freue mich auf Ihre Nachricht.\nViele Grüße Jörg",
+      "PierwszyRaz": "2026-09-20T15:11:22.015711+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "2-Zimmer Wohnung inkl. Stellplatz in Voerde Friedrichsfeld",
       "Cena (€)": 560.0,
       "Pokoje": 2.0,
@@ -1087,37 +1119,6 @@
       "Czynsz z mediami (€)": 700.0,
       "Opis": "Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung\n1. OG\nMit Einbauküche\nGas-Zentralheizung\nTreppenhaus- und Gartenpflege und Winterdienst extern vergeben\nDemnächst frisch renoviert",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer-Wohnung mit Garten sucht Käufer, sonst neue Mieter",
-      "Cena (€)": 560.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 56.0,
-      "Lokalizacja": "46399 Bocholt",
-      "Odległość (km)": 18.0,
-      "Odległość od 's-Heerenberg (km)": 23.4,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-garten-sucht-kaeufer-sonst-neue-mieter/3482879409-203-1851",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80f55928-0fca-4160-993b-10c32f7efc9f?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80f55928-0fca-4160-993b-10c32f7efc9f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa430fa6-0c12-45a1-9777-6d0b41942ca3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/ccc3402b-b3d7-41c0-8dae-fdf45b199985?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38989f98-b950-4d20-b63b-b8c2fbb908c7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/273dbd76-cbb4-4b10-ad21-dff79740b57e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/baa0cee1-d067-4556-bd77-b168ab8be745?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/331b8316-f8b3-412d-bc40-a049857cb69c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d2a70311-44e6-4a08-ac62-b57c24b0e160?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/1046dee5-3462-48d7-b1ac-02c7940a9acd?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a368653-b6be-48fe-91ae-05e539a25c97?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47b335e1-f165-4b7f-9328-a1648057958f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09b73659-08d7-4e6f-8efd-a6070c98e3b7?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Vorabinformation: Besichtigungen mit möglichen Käufern nach Absprache der jetzigen Mieter. Besichtigungen mit möglichen Mietern erst ab Mitte September.\n\nKaufpreis: 189000€ VB\n\nDiese charmante 2-Zimmer-Souterrainwohnung in einer der beliebtesten Wohnlagen Bocholts steckt aktuell mitten in einer kleinen Entscheidungsphase: Wird sie verkauft oder begrüßt sie ab November einen neuen Mieter?\nPlan A:\nJemand verliebt sich bis Ende September so sehr in die Wohnung, dass er sie kaufen möchte. Die Wohnung wäre darüber durchaus erfreut. Der Eigentümer übrigens auch... vorausgesetzt, der Preis sorgt bei beiden Seiten für gute Laune.\nPlan B:\nFalls sich bis Ende September kein passender Käufer findet, bleibt die Wohnung einfach, wo sie ist, und freut sich ab November 2026 auf einen neuen Mieter.\nKaltmiete: 560 € monatlich\nDa die Wohnung derzeit noch zum Verkauf angeboten wird, werden Entscheidungen über eine Neuvermietung erst im Oktober getroffen. Mietverträge können daher frühestens ab Oktober abgeschlossen werden.\nDas erwartet Sie:\n✅ Ruhige Top-Lage in Bocholt zwischen Markgrafenstraße und Adenauerallee ✅ Innenstadt bequem zu Fuß erreichbar ✅ Große Terrasse mit eigenem Gartenanteil ✅ Zusätzliche Nutzung des Gemeinschaftsgartens möglich ✅ Eigener Stellplatz direkt vor dem Haus ✅ Kellerraum mit ca. 7 m² Nutzfläche ✅ Modernes Bad mit Dusche ✅ Pflegeleichte Fliesenböden ✅ Heizungsanlage 2021 umfassend modernisiert ✅ Sämtliche Fenster und Terrassentür 2025 erneuert ✅ Bezugsfrei ab Oktober 2026, eventuell nach Absprache bereits früher\nFür Eigennutzer und Kapitalanleger interessant\nDie Wohnung ist aktuell bis Ende September vermietet und bietet anschließend maximale Flexibilität: selbst einziehen, neu vermieten oder langfristig als Kapitalanlage nutzen. Die begehrte Wohnlage und die durchgeführten Modernisierungen sorgen dabei für eine attraktive Kombination aus Wohnkomfort und Werterhalt.\nNoch ein offenes Wort\nDie Wohnung muss nicht verkauft werden. Sie ist weder in Eile noch unter Druck. Bis Ende September wird ganz entspannt nach dem passenden Käufer gesucht. Sollte dieser nicht vorbeischauen, wird sie ab November einfach wieder vermietet.\nKurz gesagt:\nDer richtige Käufer bekommt eine schöne Wohnung.  Der richtige Mieter bekommt eine schöne Wohnung.  Nur Schnellschüsse und Dumping-Angebote haben leider schlechte Karten.\nInteresse? Dann melden Sie sich gerne. Vielleicht werden Sie Eigentümer. Vielleicht Mieter. Die Wohnung hält sich derzeit noch alle Optionen offen.\n\n---\n\nPrivatverkauf ohne Makler\nDie Wohnung wird privat verkauft. Bitte keine Kontaktaufnahme durch Makler, Vermittler oder Vertriebsunternehmen. Ein Maklerauftrag ist nicht gewünscht.\nEnergieausweis\nVerbrauchsausweis vorhanden. Endenergieverbrauch: 144,8 kWh/(m²·a), Energieeffizienzklasse E, Energieträger Gas, gültig bis 19.05.2029.\nHinweis: Die im Energieausweis angegebenen Werte wurden vor der Erneuerung sämtlicher Fenster und der Terrassentür im Jahr 2025 ermittelt. Die dadurch erzielte energetische Verbesserung ist in den ausgewiesenen Werten noch nicht berücksichtigt.",
-      "PierwszyRaz": "2026-09-15T21:12:27.388477+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
