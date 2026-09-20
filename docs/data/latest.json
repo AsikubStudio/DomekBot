@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-20T15:11:22.016752+00:00",
-  "count": 65,
+  "generated_at": "2026-09-20T18:12:53.502443+00:00",
+  "count": 64,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-20T15:11:22.016752+00:00",
+      "last_updated": "2026-09-20T18:12:53.502443+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -538,33 +538,6 @@
       "Czynsz z mediami (€)": 520.0,
       "Opis": "Balkon • Einbauküche • Badewanne • Aufzug • Keller • WBS benötigt\n\n2ZW, 60qm, Nähe Markt in Anholt zu vermieten ab Ende des Jahres - ggf. früher\nkalt 291€ + NK 229€ = 520€/Monat, WBS erforderlich, 870€ Kaution\nIdeal für ein Rentnerehepaar\n2 Personen werden vom Amt bevorzugt – bei 1 Person ist ggf. eine Ausnahme möglich\nsehr schön renoviert u.a. mit einem hochwertigen Vinylboden,\nEinbauküche vorhanden, Abstellraum, kleiner Balkon, Bad mit Wanne + Fenster, Aufzug, Keller, Waschraum, Trockenraum.\nBei Interesse melden Sie sich bitte mit einer kurzen Vorstellung.\nDanke Ihnen",
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "schöne 2-Zimmer-Dachgeschoßwohnung in Kevelaer zu vermieten",
-      "Cena (€)": 360.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 46.0,
-      "Lokalizacja": "47623 Kevelaer",
-      "Odległość (km)": 20.0,
-      "Odległość od 's-Heerenberg (km)": 33.1,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-dachgeschosswohnung-in-kevelaer-zu-vermieten/3516888482-203-1137",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21959cad-1fbe-4924-8a9b-383538bdd83b?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21959cad-1fbe-4924-8a9b-383538bdd83b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/3880f52f-5af3-4cc8-9127-baf7a6d3fc3a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63483a59-ef9c-4c0b-9ee1-7399c29af042?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7bdda84f-8088-4edb-8092-5f9819a955ab?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88547159-2363-4ef1-b656-0b1e6c813611?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e7cde066-21ed-4f58-89ee-c9f502e17e53?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f2872763-ad90-44f4-bbf3-2d9772fd165f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2ab8287b-5b05-4a8e-a14f-2cc33f50ba2b?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 440.0,
-      "Opis": "Keller • Garage/Stellplatz • Haustiere erlaubt\n\nZur Vermietung steht eine schöne und gepflegte 2-Zimmer-Dachgeschoßwohnung im 3. Obergeschoss in Kevelaer.\nDie Boden sind bereits mit Laminat ausgelegt.\n\nBei Interesse senden Sie bitte eine kurze Nachricht mit folgenden Angaben:\n- Vollständiger Name\n- Anzahl der einziehenden Personen\n- Aktuelle berufliche Situation (z. B. berufstätig, in Ausbildung oder Studium)\n\nIch freue mich auf Ihre Anfrage.",
-      "PierwszyRaz": "2026-09-19T11:35:18.842829+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
