@@ -14,36 +14,40 @@ apki mobilnej "Jobsuche" Bundesagentur für Arbeit, ale stabilne i szeroko używ
 w społeczności - NIE wymaga zakładania konta/klucza, tylko wspólny, publicznie
 znany nagłówek X-API-Key poniżej, dokładnie tak jak w oficjalnej apce).
 
-ZWERYFIKOWANE na żywym przebiegu 20.09.2026: pierwsza wersja używała błędnej
-ścieżki ".../pc/v4/app/jobs" (z dodatkowym segmentem "/app/"), co dawało
-403 "No match found for request for url" na KAŻDYM zapytaniu (błąd routingu
-API gateway, nie autoryzacji). Poprawna ścieżka to ".../pc/v4/jobs" - potwierdzona
-niezależnie w oficjalnym przykładowym kodzie (api_example.py) i README repo
-bundesAPI/jobsuche-api.
+HISTORIA DEBUGOWANIA (żeby nie powtarzać prób w przyszłości):
+1) Pierwsza wersja używała błędnej ścieżki ".../pc/v4/app/jobs" -> 403 "No match
+   found for request for url" na każdym zapytaniu.
+2) Zmiana na ".../pc/v4/jobs" (bez "/app/") - dalej 403 "No match found", teraz
+   na "poprawionym" URL-u. Podejrzewaliśmy User-Agent (API jest dla apki mobilnej,
+   nie przeglądarki) - zmiana User-Agenta na dokładny string z oficjalnej apki
+   NIE pomogła, 403 wystąpił ponownie na kolejnym przebiegu.
+3) Podejrzewaliśmy blokadę IP centrów danych (GitHub Actions), tak jak przy
+   ImmoScout24 - PRZETESTOWANE I OBALONE: identyczny 403 wystąpił nawet przy
+   zapytaniu z domowego IP użytkownika (curl -v z jego komputera).
+4) OSTATECZNA PRZYCZYNA (potwierdzona 21.09.2026 żywym, udanym zapytaniem curl -v
+   z komputera użytkownika): ".../pc/v4/jobs" to po prostu NIEISTNIEJĄCA ścieżka
+   w obecnym API. Poprawna, oficjalna ścieżka (wg opublikowanej specyfikacji
+   OpenAPI: https://jobsuche.api.bund.dev/openapi.yaml) to ".../pc/v6/jobs".
+   Zapytanie na v6 z tymi samymi nagłówkami (X-API-Key + User-Agent apki mobilnej)
+   zwróciło HTTP 200 OK z realnymi ofertami pracy.
+5) Po przejściu na v6 okazało się, że realna struktura JSON-a odpowiedzi jest
+   INNA niż zakładała pierwotna wersja tego pliku (patrz niżej) - to zostało
+   poprawione w tej wersji _parse_job()/search_jobs_near() na podstawie
+   faktycznej, zweryfikowanej odpowiedzi API, a nie dokumentacji/zgadywania.
 
-PO POPRAWCE ŚCIEŻKI 403 DALEJ WYSTĘPOWAŁ na kolejnym przebiegu (ten sam błąd
-"No match found", teraz przeciwko już poprawnemu URL-owi z ?pav=false). Drugi
-podejrzany: nagłówek User-Agent. Reszta scraperów w tym projekcie (Kleinanzeigen,
-ImmoScout24) świadomie podszywa się pod zwykłą przeglądarkę desktopową przez
-config.USER_AGENT - ale to API jest przeznaczone dla APKI MOBILNEJ, nie
-przeglądarki, i bramka API najwyraźniej odrzuca ruch, który nie wygląda jak ta
-apka (stąd "No match found for request" zamiast zwykłego 401/403 autoryzacji -
-to brzmi jak reguła WAF/gateway po User-Agent, nie jak błąd autoryzacji klucza).
-Dlatego JOBS_API_USER_AGENT poniżej NIE używa już config.USER_AGENT, tylko
-osobnego, dedykowanego stringa skopiowanego z oficjalnego api_example.py repo
-bundesAPI/jobsuche-api: "Jobsuche/2.9.2 (de.arbeitsagentur.jobboerse; build:1077;
-iOS 15.1.0)". Jeśli PO tej zmianie 403 nadal się powtarza na następnym przebiegu,
-to oznacza że User-Agent NIE był (jedyną) przyczyną i trzeba sprawdzić surową
-odpowiedź ręcznie (np. curl -H "X-API-Key: jobboerse-jobsuche" -H "User-Agent:
-Jobsuche/2.9.2 (de.arbeitsagentur.jobboerse; build:1077; iOS 15.1.0)"
-"https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs?was=Lagerhelfer&wo=Kleve&umkreis=30&pav=false")
-z komputera użytkownika (nie z chmurowego środowiska - IP centrów danych bywa
-tu też blokowane, jak przy ImmoScout24) - zobacz dokładny kod odpowiedzi i treść.
-
-Nazwy pól w odpowiedzi JSON (beruf/arbeitgeber/arbeitsort.ort/externeUrl) wciąż
-nie były ręcznie zweryfikowane na żywej, udanej odpowiedzi - jeśli dropdown
-dalej jest pusty mimo że w logach nie ma już błędów 403, dopasuj _parse_job()
-do realnych nazw pól z rzeczywistej odpowiedzi.
+RZECZYWISTA STRUKTURA ODPOWIEDZI /pc/v6/jobs (zweryfikowana na żywo):
+- Lista ofert jest pod kluczem "ergebnisliste" (NIE "stellenangebote").
+- Każda oferta ma m.in.:
+    "referenznummer"        - numer referencyjny (NIE "refnr")
+    "stellenangebotsTitel"  - tytuł oferty (np. "Lagerhelfer (m/w/d)")
+    "hauptberuf"            - kategoria zawodu, zapasowo gdy brak tytułu
+    "firma"                 - nazwa pracodawcy (NIE "arbeitgeber")
+    "stellenlokationen"     - LISTA lokalizacji, każda ma "adresse" z polami
+                              "ort", "plz", "strasse", "hausnummer", "region",
+                              "land" (NIE płaski "arbeitsort.ort")
+    "externeURL"            - link zewnętrzny, wielka litera "URL" (NIE "externeUrl")
+    "datumErsteVeroeffentlichung" LUB "veroeffentlichungszeitraum": {"von": "..."}
+                              - data publikacji (NIE "aktuelleVeroeffentlichungsdatum")
 """
 import time
 import logging
@@ -55,13 +59,14 @@ import config
 
 logger = logging.getLogger("immo-bot")
 
-JOBS_API_URL = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs"
+JOBS_API_URL = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v6/jobs"
 
 # Ten string to DOKŁADNA wartość User-Agent oficjalnej apki mobilnej "Jobsuche",
 # skopiowana z api_example.py w repo bundesAPI/jobsuche-api. Celowo NIE używamy
 # tu config.USER_AGENT (to desktopowy Chrome, do podszywania się pod przeglądarkę
-# w innych scraperach) - to API jest zrobione dla apki mobilnej i bramka API
-# prawdopodobnie odrzuca ruch z innym User-Agentem (patrz docstring modułu).
+# w innych scraperach) - to API jest zrobione dla apki mobilnej. To NIE był
+# faktyczny powód wcześniejszych błędów 403 (patrz docstring modułu, punkt 4),
+# ale to wciąż poprawny, autentyczny nagłówek zgodny z oficjalną apką - zostaje.
 JOBS_API_USER_AGENT = "Jobsuche/2.9.2 (de.arbeitsagentur.jobboerse; build:1077; iOS 15.1.0)"
 
 JOBS_API_HEADERS = {
@@ -103,19 +108,28 @@ def _throttled_get(params: dict) -> Optional[dict]:
 
 
 def _parse_job(raw: dict) -> Optional[Dict]:
-    """Zamienia jeden surowy wpis z 'stellenangebote' na prosty słownik do JSON-a
-    strony. Zwraca None jeśli brakuje minimum (refnr I externeUrl jednocześnie -
-    wtedy nie mamy dokąd zalinkować)."""
+    """Zamienia jeden surowy wpis z 'ergebnisliste' na prosty słownik do JSON-a
+    strony. Zwraca None jeśli brakuje minimum (referenznummer I externeURL
+    jednocześnie - wtedy nie mamy dokąd zalinkować)."""
     try:
-        refnr = raw.get("refnr")
-        title = raw.get("beruf") or "(bez tytułu)"
-        employer = raw.get("arbeitgeber") or "?"
-        arbeitsort = raw.get("arbeitsort") or {}
-        ort = arbeitsort.get("ort") or ""
+        refnr = raw.get("referenznummer")
+        title = raw.get("stellenangebotsTitel") or raw.get("hauptberuf") or "(bez tytułu)"
+        employer = raw.get("firma") or "?"
 
-        url = raw.get("externeUrl") or None
+        ort = ""
+        lokalizacje = raw.get("stellenlokationen") or []
+        if lokalizacje:
+            adresse = lokalizacje[0].get("adresse") or {}
+            ort = adresse.get("ort") or ""
+
+        opublikowano = raw.get("datumErsteVeroeffentlichung")
+        if not opublikowano:
+            okres = raw.get("veroeffentlichungszeitraum") or {}
+            opublikowano = okres.get("von")
+
+        url = raw.get("externeURL") or None
         if not url and refnr:
-            # Publiczna wyszukiwarka Bundesagentur przyjmuje refnr bezpośrednio w URL-u.
+            # Publiczna wyszukiwarka Bundesagentur przyjmuje referenznummer bezpośrednio w URL-u.
             url = f"https://www.arbeitsagentur.de/jobsuche/jobdetail/{refnr}"
         if not url:
             return None
@@ -126,9 +140,9 @@ def _parse_job(raw: dict) -> Optional[Dict]:
             "pracodawca": employer,
             "miejscowosc": ort,
             "link": url,
-            "opublikowano": raw.get("aktuelleVeroeffentlichungsdatum"),
+            "opublikowano": opublikowano,
         }
-    except (AttributeError, TypeError):
+    except (AttributeError, TypeError, IndexError):
         return None
 
 
@@ -136,7 +150,7 @@ def search_jobs_near(location_text: str) -> List[Dict]:
     """
     Szuka ofert pracy w promieniu config.JOB_SEARCH_RADIUS_KM od location_text,
     po wszystkich słowach z config.JOB_SEARCH_KEYWORDS, scalone i odduplikowane
-    po numerze referencyjnym (refnr). Zwraca listę słowników gotowych do
+    po numerze referencyjnym (referenznummer). Zwraca listę słowników gotowych do
     zapisania w Listing.nearby_jobs / JSON-ie strony ("OfertyPracy").
 
     Jeśli JOB_SEARCH_ENABLED=False, location_text jest puste, albo WSZYSTKIE
@@ -164,8 +178,8 @@ def search_jobs_near(location_text: str) -> List[Dict]:
         if not data:
             continue
 
-        for raw in data.get("stellenangebote", []):
-            refnr = raw.get("refnr")
+        for raw in data.get("ergebnisliste", []):
+            refnr = raw.get("referenznummer")
             if refnr and refnr in seen_refnr:
                 continue
             job = _parse_job(raw)
