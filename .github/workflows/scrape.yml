@@ -53,7 +53,7 @@ jobs:
         run: |
           git config user.name "immo-bot"
           git config user.email "immo-bot@users.noreply.github.com"
-          git add docs/data/latest.json data/seen_ids.json
+          git add docs/data/latest.json data/seen_ids.json data/drive_time_cache.json
           git diff --cached --quiet && { echo "Brak zmian - nic do zacommitowania"; exit 0; }
           git commit -m "Aktualizacja ofert $(date -u +'%Y-%m-%d %H:%M UTC')"
 
@@ -79,8 +79,8 @@ jobs:
               continue
             fi
             echo "Konflikt podczas rebase w pliku(-ach) z danymi - zachowuję świeżo wygenerowaną wersję z tego przebiegu."
-            git checkout --theirs docs/data/latest.json data/seen_ids.json 2>/dev/null || true
-            git add docs/data/latest.json data/seen_ids.json
+            git checkout --theirs docs/data/latest.json data/seen_ids.json data/drive_time_cache.json 2>/dev/null || true
+            git add docs/data/latest.json data/seen_ids.json data/drive_time_cache.json
             if ! git rebase --continue; then
               echo "Rebase nadal się nie udał - poddaję próbę i przerywam."
               git rebase --abort || true
