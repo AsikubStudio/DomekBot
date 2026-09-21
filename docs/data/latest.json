@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-21T07:53:13.813445+00:00",
-  "count": 113,
+  "generated_at": "2026-09-21T08:51:07.915888+00:00",
+  "count": 114,
   "sources": {
     "Kleinanzeigen": {
-      "last_updated": "2026-09-21T07:53:13.813445+00:00",
+      "last_updated": "2026-09-21T08:51:07.915888+00:00",
       "interval_hours": 3
     },
     "ImmoScout24": {
@@ -2649,6 +2649,37 @@
       "Opis": "Badewanne • Altbau\n\n2-Zimmer-Erdgeschosswohnung in Duisburg-Walsum/Vierlinden ab November 2026 zu vermieten\n\nWohnfläche: ca. 55 m²\nZimmer: 2\nEtage: Erdgeschoss\nKaltmiete: 450 €\nNebenkosten inkl. Heizkostenvorauszahlung: 140 €\nGesamtmiete: 590 €\nKaution: 1.350 €\nBezugsfrei: ab November 2026\n\nDie Wohnung befindet sich im Erdgeschoss und verfügt über ca. 55 m² Wohnfläche. Sie besteht aus einer großzügigen Wohnküche, einem Schlafzimmer sowie einem Badezimmer mit Badewanne.\n\nDie Wohnung wird unmöbliert vermietet und bietet damit die Möglichkeit, die Räume ganz nach den eigenen Vorstellungen einzurichten.\n\nBeheizt wird die Wohnung über eine Gaszentralheizung. Die monatlichen Nebenkosten betragen 140 € inklusive Heizkostenvorauszahlung.\n\nDie Wohnung befindet sich in Duisburg-Walsum/Vierlinden und ist ab November 2026 verfügbar.\n\nMietkonditionen:\n\n* Kaltmiete: 450 €\n* Nebenkosten inkl. Heizkostenvorauszahlung: 140 €\n* Gesamtmiete: 590 €\n* Kaution: 1.350 €\n* Mietbeginn: ab November 2026",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T22:45:15.892435+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "***Bitte online anfragen*** 2-Zimmer-Wohnung in Kleve-Oberstadt, Arntzstr.",
+      "Cena (€)": 594.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 57.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 9.0,
+      "Czas dojazdu (min)": null,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/-bitte-online-anfragen-2-zimmer-wohnung-in-kleve-oberstadt-arntzstr-/3496066718-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7aefb86a-36b1-44b6-a168-6c4ba6316bb4?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7aefb86a-36b1-44b6-a168-6c4ba6316bb4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/758a446a-3333-4e3c-af76-230a45362373?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e75208a0-3391-4eac-9267-27894e935158?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd7583c2-60d0-4e7a-aeb9-2e21239113ab?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a3c2d80-675d-4fca-b107-378d1a36f756?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c7c2031-09f9-4e28-8a79-3342602e1347?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/40/40b416c5-e8c5-4bdc-b53f-6770c64ebe86?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13178f4b-db1d-43ad-90cc-b0f29786afc2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eee7275c-ca84-45f6-9980-77b53815c78f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/634bead9-285f-4963-9fb3-fc715a7b70ca?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 714.0,
+      "Opis": "Bitte online anfragen! BEACHTEN SIE: Der Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n* Ihr Alter\n* Sind Haustiere vorhanden, wenn ja, welche?\n\n* Was machen Sie beruflich?\n* Rauchen Sie?\n\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-21T08:51:07.914006+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
