@@ -85,6 +85,15 @@ def print_results(listings):
         print()
 
 
+def _job_title_excluded(job: dict) -> bool:
+    """True jeśli tytuł tej oferty pracy zawiera którąkolwiek z fraz z
+    config.JOB_TITLE_EXCLUDE_KEYWORDS (bez rozróżniania wielkości liter,
+    dopasowanie fragmentu). Dotyczy ofert z OBU źródeł (Holandia i Niemcy) -
+    patrz config.py po komentarz i historię (dodane 21.09.2026, "forklift")."""
+    title = (job.get("titel") or "").lower()
+    return any(keyword.lower() in title for keyword in config.JOB_TITLE_EXCLUDE_KEYWORDS)
+
+
 def attach_nearby_jobs(listings) -> None:
     """
     Dla każdej dopasowanej oferty mieszkania szuka ofert pracy w pobliżu JEJ
@@ -93,6 +102,8 @@ def attach_nearby_jobs(listings) -> None:
     Holandii mają priorytet (użytkownik zdecydował 21.09.2026) - są na
     POCZĄTKU listy, więc pokazują się wyżej w dropdownie "Praca w pobliżu"
     na stronie (docs/index.html po prostu renderuje listę w tej kolejności).
+    Oferty, których tytuł pasuje do config.JOB_TITLE_EXCLUDE_KEYWORDS, są
+    odfiltrowane zanim trafią do listing.nearby_jobs - patrz _job_title_excluded().
 
     Cache'owane po location_text w ramach jednego przebiegu, żeby kilka
     mieszkań w tej samej miejscowości nie odpytywało API kilka razy o to samo.
@@ -106,7 +117,8 @@ def attach_nearby_jobs(listings) -> None:
         if key not in cache:
             nl_jobs = jobs_nl.search_jobs_near_nl(key) if config.JOB_SEARCH_NL_ENABLED else []
             de_jobs = jobs.search_jobs_near(key) if config.JOB_SEARCH_ENABLED else []
-            cache[key] = nl_jobs + de_jobs  # NL pierwsze = wyższy priorytet w dropdownie
+            merged = nl_jobs + de_jobs  # NL pierwsze = wyższy priorytet w dropdownie
+            cache[key] = [job for job in merged if not _job_title_excluded(job)]
         listing.nearby_jobs = cache[key]
 
     total_jobs = sum(len(l.nearby_jobs) for l in listings)

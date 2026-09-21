@@ -248,3 +248,14 @@ JOB_SEARCH_NL_KEYWORDS = [
     "animal care",
     "driver",
 ]
+
+# --- Wykluczenia z ofert pracy (dotyczy OBU źródeł: Holandia i Niemcy) ---
+# Oferta, której tytuł zawiera (bez rozróżniania wielkości liter, dopasowanie
+# fragmentu, nie całego słowa) którąkolwiek z poniższych fraz, jest całkowicie
+# pomijana zanim trafi do dropdownu "Praca w pobliżu" na stronie - patrz
+# main.py::attach_nearby_jobs. Dodane na prośbę użytkownika 21.09.2026
+# ("forklift operator") - lista jest do rozszerzania w przyszłości, jedna
+# fraza na linię, bez potrzeby zmian w kodzie.
+JOB_TITLE_EXCLUDE_KEYWORDS = [
+    "forklift",
+]

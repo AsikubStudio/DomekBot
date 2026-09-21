@@ -55,7 +55,18 @@ import config
 
 logger = logging.getLogger("immo-bot")
 
-JOBS_API_URL = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v4/jobs"
+# POPRAWIONE 21.09.2026 (wieczorem): ten plik przez dłuższy czas miał tu
+# "pc/v4/jobs" (patrz docstring modułu wyżej - historia z 20.09.2026, kiedy
+# to wyglądało na poprawną ścieżkę). Ale zapiski projektu z 21.09.2026 po
+# południu dokumentują, że OSTATECZNIE potwierdzoną na żywo, działającą
+# ścieżką (zero błędów 403, realne wyniki w dropdownie) jest "pc/v6/jobs" -
+# ta zmiana najwyraźniej nie trafiła z powrotem do tego pliku. Potwierdzone
+# ponownie na żywo 21.09.2026 wieczorem: "pc/v4/jobs" dawało 403 "No match
+# found for request for url" na WSZYSTKICH ~280 zapytaniach w jednym
+# przebiegu (zero sukcesów) - identyczny błąd jak opisany w docstring dla
+# złej ścieżki. Jeśli to nadal się powtórzy mimo "pc/v6/jobs", sprawdź
+# ręcznie przez curl z komputera użytkownika (patrz docstring wyżej).
+JOBS_API_URL = "https://rest.arbeitsagentur.de/jobboerse/jobsuche-service/pc/v6/jobs"
 
 # Ten string to DOKĹADNA wartoĹ›Ä‡ User-Agent oficjalnej apki mobilnej "Jobsuche",
 # skopiowana z api_example.py w repo bundesAPI/jobsuche-api. Celowo NIE uĹĽywamy
