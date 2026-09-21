@@ -153,7 +153,21 @@ MIN_SIZE_SQM = 30
 # API jest darmowe i publiczne (reverse-engineered z oficjalnej apki mobilnej
 # Bundesagentur für Arbeit, ale stabilne, szeroko używane) - nie wymaga
 # zakładania konta ani własnego klucza, patrz jobs.py.
-JOB_SEARCH_ENABLED = True
+#
+# WYŁĄCZONE 21.09.2026 na prośbę użytkownika: mechanika API działa poprawnie
+# (endpoint /pc/v6/jobs, potwierdzone żywym przebiegiem - zero błędów 403,
+# realne wyniki w dropdownie na stronie), ALE dobór samych ofert jest za mało
+# precyzyjny - część zwracanych ofert wymaga niemieckiego na poziomie
+# native/C1 mimo doboru słów kluczowych pod branże "bez niemieckiego"
+# (np. "Sehr gute Deutschkenntnisse auf Muttersprachenniveau" w treści
+# konkretnej oferty). Żeby to filtrować, trzeba by sprawdzać PEŁNY opis
+# każdej oferty przez osobny endpoint szczegółów (/pc/v4/jobdetails/{kod},
+# NIEZWERYFIKOWANY jeszcze na żywo) - to dodatkowe zapytanie PER oferta,
+# więc wymaga najpierw globalnego dedupe ofert w całym przebiegu (nie tylko
+# per-mieszkanie jak teraz) i trwałego cache'a między przebiegami, żeby nie
+# wydłużyć każdego przebiegu o kolejne kilkanaście-kilkadziesiąt minut.
+# Ustaw z powrotem na True dopiero po wdrożeniu tego filtra opisu.
+JOB_SEARCH_ENABLED = False
 JOB_SEARCH_RADIUS_KM = 30   # promień wokół KAŻDEJ oferty mieszkania (nie Emmerich)
 JOB_SEARCH_EMPLOYMENT_TYPES = ["vz", "tz"]   # vz=pełny etat, tz=część etatu (kody Bundesagentur)
 JOB_SEARCH_MAX_RESULTS_PER_KEYWORD = 10      # limit wyników na słowo kluczowe - dropdown ma być czytelny, nie zalany
