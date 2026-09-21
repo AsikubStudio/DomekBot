@@ -15,7 +15,13 @@ echo === Uruchamiam bota (tylko ImmoScout24, lokalnie) ===
 python main.py --site immoscout24_local --no-save
 
 echo === Zapisuje wyniki do repo ===
-git add docs\data\latest.json data\seen_ids.json data\drive_time_cache.json
+REM data\drive_time_cache.json (trwaly cache czasu dojazdu OpenRouteService) moze
+REM jeszcze NIE ISTNIEC na dysku (np. dopoki limit ORS jest wyczerpany). "git add"
+REM z pathspecem ktory nie pasuje do zadnego pliku przerywa CALA komende, wiec
+REM docs\data\latest.json i data\seen_ids.json (ktore istnieja zawsze) tez nigdy
+REM by sie nie zacommitowaly. Dlatego dodajemy ten plik warunkowo.
+git add docs\data\latest.json data\seen_ids.json
+if exist data\drive_time_cache.json git add data\drive_time_cache.json
 git diff --cached --quiet
 if %errorlevel% equ 0 (
     echo Brak zmian - nic do zacommitowania.
