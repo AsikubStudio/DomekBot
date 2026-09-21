@@ -20,6 +20,7 @@ from datetime import datetime
 
 import config
 import jobs
+import jobs_nl
 import notify
 import publish
 from filters import apply_all_filters
@@ -87,23 +88,33 @@ def print_results(listings):
 def attach_nearby_jobs(listings) -> None:
     """
     Dla każdej dopasowanej oferty mieszkania szuka ofert pracy w pobliżu JEJ
-    lokalizacji (nie Emmerich) - patrz jobs.py. Cache'owane po location_text w
-    ramach jednego przebiegu, żeby kilka mieszkań w tej samej miejscowości nie
-    odpytywało Bundesagentur API kilka razy o to samo.
+    lokalizacji (nie Emmerich) - Holandia (jobs_nl.py, Adzuna) i Niemcy
+    (jobs.py, Bundesagentur für Arbeit), scalone w JEDNĄ listę. Oferty z
+    Holandii mają priorytet (użytkownik zdecydował 21.09.2026) - są na
+    POCZĄTKU listy, więc pokazują się wyżej w dropdownie "Praca w pobliżu"
+    na stronie (docs/index.html po prostu renderuje listę w tej kolejności).
+
+    Cache'owane po location_text w ramach jednego przebiegu, żeby kilka
+    mieszkań w tej samej miejscowości nie odpytywało API kilka razy o to samo.
     """
-    if not config.JOB_SEARCH_ENABLED or not listings:
+    if not listings or not (config.JOB_SEARCH_NL_ENABLED or config.JOB_SEARCH_ENABLED):
         return
 
     cache: dict[str, list] = {}
     for listing in listings:
         key = listing.location_text
         if key not in cache:
-            cache[key] = jobs.search_jobs_near(key)
+            nl_jobs = jobs_nl.search_jobs_near_nl(key) if config.JOB_SEARCH_NL_ENABLED else []
+            de_jobs = jobs.search_jobs_near(key) if config.JOB_SEARCH_ENABLED else []
+            cache[key] = nl_jobs + de_jobs  # NL pierwsze = wyższy priorytet w dropdownie
         listing.nearby_jobs = cache[key]
 
     total_jobs = sum(len(l.nearby_jobs) for l in listings)
-    logger.info("Oferty pracy w pobliżu: %d unikalnych lokalizacji sprawdzonych, %d ofert pracy łącznie.",
-                len(cache), total_jobs)
+    total_nl = sum(1 for l in listings for job in l.nearby_jobs if job.get("kraj") == "NL")
+    logger.info(
+        "Oferty pracy w pobliżu: %d unikalnych lokalizacji sprawdzonych, %d ofert pracy łącznie (%d z Holandii).",
+        len(cache), total_jobs, total_nl,
+    )
 
 
 def save_results(listings):

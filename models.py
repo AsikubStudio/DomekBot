@@ -42,9 +42,12 @@ class Listing:
     drive_minutes: Optional[int] = None
 
     # Oferty pracy w pobliżu TEJ konkretnej oferty (nie wokół Emmerich) - wypełniane
-    # w main.py PO apply_all_filters(), przez jobs.py::search_jobs_near(location_text).
-    # Puste jeśli JOB_SEARCH_ENABLED=False, brak lokalizacji, albo Bundesagentur API
-    # zawiodło - front-end (docs/index.html) po prostu nie pokazuje wtedy dropdownu.
+    # w main.py::attach_nearby_jobs() PO apply_all_filters(), łącznie z Holandii
+    # (jobs_nl.py::search_jobs_near_nl, priorytet - na początku listy) i Niemiec
+    # (jobs.py::search_jobs_near). Każdy wpis ma pole "kraj": "NL"/"DE".
+    # Puste jeśli oba źródła wyłączone (config.JOB_SEARCH_NL_ENABLED i
+    # JOB_SEARCH_ENABLED), brak lokalizacji, albo oba API zawiodły - front-end
+    # (docs/index.html) po prostu nie pokazuje wtedy dropdownu.
     nearby_jobs: List[dict] = field(default_factory=list)
 
     def as_row(self) -> dict:

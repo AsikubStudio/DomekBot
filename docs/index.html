@@ -1076,9 +1076,10 @@
         const pracodawca = escapeHtml(job.pracodawca || '?');
         const miejscowosc = job.miejscowosc ? ` · ${escapeHtml(job.miejscowosc)}` : '';
         const link = job.link || '#';
+        const flaga = job.kraj === 'NL' ? '🇳🇱 ' : (job.kraj === 'DE' ? '🇩🇪 ' : '');
         return `
           <div class="job-item">
-            <div class="job-item-title">${tytul}</div>
+            <div class="job-item-title">${flaga}${tytul}</div>
             <div class="job-item-meta">${pracodawca}${miejscowosc}</div>
             <a class="job-item-link" href="${escapeHtml(link)}" target="_blank" rel="noopener">Zobacz ofertę →</a>
           </div>

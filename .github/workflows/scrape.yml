@@ -39,6 +39,8 @@ jobs:
           VAPID_PRIVATE_KEY_PEM: ${{ secrets.VAPID_PRIVATE_KEY_PEM }}
           VAPID_CLAIMS_EMAIL: ${{ secrets.VAPID_CLAIMS_EMAIL }}
           ORS_API_KEY: ${{ secrets.ORS_API_KEY }}
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python main.py --no-save
 
       - name: Zapisz zrzut ekranu ImmoScout24 (debug)
@@ -54,14 +56,12 @@ jobs:
           git config user.name "immo-bot"
           git config user.email "immo-bot@users.noreply.github.com"
 
-          # data/drive_time_cache.json (trwały cache czasu dojazdu OpenRouteService)
-          # może jeszcze NIE ISTNIEĆ na dysku (np. dopóki limit ORS jest wyczerpany
-          # i żaden nowy wpis nie został jeszcze policzony/zapisany). "git add" z
-          # pathspecem, który nie pasuje do ŻADNEGO pliku, przerywa CAŁĄ komendę
-          # (fatal: pathspec ... did not match any files) - a razem z nią, pod bash -e,
-          # cały ten krok, więc docs/data/latest.json i data/seen_ids.json (które
-          # istnieją zawsze) też nigdy by się nie zacommitowały. Dlatego dodajemy
-          # ten plik warunkowo, tylko jeśli faktycznie istnieje.
+          # data/drive_time_cache.json (trwaly cache czasu dojazdu OpenRouteService)
+          # moze jeszcze NIE ISTNIEC na dysku (np. dopoki limit ORS jest wyczerpany).
+          # "git add" z pathspecem ktory nie pasuje do zadnego pliku przerywa CALA
+          # komende, wiec docs/data/latest.json i data/seen_ids.json (ktore istnieja
+          # zawsze) tez nigdy by sie nie zacommitowaly. Dlatego dodajemy ten plik
+          # warunkowo (naprawione 21.09.2026).
           git add docs/data/latest.json data/seen_ids.json
           if [ -f data/drive_time_cache.json ]; then
             git add data/drive_time_cache.json
@@ -91,10 +91,6 @@ jobs:
               continue
             fi
             echo "Konflikt podczas rebase w pliku(-ach) z danymi - zachowuję świeżo wygenerowaną wersję z tego przebiegu."
-            # Ta sama zasada co przy pierwszym "git add" wyżej: budujemy listę
-            # plików do "checkout --theirs" / "add" i dorzucamy cache czasu
-            # dojazdu tylko jeśli faktycznie istnieje, żeby nie przerwać całej
-            # komendy przez nieistniejący pathspec.
             DATA_FILES="docs/data/latest.json data/seen_ids.json"
             if [ -f data/drive_time_cache.json ]; then
               DATA_FILES="$DATA_FILES data/drive_time_cache.json"

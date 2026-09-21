@@ -102,6 +102,22 @@ _DRIVE_TIME_CACHE: Dict[str, int] = _load_drive_time_cache()
 # 51°52'35"N 6°14'45"E.
 SHEERENBERG_COORDS = (51.87639, 6.24583)
 
+# Kilka "kotwic" po holenderskiej stronie granicy, uzywanych do wyszukiwania
+# ofert pracy w Holandii (patrz jobs_nl.py) - ten sam pomysl co
+# SHEERENBERG_COORDS wyzej, tylko kilka punktow zamiast jednego, zeby kazda
+# oferta mieszkania dostala NAJBLIZSZY sobie punkt odniesienia (patrz
+# nearest_dutch_job_anchor() nizej), tak samo jak niemieckie wyszukiwanie
+# pracy w jobs.py uzywa lokalizacji KAZDEJ oferty osobno, a nie jednego
+# stalego miasta. Wspolrzedne przyblizone (centrum miejscowosci), zrodlo:
+# Wikipedia / OpenStreetMap.
+DUTCH_JOB_ANCHORS: Dict[str, Tuple[float, float]] = {
+    "'s-Heerenberg": SHEERENBERG_COORDS,
+    "Zevenaar": (51.9303, 6.0736),
+    "Doetinchem": (51.9647, 6.2880),
+    "Arnhem": (51.9851, 5.8987),
+    "Nijmegen": (51.8425, 5.8528),
+}
+
 
 def _haversine_km(lat1, lon1, lat2, lon2) -> float:
     R = 6371.0
@@ -167,6 +183,43 @@ def distance_from_sheerenberg_km(location_text: str) -> Optional[float]:
     if not target:
         return None
     return round(_haversine_km(*SHEERENBERG_COORDS, *target), 1)
+
+
+def nearest_dutch_job_anchor(location_text: str) -> Optional[Tuple[str, float]]:
+    """
+    Zwraca (nazwa_miejscowosci, dystans_km) najblizszej "kotwicy" z
+    DUTCH_JOB_ANCHORS wzgledem geokodowanej lokalizacji oferty mieszkania.
+    Uzywane przez jobs_nl.py jako punkt "where" dla Adzuna API (Adzuna nie
+    przyjmuje wspolrzednych lat/lon bezposrednio w darmowym publicznym API,
+    tylko nazwe miejscowosci + promien w km) - dzieki temu wyszukiwanie pracy
+    w Holandii jest zwiazane z konkretna lokalizacja KAZDEJ oferty, tak samo
+    jak niemieckie wyszukiwanie w jobs.py, a nie ze stalym jednym miastem.
+
+    Korzysta z tego samego geocode() co reszta modulu (lru_cache) - jesli ta
+    lokalizacja byla juz geokodowana wczesniej w tym przebiegu (np. przez
+    distance_from_center_km albo distance_from_sheerenberg_km), nie robi
+    drugiego requestu do Nominatim.
+
+    Zwraca None jesli geokodowanie sie nie uda (np. brak internetu) - wtedy
+    jobs_nl.py po prostu pomija te oferte, tak jak przy braku klucza API.
+    """
+    if not location_text:
+        return None
+    target = geocode(f"{location_text}, Germany")
+    if not target:
+        return None
+
+    nearest_name: Optional[str] = None
+    nearest_dist: Optional[float] = None
+    for name, coords in DUTCH_JOB_ANCHORS.items():
+        dist = _haversine_km(*coords, *target)
+        if nearest_dist is None or dist < nearest_dist:
+            nearest_dist = dist
+            nearest_name = name
+
+    if nearest_name is None or nearest_dist is None:
+        return None
+    return nearest_name, round(nearest_dist, 1)
 
 
 def is_known_nearby_place(location_text: str) -> bool:

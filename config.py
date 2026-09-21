@@ -164,20 +164,19 @@ MIN_SIZE_SQM = 30
 # Bundesagentur für Arbeit, ale stabilne, szeroko używane) - nie wymaga
 # zakładania konta ani własnego klucza, patrz jobs.py.
 #
-# WYŁĄCZONE 21.09.2026 na prośbę użytkownika: mechanika API działa poprawnie
-# (endpoint /pc/v6/jobs, potwierdzone żywym przebiegiem - zero błędów 403,
-# realne wyniki w dropdownie na stronie), ALE dobór samych ofert jest za mało
-# precyzyjny - część zwracanych ofert wymaga niemieckiego na poziomie
-# native/C1 mimo doboru słów kluczowych pod branże "bez niemieckiego"
-# (np. "Sehr gute Deutschkenntnisse auf Muttersprachenniveau" w treści
-# konkretnej oferty). Żeby to filtrować, trzeba by sprawdzać PEŁNY opis
+# PONOWNIE WŁĄCZONE 21.09.2026 na prośbę użytkownika, RAZEM z nowym
+# wyszukiwaniem pracy w Holandii (patrz jobs_nl.py i JOB_SEARCH_NL_* niżej).
+# Znany, nierozwiązany problem (powód wcześniejszego wyłączenia): dobór ofert
+# niemieckich jest za mało precyzyjny - część zwracanych ofert wymaga
+# niemieckiego na poziomie native/C1 mimo doboru słów kluczowych pod branże
+# "bez niemieckiego" (np. "Sehr gute Deutschkenntnisse auf Muttersprachenniveau"
+# w treści konkretnej oferty). Żeby to naprawić, trzeba by sprawdzać PEŁNY opis
 # każdej oferty przez osobny endpoint szczegółów (/pc/v4/jobdetails/{kod},
-# NIEZWERYFIKOWANY jeszcze na żywo) - to dodatkowe zapytanie PER oferta,
-# więc wymaga najpierw globalnego dedupe ofert w całym przebiegu (nie tylko
-# per-mieszkanie jak teraz) i trwałego cache'a między przebiegami, żeby nie
-# wydłużyć każdego przebiegu o kolejne kilkanaście-kilkadziesiąt minut.
-# Ustaw z powrotem na True dopiero po wdrożeniu tego filtra opisu.
-JOB_SEARCH_ENABLED = False
+# NIEZWERYFIKOWANY jeszcze na żywo) - nie wdrożone. Użytkownik zaakceptował to
+# ograniczenie świadomie: oferty z Holandii (JOB_SEARCH_NL_ENABLED) mają
+# priorytet i pokazują się WYŻEJ w dropdownie "Praca w pobliżu" (patrz
+# main.py::attach_nearby_jobs), niemieckie oferty trzeba i tak przejrzeć ręcznie.
+JOB_SEARCH_ENABLED = True
 JOB_SEARCH_RADIUS_KM = 30   # promień wokół KAŻDEJ oferty mieszkania (nie Emmerich)
 JOB_SEARCH_EMPLOYMENT_TYPES = ["vz", "tz"]   # vz=pełny etat, tz=część etatu (kody Bundesagentur)
 JOB_SEARCH_MAX_RESULTS_PER_KEYWORD = 10      # limit wyników na słowo kluczowe - dropdown ma być czytelny, nie zalany
@@ -204,4 +203,48 @@ JOB_SEARCH_KEYWORDS = [
     "Quereinsteiger",
     "Tierpfleger",
     "Fahrer",
+]
+
+# --- Oferty pracy w Holandii w pobliżu ZNALEZIONYCH mieszkań (Adzuna API) ---
+# DODANE 21.09.2026 na prośbę użytkownika: priorytet dla ofert pracy w Holandii,
+# bo szukanie bez wymaganego niemieckiego jest tam zazwyczaj prostsze niż po
+# niemieckiej stronie (patrz JOB_SEARCH_ENABLED wyżej). Działa RÓWNOLEGLE z
+# niemieckim wyszukiwaniem (jobs.py), NIE zamiast niego - main.py::
+# attach_nearby_jobs scala obie listy, wyniki z Holandii na początku (wyżej
+# w dropdownie "Praca w pobliżu" na stronie).
+#
+# Ta sama logika "promienia wokół KAŻDEJ oferty mieszkania" co niemieckie
+# wyszukiwanie, tylko że Adzuna (w odróżnieniu od Bundesagentur) nie przyjmuje
+# współrzędnych lat/lon w darmowym publicznym API - trzeba podać nazwę
+# miejscowości. Dlatego każda oferta mieszkania dostaje NAJBLIŻSZĄ jej
+# holenderską "kotwicę" graniczną jako punkt wyszukiwania - patrz
+# utils/geo.py::nearest_dutch_job_anchor() / DUTCH_JOB_ANCHORS.
+#
+# Rejestracja (darmowa, natychmiastowa, bez karty płatniczej):
+# https://developer.adzuna.com/ - klucze (App ID + App Key) wczytywane tak
+# samo jak ORS_API_KEY (patrz utils/geo.py):
+#   - w chmurze (GitHub Actions): sekrety repo ADZUNA_APP_ID / ADZUNA_APP_KEY
+#   - lokalnie (ImmoScout24): local_secrets/adzuna_app_id.txt / adzuna_app_key.txt
+JOB_SEARCH_NL_ENABLED = True
+JOB_SEARCH_NL_COUNTRY = "nl"     # kod kraju Adzuna (endpoint /v1/api/jobs/{country}/search/...)
+JOB_SEARCH_NL_RADIUS_KM = 20     # promień (km) wokół najbliższej "kotwicy" (patrz utils/geo.py)
+JOB_SEARCH_NL_MAX_RESULTS_PER_KEYWORD = 10
+
+# Słowa kluczowe po angielsku - Adzuna w Holandii agreguje dużo ogłoszeń
+# publikowanych po angielsku (region przygraniczny/logistyka/e-commerce często
+# nie wymaga niderlandzkiego), więc angielskie słowa trafiają szerzej niż
+# niderlandzkie tłumaczenia dosłowne. Dobrane pod ten sam profil co
+# JOB_SEARCH_KEYWORDS wyżej (magazyn/logistyka, e-commerce, obsługa klienta,
+# grafika/3D, "bez doświadczenia", opieka nad zwierzętami, kierowca).
+JOB_SEARCH_NL_KEYWORDS = [
+    "warehouse",
+    "order picker",
+    "logistics",
+    "e-commerce",
+    "customer service",
+    "graphic design",
+    "3D visualization",
+    "no experience required",
+    "animal care",
+    "driver",
 ]
