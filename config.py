@@ -121,6 +121,16 @@ OUTPUT_DIR = "results"
 PUBLISH_JSON_PATH = "docs/data/latest.json"   # czyta to strona w docs/index.html
 SEEN_IDS_PATH = "data/seen_ids.json"          # pamiec "co juz widzielismy" miedzy uruchomieniami
 
+# Trwaly cache czasu dojazdu autem (OpenRouteService) miedzy uruchomieniami - patrz
+# utils/geo.py::drive_time_minutes(). Bez tego kazde uruchomienie (co 3h w chmurze
+# I co godzine lokalnie dla ImmoScout24 = ~32x dziennie) liczylo od nowa czas
+# dojazdu dla tych samych ~30-40 miejscowosci w promieniu, co szybko wyczerpalo
+# darmowy dzienny limit ORS (21.09.2026: "Quota exceeded" na WSZYSTKICH zapytaniach).
+# Trasa Emmerich->dana miejscowosc praktycznie sie nie zmienia, wiec raz policzony
+# wynik jest cache'owany NA STALE (bez wygasania) - tylko naprawde NOWE miejscowosci
+# (nowe oferty w nieznanym wczesniej miejscu) wywoluja kolejne zapytanie do ORS.
+DRIVE_TIME_CACHE_PATH = "data/drive_time_cache.json"
+
 # Co ile godzin (w teorii) kazde zrodlo sie odswieza - uzywane TYLKO do wyswietlenia
 # odliczania na stronie ("kolejne sprawdzenie za..."), nie steruje samym scraperem.
 # Kleinanzeigen: harmonogram GitHub Actions (.github/workflows/scrape.yml).

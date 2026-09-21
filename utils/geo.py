@@ -4,19 +4,30 @@ w zasięgu wyszukiwania. Geokodowanie idzie przez darmowe Nominatim (OpenStreetM
 nie wymaga klucza API, ale trzeba szanować limity (1 request/s, ustawiony User-Agent).
 
 GŁÓWNE kryterium zasięgu to CZAS DOJAZDU AUTEM (nie odległość w linii prostej) -
-liczony przez OpenRouteService (openrouteservice.org), darmowy plan po rejestracji
-(2500 zapytań/dzień - patrz drive_time_minutes()). Jeśli OpenRouteService zawiedzie
-(brak klucza API, limit, awaria, timeout) - evaluate_location() automatycznie
-WRACA na starą metodę: odległość w linii prostej (config.MAX_DISTANCE_KM_FALLBACK).
-Jeśli i geokodowanie się nie uda, ostatni fallback to KNOWN_NEARBY_PLACES z
-config.py - dopasowanie tekstowe nazwy miejscowości.
+liczony przez OpenRouteService (openrouteservice.org), darmowy plan po rejestracji.
+Jeśli OpenRouteService zawiedzie (brak klucza API, limit, awaria, timeout) -
+evaluate_location() automatycznie WRACA na starą metodę: odległość w linii prostej
+(config.MAX_DISTANCE_KM_FALLBACK). Jeśli i geokodowanie się nie uda, ostatni fallback
+to KNOWN_NEARBY_PLACES z config.py - dopasowanie tekstowe nazwy miejscowości.
+
+WAŻNE (od 21.09.2026): drive_time_minutes() ma TRWAŁY cache na dysku
+(config.DRIVE_TIME_CACHE_PATH), bo darmowy limit ORS okazał się za mały na
+~32 uruchomienia dziennie (co 3h w chmurze + co godzinę lokalnie dla
+ImmoScout24) licząc od nowa te same ~30-40 miejscowości za każdym razem -
+skończyło się to błędem "Quota exceeded" na WSZYSTKICH zapytaniach. Raz
+policzony wynik dla danej miejscowości jest zapamiętywany NA STAŁE (trasa
+Emmerich->dana miejscowość praktycznie się nie zmienia) - patrz
+_load_drive_time_cache()/_save_drive_time_cache() niżej. Plik cache jest
+commitowany do repo (tak jak data/seen_ids.json), żeby chmura i lokalne
+uruchomienia dzieliły tę samą wiedzę zamiast liczyć osobno.
 """
+import json
 import os
 import time
 import math
 import logging
 from functools import lru_cache
-from typing import Optional, Tuple
+from typing import Dict, Optional, Tuple
 
 import requests
 
@@ -54,6 +65,35 @@ def _read_local_secret(filename: str) -> Optional[str]:
 
 def _get_ors_api_key() -> Optional[str]:
     return os.environ.get("ORS_API_KEY") or _read_local_secret("ors_api_key.txt")
+
+
+def _load_drive_time_cache() -> Dict[str, int]:
+    path = config.DRIVE_TIME_CACHE_PATH
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            return data
+    except (json.JSONDecodeError, OSError) as exc:
+        logger.warning("Nie udało się wczytać %s (%s) - zaczynam z pustym cache czasu dojazdu.", path, exc)
+    return {}
+
+
+def _save_drive_time_cache() -> None:
+    path = config.DRIVE_TIME_CACHE_PATH
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(dict(sorted(_DRIVE_TIME_CACHE.items())), f, ensure_ascii=False, indent=2)
+    except OSError as exc:
+        logger.warning("Nie udało się zapisać %s (%s) - cache zostaje tylko w pamięci tego przebiegu.", path, exc)
+
+
+# Wczytywany RAZ przy imporcie modułu, aktualizowany (i zapisywany na dysk) przy
+# każdym nowo policzonym czasie dojazdu - patrz drive_time_minutes() niżej.
+_DRIVE_TIME_CACHE: Dict[str, int] = _load_drive_time_cache()
 
 # Wspolrzedne 's-Heerenberg (Holandia, Gelderland, tuz przy granicy z Niemcami kolo
 # Emmerich) - zaszyte na sztywno zamiast geokodowane przy kazdym uruchomieniu, bo to
@@ -141,13 +181,24 @@ def is_known_nearby_place(location_text: str) -> bool:
 def drive_time_minutes(location_text: str) -> Optional[int]:
     """
     Zwraca czas dojazdu autem (w minutach, zaokrąglony) z CENTER_CITY do
-    location_text, licząc przez OpenRouteService. None jeśli brak klucza API,
-    geokodowanie się nie uda, albo zapytanie do ORS zawiedzie (limit, awaria,
-    timeout) - w każdym z tych przypadków evaluate_location() spada na
-    zapasowe kryterium (odległość w linii prostej).
+    location_text. Najpierw sprawdza TRWAŁY cache na dysku (_DRIVE_TIME_CACHE,
+    patrz wyżej) - jeśli ta miejscowość była już kiedyś policzona, zwraca
+    zapamiętany wynik BEZ pytania OpenRouteService. Tylko dla naprawdę nowych
+    miejscowości leci zapytanie do ORS; udany wynik od razu trafia do cache
+    (w pamięci i na dysk), żeby kolejne uruchomienia (za 3h w chmurze, za
+    godzinę lokalnie) go już nie przeliczały.
+
+    Zwraca None jeśli brak klucza API, geokodowanie się nie uda, albo zapytanie
+    do ORS zawiedzie (limit/quota, awaria, timeout) - w każdym z tych przypadków
+    NIE cache'ujemy (żeby po ustąpieniu problemu kolejny przebieg spróbował
+    znowu), a evaluate_location() spada na zapasowe kryterium (odległość w
+    linii prostej).
     """
     if not location_text:
         return None
+
+    if location_text in _DRIVE_TIME_CACHE:
+        return _DRIVE_TIME_CACHE[location_text]
 
     api_key = _get_ors_api_key()
     if not api_key:
@@ -181,7 +232,10 @@ def drive_time_minutes(location_text: str) -> Optional[int]:
         resp.raise_for_status()
         data = resp.json()
         duration_sec = data["features"][0]["properties"]["segments"][0]["duration"]
-        return round(duration_sec / 60)
+        minutes = round(duration_sec / 60)
+        _DRIVE_TIME_CACHE[location_text] = minutes
+        _save_drive_time_cache()
+        return minutes
     except (requests.RequestException, ValueError, KeyError, IndexError) as exc:
         logger.warning("OpenRouteService: nie udało się policzyć czasu dojazdu dla '%s' (%s) - "
                         "spadam na dystans w linii prostej.", location_text, exc)

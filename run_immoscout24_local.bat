@@ -15,7 +15,7 @@ echo === Uruchamiam bota (tylko ImmoScout24, lokalnie) ===
 python main.py --site immoscout24_local --no-save
 
 echo === Zapisuje wyniki do repo ===
-git add docs\data\latest.json data\seen_ids.json
+git add docs\data\latest.json data\seen_ids.json data\drive_time_cache.json
 git diff --cached --quiet
 if %errorlevel% equ 0 (
     echo Brak zmian - nic do zacommitowania.
