@@ -22,6 +22,7 @@ REM docs\data\latest.json i data\seen_ids.json (ktore istnieja zawsze) tez nigdy
 REM by sie nie zacommitowaly. Dlatego dodajemy ten plik warunkowo.
 git add docs\data\latest.json data\seen_ids.json
 if exist data\drive_time_cache.json git add data\drive_time_cache.json
+if exist data\job_commute_cache.json git add data\job_commute_cache.json
 git diff --cached --quiet
 if %errorlevel% equ 0 (
     echo Brak zmian - nic do zacommitowania.
