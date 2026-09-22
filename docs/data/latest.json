@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:33:03.450947+00:00",
+  "generated_at": "2026-09-22T20:11:20.735007+00:00",
   "count": 108,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-22T18:33:03.450947+00:00",
+      "last_updated": "2026-09-22T20:11:20.735007+00:00",
       "interval_hours": 3
     }
   },
@@ -20907,7 +20907,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4d42114a-63a8-4bfc-808b-1bca48396caa?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e810c76f-1401-484e-a734-1e00d4a52338?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -20927,10 +20927,23 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ebed9b9-6b9e-4995-84ef-b10f57e97ccc?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c2c717a-6a40-4246-87a6-174ca5a9f308?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c2c717a-6a40-4246-87a6-174ca5a9f308?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/488e084a-72f7-4342-9519-572a975a6a09?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a267ef6e-0896-4d5a-a50d-f6996db9c20c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/9738d283-3597-4cad-8916-b2acad910449?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/9871a2b4-e153-4337-b35d-2f294bc4f498?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14c97408-e66e-43f0-a5e6-21cb1c1eb06c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c91404b-ed08-4b01-a887-2984441cf06c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b2f3946-9117-4762-854e-218beda59089?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cca5963-0809-4307-946e-07c07586168f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9f8ddb6-37b9-401d-bcbb-ac8c87e777f6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6fa6c6a-bcf3-49cd-925d-f2fca70d2651?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81bf9895-54d3-436b-88d8-234b4183830d?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 600.0,
+      "Opis": "Badewanne • Keller • Garten/-mitnutzung\n\nRentmeisterstraße – der Name klingt, als hätte hier früher jemand die Mieten verwaltet. Heute wohnt man einfach gut in ihr. Neun Einheiten, beide Straßenseiten besetzt, Fahrn. Wer die Oderstraße kennt, weiß, was ihn erwartet: ein Stadtteil, der sich nicht aufspielt, eine Straße, die das auch nicht tut, und Nachbarn, die das ähnlich sehen. Das nennt man Konsistenz.\n\nKaltmiete: 395,00 EUR\nBetriebskosten: 205,00 EUR\nHeizkosten: 95,00 EUR\nWarmmiete: 695,00 EUR\n\nACHTUNG!\nAnmietung über das Jobcenter für einen Ein- und Zwei-Personenhaushalt ist NICHT möglich. Die Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n_________________________________________________\n\nRentmeisterstraße – the name sounds like someone used to manage the rents here. Today, people simply live well on it. Nine units, both sides of the street accounted for, Fahrn. Those who know Oderstraße know what to expect: a district that doesn't put on airs, a street that doesn't either, and neighbours who feel the same. That's what you call consistency.\n\nCold rent: EUR395.00\nUtility costs: EUR205.00\nHeating costs: EUR95.00\nWarm rent: EUR695.00\n\nATTENTION!\nRenting through the Jobcenter for a one- or two-person household is NOT possible. The gross cold rent exceeds the assessment limit set by the authority.\n\n# Ausstattung\nruhiges Zwei-Parteienhaus\nWohnküche, Wohn- und Schlafzimmer, Diele, Wannenbad\nfrisch renoviert\ngeweißte Wände mit Raufasertapete\nVinylboden in Holzoptik\nWohnküche mit weißem Fliesenspiegel, mit Zugang zum Wohnzimmer\nWannenbad mit Fenster, weißgefliest\nGegensprechanlage\nGemeinschaftsgarten\neigenes Kellerabteil\nHausmeisterservice\n_______________________________\n\nQuiet two-family house\nKitchen-living room, living room and bedroom, hallway, bathroom with bathtub\nFreshly renovated\nWhitewashed walls with woodchip wallpaper\nWood-look vinyl flooring\nKitchen-living room with white tiled splashback, with access to the living room\nBathroom with bathtub, window, white tiling\nIntercom system\nShared garden\nOwn cellar compartment\nCaretaker service\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Rentmeisterstraße liegt im Stadtteil Duisburg-Fahrn, einem kleinen, durch einen Grüngürtel vom Umfeld abgetrennten Wohnstadtteil im Norden Duisburgs. Die Grundversorgung ist über die Weseler Straße als Hauptachse gesichert; das benachbarte Aldenrade ergänzt das Angebot. Kindergärten, eine Grund-, Real- und Förderschule sind im Stadtteil vorhanden. Die Straßenbahn 903 sowie Buslinien verbinden Fahrn mit dem weiteren Stadtgebiet. Die A 59 verläuft an der östlichen Stadtteilgrenze.\n\n__________________________________________________\n\nRentmeisterstraße is located in the district of Duisburg-Fahrn, a small residential neighbourhood in northern Duisburg separated from its surroundings by a narrow green belt. Basic amenities are provided along the Weseler Straße as the main artery, with the adjacent district of Aldenrade extending the offering. Kindergartens, a primary school, a secondary modern and a special needs school are available within the district. Tram line 903 and bus routes connect Fahrn to the wider city. The A 59 motorway runs along the eastern district boundary.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n_______________________________\n\nAre you interested in this apartment and would like to view it?\nThen don't waste any time — get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an enquiry with your full contact details, and we will get back to you.\n\nThis offer is non-binding and subject to error.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 885-1012-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 294.3 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 05.05.2025\n- Baujahr (gemäß Energieausweis): 1900\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 885-1012-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
@@ -21047,9 +21060,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/-helle-2-zimmer-wohnung-mit-ruhiger-und-dennoch-zentraler-lage-/3508590185-203-1290",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02be9d14-57ac-49d6-9a08-dbfc03780040?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02be9d14-57ac-49d6-9a08-dbfc03780040?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/0452ff53-9d7c-4966-8b4d-9724fc25e2a2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a69c913-f8da-4b18-bb0e-a0a43a47e06e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5696077-0c25-4622-8bff-699b4e09bb7e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b70476af-acc9-44b1-be1b-ebd697082aca?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c43f41f4-4418-40ea-be6d-5919fd400bc6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1ba19c38-c0f7-432b-908e-4625c931bfc2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0ce08e1-3341-4f80-9810-2fe8bc117f84?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0eff1b39-3f4e-4bf0-8006-c7c2e6ba38bb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6fae5eba-4c56-4d2b-8e51-599800ffdc36?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e48d2f4-7458-4655-8d76-8dcf618aeab9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/640b4f8a-1d8a-4f53-9c2b-8d6cad9ab2d2?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 610.0,
+      "Opis": "Balkon\n\nVirtueller Rundgang: https://my.matterport.com/show/?m=Vvjjt2fsxYf\n\nIhr neues Zuhause steht bereit! Diese charmante 2-Zimmer-Wohnung befindet sich im Erdgeschoss eines Wohngebäudes aus dem Jahr 1958. Mit einer Wohnfläche von rund 48 m² bietet sie genügend Platz für Sie und Ihre Liebsten.\n\nDie Wohnung überzeugt durch ihre hellen, freundlichen Räume, die durch die Fenster viel Tageslicht einlassen. Der Boden in stilvoller Holzoptik verleiht den Zimmern eine warme und einladende Atmosphäre, perfekt zum Entspannen und Wohlfühlen.\n\nDas Badezimmer ist mit einer Badewanne ausgestattet und bietet genügend Platz für Ihre tägliche Pflegeroutine. Dank eines Fensters wird der Raum wunderbar mit natürlichem Licht durchflutet, was für ein angenehmes Ambiente sorgt.\n\nDie Küche beeindruckt mit ihrer Helligkeit und einem dekorativen Fliesenspiegel an der Wand. Eine Einbauküche ist nicht vorhanden, was Ihnen die Möglichkeit gibt, den Raum ganz nach Ihren Vorstellungen zu gestalten und Ihrer Kreativität freien Lauf zu lassen.\n\nSie möchten das Objekt besichtigen? Dann senden Sie uns gerne eine Nachricht über das entsprechende Kontaktformular. Wir freuen uns auf Ihre Anfrage!\n\n# Ausstattung\n+ Boden in Holzoptik\n+ Lichtdurchflutete Räume\n+ Badewanne\n\n# Weitere Angaben\n- Verfügbar ab: 2026-10-01\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Skagerrakstraße 71 befindet sich in einer ruhigen Wohngegend im Stadtteil Oberhausen. Die Straße ist von Einfamilienhäusern und kleinen Mehrfamilienhäusern geprägt, was für eine angenehme und familiäre Atmosphäre sorgt.\n\nIn unmittelbarer Nähe der Adresse befinden sich verschiedene Einkaufsmöglichkeiten, Schulen und Kindergärten, die bequem zu Fuß oder mit dem Fahrrad erreicht werden können. Auch die Anbindung an den öffentlichen Nahverkehr ist gut, so dass man schnell in die Innenstadt gelangen kann.\n\nDie Umgebung bietet zudem zahlreiche Freizeitmöglichkeiten wie Parks, Spielplätze und Sportanlagen. Auch das nahegelegene Naherholungsgebiet lädt zu ausgedehnten Spaziergängen oder Radtouren ein.\n\nInsgesamt zeichnet sich die Lage der Skagerrakstraße 71 durch ihre ruhige und dennoch zentrale Lage aus, was sie zu einem attraktiven Wohnort für Familien und Pendler macht.\n\n# Sonstiges\n** Es wird ein Indexmietvertrag vereinbart. **\n\n# Energie\n- Baujahr: 1958\n- Heizungsart: Fernwärme\n\nAnbieter-Objekt-ID: MV-WKG735",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
@@ -21409,9 +21435,22 @@
       "Kuchnia": "tak",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-43-m-wohnung-mit-wohnkueche-und-moebeln/3512884895-203-2145",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4497682-6783-49f6-ab2a-b9297238e69b?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4497682-6783-49f6-ab2a-b9297238e69b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/833f9fc8-0ad6-45c2-a2f6-339abe0119b4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/143c0cf5-d95b-45e3-9e92-9362384b0517?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3fc044a7-0245-4819-8a0d-a72298a1e846?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f9548b8-d954-476c-81e7-0dbac43a0a4c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/10c4bab9-d885-4d25-a71f-a0016eb43255?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3d20edc-a72c-4faa-bed8-d2b3bde41684?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4127f13-a64c-42f1-8e67-27554d1cc544?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20006a74-9370-4e73-940b-e61d5453b79f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad2a800-2914-4fe6-904b-c0256cb0ed23?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/dbe6d21a-fcf8-4e19-8b58-6b676dc19402?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41142016-a93a-493a-a3e1-36f609ea35e1?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 480.0,
+      "Opis": "Möbliert/Teilmöbliert\n\nIch suche einen Nachmieter für meine gepflegte 43 m² Wohnung.\nWohnung:\n• Wohnküche\n• Schlafzimmer\n• Badezimmer\n• Wohnfläche: ca. 43 m²\nMiete: 480 € monatlich\nKaution: 900 €\nEinzug: ab dem 15.10. oder 01.11., nach Absprache\nDie Wohnung kann mit der vorhandenen Einrichtung übernommen werden. Die Möbel und Elektrogeräte sind sehr gepflegt und befinden sich in einem sehr guten, fast neuwertigen Zustand.\nVorhandene Ausstattung:\n• Küche\n• Geschirrspüler\n• Kühlschrank\n• Waschmaschine\n• Bett\n• Weitere Möbel und Einrichtungsgegenstände\nDie Küche, Elektrogeräte und Möbel möchte ich gerne an den Nachmieter verkaufen. Dadurch eignet sich die Wohnung besonders für jemanden, der direkt einziehen möchte, ohne alles neu kaufen zu müssen.\nDer Preis für die Übernahme der gesamten Einrichtung kann bei ernsthaftem Interesse besprochen werden.\nBei Interesse gerne eine Nachricht mit einer kurzen Vorstellung senden.\nBesichtigung nach Absprache möglich.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
@@ -21753,9 +21792,19 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-2-zimmerwohnung-mit-balkon-zu-vermieten/3508465925-203-2145",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb7bfac2-3fa7-4b0d-a231-34588ed0260e?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb7bfac2-3fa7-4b0d-a231-34588ed0260e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5db06953-7861-4315-94b3-9fdec155418a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88a3afc9-5a7e-4203-8fac-aef19d9c3a50?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3ba1ee8a-6d09-46c3-afc4-3610ce42eb5c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/edfc6b13-d761-4237-909e-eef641a3ee2c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/ef/ef6ea992-9abf-427d-9500-54a9f04fc369?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a1e3b70-ea98-4903-9d0d-33570fec60c4?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f8bbc5c-f426-4063-acd6-ddff3d930cde?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41104059-bd52-425a-9967-349fdb714d26?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Balkon • Keller\n\nDiese ansprechende 2-Zimmer-Wohnung in Duisburg präsentiert sich nach einer umfassenden Modernisierung im Jahr 2026 als Erstbezug. Die 62 m² Wohnfläche verteilen sich auf zwei helle Zimmer sowie ein Badezimmer und befinden sich in der zweiten Etage eines gepflegten Mehrfamilienhauses aus dem Jahr 1970. Ein besonderes Highlight ist der Balkon, der zum Verweilen einlädt. Zusätzlich sorgt ein eigener Kellerraum für praktischen Stauraum. Die Beheizung erfolgt über eine Etagenheizung (moderne Infrarotheizung). Das Objekt ist ab sofort verfügbar und bietet eine flexible Regelung bezüglich der Tierhaltung.\n\n\\- neues Bad\n\n\\- moderne Infrarotheizungen\n\nDie Holtener Straße liegt im Duisburger Stadtteil Obermarxloh, der durch eine gute Anbindung an den öffentlichen Nahverkehr überzeugt. Buslinien und die U-Bahn-Linie U79 ermöglichen eine schnelle Verbindung zum Stadtzentrum. Das lebendige Viertel bietet eine angenehme Infrastruktur mit einer Mischung aus Familien und Berufstätigen.\n\nHeizkosten sind nicht in den Nebenkosten enthalten und laufen über den privaten Stromtarif.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
@@ -22257,9 +22306,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-wohnung-in-dinslaken-605-warm-inklusive-internet/3510334012-203-1854",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c14ef145-3401-492e-9db0-8bcab87818ba?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c14ef145-3401-492e-9db0-8bcab87818ba?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7280372-78fc-48c4-a0d8-0ed151842a4f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e408163-3c49-4cf4-8f4b-13e3a42b8c9d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/122c1dde-7917-4ea3-9ee9-b8c370f67b50?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa7371b9-98eb-46f8-87a3-01913faaf729?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2b8e8a3-ad8e-4227-bbc3-8e07dd0c9547?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f70f3f2-09eb-453c-a80d-8a6fade01eed?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3f0b698-511a-4918-8744-e4b3e7e98414?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da71218b-8fac-472c-ab43-d3212305c731?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/efb6247c-99c6-4480-a59b-1a7098ecb23c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91292257-1e5a-46d1-8c88-4ae13bf3fcd0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63347ae6-5ddc-492e-bc58-65ac21c0655c?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 605.0,
+      "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Badewanne • Garage/Stellplatz\n\nMöblierte Wohnung in Dinslaken-Bruch ab 01.10.2026 für 6 Monate zu vermieten\n\nAb dem 01.10.2026 wird eine komplett möblierte Wohnung in Dinslaken-Bruch für einen Zeitraum von sechs Monaten vermietet. Die Wohnung eignet sich daher ideal für jemanden, der eine möblierte Übergangslösung sucht oder kurzfristig für einige Monate eine Wohnung benötigt.\n\nDie Wohnung wird nur an eine Person und ausschließlich an Vollzeit-Berufstätige vermietet.\n\nZur Wohnung:\n\n* komplett möbliert\n* voll ausgestattete Küche mit Spülmaschine, Kühlschrank, Herd etc.\n* Badezimmer mit Badewanne und Duschwand, sodass sowohl Baden als auch komfortables Duschen möglich ist\n* sehr ruhige und entspannte Wohnlage\n* nur wenige Gehminuten vom Tenderingssee entfernt – ideal zum Spazierengehen\n* zahlreiche Lebensmittelgeschäfte und Einkaufsmöglichkeiten in unmittelbarer Umgebung\n* schnelle Anbindung an die Autobahn A59\n\nFolgende Möbel können gegen Ablöse übernommen werden und gehören dann dem Nachmieter. Preise hierfür können wir unkompliziert besprechen. Da werden wir uns sicherlich einig.\n\n* Boxspringbett inkl. Topper\n(gekauft in 2024)\nDas Bett verfügt über zwei Bettkästen und ist sehr gemütlich.\n* IKEA-Couch – (gekauft in 2025)\n\n* Kleiderschrank\n\nKostenfrei zur Nutzung enthalten:\n\n* Küche mit E Geräten und Spülmaschine\n* Kallax-Regal, auf dem sich beispielsweise auch ein Fernseher aufstellen lässt\n* Nachttisch\n* Wohnzimmertisch\n* mittelgroße Kommode\n* kleine Kommode\n* Internet zur sofortigen Nutzung in Mietsumme enthalten. (Guter Empfang und eine schnelle Internetverbindung)\n* Stellplatz direkt vor der Wohnung\n\nDiese Möbel werden nach Ablauf des Mietverhältnisses wieder an die Vermieterin übergeben.\n\nDie Wohnung bietet eine ruhige Wohnatmosphäre sowie Privatsphäre und ist aufgrund der vollständigen Möblierung besonders praktisch, wenn man für einen begrenzten Zeitraum eine unkomplizierte Wohnlösung sucht.\n\nBesichtigungen sind nach Absprache möglich.\n\nBei Interesse gerne mit ein paar kurzen Informationen zur eigenen Person und beruflichen Situation melden. Bei Interesse bitte eine Nachricht schreiben. Wenn alles passt gebe ich dir die Kontaktdaten von der Vermieterin.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
