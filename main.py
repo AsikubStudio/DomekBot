@@ -15,6 +15,7 @@ import csv
 import json
 import logging
 import os
+import re
 import sys
 from datetime import datetime
 
@@ -95,6 +96,41 @@ def _job_title_excluded(job: dict) -> bool:
     return any(keyword.lower() in title for keyword in config.JOB_TITLE_EXCLUDE_KEYWORDS)
 
 
+# Skompilowane RAZ przy imporcie (nie przy każdym wywołaniu _job_requires_experience) -
+# patrz config.JOB_EXPERIENCE_REQUIRED_PATTERNS po pełne uzasadnienie i historię.
+_JOB_EXPERIENCE_REQUIRED_PATTERNS = [
+    re.compile(pattern, re.IGNORECASE) for pattern in config.JOB_EXPERIENCE_REQUIRED_PATTERNS
+]
+
+
+def _job_requires_experience(job: dict) -> bool:
+    """
+    True jeśli skrócony opis tej oferty pracy (pole "opis") wskazuje na
+    wymagane lata doświadczenia - patrz config.JOB_EXPERIENCE_REQUIRED_PATTERNS
+    po pełne uzasadnienie, ograniczenia i historię (dodane 22.09.2026 na
+    prośbę użytkownika, przykład: "Assistent accountant mkb" - tytuł nie
+    zdradza wymogu, ale opis mówi "meerdere jaren ervaring...").
+
+    Działa TYLKO dla ofert, które mają niepuste pole "opis" - obecnie tylko
+    Holandia/Adzuna (jobs_nl.py). Niemieckie oferty (jobs.py) nie mają tego
+    pola (Bundesagentur nie zwraca fragmentu opisu w wyszukiwaniu) - dla nich
+    ta funkcja zawsze zwraca False (brak informacji = NIE odrzucaj), więc
+    filtr jest dla nich cichym no-opem, nie regresją.
+
+    config.JOB_NO_EXPERIENCE_SIGNALS (frazy jednoznacznie mówiące "nie trzeba
+    mieć doświadczenia") mają PIERWSZEŃSTWO nad wzorcami wymogu - zabezpieczenie
+    przed odrzuceniem oferty, która wspomina "ervaring"/"experience" właśnie
+    po to, żeby powiedzieć że NIE jest wymagane.
+    """
+    description = job.get("opis")
+    if not description:
+        return False
+    text = description.lower()
+    if any(signal in text for signal in config.JOB_NO_EXPERIENCE_SIGNALS):
+        return False
+    return any(pattern.search(text) for pattern in _JOB_EXPERIENCE_REQUIRED_PATTERNS)
+
+
 def _job_commute_allowed(listing_location: str, job: dict, lookups_budget: list) -> bool:
     """
     True jeśli ta oferta pracy mieści się w config.MAX_JOB_COMMUTE_MINUTES
@@ -143,12 +179,17 @@ def attach_nearby_jobs(listings) -> None:
     POCZĄTKU listy, więc pokazują się wyżej w dropdownie "Praca w pobliżu"
     na stronie (docs/index.html po prostu renderuje listę w tej kolejności).
 
-    Oferty przechodzą DWA dodatkowe filtry (oba na OBU źródłach jednocześnie)
-    zanim trafią do listing.nearby_jobs:
+    Oferty przechodzą TRZY dodatkowe filtry (na OBU źródłach jednocześnie,
+    kolejno) zanim trafią do listing.nearby_jobs:
       1. Tytuł nie może pasować do config.JOB_TITLE_EXCLUDE_KEYWORDS -
-         patrz _job_title_excluded() (np. "forklift", dodane 21.09.2026).
-      2. Realny czas dojazdu autem (ORS) <= config.MAX_JOB_COMMUTE_MINUTES -
+         patrz _job_title_excluded() (np. "forklift", "senior").
+      2. Opis nie może wskazywać na wymagane doświadczenie (na razie tylko
+         Holandia, patrz _job_requires_experience(), dodane 22.09.2026).
+      3. Realny czas dojazdu autem (ORS) <= config.MAX_JOB_COMMUTE_MINUTES -
          patrz _job_commute_allowed() (dodane 21.09.2026 wieczorem, druga tura).
+    Filtry są w tej kolejności celowo - najpierw tanie (tekstowe), dopiero na
+    końcu ten, który może kosztować zapytanie do ORS (commute), żeby nie
+    marnować budżetu ORS na oferty, które i tak odpadną wcześniej.
 
     Cache'owane po location_text w ramach jednego przebiegu, żeby kilka
     mieszkań w tej samej miejscowości nie odpytywało API kilka razy o to samo.
@@ -158,6 +199,7 @@ def attach_nearby_jobs(listings) -> None:
 
     lookups_budget = [config.MAX_JOB_COMMUTE_LOOKUPS_PER_RUN]
     cache: dict[str, list] = {}
+    experience_excluded_total = 0
     for listing in listings:
         key = listing.location_text
         if key not in cache:
@@ -165,7 +207,9 @@ def attach_nearby_jobs(listings) -> None:
             de_jobs = jobs.search_jobs_near(key) if config.JOB_SEARCH_ENABLED else []
             merged = nl_jobs + de_jobs  # NL pierwsze = wyższy priorytet w dropdownie
             after_title_filter = [job for job in merged if not _job_title_excluded(job)]
-            cache[key] = [job for job in after_title_filter if _job_commute_allowed(key, job, lookups_budget)]
+            after_experience_filter = [job for job in after_title_filter if not _job_requires_experience(job)]
+            experience_excluded_total += len(after_title_filter) - len(after_experience_filter)
+            cache[key] = [job for job in after_experience_filter if _job_commute_allowed(key, job, lookups_budget)]
         listing.nearby_jobs = cache[key]
 
     total_jobs = sum(len(l.nearby_jobs) for l in listings)
@@ -173,8 +217,9 @@ def attach_nearby_jobs(listings) -> None:
     commute_lookups_used = config.MAX_JOB_COMMUTE_LOOKUPS_PER_RUN - lookups_budget[0]
     logger.info(
         "Oferty pracy w pobliżu: %d unikalnych lokalizacji sprawdzonych, %d ofert pracy łącznie "
-        "(%d z Holandii), po filtrze <=%d min dojazdu (%d nowych zapytań ORS w tym przebiegu, z limitu %d).",
-        len(cache), total_jobs, total_nl,
+        "(%d z Holandii), %d odrzuconych po opisie (wymagane doświadczenie), po filtrze <=%d min "
+        "dojazdu (%d nowych zapytań ORS w tym przebiegu, z limitu %d).",
+        len(cache), total_jobs, total_nl, experience_excluded_total,
         config.MAX_JOB_COMMUTE_MINUTES, commute_lookups_used, config.MAX_JOB_COMMUTE_LOOKUPS_PER_RUN,
     )
 
