@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:11:20.735007+00:00",
+  "generated_at": "2026-09-22T21:28:57.439347+00:00",
   "count": 108,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-22T20:11:20.735007+00:00",
+      "last_updated": "2026-09-22T21:28:57.439347+00:00",
       "interval_hours": 3
     }
   },
@@ -20820,9 +20820,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-42-qm-balkon-im-ruhigen-wohnhaus-in-raesfeld/3505903092-203-1325",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59e69973-6122-4e64-91fe-a98be3ba4424?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59e69973-6122-4e64-91fe-a98be3ba4424?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31de5d21-558c-4081-a495-31fe68a35b42?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/927625cc-088e-4d96-a1bb-5718f44c46c4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c480e65-0c8e-4683-849c-8c210b9ed22a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f12aa7c-7716-4611-9e7f-a93b1d73f20b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/224dcd32-6c30-4569-9c86-aabc06aa9853?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/415e60e4-b89d-4411-a185-5a504eadeeb9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2baa498e-82b5-4e4a-9c39-a48e04614aa0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13a3e772-6573-4fea-8bdf-8ff736188425?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05398998-713a-4a6c-adde-d9786e605352?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5550aef6-6793-4f37-b54f-73cddc36f8bb?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fbdb7971-2289-43fa-b954-fbd42bbea535?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 469.0,
+      "Opis": "Balkon • Badewanne • Keller • Garage/Stellplatz\n\nSehr schöne 2 Zimmer Wohnung im 2. OG mit Balkon, 42 qm, in ansprechender, ruhiger Lage in Raesfeld ab dem 01.12.2026 vermieten. Das Haus wird von insgesamt 6 Mietparteien bewohnt.\n\nDie Wohnung besteht aus einem Schlafzimmer, einem Wohnzimmer mit Zugang zum Balkon, einer Küche, einem Badezimmer mit Badewanne und einem Flur. Zur Wohnung gehört ein Keller und ein PKW-Stellplatz.\nDas Haus ist im Jahr 2024 mit einer neuen energiesparenden Heizungsanlage ausgestattet worden.\n\nBei Interesse melden Sie sich bitte mit Telefonnummer und geben Sie auch UNBEDINGT Ihre Emailadresse an.\n\nRückfragen beantworte ich Ihnen gerne.\n\nMietverwaltung Torsten Weimer\n\nEnergieausweis: Energieverbrauchsausweis\nEnergieverbrauch: 97,7 kWh/(m² x a)\nEnergieverbrauch für Warmwasser enthalten: nein\nEnergieeffizienzklasse: C\nAusstellungsdatum: 20.07.2022\nBaujahr Gebäude (gemäß Energieausweis): 1996\nHeizungsart: Gaszentralheizung\nWesentlicher Energieträger: Erdgas LL\nBaujahr Wärmeerzeuger: 2024",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
@@ -20840,9 +20853,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-erdgeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453894-203-23949",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5eeb3d5b-a9d0-4531-af56-95475e9532f0?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5eeb3d5b-a9d0-4531-af56-95475e9532f0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/831fe2f8-79c9-42f1-a95d-d94ed217f34f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc2a6e2d-47b6-44cc-a09b-a8b6e3b96faf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/001afa34-7f32-4564-aafe-4af668c7e68e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58c1a9b2-6758-455d-a6be-273fe19e3f41?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26728476-1eda-4464-9c82-494a15d89f81?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16c030bd-a096-4a6b-976e-9f0fa375af56?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/dfef23af-6984-4c56-8785-d7c0368f30c3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbc8721d-6f8c-4dc2-b8a7-bd3ef613aec0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/10/106dbb0c-12b7-47e3-b289-a0b544032c3a?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6492a67-abad-4df4-b227-e26859ea07a9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/676723ae-6924-4d4e-bb12-145bfdcb567f?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 663.0,
+      "Opis": "Balkon • Badewanne\n\nDas 2-stöckige Wohnhaus wurde 1956 erbaut - Im Erdgeschoss befindet sich Ihre neue Wohnung.\n\nLebendige Nachbarschaften und Service vor Ort: Um die optimale Pflege der Anlage kümmert sich unser Hausmeisterservice.\n\n*Erhalten Sie bis zum 31.10.2026 in Duisburg beim Abschluss eines Mietvertrages für eine ausgewählte Aktionswohnung einen 500 € Gutschein für Amazon/Wunschgutschein.\nBitte beachten Sie die Teilnahmebedingungen: https://www.grandcityproperty.de/datenschutz/gutschein-aktionen\n\n# Ausstattung\nDie 2-Zimmer-Wohnung verteilt sich auf ca. 66 m²\n\n- Balkon\n- Laminat/PVC- Bodenbelag und Raufasertapete in den Wohnräumen\n- Anthrazite Boden- und weiße Wandfliesen in der Küche\n- Anthrazite Boden- und weiße Wandfliesen im Bad\n- Tageslichtbad mit Badewanne\n- Haustiere nach Vereinbarung\n- Hausmeisterservice\n- 24/7 für Sie erreichbar - auch im Notfall\n- Moderner Mieterservice über WhatsApp, Telefon, E-Mail und die GCP App: Kontakte, Unterlagen und Anliegen bequem online verwalten\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 951,00 €\n\n- Nutzfläche: ca. 66 m²\n\n# Lagebeschreibung\nWillkommen in Duisburg - im Stadtteil Marxloh.\nIn einer ruhigen Nebenstraße liegt die gepflegte Wohnanlage.\nIm Umkreis von wenigen hunderten Metern befinden sich Supermärkte und Einkaufsmöglichkeiten des täglichen Bedarfs. Für die Kleinen gibt es Schulen und Kindergärten, die zu Fuß gut erreichbar sind.\nNahegelegene Haltestellen des öffentlichen Nahverkehrs gewährleisten eine gute Anbindung.\nFür die Freizeitgestaltung dienen Parks und Grünanlagen in der Nähe, sowie Sportvereine in der Umgebung\n\n# Sonstiges\nAlle Informationen zur Datennutzung und Datenschutzrechten durch Grand City Property Ltd – Zweigniederlassung Deutschland finden Sie unter: grandcityproperty.de/datenschutz\n\nWichtige Hinweise:\n•\tBitte senden Sie uns keine vertraulichen personenbezogenen Dokumente (z. B. Gehaltsabrechnungen) vor der Besichtigung zu. Sollten Sie dies dennoch tun, werden diese Dateien umgehend gelöscht.\n•\tDer Energieausweis kann bei der Besichtigung vorgelegt werden (ausgenommen Stellplätze/Garagen).\n•\tDie in der Anzeige verwendeten Fotos können Beispielfotos oder KI-generierte Visualisierungen (Kennzeichnung mit „virtually staged“) sein, die der besseren Veranschaulichung der Immobilie dienen und von den tatsächlichen Gegebenheiten abweichen können.\nSämtliche Daten in diesem Exposé, einschließlich Bilder, Grundrisse und sonstige Beschreibungen wie auch Grundrissgrafiken mit Maßangaben oder Einrichtungen, dienen ausschließlich der allgemeinen Information und stellen keine verbindlichen Zusicherungen dar. Die Daten sind so gründlich wie möglich angegeben, dennoch lassen sich Fehler nicht ausschließen. Alle Angaben im Exposé sind daher unverbindlich und etwaige Änderungen vorbehalten. Wir übernehmen daher keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen. Maßgeblich sind allein die Vereinbarungen des zu schließenden Mietvertrages. Eine Haftung für fahrlässige Fehler oder Abweichungen der Angaben wird – soweit gesetzlich zulässig – ausgeschlossen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 194 kWh/(m²*a)\n- Baujahr: 1956\n- Letzte Modernisierung: 2024\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Elektrisch, Gas\n\nAnbieter-Objekt-ID: 5071/01112/001/0001",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
@@ -21093,9 +21119,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-1-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453791-203-23949",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f2561585-1ad6-4edf-a90c-90b45f965cc0?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f2561585-1ad6-4edf-a90c-90b45f965cc0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acee4b8c-f6d3-4797-812e-bd075e1bda88?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcd9caa1-ae5b-4c07-b92a-96580964493b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0c1f8f8c-e405-4818-90c4-fb1ffef8d9e3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed81b544-19c0-490d-9d86-4803341e0cfe?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d8caf6a-2d1c-4377-8eca-db60488f20bb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2eb161a9-40d1-41ff-994b-a3615feb5781?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/10/106dbb0c-12b7-47e3-b289-a0b544032c3a?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6492a67-abad-4df4-b227-e26859ea07a9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/676723ae-6924-4d4e-bb12-145bfdcb567f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5eeb3d5b-a9d0-4531-af56-95475e9532f0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a58d05c-d6ff-4c8a-8b24-9a00f61f5185?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 720.0,
+      "Opis": "Balkon • Badewanne\n\nDas 2-stöckige Wohnhaus wurde 1956 erbaut - In der 1. Etage liegt Ihre neue Wohnung.\n\nLebendige Nachbarschaften und Service vor Ort: Um die optimale Pflege der Anlage kümmert sich unser Hausmeisterservice.\n\nSichern Sie sich Ihren privaten Parkplatz!\nIn vielen unserer Objekte bieten wir Ihnen die Möglichkeit, private Parkplätze anzumieten.\nJetzt anfragen und bequem parken – schnell, einfach und stressfrei! Sprechen Sie uns an!\n\n*Erhalten Sie bis zum 31.10.2026 in Duisburg beim Abschluss eines Mietvertrages für eine ausgewählte Aktionswohnung einen 500 € Gutschein für Amazon/Wunschgutschein.\nBitte beachten Sie die Teilnahmebedingungen: https://www.grandcityproperty.de/datenschutz/gutschein-aktionen\n\n# Ausstattung\nDie 2-Zimmer-Wohnung verteilt sich auf ca. 66 m²\n\n- Balkon\n- Laminat/PVC- Bodenbelag und Raufasertapete in den Wohnräumen\n- Anthrazite Boden- und weiße Wandfliesen in der Küche\n- Anthrazite Boden- und weiße Wandfliesen im Bad\n- Tageslichtbad mit Badewanne\n- Haustiere nach Vereinbarung\n- Hausmeisterservice\n- 24/7 für Sie erreichbar - auch im Notfall\n- Moderner Mieterservice über WhatsApp, Telefon, E-Mail und die GCP App: Kontakte, Unterlagen und Anliegen bequem online verwalten\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.290,00 EUR\n\n# Lagebeschreibung\nWillkommen in Duisburg - im Stadtteil Marxloh.\nIn einer ruhigen Nebenstraße liegt die gepflegte Wohnanlage.\nIm Umkreis von wenigen hunderten Metern befinden sich Supermärkte und Einkaufsmöglichkeiten des täglichen Bedarfs. Für die Kleinen gibt es Schulen und Kindergärten, die zu Fuß gut erreichbar sind.\nNahegelegene Haltestellen des öffentlichen Nahverkehrs gewährleisten eine gute Anbindung.\nFür die Freizeitgestaltung dienen Parks und Grünanlagen in der Nähe, sowie Sportvereine in der Umgebung.\n\n# Sonstiges\nAlle Informationen zur Datennutzung und Datenschutzrechten durch Grand City Property Ltd – Zweigniederlassung Deutschland finden Sie unter: grandcityproperty.de/datenschutz\n\nWichtige Hinweise:\n•\tBitte senden Sie uns keine vertraulichen personenbezogenen Dokumente (z. B. Gehaltsabrechnungen) vor der Besichtigung zu. Sollten Sie dies dennoch tun, werden diese Dateien umgehend gelöscht.\n•\tDer Energieausweis kann bei der Besichtigung vorgelegt werden (ausgenommen Stellplätze/Garagen).\n•\tDie in der Anzeige verwendeten Fotos können Beispielfotos oder KI-generierte Visualisierungen (Kennzeichnung mit „virtually staged“) sein, die der besseren Veranschaulichung der Immobilie dienen und von den tatsächlichen Gegebenheiten abweichen können.\nSämtliche Daten in diesem Exposé, einschließlich Bilder, Grundrisse und sonstige Beschreibungen wie auch Grundrissgrafiken mit Maßangaben oder Einrichtungen, dienen ausschließlich der allgemeinen Information und stellen keine verbindlichen Zusicherungen dar. Die Daten sind so gründlich wie möglich angegeben, dennoch lassen sich Fehler nicht ausschließen. Alle Angaben im Exposé sind daher unverbindlich und etwaige Änderungen vorbehalten. Wir übernehmen daher keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen. Maßgeblich sind allein die Vereinbarungen des zu schließenden Mietvertrages. Eine Haftung für fahrlässige Fehler oder Abweichungen der Angaben wird – soweit gesetzlich zulässig – ausgeschlossen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 194 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Baujahr: 1956\n- Letzte Modernisierung: 2025\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5071/01112/001/0002",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
@@ -21699,9 +21738,20 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-z-wohnung-in-duisburg/3504257120-203-2146",
       "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40cf2fce-f4c7-470e-9fbd-e83d3f46d194?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b843ea33-996b-48c8-a056-f699f5938a01?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1b31232-e659-436f-8018-0cf6b7fa109d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23beda9a-02ad-4f21-94de-2f3b38ff7ef2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a682ae44-8671-49e9-b1df-0bb39eeee678?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca0a32b8-1289-49fe-b59d-1167bafa6bca?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05880753-a56b-4e91-9121-c44775fddd07?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c2c717a-6a40-4246-87a6-174ca5a9f308?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28accb2b-7ba1-4a76-b02b-a831391ea910?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12a5f7fe-c491-49d2-8788-5547fd47cd05?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 750.0,
+      "Opis": "Die Mietwohnung in Duisburg hat 61 m?, 2 Zimmer und 1 Schlafzimmer im 5. Obergeschoss. Die Warmmiete beträgt 750 €, inkl.250 € Nebenkosten, ab sofort verfügbar und auch von Jobcenter.\nNoch Fragen?",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
@@ -22699,9 +22749,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung/3505582025-203-23949",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0de9f78d-3814-4044-b2b8-298b56c32333?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0de9f78d-3814-4044-b2b8-298b56c32333?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ada488b-1282-4cc2-96e5-ab40c190918d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c58fbb2-5f64-4952-99cf-d89f64a72cfb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb3b75df-537e-4abb-91fe-94ab2b63116e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/18ccb8d3-26e5-4d0c-b553-307f4a7ead77?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aa134285-f3f3-433d-9401-27ebe4d00461?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78402cc2-e2cf-4105-93a3-68fd5896f1cd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d51a6dd8-eb59-4f04-baa3-8836a39198d2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/159a5856-1373-4436-b57a-7d59a5b6163c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7cfe6f9-cf66-471d-b64d-3a8fff3dc082?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcbab56e-5575-4303-92ad-fbda35bf512a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6bd3222-3354-4daa-b19d-8a5414fe0b7b?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 740.0,
+      "Opis": "Dachboden\n\nErstbezug alles neu renoviert",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
