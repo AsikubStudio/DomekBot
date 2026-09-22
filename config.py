@@ -254,10 +254,60 @@ JOB_SEARCH_NL_KEYWORDS = [
 # fragmentu, nie całego słowa) którąkolwiek z poniższych fraz, jest całkowicie
 # pomijana zanim trafi do dropdownu "Praca w pobliżu" na stronie - patrz
 # main.py::attach_nearby_jobs. Dodane na prośbę użytkownika 21.09.2026
-# ("forklift operator") - lista jest do rozszerzania w przyszłości, jedna
-# fraza na linię, bez potrzeby zmian w kodzie.
+# ("forklift operator"), rozszerzone 22.09.2026 ("senior") - lista jest do
+# rozszerzania w przyszłości, jedna fraza na linię, bez potrzeby zmian w kodzie.
 JOB_TITLE_EXCLUDE_KEYWORDS = [
     "forklift",
+    "senior",
+]
+
+# --- Wykluczenie ofert pracy WYMAGAJĄCYCH doświadczenia wg TREŚCI opisu ---
+# (na razie TYLKO Holandia/Adzuna - patrz uzasadnienie niżej)
+#
+# Dodane 22.09.2026 na prośbę użytkownika: mimo słowa kluczowego "no experience
+# required" w JOB_SEARCH_NL_KEYWORDS, część ofert znalezionych przez INNE słowa
+# kluczowe (np. "warehouse", "logistics") faktycznie wymaga lat doświadczenia -
+# przykłady zgłoszone przez użytkownika: "Senior warehouse medewerker
+# crossdock" (stąd też dopisanie "senior" do JOB_TITLE_EXCLUDE_KEYWORDS wyżej)
+# i "Assistent accountant mkb" (tytuł NIE zdradza wymogu, ale opis mówi
+# "meerdere jaren ervaring als assistent accountant").
+#
+# To DZIAŁA (bez dodatkowego kosztu/zapytania) TYLKO dla Holandii, bo Adzuna
+# zwraca w SAMEJ odpowiedzi wyszukiwania darmowy, skrócony fragment opisu
+# oferty (pole "description" - potwierdzone w oficjalnej dokumentacji
+# developer.adzuna.com/docs/search: "we currently only provide a snippet of
+# the job description in the response") - patrz jobs_nl.py, pole "opis".
+# Niemiecki Bundesagentur (jobs.py) NIE zwraca takiego fragmentu w wyszukiwaniu -
+# wymagałoby to osobnego, kosztownego zapytania PER oferta, więc dla ofert
+# niemieckich ten filtr jest cichym no-opem (job.get("opis") zwraca None ->
+# nie odrzucamy z braku informacji, patrz main.py::_job_requires_experience()).
+#
+# UWAGA: fragment opisu z Adzuna jest OBCIĘTY (dokładna długość nieudokumentowana) -
+# to najlepsza dostępna heurystyka bez dodatkowego kosztu, NIE gwarancja: może
+# przepuścić ofertę, której wymóg doświadczenia jest dalej w opisie niż sięga
+# fragment, albo (rzadziej) odrzucić ofertę, która wspomina "ervaring"/
+# "experience" w niegroźnym kontekście. Frazy do rozszerzenia w przyszłości bez
+# zmian w kodzie, jedna fraza/wzorzec (regex, bez rozróżniania wielkości liter)
+# na linię.
+JOB_EXPERIENCE_REQUIRED_PATTERNS = [
+    r"\d+\+?\s*(?:tot|-|t/m|to)?\s*\d*\+?\s*(?:jaar\w*|years?)\s+(?:werk)?ervaring",
+    r"meerdere\s+jaren?\s+(?:werk)?ervaring",
+    r"jarenlange\s+(?:werk)?ervaring",
+    r"ruime\s+(?:werk)?ervaring",
+    r"aantoonbare\s+(?:werk)?ervaring",
+    r"ervaring\s+als\s+\w+",
+    r"minimum\s+of\s+\d+\s*years?",
+    r"several\s+years?\s+of\s+experience",
+    r"proven\s+(?:work\s+)?experience",
+    r"years?\s+of\s+(?:relevant\s+)?experience",
+]
+
+# Frazy, które gdy obecne w opisie, ZAWSZE wygrywają nad wzorcami wyżej -
+# zabezpieczenie przed fałszywym odrzuceniem oferty, która wspomina
+# "ervaring"/"experience" właśnie po to, żeby powiedzieć że NIE jest wymagane.
+JOB_NO_EXPERIENCE_SIGNALS = [
+    "geen ervaring", "zonder ervaring", "geen werkervaring",
+    "no experience required", "no experience needed", "without experience",
 ]
 
 # --- Maksymalny REALNY czas dojazdu autem do oferty PRACY (dotyczy OBU źródeł) ---
@@ -291,5 +341,8 @@ HIDE_JOB_IF_COMMUTE_UNKNOWN = True
 # budżecie tego przebiegu, są traktowane jak "nieznany czas dojazdu"
 # (HIDE_JOB_IF_COMMUTE_UNKNOWN wyżej) i spróbują się policzyć w kolejnym
 # przebiegu (za 3h w chmurze) - w praktyce cache szybko się wypełni dla
-# powtarzających się miejscowości i limit przestanie mieć znaczenie.
-MAX_JOB_COMMUTE_LOOKUPS_PER_RUN = 40
+# powtarzających się miejscowości i limit przestanie mieć znaczenie. Podbite
+# z 40 do 150 (22.09.2026) - przy pustym cache po stronie chmury (patrz bug
+# w scrape.yml z brakującym git add dla job_commute_cache.json) budżet 40
+# starczał tylko na 1-2 lokalizacje na >60 unikalnych w jednym przebiegu.
+MAX_JOB_COMMUTE_LOOKUPS_PER_RUN = 150
