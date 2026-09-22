@@ -259,3 +259,37 @@ JOB_SEARCH_NL_KEYWORDS = [
 JOB_TITLE_EXCLUDE_KEYWORDS = [
     "forklift",
 ]
+
+# --- Maksymalny REALNY czas dojazdu autem do oferty PRACY (dotyczy OBU źródeł) ---
+# Promień/najbliższa kotwica używane w jobs.py/jobs_nl.py to tylko "zarzucenie
+# siatki" do samego WYSZUKIWANIA - nie gwarantują, że trasa autem jest krótka
+# (granica, rzeki, brak bezpośrednich dróg). Ten limit filtruje JUŻ PO
+# wyszukaniu, na podstawie realnego czasu jazdy z OpenRouteService - patrz
+# utils/geo.py::commute_minutes_to_job() i main.py::attach_nearby_jobs().
+# Dodane na prośbę użytkownika 21.09.2026 wieczorem, po przykładzie z Google
+# Maps: oferta pracy w Duiven (NL) dla mieszkania w Raesfeld mieściła się w
+# promieniu wyszukiwania, ale realny dojazd to 52 min - użytkownik chce górny
+# limit 45 min.
+MAX_JOB_COMMUTE_MINUTES = 45
+
+# Trwały cache (na dysku) czasu dojazdu mieszkanie<->oferta pracy - analogiczny
+# do DRIVE_TIME_CACHE_PATH wyżej, ale osobny plik, bo klucz cache to PARA
+# lokalizacji (obie strony trasy się zmieniają), nie jedna stała miejscowość.
+JOB_COMMUTE_CACHE_PATH = "data/job_commute_cache.json"
+
+# Gdy nie da się policzyć realnego czasu dojazdu do oferty pracy (brak klucza
+# ORS, limit/quota, błąd geokodowania) - True = ukryj taką ofertę (bezpieczniej:
+# nie pokazuj czegoś, czego nie potwierdziliśmy jako "blisko"), False = pokaż
+# mimo braku potwierdzenia. Użytkownik wybrał ukrywanie (21.09.2026 wieczorem).
+HIDE_JOB_IF_COMMUTE_UNKNOWN = True
+
+# Twardy limit NOWYCH (jeszcze niescache'owanych) zapytań do ORS na JEDEN
+# przebieg, żeby to nowe filtrowanie nie powtórzyło incydentu "Quota exceeded"
+# (patrz historia w dokumencie projektu przy DRIVE_TIME_CACHE_PATH) - cache-hity
+# (para już policzona wcześniej) NIE wliczają się w ten limit, tylko naprawdę
+# nowe pary mieszkanie<->oferta pracy. Oferty, które nie zmieszczą się w
+# budżecie tego przebiegu, są traktowane jak "nieznany czas dojazdu"
+# (HIDE_JOB_IF_COMMUTE_UNKNOWN wyżej) i spróbują się policzyć w kolejnym
+# przebiegu (za 3h w chmurze) - w praktyce cache szybko się wypełni dla
+# powtarzających się miejscowości i limit przestanie mieć znaczenie.
+MAX_JOB_COMMUTE_LOOKUPS_PER_RUN = 40

@@ -25,6 +25,7 @@ import notify
 import publish
 from filters import apply_all_filters
 from scrapers import REGISTRY
+from utils.geo import commute_minutes_to_job, get_cached_job_commute_minutes
 
 logging.basicConfig(
     level=logging.INFO,
@@ -94,6 +95,45 @@ def _job_title_excluded(job: dict) -> bool:
     return any(keyword.lower() in title for keyword in config.JOB_TITLE_EXCLUDE_KEYWORDS)
 
 
+def _job_commute_allowed(listing_location: str, job: dict, lookups_budget: list) -> bool:
+    """
+    True jeśli ta oferta pracy mieści się w config.MAX_JOB_COMMUTE_MINUTES
+    REALNEGO czasu dojazdu autem (ORS) od lokalizacji OFERTY MIESZKANIA -
+    w odróżnieniu od promienia/najbliższej kotwicy używanych TYLKO do samego
+    wyszukiwania (patrz jobs.py/jobs_nl.py), to jest filtr PO fakcie na
+    faktycznej trasie. Dodane na wyraźną prośbę użytkownika 21.09.2026
+    (przykład: oferta w Duiven dla mieszkania w Raesfeld mieściła się w
+    promieniu wyszukiwania, ale realny dojazd to 52 min z Google Maps).
+
+    lookups_budget to jednoelementowa lista (żeby dało się zmniejszać z
+    wnętrza tej funkcji) - limituje NOWE (jeszcze niescache'owane) zapytania
+    do ORS na cały przebieg (config.MAX_JOB_COMMUTE_LOOKUPS_PER_RUN), żeby
+    to nie powtórzyło incydentu "Quota exceeded" opisanego przy
+    DRIVE_TIME_CACHE_PATH w config.py. Cache-hity NIC nie kosztują z tego
+    budżetu. Po wyczerpaniu budżetu, jeszcze niepoliczone oferty są
+    traktowane jak "nieznany czas dojazdu" (patrz
+    config.HIDE_JOB_IF_COMMUTE_UNKNOWN) i spróbują się policzyć w kolejnym
+    przebiegu (3h w chmurze).
+    """
+    job_location = job.get("miejscowosc")
+    job_country = job.get("kraj")
+    if not job_location:
+        return not config.HIDE_JOB_IF_COMMUTE_UNKNOWN
+
+    cached = get_cached_job_commute_minutes(listing_location, job_location, job_country)
+    if cached is not None:
+        return cached <= config.MAX_JOB_COMMUTE_MINUTES
+
+    if lookups_budget[0] <= 0:
+        return not config.HIDE_JOB_IF_COMMUTE_UNKNOWN
+
+    lookups_budget[0] -= 1
+    minutes = commute_minutes_to_job(listing_location, job_location, job_country)
+    if minutes is None:
+        return not config.HIDE_JOB_IF_COMMUTE_UNKNOWN
+    return minutes <= config.MAX_JOB_COMMUTE_MINUTES
+
+
 def attach_nearby_jobs(listings) -> None:
     """
     Dla każdej dopasowanej oferty mieszkania szuka ofert pracy w pobliżu JEJ
@@ -102,8 +142,13 @@ def attach_nearby_jobs(listings) -> None:
     Holandii mają priorytet (użytkownik zdecydował 21.09.2026) - są na
     POCZĄTKU listy, więc pokazują się wyżej w dropdownie "Praca w pobliżu"
     na stronie (docs/index.html po prostu renderuje listę w tej kolejności).
-    Oferty, których tytuł pasuje do config.JOB_TITLE_EXCLUDE_KEYWORDS, są
-    odfiltrowane zanim trafią do listing.nearby_jobs - patrz _job_title_excluded().
+
+    Oferty przechodzą DWA dodatkowe filtry (oba na OBU źródłach jednocześnie)
+    zanim trafią do listing.nearby_jobs:
+      1. Tytuł nie może pasować do config.JOB_TITLE_EXCLUDE_KEYWORDS -
+         patrz _job_title_excluded() (np. "forklift", dodane 21.09.2026).
+      2. Realny czas dojazdu autem (ORS) <= config.MAX_JOB_COMMUTE_MINUTES -
+         patrz _job_commute_allowed() (dodane 21.09.2026 wieczorem, druga tura).
 
     Cache'owane po location_text w ramach jednego przebiegu, żeby kilka
     mieszkań w tej samej miejscowości nie odpytywało API kilka razy o to samo.
@@ -111,6 +156,7 @@ def attach_nearby_jobs(listings) -> None:
     if not listings or not (config.JOB_SEARCH_NL_ENABLED or config.JOB_SEARCH_ENABLED):
         return
 
+    lookups_budget = [config.MAX_JOB_COMMUTE_LOOKUPS_PER_RUN]
     cache: dict[str, list] = {}
     for listing in listings:
         key = listing.location_text
@@ -118,14 +164,18 @@ def attach_nearby_jobs(listings) -> None:
             nl_jobs = jobs_nl.search_jobs_near_nl(key) if config.JOB_SEARCH_NL_ENABLED else []
             de_jobs = jobs.search_jobs_near(key) if config.JOB_SEARCH_ENABLED else []
             merged = nl_jobs + de_jobs  # NL pierwsze = wyższy priorytet w dropdownie
-            cache[key] = [job for job in merged if not _job_title_excluded(job)]
+            after_title_filter = [job for job in merged if not _job_title_excluded(job)]
+            cache[key] = [job for job in after_title_filter if _job_commute_allowed(key, job, lookups_budget)]
         listing.nearby_jobs = cache[key]
 
     total_jobs = sum(len(l.nearby_jobs) for l in listings)
     total_nl = sum(1 for l in listings for job in l.nearby_jobs if job.get("kraj") == "NL")
+    commute_lookups_used = config.MAX_JOB_COMMUTE_LOOKUPS_PER_RUN - lookups_budget[0]
     logger.info(
-        "Oferty pracy w pobliżu: %d unikalnych lokalizacji sprawdzonych, %d ofert pracy łącznie (%d z Holandii).",
+        "Oferty pracy w pobliżu: %d unikalnych lokalizacji sprawdzonych, %d ofert pracy łącznie "
+        "(%d z Holandii), po filtrze <=%d min dojazdu (%d nowych zapytań ORS w tym przebiegu, z limitu %d).",
         len(cache), total_jobs, total_nl,
+        config.MAX_JOB_COMMUTE_MINUTES, commute_lookups_used, config.MAX_JOB_COMMUTE_LOOKUPS_PER_RUN,
     )
 
 

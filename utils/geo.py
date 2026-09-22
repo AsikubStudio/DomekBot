@@ -95,6 +95,40 @@ def _save_drive_time_cache() -> None:
 # każdym nowo policzonym czasie dojazdu - patrz drive_time_minutes() niżej.
 _DRIVE_TIME_CACHE: Dict[str, int] = _load_drive_time_cache()
 
+
+# --- Trwały cache czasu dojazdu do OFERT PRACY (para lokalizacji) ---
+# W odróżnieniu od _DRIVE_TIME_CACHE wyżej (klucz to JEDNA miejscowość, bo
+# drugi punkt jest zawsze stały - CENTER_CITY), tu klucz musi być PARĄ
+# lokalizacji (mieszkanie<->oferta pracy), bo obie strony się zmieniają -
+# patrz commute_minutes_to_job() niżej. Dodane 21.09.2026 na prośbę
+# użytkownika (filtr ~45 min realnego dojazdu do oferty pracy, nie tylko
+# promień/kotwica używane do samego wyszukiwania - patrz jobs.py/jobs_nl.py).
+def _load_job_commute_cache() -> Dict[str, int]:
+    path = config.JOB_COMMUTE_CACHE_PATH
+    if not os.path.exists(path):
+        return {}
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if isinstance(data, dict):
+            return data
+    except (json.JSONDecodeError, OSError) as exc:
+        logger.warning("Nie udało się wczytać %s (%s) - zaczynam z pustym cache dojazdu do ofert pracy.", path, exc)
+    return {}
+
+
+def _save_job_commute_cache() -> None:
+    path = config.JOB_COMMUTE_CACHE_PATH
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
+    try:
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(dict(sorted(_JOB_COMMUTE_CACHE.items())), f, ensure_ascii=False, indent=2)
+    except OSError as exc:
+        logger.warning("Nie udało się zapisać %s (%s) - cache zostaje tylko w pamięci tego przebiegu.", path, exc)
+
+
+_JOB_COMMUTE_CACHE: Dict[str, int] = _load_job_commute_cache()
+
 # Wspolrzedne 's-Heerenberg (Holandia, Gelderland, tuz przy granicy z Niemcami kolo
 # Emmerich) - zaszyte na sztywno zamiast geokodowane przy kazdym uruchomieniu, bo to
 # STALY, drugi punkt odniesienia (w odroznieniu od adresow ofert, ktore sie zmieniaja
@@ -220,6 +254,100 @@ def nearest_dutch_job_anchor(location_text: str) -> Optional[Tuple[str, float]]:
     if nearest_name is None or nearest_dist is None:
         return None
     return nearest_name, round(nearest_dist, 1)
+
+
+def _job_commute_cache_key(origin_location_text: str, job_location_text: str, job_country: str) -> str:
+    return f"{origin_location_text}|{job_location_text}|{job_country}"
+
+
+def get_cached_job_commute_minutes(origin_location_text: str, job_location_text: str, job_country: str) -> Optional[int]:
+    """Zwraca TYLKO wynik już zapisany w cache (bez żadnego zapytania sieciowego) -
+    używane przez main.py do liczenia budżetu nowych zapytań ORS na przebieg
+    (patrz config.MAX_JOB_COMMUTE_LOOKUPS_PER_RUN), żeby cache-hity nic nie kosztowały."""
+    return _JOB_COMMUTE_CACHE.get(_job_commute_cache_key(origin_location_text, job_location_text, job_country))
+
+
+def commute_minutes_to_job(origin_location_text: str, job_location_text: str, job_country: str) -> Optional[int]:
+    """
+    Zwraca rzeczywisty czas dojazdu autem (ORS, w minutach) z lokalizacji OFERTY
+    MIESZKANIA (origin_location_text, zawsze Niemcy) do lokalizacji OFERTY PRACY
+    (job_location_text, Niemcy albo Holandia - job_country "DE"/"NL"). W
+    odróżnieniu od drive_time_minutes() wyżej (który liczy TYLKO z jednego
+    stałego CENTER_CITY), ta funkcja liczy między DWOMA dowolnymi punktami, bo
+    tu OBIE strony się zmieniają (różne mieszkania, różne oferty pracy).
+
+    Używane przez main.py::attach_nearby_jobs() do odfiltrowania ofert pracy,
+    które wg promienia/najbliższej kotwicy (patrz jobs.py/jobs_nl.py - to
+    tylko "zarzucenie siatki" do samego WYSZUKIWANIA) wyglądają na bliskie, ale
+    realna trasa autem jest znacznie dłuższa niż config.MAX_JOB_COMMUTE_MINUTES
+    (przykład zgłoszony przez użytkownika 21.09.2026: oferta pracy w Duiven dla
+    mieszkania w Raesfeld - w promieniu wyszukiwania, ale 52 min realnej jazdy).
+
+    Trwały cache na dysku (config.JOB_COMMUTE_CACHE_PATH), klucz to PARA
+    lokalizacji (mieszkanie<->oferta pracy) - patrz _JOB_COMMUTE_CACHE wyżej.
+    Dzieli throttle (_last_ors_call) z drive_time_minutes(), żeby oba razem
+    nie przekroczyły limitu zapytań/minutę ORS.
+
+    Zwraca None jeśli brak klucza ORS, geokodowanie któregokolwiek punktu się
+    nie uda, albo zapytanie do ORS zawiedzie (limit/awaria/timeout) - w każdym
+    z tych przypadków main.py CHOWA taką ofertę pracy w tym przebiegu (patrz
+    config.HIDE_JOB_IF_COMMUTE_UNKNOWN), bo bez potwierdzonego czasu nie da się
+    zagwarantować, że mieści się w limicie.
+    """
+    if not origin_location_text or not job_location_text:
+        return None
+
+    cache_key = _job_commute_cache_key(origin_location_text, job_location_text, job_country)
+    if cache_key in _JOB_COMMUTE_CACHE:
+        return _JOB_COMMUTE_CACHE[cache_key]
+
+    api_key = _get_ors_api_key()
+    if not api_key:
+        return None
+
+    dest_country_name = "Netherlands" if job_country == "NL" else "Germany"
+    origin = geocode(f"{origin_location_text}, Germany")
+    target = geocode(f"{job_location_text}, {dest_country_name}")
+    if not origin or not target:
+        return None
+
+    global _last_ors_call
+    elapsed = time.time() - _last_ors_call
+    if elapsed < _ORS_MIN_INTERVAL_SECONDS:
+        time.sleep(_ORS_MIN_INTERVAL_SECONDS - elapsed)
+
+    try:
+        resp = requests.get(
+            ORS_DIRECTIONS_URL,
+            params={
+                "api_key": api_key,
+                "start": f"{origin[1]},{origin[0]}",
+                "end": f"{target[1]},{target[0]}",
+            },
+            timeout=config.REQUEST_TIMEOUT_SECONDS,
+        )
+        _last_ors_call = time.time()
+        if resp.status_code == 429:
+            logger.warning(
+                "OpenRouteService: limit zapytań (429) przy liczeniu dojazdu do oferty pracy w '%s' - "
+                "oferta zostanie ukryta w tym przebiegu, spróbujemy ponownie następnym razem.",
+                job_location_text,
+            )
+            return None
+        resp.raise_for_status()
+        data = resp.json()
+        duration_sec = data["features"][0]["properties"]["segments"][0]["duration"]
+        minutes = round(duration_sec / 60)
+        _JOB_COMMUTE_CACHE[cache_key] = minutes
+        _save_job_commute_cache()
+        return minutes
+    except (requests.RequestException, ValueError, KeyError, IndexError) as exc:
+        logger.warning(
+            "OpenRouteService: nie udało się policzyć dojazdu do oferty pracy w '%s' (%s) - "
+            "oferta zostanie ukryta w tym przebiegu.",
+            job_location_text, exc,
+        )
+        return None
 
 
 def is_known_nearby_place(location_text: str) -> bool:
