@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T11:42:56.148966+00:00",
+  "generated_at": "2026-09-22T12:16:18.951567+00:00",
   "count": 105,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-22T11:42:56.148966+00:00",
+      "last_updated": "2026-09-22T12:16:18.951567+00:00",
       "interval_hours": 3
     }
   },
@@ -20850,7 +20850,7 @@
           "titel": "Magazijnmedewerker 2-ploeg",
           "pracodawca": "Effect Personeelsdiensten B.V.",
           "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5838843627?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
+          "link": "https://www.adzuna.nl/land/ad/5838843627?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
           "opublikowano": "2026-08-12T23:48:21Z",
           "kraj": "NL"
         },
@@ -20868,7 +20868,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21008,30 +21008,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841147901",
-          "titel": "E-commerce & Marketing Specialist",
-          "pracodawca": "Effect Personeelsdiensten",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841147901?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T04:16:27Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5891252590",
-          "titel": "Commercieel E-commerce & Marketing specialist",
-          "pracodawca": "In Person",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5891252590?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-20T04:24:04Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5871534161",
-          "titel": "Performance Marketeer - Doetinchem",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-05T07:40:44Z",
+          "refnr": "5798420604",
+          "titel": "Klantenservice Medewerker",
+          "pracodawca": "Fidato",
+          "miejscowosc": "Westervoort, Gelderland",
+          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -21041,42 +21023,6 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5841147920?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-14T04:16:28Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885489209",
-          "titel": "Expeditiemedewerker",
-          "pracodawca": "Adecco Nederland",
-          "miejscowosc": "Ulft, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-16T04:24:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5890245431",
-          "titel": "Freelance UX Designer met passie voor CRO",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-19T07:46:13Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5662927807",
-          "titel": "Software Engineer",
-          "pracodawca": "Marktlink",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-03-12T22:20:33Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5798420604",
-          "titel": "Klantenservice Medewerker",
-          "pracodawca": "Fidato",
-          "miejscowosc": "Westervoort, Gelderland",
-          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -21330,7 +21276,7 @@
           "titel": "Magazijnmedewerker 2-ploeg",
           "pracodawca": "Effect Personeelsdiensten B.V.",
           "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5838843627?se=xh_FMXm28RGvd94b4pT8Lw&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
+          "link": "https://www.adzuna.nl/land/ad/5838843627?se=pItwv3228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
           "opublikowano": "2026-08-12T23:48:21Z",
           "kraj": "NL"
         },
@@ -21348,7 +21294,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=xh_FMXm28RGvd94b4pT8Lw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=pItwv3228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21395,96 +21341,6 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5887416420",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/details/5887416420?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-17T11:17:20Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5856984907",
-          "titel": "Logistics Operative",
-          "pracodawca": "Vintage.com",
-          "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/details/5856984907?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-26T17:34:48Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5840330130",
-          "titel": "Logistics employee",
-          "pracodawca": "Randstad",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5840330130?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-13T16:15:45Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5868417071",
-          "titel": "Logistics Employee",
-          "pracodawca": "SD Worx Jobs",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/details/5868417071?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-03T07:32:37Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5829125961",
-          "titel": "Logistics Employee Crossdock",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-05T16:05:32Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5839637175",
-          "titel": "Expediteur Road Logistics",
-          "pracodawca": "Kuehne+Nagel",
-          "miejscowosc": "Doesburg, Gelderland",
-          "link": "https://www.adzuna.nl/details/5839637175?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-13T07:39:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5825215498",
-          "titel": "Opleiding tot vrachtwagenchauffeur bij Melis Logistics",
-          "pracodawca": "Melis Logistics",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/details/5825215498?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-02T04:49:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5751628410",
-          "titel": "Customer Care Medewerker Road Logistics",
-          "pracodawca": "Kuehne+Nagel",
-          "miejscowosc": "Doesburg, Gelderland",
-          "link": "https://www.adzuna.nl/details/5751628410?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-06-04T07:17:35Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5891414590",
-          "titel": "Road Logistics Team Leader Binnenland planning",
-          "pracodawca": "Kuehne+Nagel",
-          "miejscowosc": "Doesburg, Gelderland",
-          "link": "https://www.adzuna.nl/details/5891414590?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-20T07:52:48Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5890257312",
-          "titel": "Word Vrachtwagenchauffeur",
-          "pracodawca": "Melis Logistics",
-          "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/details/5890257312?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-19T07:50:20Z",
           "kraj": "NL"
         },
         {
@@ -21557,6 +21413,15 @@
           "miejscowosc": "Zelhem, Bronckhorst",
           "link": "https://www.adzuna.nl/details/5823159956?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-01T04:01:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5751628410",
+          "titel": "Customer Care Medewerker Road Logistics",
+          "pracodawca": "Kuehne+Nagel",
+          "miejscowosc": "Doesburg, Gelderland",
+          "link": "https://www.adzuna.nl/details/5751628410?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-06-04T07:17:35Z",
           "kraj": "NL"
         },
         {
@@ -21779,6 +21644,24 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5866752987",
+          "titel": "Allround warehouse employee Zevenaar",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5866752987?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-02T10:47:56Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887835841",
+          "titel": "Warehouse employee (morning shift)",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5887835841?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T17:15:52Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5846855840",
           "titel": "Warehouse employee 2 shifts",
           "pracodawca": "Randstad",
@@ -21848,6 +21731,24 @@
           "miejscowosc": "Duiven, Gelderland",
           "link": "https://www.adzuna.nl/details/5825215498?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-02T04:49:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5760132954",
+          "titel": "Klantenservice Medewerker Nederland (min 24u)",
+          "pracodawca": "Petite Amélie",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5760132954?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-06-11T19:45:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
           "kraj": "NL"
         },
         {
@@ -21955,7 +21856,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0a3febe-ae83-4341-83e5-e12443a6ea00?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/57e51abb-a06a-4a1d-bea9-85a91742dba4?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -21975,7 +21876,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f919638f-15b7-4602-b821-94f18ee7a2db?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84305ad1-78ce-4ef7-b29e-ea24fb9bc6fb?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -22062,9 +21963,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-wesel-ginderich/3515316389-203-1868",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3babad4b-f629-45d6-9f3a-82f2008039ae?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3babad4b-f629-45d6-9f3a-82f2008039ae?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5c9634a-8ad2-4336-b0e4-20632013b4eb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/18be4470-13ae-49d2-90bc-30bd7ae922df?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3c0fbc7-bff6-4930-8bd3-ea978dbd5397?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf5c623d-cb8f-47f4-8d96-f25ab6b489ba?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39e3ef27-9c82-42b1-8851-33129616a9aa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a76a873b-7468-4a29-be6a-fa820f0eea72?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb49b12d-ee3c-4359-9c70-673befee1bd0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/1930e19d-63c4-4f67-a75e-01fd926bd999?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85363429-b173-4e67-ad35-7ce245683007?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a9f92d4-7408-4d4c-bb47-43e4ec467239?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a3eb529-1b01-4b3d-bf28-dae55f0cea95?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 620.0,
+      "Opis": "Badewanne • Dachboden • Garage/Stellplatz\n\nWir vermieten diese 2 Raum Wohnung am Ortsrand von Wesel Ginderich. Über einen separaten Eingang gelangen Sie direkt in die 60 m2 große Wohnung, welche sich in der ersten Etage befindet.\n\nDie Wohnung überzeugt durch ein großes Badezimmer mit Badewanne sowie einem eigenen Stellplatz für das Auto direkt vor der Haustüre.\n\nWie auf den Fotos zu erkennen, befindet sich im Wohn- / Essbereich noch kein Fußboden. Dieser wird in Absprache mit dem zukünftigen Mieter ausgesucht und verlegt.\n\nDie Kaltmiete beträgt 420 Euro. Dazu kommt eine Nebenkostenpauschale in Höhe von 100 Euro. Diese beinhaltet keine Heizkosten. Die Wohnung besitzt einen eigenen Zähler wodurch die Heizkosten separat abgerechnet werden. Diese betragen ca. 100 Euro pro Monat - abhängig vom Heizverhalten.\n\nBei Interesse können Sie sich gerne mit einer kurzen Vorstellung melden. Selbstverständlich können auch weitere Fragen gestellt werden.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-17T13:25:59.498688+00:00"
     },
@@ -22235,9 +22149,22 @@
       "Kuchnia": "tak",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-bocholt-zu-vermieten/3510005752-203-1850",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/937a5c22-bee4-449c-8514-f575f12cc55f?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/937a5c22-bee4-449c-8514-f575f12cc55f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/64691b18-759b-4c2a-9505-c853cadf22f5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80dfd011-dac6-49ab-bcf2-785d4dd81313?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44b8e37e-1081-4ad4-8426-785b591ce95d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e13413d1-4d48-4a02-a7eb-e8db84ba815c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b1ef63a-4daf-4f5b-8866-8db2cd4642e7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a177f06-d25c-4554-a280-bd1ec2792b59?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a9e3f62-d254-41ab-b846-8f4adefca49b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31fcc19e-6768-44d0-8f5b-7555949a4c64?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62b4a504-7912-4d57-8c30-6a3867a4edba?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82cc73e6-d9da-435f-8956-825f7db32cc7?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4866678-46e4-462d-8b0a-2136c560c931?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 650.0,
+      "Opis": "Einbauküche\n\nDie Wohnung besteht aus ein geräumiger Wohnzimmer mit integrierte Küche, 1 Schlafzimmer, Bad mit Dusche, Flur ( Eigene Eingang )\nKaltmiete: 450,-€ + Heiz- und Nebenkosten: 200,-€\nGesamtmiete: 650,-€",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
@@ -22542,7 +22469,7 @@
           "titel": "Magazijnmedewerker 2-ploeg",
           "pracodawca": "Effect Personeelsdiensten B.V.",
           "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5838843627?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
+          "link": "https://www.adzuna.nl/land/ad/5838843627?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
           "opublikowano": "2026-08-12T23:48:21Z",
           "kraj": "NL"
         },
@@ -22560,7 +22487,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22700,30 +22627,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841147901",
-          "titel": "E-commerce & Marketing Specialist",
-          "pracodawca": "Effect Personeelsdiensten",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841147901?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T04:16:27Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5891252590",
-          "titel": "Commercieel E-commerce & Marketing specialist",
-          "pracodawca": "In Person",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5891252590?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-20T04:24:04Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5871534161",
-          "titel": "Performance Marketeer - Doetinchem",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-05T07:40:44Z",
+          "refnr": "5798420604",
+          "titel": "Klantenservice Medewerker",
+          "pracodawca": "Fidato",
+          "miejscowosc": "Westervoort, Gelderland",
+          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -22733,42 +22642,6 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5841147920?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-14T04:16:28Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885489209",
-          "titel": "Expeditiemedewerker",
-          "pracodawca": "Adecco Nederland",
-          "miejscowosc": "Ulft, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-16T04:24:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5890245431",
-          "titel": "Freelance UX Designer met passie voor CRO",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-19T07:46:13Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5662927807",
-          "titel": "Software Engineer",
-          "pracodawca": "Marktlink",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-03-12T22:20:33Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5798420604",
-          "titel": "Klantenservice Medewerker",
-          "pracodawca": "Fidato",
-          "miejscowosc": "Westervoort, Gelderland",
-          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -22978,9 +22851,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-etagenwohnung-in-bocholt-zu-vermieten/3409417539-203-1850",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a177f06-d25c-4554-a280-bd1ec2792b59?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a177f06-d25c-4554-a280-bd1ec2792b59?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e09bb8d7-74dd-4582-b149-c2927150df98?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0949ca0d-1a77-4926-96ae-98ed66d4982c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/657ce614-971e-4da9-b26b-3af826c12b64?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1db8f6d9-ac45-4c2d-88c4-ff4c84890979?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc17fb48-f694-46b4-ace0-82f531208914?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1562997d-cf95-4def-aad4-c73d355db603?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43fdccf6-1ca9-4558-a58a-4eb2dd0ef124?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56769992-679c-4f6c-801f-69f9c250d7c6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c8be9a38-7fee-4ef8-a9d1-f46528a0f713?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4994126d-cadd-467c-9f3c-6d6483dfc315?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 660.0,
+      "Opis": "Keller • Garage/Stellplatz\n\nIn Bocholt erwartet Sie eine charmante 2-Zimmer-Etagenwohnung mit 48 m² Wohnfläche im 1. Obergeschoss eines 1937 erbauten Hauses. Die Wohnung besticht durch einen gemütlichen Laminatboden und ein helles Bad mit Badfenster. Die Küche ist ohne Einrichtung, sodass Sie Ihren persönlichen Stil verwirklichen können. Beheizt wird die Wohnung komfortabel mit einer Kombitherme. Ideal für alle, die eine angenehme Wohnatmosphäre in zentraler Lage suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-116-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Gasetagenheizung\n• Fahrradkeller\n• Mieterkeller\n• Wasch- und Trockenkeller\n• Bad mit Dusche und Fenster\n• Isolierverglasung\n• Mediaanschluss\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer attraktiven Lage, die besonders durch ihre Nähe zu verschiedenen Bildungseinrichtungen besticht, darunter die Clemens-Dülmer-Schule sowie die Overberg-Schule. Für Familien mit Kindern ist der Kubaai-Spielplatz in bequemer Gehweite ein idealer Ort zum Spielen und Verweilen. Einkaufsmöglichkeiten sind ebenfalls gut erreichbar: Die Supermärkte ALDI Süd und REWE bieten eine breite Auswahl für den täglichen Bedarf. Erholsame Stunden im Grünen verspricht der nahegelegene Museumsgarten, der zu Spaziergängen und Freizeitaktivitäten im Freien einlädt. Medizinische Versorgung ist durch mehrere Arztpraxen in der Umgebung gewährleistet, darunter die Praxen von M.D. Omar Dakik, Dr. med. Ulrich Holtkamp und Dr. Peter E. van de Velde. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 14 Bushaltestellen, beispielsweise an der Schwartzstraße, sind schnell erreichbar, und auch zwei Bahnhöfe, unter anderem Bocholt, liegen in akzeptabler Entfernung.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-116-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
@@ -23058,9 +22944,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-wohnung-mit-wbs/3508700331-203-1388",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5efbd51-1b0c-4d7c-9522-38865b47591d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/0653c9f5-ed1d-410d-9d34-213228ceb10d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8495717-08e2-41cd-823f-fe7aa242ad83?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b02cb2e-1b09-429f-bdd5-50a509428460?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0a4f991-502c-4cce-92e6-1c3b99f0d6bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/aca4b35f-f092-4ee5-95bb-59b571bf94e4?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84580a2e-b4e8-431c-be3e-fa9804a86e22?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/977a57eb-12eb-4f93-aa0c-7075d8a0aeb2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1dd5d471-0a43-4bdc-bfc3-9fb09fee0a72?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43506c0e-a52d-4c56-b958-b3a29397b706?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 684.0,
+      "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • WBS benötigt • Garage/Stellplatz\n\nDiese großzügige 2-Zimmer-Wohnung mit ca. 65 m² Wohnfläche befindet sich in Kalkar. Die Wohnung überzeugt durch ihren offenen Wohn- und Essbereich, der direkten Zugang zum großzügigen Balkonbietet und somit ideal zum Entspannen im Freien ist. Ein separater Abstellraum innerhalb der Wohnung sorgt für zusätzlichen Stauraum.\n\nDie Anmietung der Wohnung ist ausschließlich mit einem gültigen Wohnberechtigungsschein (WBS) möglich.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
@@ -23215,7 +23114,7 @@
           "titel": "Magazijnmedewerker 2-ploeg",
           "pracodawca": "Effect Personeelsdiensten B.V.",
           "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5838843627?se=xh_FMXm28RGvd94b4pT8Lw&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
+          "link": "https://www.adzuna.nl/land/ad/5838843627?se=pItwv3228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
           "opublikowano": "2026-08-12T23:48:21Z",
           "kraj": "NL"
         },
@@ -23233,7 +23132,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=xh_FMXm28RGvd94b4pT8Lw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=pItwv3228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23280,96 +23179,6 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5887416420",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/details/5887416420?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-17T11:17:20Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5856984907",
-          "titel": "Logistics Operative",
-          "pracodawca": "Vintage.com",
-          "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/details/5856984907?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-26T17:34:48Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5840330130",
-          "titel": "Logistics employee",
-          "pracodawca": "Randstad",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5840330130?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-13T16:15:45Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5868417071",
-          "titel": "Logistics Employee",
-          "pracodawca": "SD Worx Jobs",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/details/5868417071?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-03T07:32:37Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5829125961",
-          "titel": "Logistics Employee Crossdock",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-05T16:05:32Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5839637175",
-          "titel": "Expediteur Road Logistics",
-          "pracodawca": "Kuehne+Nagel",
-          "miejscowosc": "Doesburg, Gelderland",
-          "link": "https://www.adzuna.nl/details/5839637175?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-13T07:39:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5825215498",
-          "titel": "Opleiding tot vrachtwagenchauffeur bij Melis Logistics",
-          "pracodawca": "Melis Logistics",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/details/5825215498?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-02T04:49:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5751628410",
-          "titel": "Customer Care Medewerker Road Logistics",
-          "pracodawca": "Kuehne+Nagel",
-          "miejscowosc": "Doesburg, Gelderland",
-          "link": "https://www.adzuna.nl/details/5751628410?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-06-04T07:17:35Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5891414590",
-          "titel": "Road Logistics Team Leader Binnenland planning",
-          "pracodawca": "Kuehne+Nagel",
-          "miejscowosc": "Doesburg, Gelderland",
-          "link": "https://www.adzuna.nl/details/5891414590?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-20T07:52:48Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5890257312",
-          "titel": "Word Vrachtwagenchauffeur",
-          "pracodawca": "Melis Logistics",
-          "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/details/5890257312?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-19T07:50:20Z",
           "kraj": "NL"
         },
         {
@@ -23442,6 +23251,15 @@
           "miejscowosc": "Zelhem, Bronckhorst",
           "link": "https://www.adzuna.nl/details/5823159956?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-01T04:01:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5751628410",
+          "titel": "Customer Care Medewerker Road Logistics",
+          "pracodawca": "Kuehne+Nagel",
+          "miejscowosc": "Doesburg, Gelderland",
+          "link": "https://www.adzuna.nl/details/5751628410?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-06-04T07:17:35Z",
           "kraj": "NL"
         },
         {
@@ -23713,7 +23531,7 @@
           "titel": "Magazijnmedewerker 2-ploeg",
           "pracodawca": "Effect Personeelsdiensten B.V.",
           "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5838843627?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
+          "link": "https://www.adzuna.nl/land/ad/5838843627?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
           "opublikowano": "2026-08-12T23:48:21Z",
           "kraj": "NL"
         },
@@ -23731,7 +23549,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23871,30 +23689,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841147901",
-          "titel": "E-commerce & Marketing Specialist",
-          "pracodawca": "Effect Personeelsdiensten",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841147901?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T04:16:27Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5891252590",
-          "titel": "Commercieel E-commerce & Marketing specialist",
-          "pracodawca": "In Person",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5891252590?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-20T04:24:04Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5871534161",
-          "titel": "Performance Marketeer - Doetinchem",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-05T07:40:44Z",
+          "refnr": "5798420604",
+          "titel": "Klantenservice Medewerker",
+          "pracodawca": "Fidato",
+          "miejscowosc": "Westervoort, Gelderland",
+          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -23904,42 +23704,6 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5841147920?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-14T04:16:28Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885489209",
-          "titel": "Expeditiemedewerker",
-          "pracodawca": "Adecco Nederland",
-          "miejscowosc": "Ulft, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-16T04:24:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5890245431",
-          "titel": "Freelance UX Designer met passie voor CRO",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-19T07:46:13Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5662927807",
-          "titel": "Software Engineer",
-          "pracodawca": "Marktlink",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-03-12T22:20:33Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5798420604",
-          "titel": "Klantenservice Medewerker",
-          "pracodawca": "Fidato",
-          "miejscowosc": "Westervoort, Gelderland",
-          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -24076,9 +23840,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/single-wohnung-38-m-in-xanten-wardt/3507825876-203-1403",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/019726a4-2ee4-4945-bf19-395446202316?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/019726a4-2ee4-4945-bf19-395446202316?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/787eb0b9-c47b-459d-8c7a-87cc078fd196?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d6172b2-1a03-4fb0-b51d-5fd24e535c20?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/71f2eb17-d90b-4cbb-acb9-d14f92790c59?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11861fe4-ccd5-46c1-9019-88e40eb413a4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a28eab28-1538-4410-a0c1-accfb6bf98e4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/5806ba2c-be94-46c6-bc7a-6b02c95bd0f2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc9498f-b4fd-4638-9304-e27ed51c602c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6fafe49-c7e2-4703-8623-639fc457a658?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/115117a7-f134-4e29-a9f1-b11125a969b6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6ab6b33b-17b1-4b2b-acca-b2280742c7dd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db24ac5a-122d-4ce3-be7b-04dcdaab3d2a?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 560.0,
+      "Opis": "2 Zimmer Bad Diele Abstellraum Terrasse\nStellplatz\nKeine Haustiere",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-17T18:14:40.487377+00:00"
     },
@@ -24136,9 +23913,22 @@
       "Kuchnia": "tak",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-in-wesel-stadtmitte/3515161954-203-1867",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96edc5f1-18b9-4857-b253-32501efe6fcc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9aa649d-acae-4f3b-b434-bf28ac7ef2a0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36792485-b6d0-4114-9792-9484676140fa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37eff6ca-6d21-400b-aa41-5237b474659b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0c8c192-2958-41af-a046-7f424804f441?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/acb4b9c0-b890-45e0-98f6-3e65f1c95c8a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e589593-acb6-4e76-aadc-60b55cd92112?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc639505-6901-461f-a6d0-8a01ea7f75ea?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 570.0,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Terrasse • Einbauküche\n\nSchöne 2 Zimmer Wohnung in der Stadmitte von Wesel, 45 qm , 2 Zimmer, Balkon, Einbauküche sollte übernommen werden, Möbel können ebenfalls übernommen werden",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-17T12:15:35.188566+00:00"
     },
@@ -24156,9 +23946,22 @@
       "Kuchnia": "tak",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-in-wesel-stadtmitte/3515161390-203-1867",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96edc5f1-18b9-4857-b253-32501efe6fcc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9aa649d-acae-4f3b-b434-bf28ac7ef2a0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36792485-b6d0-4114-9792-9484676140fa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37eff6ca-6d21-400b-aa41-5237b474659b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee58631-19a4-41fc-a9de-e40c5f84814d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0c8c192-2958-41af-a046-7f424804f441?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4bfcd582-5388-46b9-90ba-c3814aaf01a6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e589593-acb6-4e76-aadc-60b55cd92112?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/73b72c19-d784-4971-8667-4c578d2b2a5d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/852638c8-45d6-4821-ae79-5ad50b2a64d0?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 570.0,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Terrasse • Einbauküche\n\nSchöne 2 Zimmer Wohnung in der Stadmitte von Wesel, 45 qm , 2 Zimmer, Balkon, Einbauküche sollte übernommen werden, Möbel können ebenfalls übernommen werden",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-17T12:15:35.188566+00:00"
     },
@@ -24176,9 +23979,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-balkon-in-voerde/3510623529-203-1384",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20e0a710-d702-493d-b12a-43d532dbb96d?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20e0a710-d702-493d-b12a-43d532dbb96d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/292c55e3-bd97-45d8-bdb9-416f25ac7fda?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20dddc1e-a4ac-4ddd-95e2-bdc9a4b0b6df?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7e9870c-57e8-4c0f-af99-3f392d744b84?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/71dea167-78c4-4012-beb3-b97a585ba056?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/5628151a-933a-46a5-a2db-99131fb008e8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a097cd5-c6b1-444e-ab9b-d0e9bf0634e7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90c3493a-7de6-4bd3-b7cb-cae847575220?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/75b654bc-22f6-4fb4-a0ea-bdee2abc83e2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c13b0283-3ce5-4b42-8af0-72dcfc6e3abf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1348a87f-82f6-4bfd-a954-8598d8c896cd?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c8065e9-11f3-447e-8799-8ded982ba6bf?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 800.0,
+      "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nHelle Wohnung in gepflegtem 8-Familienhaus in ruhiger Lage.\nVinyl-Laminat in der gesamten Wohnung, neues WC und Waschbecken, Rolladen, Balkon, neue Lichtschalter/ Steckdosen. Privater Keller. Küche kann übernommen werden. Einbauschrank im Flur. Fahrrad-/ Waschkeller.\nDie Wohnung ist nur geeignet für 1-2 Personen. Kein WBS möglich.\nEinzelgarage € 70,— pM",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
@@ -24236,9 +24052,20 @@
       "Kuchnia": "tak",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-sonsbeck-1-og/3509347305-203-1404",
       "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33c1ec8f-36ec-48bb-aa0b-eec8bf596d20?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66c43434-2d89-41c0-9dd5-17b1330c8af0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f15714b7-2c51-40e3-8f9f-d5d1614c213b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7f0c0fb-1520-44e0-b209-30fee139145f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90e94f7a-64fd-410f-bb80-5b1e2aefb44d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3babad4b-f629-45d6-9f3a-82f2008039ae?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0a4f991-502c-4cce-92e6-1c3b99f0d6bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e6043fb-212b-4fdb-b473-893d06083d5f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cdb7f2d-7673-42e2-a668-14fa4ce370b9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 650.0,
+      "Opis": "2 Zimmer Wohnung\nSonsbeck\n65 m²\n590,00 € + 60,00 € NK pro Person\nWohnzimmer + Küche offen\nSchlafzimmer\nBadezimmer\nFlur\nkleiner Balkon\nKeller Abstellraum\nKFZ Stellplatz hinter dem Haus\nMülltonnen Stellplatz + Fahrrad Stellplatz\nhinten im Hof",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
@@ -24384,7 +24211,7 @@
           "titel": "Magazijnmedewerker 2-ploeg",
           "pracodawca": "Effect Personeelsdiensten B.V.",
           "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5838843627?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
+          "link": "https://www.adzuna.nl/land/ad/5838843627?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
           "opublikowano": "2026-08-12T23:48:21Z",
           "kraj": "NL"
         },
@@ -24402,7 +24229,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24542,30 +24369,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841147901",
-          "titel": "E-commerce & Marketing Specialist",
-          "pracodawca": "Effect Personeelsdiensten",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841147901?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T04:16:27Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5891252590",
-          "titel": "Commercieel E-commerce & Marketing specialist",
-          "pracodawca": "In Person",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5891252590?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-20T04:24:04Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5871534161",
-          "titel": "Performance Marketeer - Doetinchem",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-05T07:40:44Z",
+          "refnr": "5798420604",
+          "titel": "Klantenservice Medewerker",
+          "pracodawca": "Fidato",
+          "miejscowosc": "Westervoort, Gelderland",
+          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -24575,42 +24384,6 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5841147920?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-14T04:16:28Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885489209",
-          "titel": "Expeditiemedewerker",
-          "pracodawca": "Adecco Nederland",
-          "miejscowosc": "Ulft, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-16T04:24:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5890245431",
-          "titel": "Freelance UX Designer met passie voor CRO",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-19T07:46:13Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5662927807",
-          "titel": "Software Engineer",
-          "pracodawca": "Marktlink",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-03-12T22:20:33Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5798420604",
-          "titel": "Klantenservice Medewerker",
-          "pracodawca": "Fidato",
-          "miejscowosc": "Westervoort, Gelderland",
-          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -24901,7 +24674,7 @@
           "titel": "Magazijnmedewerker 2-ploeg",
           "pracodawca": "Effect Personeelsdiensten B.V.",
           "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5838843627?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
+          "link": "https://www.adzuna.nl/land/ad/5838843627?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
           "opublikowano": "2026-08-12T23:48:21Z",
           "kraj": "NL"
         },
@@ -24919,7 +24692,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=zqgjC3m28RGVZJdJjupeeg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25059,30 +24832,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841147901",
-          "titel": "E-commerce & Marketing Specialist",
-          "pracodawca": "Effect Personeelsdiensten",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841147901?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T04:16:27Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5891252590",
-          "titel": "Commercieel E-commerce & Marketing specialist",
-          "pracodawca": "In Person",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/details/5891252590?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-20T04:24:04Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5871534161",
-          "titel": "Performance Marketeer - Doetinchem",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-05T07:40:44Z",
+          "refnr": "5798420604",
+          "titel": "Klantenservice Medewerker",
+          "pracodawca": "Fidato",
+          "miejscowosc": "Westervoort, Gelderland",
+          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -25092,42 +24847,6 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5841147920?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-14T04:16:28Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885489209",
-          "titel": "Expeditiemedewerker",
-          "pracodawca": "Adecco Nederland",
-          "miejscowosc": "Ulft, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-16T04:24:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5890245431",
-          "titel": "Freelance UX Designer met passie voor CRO",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-19T07:46:13Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5662927807",
-          "titel": "Software Engineer",
-          "pracodawca": "Marktlink",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-03-12T22:20:33Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5798420604",
-          "titel": "Klantenservice Medewerker",
-          "pracodawca": "Fidato",
-          "miejscowosc": "Westervoort, Gelderland",
-          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-07-13T04:00:25Z",
           "kraj": "NL"
         },
         {
@@ -25324,9 +25043,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-souterrain-wohnung-in-hamminkeln-dingden/3513353605-203-1386",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/377efdb7-6a63-44c7-939c-3b0b0de69ae9?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/377efdb7-6a63-44c7-939c-3b0b0de69ae9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3acb9204-c9e0-421f-a051-a66571d32342?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61602439-7364-41fc-9f3b-f93381b284f3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0b06279-863d-46c5-a2ef-76be84e6d514?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cfbb82ee-2935-4c46-b005-dff112a99120?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c9721c0-3999-4a50-bb60-b48d2b1f9a85?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee0914c-75ee-4c4c-9f03-305c0aeeac2f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/3002ad08-2ca3-4f3b-8996-17c8fe7c6ee3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b6a1cda-2302-44f2-94e0-a7db75a8c306?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/97/973ef816-0a18-4d35-bf1b-f10aa61e7b90?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84db121a-0661-4551-a42d-a0ddbfc08828?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfdfa967-cf4b-406d-a058-8dfe237a1367?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 784.0,
+      "Opis": "Keller • Garage/Stellplatz\n\nDiese gepflegte Souterrainwohnung in Hamminkeln bietet auf ca. 57 m² Wohnfläche eine gut durchdachte Raumaufteilung und eignet sich ideal für Singles oder Paare, die eine solide Mietwohnung in angenehmer Wohnlage suchen.\n\nDie Wohnung befindet sich in einem im Jahr 1990 erbauten, unterkellerten Mehrfamilienhaus mit insgesamt drei Etagen. Sie verfügt über zwei Zimmer, darunter ein Schlafzimmer, ein Badezimmer sowie einen Wohnbereich mit angenehmer Größe. Ergänzt wird das Raumangebot durch einen praktischen Abstellraum innerhalb der Wohnung sowie einen separaten Kellerraum, der zusätzlichen Stauraum bietet. Die Ausstattung ist zweckmäßig und entspricht einer normalen Ausstattungsqualität.\n\nIm Jahr 2023 wurde die Wohnung renoviert und umgebaut. Dadurch präsentiert sie sich heute in einem zeitgemäßen, gepflegten Zustand und bietet ein ansprechendes Wohnumfeld für Mieter, die Wert auf eine praktische und zugleich wohnliche Gestaltung legen.\n\nEin Stellplatz gehört ebenfalls zur Wohnung und rundet das Angebot komfortabel ab. Die Immobilie ist ab dem 01.12.2026 verfügbar und stellt eine attraktive Mietmöglichkeit für alle dar, die eine gut aufgeteilte Wohnung in Hamminkeln suchen.\n\n# Ausstattung\n- 2 Zimmer\n-> 1 Wohn-/Essbereich mit offener Küche\n-> 1 Schlafzimmer\n- Abstellraum\n- Kellerraum\n- 1 Badezimmer\n- 1 Stellplatz\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.12.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Garagen/Stellplatzmiete: 25,00 €\n\n# Lagebeschreibung\nDie angebotene Souterrainwohnung befindet sich in einer ruhigen, gewachsenen Wohnlage von Hamminkeln-Dingden. Das Umfeld ist geprägt von gepflegter Wohnbebauung und einer angenehmen Nachbarschaft, wodurch sich ein entspanntes und zugleich alltagstaugliches Wohnumfeld ergibt.\n\nEinkaufsmöglichkeiten für den täglichen Bedarf, ärztliche Versorgung sowie weitere Dienstleister sind in der näheren Umgebung erreichbar. Darüber hinaus bietet Hamminkeln ein familienfreundliches Angebot an Kindergärten und Schulen sowie vielfältige Freizeitmöglichkeiten im Grünen, die zu Spaziergängen, Radtouren und Erholung einladen.\n\nDie Verkehrsanbindung ist als vorteilhaft zu bewerten: Über die regionalen Straßenverbindungen lassen sich umliegende Ortsteile und benachbarte Städte zügig erreichen. Auch der öffentliche Nahverkehr steht in der Umgebung zur Verfügung und ermöglicht eine flexible Mobilität im Alltag.\n\n# Sonstiges\nHaftungsausschluss für inhaltliche Richtigkeit übermittelter Daten: Der Makler weist darauf hin, dass für die inhaltliche Richtigkeit der übermittelten Daten des oben genannten Objektes nicht gehaftet werden kann, da er diese vom Eigentümer lediglich zur Verfügung gestellt bekommen hat.\n\nUnsere Angebote sind freibleibend. Zwischenverkauf oder -vermietung, Irrtum und Auslassungen bleiben vorbehalten. Mit dieser Immobilienanfrage erklärt sich der Interessent einverstanden, dass die Butzke & Schroer Real Invest GmbH Ihn bzgl. dieses und weiterer Angebote telefonisch, schriftlich oder per E-Mail-Kontakt erfasst und informiert.\n\nBitte richten Sie Ihre Anfrage an:\n\ninfo@bs-realinvest.de\n\nWir bitten um Ihr Verständnis, dass wir die vollständigen Angaben zur Immobilie nur übermitteln können, wenn uns alle Kontaktdaten des Interessenten (Postanschrift, Telefon, E-Mail-Adresse) vorliegen.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: GAS\n- Energieverbrauch: 83.2 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Gültig bis: 2036-07-26\n- Baujahr (gemäß Energieausweis): 1990\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2026-1245",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T09:14:10.844317+00:00"
     },
@@ -25344,9 +25076,21 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/neu-renovierte-zwei-zimmer-wohnung/3513586806-203-1849",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c87b96a4-d13d-4539-969e-88da5a892001?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c87b96a4-d13d-4539-969e-88da5a892001?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8b166a7-e1cd-4f01-9524-2704fd50a04f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4866678-46e4-462d-8b0a-2136c560c931?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b2e5184-f0fb-4bbb-b559-9970bc18fd94?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc5b2492-960f-4e10-9900-9e91cec7d27f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a449fb9a-514b-47b0-bcf8-724dc285e8f3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04b3d769-f594-47f3-a959-c570e615a62a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82cc73e6-d9da-435f-8956-825f7db32cc7?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d73b583-9351-47dd-8fdb-baedd04c96bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d5908ed-1ce8-48eb-a216-0f528f447740?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/737f958d-f195-48c2-8ffe-442d6f67d82a?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Terrasse • Einbauküche • Keller • Garten/-mitnutzung\n\nNeu renovierte zwei Zimmer- Wohnung in zentraler Lage in Bocholt-Lowick zu vermieten.\n\nDie Wohnung wird gerade umfassend renoviert und verfügt über einen sehr hellen, offenen Wohn-/Essbereich, ein modernes Badezimmer mit Dusche und ein separates, großzügiges Schlafzimmer.\n\nVom offenen Wohn-/Essbereich gelingt man direkt auf die Terasse mit kleinem Garten zur alleinigen Nutzung.\n\nIn der Wohnung wird eine neue, hochwertige Küche mit Kühl-/Gefrierkombination, Backofen, Induktionskochfeld und Spühlmaschine durch den Vermieter eingebaut.\nFür die Küche ist ein mtl. Abschlag von 50,00 EUR zu zahlen.\n\nDie Wohnung befindet sich im Erdgeschoss eines zwei Parteienhauses.\n\nFür beide Parteien steht ein großer Gemeinschaftskeller als Wasch- und Abstellmöglichkeit für Fahrräder etc. zur Verfügung.\n\nDer Abschlag für Strom/ Gas/ Wasser beträgt 150,00 EUR monatlich.\n\nOptional besteht die Möglichkeit eine direkt ans Haus angrenzende Garage mit Stellplatz für zusätzlich 50,00 EUR mtl. zu mieten.\n\nDas gesamte Haus wird gerade umfassend renoviert, eine Besichtigung ist nach Absprache möglich.\n\nWie freuen uns über Ihre aussagekräftige Nachricht.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-16T12:15:00.681561+00:00"
     },
@@ -25425,6 +25169,436 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "***Bitte nur online anfragen*** Erdgeschoss Altbau 2-Zimmer-Wohnung Kleve Unterstadt",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 65.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 8.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/-bitte-nur-online-anfragen-erdgeschoss-altbau-2-zimmer-wohnung-kleve-unterstadt/3519057396-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13178f4b-db1d-43ad-90cc-b0f29786afc2?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13178f4b-db1d-43ad-90cc-b0f29786afc2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3a0dd2d-795e-406c-89d2-71b520769b37?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05f6602f-b793-4c78-a8cb-dc2814dd82b7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9b3fc39-5af8-4ae4-bea4-ac029d12c05b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b76ed326-0b72-45d6-b7bc-f8e3c45b2a59?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/596f72c3-b9d3-45e0-a7fc-98de832dee8f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2e8cfc8-57d0-4ad0-8ef2-b1e45c407c3b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13178f4b-db1d-43ad-90cc-b0f29786afc2?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3a0dd2d-795e-406c-89d2-71b520769b37?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05f6602f-b793-4c78-a8cb-dc2814dd82b7?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9b3fc39-5af8-4ae4-bea4-ac029d12c05b?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b76ed326-0b72-45d6-b7bc-f8e3c45b2a59?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "**OBJEKTBESCHREIBUNG**\n\n2-Zimmer-Wohnung in Kleve Unterstadt ab dem 01.12.2026 zu vermieten. Der Mietpreis setzt sich wie folgt zusammen:\n\nKaltmiete: 650 €\n\nNebenkosten: 70,00 €\n\nHeizkosten: 150,00 €\n\nGarage: 30,00 €\n\nKüche: 35,00 €\n\nGesamtmiete: 935 €\n\nSONSTIGES\n\nBitte online Anfragen!\n\nBEACHTEN SIE:\n\nDer Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n\n* Ihr Alter\n\n* Sind Haustiere vorhanden, wenn ja, welche?\n\n* Was machen Sie beruflich?\n* Rauchen Sie?\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen.",
+      "OfertyPracy": [
+        {
+          "refnr": "5855421724",
+          "titel": "Warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5855421724?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-25T16:29:09Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5505943081",
+          "titel": "Warehouse employee parttime",
+          "pracodawca": "?",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5505943081?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-20T21:01:27Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846867008",
+          "titel": "Warehouse employee parttime",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846867008?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:30:31Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846864125",
+          "titel": "Warehouse employee bridge fulltime",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846864125?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:29:12Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846854031",
+          "titel": "Warehouse worker night shift",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846854031?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:22:57Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5866752987",
+          "titel": "Allround warehouse employee Zevenaar",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5866752987?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-02T10:47:56Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5825210509",
+          "titel": "Senior warehouse medewerker crossdock",
+          "pracodawca": "Rabelink Logistics",
+          "miejscowosc": "Wehl, Doetinchem",
+          "link": "https://www.adzuna.nl/details/5825210509?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-02T04:48:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5838843627",
+          "titel": "Magazijnmedewerker 2-ploeg",
+          "pracodawca": "Effect Personeelsdiensten B.V.",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5838843627?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=DA2807BB8E3B52E2E55EEB84B9E36E1F46A7C755",
+          "opublikowano": "2026-08-12T23:48:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5875564071",
+          "titel": "Logistiek-/ Magazijn medewerker",
+          "pracodawca": "Euro Planit",
+          "miejscowosc": "Ulft, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5875564071?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-08T14:03:58Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5863828675",
+          "titel": "Orderpicker",
+          "pracodawca": "Intermediair Uitzendbureau",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=EOy4ln228RG_ufLnE1x16Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "opublikowano": "2026-09-01T07:07:18Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5873666318",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5873666318?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-07T05:32:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5502411034",
+          "titel": "Orderpicker",
+          "pracodawca": "?",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5502411034?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-18T20:51:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5863828672",
+          "titel": "Orderpicker",
+          "pracodawca": "Intermediair Uitzendbureau",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5863828672?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T07:07:18Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887416420",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5887416420?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T11:17:20Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5856984907",
+          "titel": "Logistics Operative",
+          "pracodawca": "Vintage.com",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5856984907?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-26T17:34:48Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5840330130",
+          "titel": "Logistics employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5840330130?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-13T16:15:45Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5868417071",
+          "titel": "Logistics Employee",
+          "pracodawca": "SD Worx Jobs",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5868417071?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-03T07:32:37Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5839637175",
+          "titel": "Expediteur Road Logistics",
+          "pracodawca": "Kuehne+Nagel",
+          "miejscowosc": "Doesburg, Gelderland",
+          "link": "https://www.adzuna.nl/details/5839637175?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-13T07:39:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5825215498",
+          "titel": "Opleiding tot vrachtwagenchauffeur bij Melis Logistics",
+          "pracodawca": "Melis Logistics",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5825215498?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-02T04:49:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5751628410",
+          "titel": "Customer Care Medewerker Road Logistics",
+          "pracodawca": "Kuehne+Nagel",
+          "miejscowosc": "Doesburg, Gelderland",
+          "link": "https://www.adzuna.nl/details/5751628410?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-06-04T07:17:35Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891414590",
+          "titel": "Road Logistics Team Leader Binnenland planning",
+          "pracodawca": "Kuehne+Nagel",
+          "miejscowosc": "Doesburg, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891414590?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T07:52:48Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5890257312",
+          "titel": "Word Vrachtwagenchauffeur",
+          "pracodawca": "Melis Logistics",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5890257312?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T07:50:20Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5798420604",
+          "titel": "Klantenservice Medewerker",
+          "pracodawca": "Fidato",
+          "miejscowosc": "Westervoort, Gelderland",
+          "link": "https://www.adzuna.nl/details/5798420604?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-13T04:00:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841147920",
+          "titel": "Teamleider Klantenservice",
+          "pracodawca": "Effect Personeelsdiensten",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841147920?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T04:16:28Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841147889",
+          "titel": "Klantenservice medewerker",
+          "pracodawca": "Effect Personeelsdiensten",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841147889?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T04:16:27Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5798423042",
+          "titel": "Technische Klantenservice Medewerker AV/ICT",
+          "pracodawca": "Fidato",
+          "miejscowosc": "Westervoort, Gelderland",
+          "link": "https://www.adzuna.nl/details/5798423042?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-13T04:02:57Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5760132954",
+          "titel": "Klantenservice Medewerker Nederland (min 24u)",
+          "pracodawca": "Petite Amélie",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5760132954?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-06-11T19:45:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5879372454",
+          "titel": "Horeca Medewerker",
+          "pracodawca": "Taco Bell Nederland",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5879372454?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-11T07:46:43Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5790514084",
+          "titel": "Open Sollicitatie – Regio Doetinchem",
+          "pracodawca": "?",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5860066068",
+          "titel": "Medewerker binnendienst",
+          "pracodawca": "Start People",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5860066068?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-28T22:35:12Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190524",
+          "titel": "Delivery Driver in Wehl",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Wehl, Doetinchem",
+          "link": "https://www.adzuna.nl/details/5849190524?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190409",
+          "titel": "Delivery Driver in Westervoort",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Westervoort, Gelderland",
+          "link": "https://www.adzuna.nl/details/5849190409?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:28Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190536",
+          "titel": "Delivery Driver in Terborg",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Terborg, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190536?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190531",
+          "titel": "Delivery Driver in Doetinchem",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5849190531?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190508",
+          "titel": "Delivery Driver in Zeddam",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Zeddam, Montferland",
+          "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190526",
+          "titel": "Delivery Driver in Etten",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Etten, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190526?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        }
+      ],
+      "PierwszyRaz": "2026-09-21T15:12:48.222369+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Erdgeschoss Wohnung, 2 Zimmer, 48qm, mit überdachter Terrasse",
       "Cena (€)": 650.0,
       "Pokoje": 2.0,
@@ -25455,26 +25629,6 @@
       "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Stufenloser Zugang • Garage/Stellplatz\n\n2 Zimmer Wohnung, inkl Küche, überdachter Terrasse, Tiefgaragenplatz, neues Badezimmer. Gerne Ü 50. Kaltmiete 650 Euro. Nur Einzelperson und keine Haustiere erlaubt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-18T18:10:52.658220+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Schöne & Großzügige (96qm) - 2-Zimmer-Wohnung im 3. Stock mit Balkon in Hamminkeln",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 96.0,
-      "Lokalizacja": "46499 Hamminkeln",
-      "Odległość (km)": 21.0,
-      "Czas dojazdu (min)": 22,
-      "Odległość od 's-Heerenberg (km)": 29.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-grosszuegige-96qm-2-zimmer-wohnung-im-3-stock-mit-balkon-in-hamminkeln/3512753517-203-1386",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/923768c7-b0ca-42b1-b320-45fa46f1a085?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
