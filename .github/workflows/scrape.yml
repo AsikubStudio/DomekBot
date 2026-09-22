@@ -55,17 +55,7 @@ jobs:
         run: |
           git config user.name "immo-bot"
           git config user.email "immo-bot@users.noreply.github.com"
-
-          # data/drive_time_cache.json (trwaly cache czasu dojazdu OpenRouteService)
-          # moze jeszcze NIE ISTNIEC na dysku (np. dopoki limit ORS jest wyczerpany).
-          # "git add" z pathspecem ktory nie pasuje do zadnego pliku przerywa CALA
-          # komende, wiec docs/data/latest.json i data/seen_ids.json (ktore istnieja
-          # zawsze) tez nigdy by sie nie zacommitowaly. Dlatego dodajemy ten plik
-          # warunkowo (naprawione 21.09.2026).
-          git add docs/data/latest.json data/seen_ids.json
-          if [ -f data/drive_time_cache.json ]; then
-            git add data/drive_time_cache.json
-          fi
+          git add docs/data/latest.json data/seen_ids.json data/drive_time_cache.json data/job_commute_cache.json
           git diff --cached --quiet && { echo "Brak zmian - nic do zacommitowania"; exit 0; }
           git commit -m "Aktualizacja ofert $(date -u +'%Y-%m-%d %H:%M UTC')"
 
@@ -91,12 +81,8 @@ jobs:
               continue
             fi
             echo "Konflikt podczas rebase w pliku(-ach) z danymi - zachowuję świeżo wygenerowaną wersję z tego przebiegu."
-            DATA_FILES="docs/data/latest.json data/seen_ids.json"
-            if [ -f data/drive_time_cache.json ]; then
-              DATA_FILES="$DATA_FILES data/drive_time_cache.json"
-            fi
-            git checkout --theirs $DATA_FILES 2>/dev/null || true
-            git add $DATA_FILES
+            git checkout --theirs docs/data/latest.json data/seen_ids.json data/drive_time_cache.json data/job_commute_cache.json 2>/dev/null || true
+            git add docs/data/latest.json data/seen_ids.json data/drive_time_cache.json data/job_commute_cache.json
             if ! git rebase --continue; then
               echo "Rebase nadal się nie udał - poddaję próbę i przerywam."
               git rebase --abort || true
