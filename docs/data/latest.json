@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T18:31:34.527040+00:00",
+  "generated_at": "2026-09-23T21:28:27.954602+00:00",
   "count": 109,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-23T18:31:34.527040+00:00",
+      "last_updated": "2026-09-23T21:28:27.954602+00:00",
       "interval_hours": 3
     }
   },
@@ -20819,15 +20819,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863692305",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Unique",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5863692305?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=35C9239E20A2050194351464F29AE60797595961",
-          "opublikowano": "2026-09-01T03:56:43Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -20846,20 +20837,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -20895,7 +20877,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -20906,6 +20888,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -21286,15 +21286,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863692305",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Unique",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5863692305?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=35C9239E20A2050194351464F29AE60797595961",
-          "opublikowano": "2026-09-01T03:56:43Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -21313,20 +21304,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=Gn_duJO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21362,7 +21344,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=Gn_duJO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21373,6 +21355,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -21788,15 +21788,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863692305",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Unique",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5863692305?se=Ophk_Xq38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=35C9239E20A2050194351464F29AE60797595961",
-          "opublikowano": "2026-09-01T03:56:43Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -21815,20 +21806,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=Ophk_Xq38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=Ophk_Xq38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=VroRx5O38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21864,7 +21846,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=Ophk_Xq38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=VroRx5O38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21875,6 +21857,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -22245,20 +22245,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=vjjmC3u38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=vjjmC3u38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=avuF1ZO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22276,7 +22267,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=vjjmC3u38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=avuF1ZO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22287,6 +22278,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -22378,20 +22387,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=HPeR5JO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22409,7 +22409,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=HPeR5JO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22420,6 +22420,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -22497,20 +22515,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=DGCK8pO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22528,7 +22537,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=DGCK8pO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22539,6 +22548,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -22566,7 +22593,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/764176c9-8bdf-49bc-a920-889369f99ea5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1899c0be-cddb-4390-a70c-9abea5e24fd8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/facaa225-db24-416f-b041-d61bb19de77b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/306f96f9-9ecf-4743-be1f-88d669098dea?rule=$_59.AUTO",
@@ -22621,20 +22648,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=DGCK8pO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22652,7 +22670,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=DGCK8pO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22663,6 +22681,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -22745,20 +22781,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=HPeR5JO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22776,7 +22803,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=HPeR5JO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22787,6 +22814,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -22814,7 +22859,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2db1160-bac7-4aa1-9958-36e04d319c41?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/95a7aed5-dc5f-402f-8c8e-829cadbbf176?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e810c76f-1401-484e-a734-1e00d4a52338?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c9bb4c5-253a-4e54-9232-f34f6964e0ec?rule=$_59.AUTO",
@@ -22869,20 +22914,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yk7UAJS38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22900,7 +22936,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yk7UAJS38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22911,6 +22947,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -22938,7 +22992,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd5993e5-e2d8-44af-9944-80077536ba1f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4d77110-90db-4670-88e0-074b1a853857?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c2c717a-6a40-4246-87a6-174ca5a9f308?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/488e084a-72f7-4342-9519-572a975a6a09?rule=$_59.AUTO",
@@ -22993,20 +23047,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yk7UAJS38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23024,7 +23069,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yk7UAJS38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23035,6 +23080,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -23062,7 +23125,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82e02c44-14b4-4e4c-a1a4-a35e4f163da2?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1e25a9a-ed62-437e-bff1-eb45553bae44?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e412ff35-33bd-4e17-af95-eecd94c89010?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2682c50a-5715-43d4-bf22-73a99a7779cb?rule=$_59.AUTO",
@@ -23117,20 +23180,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=DGCK8pO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23148,7 +23202,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=DGCK8pO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23159,6 +23213,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -23241,20 +23313,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=3rW2SHu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=3rW2SHu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=YgIRD5S38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23272,7 +23335,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=3rW2SHu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=YgIRD5S38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23283,6 +23346,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -23437,20 +23518,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=ZsvnVnu38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=ZsvnVnu38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=wvhlHZS38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23468,7 +23540,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=ZsvnVnu38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=wvhlHZS38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23479,6 +23551,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -23768,20 +23858,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=HPeR5JO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23799,7 +23880,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=HPeR5JO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23810,6 +23891,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -23856,6 +23955,39 @@
       "Opis": "Aufzug • Keller • Garten/-mitnutzung\n\nUnsere Mietobjekte Am Kreyenbergshof befinden sich im Duisburger Stadtteil Röttgersbach. Die Gebäude sind 3-geschossig und mit Balkonen ausgestattet.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 1380-5-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Terrasse mit Garten\n• Modernes Bad mit Dusche und Waschmaschinenanschluss\n• Moderner Küchenfliesenspiegel\n• offene Küche\n• Fliesenboden in der gesamten Wohnung\n• Decken tapeziert und weiß gestrichen\n• Wände weiß gestrichen\n• eigener Keller\n• Abstellkammer in der Wohnung\n\n# Weitere Angaben\n- Verfügbar ab: sofort oder später\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen\n\n# Lagebeschreibung\nIn unmittelbarer Nähe unserer Bestände finden Sie Supermärkte, Bäckereinen, Kioske und alles, was Sie sonst für die tägliche Nahversorgung brauchen. Zusätzlich gibt es mehrere Kindergärten, Schulen und das St. Barbara-Hospital, ein Erholungspark und Sportanlagen. Die Anbindung an den ÖPNV ist ebenso gut wie die Nähe zu den Autobahnen A 3, A 42 und A 59.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 69.9 kWh/(m²*a)\n- Energieverbrauch für Warmwasser enthalten\n- Energieeffizienzklasse: B\n- Ausstellungsdatum: 05.12.2025\n- Baujahr (gemäß Energieausweis): 1966\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1380-5-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Single-Apartmen",
+      "Cena (€)": 440.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 32.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "tak",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/single-apartmen/3521436926-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/366995f8-1c8c-418d-ab11-545843c01f8d?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/366995f8-1c8c-418d-ab11-545843c01f8d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/4883114e-a941-410b-8836-f19154f95bd1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4b96c83-1f40-47a0-8e63-942b5b30b881?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d86250d1-b773-4ce5-b33a-93215fd0230f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be76769c-9aa6-42af-8675-ffeb74011cf2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31fff82d-0137-4aa6-a47a-782341544c1e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9fee3f5-087c-4b93-9450-26ecfb1bf663?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/366995f8-1c8c-418d-ab11-545843c01f8d?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/4883114e-a941-410b-8836-f19154f95bd1?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4b96c83-1f40-47a0-8e63-942b5b30b881?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d86250d1-b773-4ce5-b33a-93215fd0230f?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be76769c-9aa6-42af-8675-ffeb74011cf2?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Das Single-Apartment ist ruhig gelegen und verfügt über ein Wohnzimmer mit offener Küche, ein Schlafzimmer, ein Badezimmer mit Dusche und einen Abstellraum. Im Schlafzimmer ist Parkett verlegt, alle anderen Räume sind gefliest.\n\nDas Haus ist von 1951 und wurde im Jahr 2000 kernsaniert.\nIm Mietpreis ist die Einbauküche, ein Küchentisch mit 3 Stühlen und ein Schlafzimmerschrank enthalten.\n\nLage:\n\nDie Wohnung liegt im zweiten Obergeschoss, ca. 1400m vom Marktplatz von Bocholt entfernt, in einer Tempo 30 Zone. Im Umkreis von 350 m befinden zwei Lebensmittelgeschäfte sowie zwei Bäcker. Stadtwald und Aasee liegen nur ca. 10 Gehminuten entfernt.\nDie Entfernung zur Fachhochschule beträgt 1,4km.\n\nSonstiges:\n\nDie Nebenkosten werden verbrauchsabhängig abgerechnet. In ihnen sind außer den üblichen Kosten, wie Versicherung, Steuern, Grundabgaben, Müllabfuhr etc. folgende Kosten enthalten:\n\n- Kalt- und Warm-Wasser\n- Heizung\n- Hausflurreinigung\nDie Kaltmiete beträgt 310,- €\n\nWir bitten bei Besichtigungsanfragen eine kurze Beschreibung ihrer Person, eine Schufaauskunft sowie eine Telefonnummer anzugeben.\n\nBei Bedarf kann die Waschmaschine der Vormieterin übernommen werden.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-23T21:28:27.948947+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -23947,20 +24079,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=DGCK8pO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23978,7 +24101,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=xnO2Knu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=DGCK8pO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23989,6 +24112,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -24137,20 +24278,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yk7UAJS38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24168,7 +24300,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yk7UAJS38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24179,6 +24311,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -24515,15 +24665,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863692305",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Unique",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5863692305?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=35C9239E20A2050194351464F29AE60797595961",
-          "opublikowano": "2026-09-01T03:56:43Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -24542,20 +24683,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24591,7 +24723,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24602,6 +24734,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -25141,20 +25291,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yk7UAJS38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25172,7 +25313,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=QArnOXu38RG22b2VjSsDYw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yk7UAJS38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25186,6 +25327,24 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5829125961",
           "titel": "Logistics Employee Crossdock",
           "pracodawca": "Randstad",
@@ -25196,39 +25355,6 @@
         }
       ],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Modernisierte, helle 2-Zimmer-Souterrainwohnung Hünxe-Drevenack",
-      "Cena (€)": 500.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.0,
-      "Lokalizacja": "46569 Hünxe",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 28,
-      "Odległość od 's-Heerenberg (km)": 44.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/modernisierte-helle-2-zimmer-souterrainwohnung-huenxe-drevenack/3495758169-203-1383",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ab91575-58de-463c-b2c1-72ef9dfa2c8e?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ab91575-58de-463c-b2c1-72ef9dfa2c8e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0c90f05-91a3-4fef-9601-0727441f0bdc?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e01d041-fde9-43d9-8919-e445c19b9cce?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d10dd4ca-2713-4457-b82d-a17ea0e6f938?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5258abe-cd0d-4f8b-8a6e-ead10190bccc?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2853f30f-0794-406f-8349-b13b7dd08f4f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81bd8208-7268-4c88-b569-9539c0d5a19c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11e3aa3b-195a-4a3b-a162-af2de50bfde1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1c24e73-6d42-49ed-a8ed-f95d648c8c9b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36da4368-d850-4436-a06b-a5e28bdfb63e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97192fd8-ed65-445a-a262-b2463ccb388c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/cc203b7e-6352-46b0-8ac5-13b9190dd0b6?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 790.0,
-      "Opis": "Terrasse • Einbauküche\n\nErstbezug nach umfassender Modernisierung\n\nZur Vermietung steht eine ca. 63 m² große, helle 2-Zimmer-Souterrainwohnung in einem gepflegten 7-Familienhaus in zentraler Lage von Hünxe-Drevenack.\n\nDie Wohnung wurde 2026 umfassend modernisiert und wird nach Abschluss der Arbeiten erstmals wieder bezogen. Durch das große Fenster im Wohnbereich, zwei Fenster im Schlafzimmer sowie Tageslichtfenster in Küche und Bad wirken die Räume für eine Souterrainwohnung angenehm hell.\n\nEin besonderes Extra ist die zur Wohnung gehörende Souterrain-Loggia mit fest integrierter Sitzbank, die einen geschützten Außenbereich direkt an der Wohnung bietet.\n\nAusstattung und Modernisierung\n\nIm Zuge der Modernisierung wurden unter anderem:\n•\tdie Böden in den Wohnräumen vollständig erneuert und mit modernem Vinylboden in heller Holzoptik ausgestattet,\n•\tdie Decken erneuert,\n•\tim Wohnbereich moderne Einbauspots installiert,\n•\tdie Innentüren erneuert,\n•\tSteckdosen und Lichtschalter erneuert,\n•\tteilweise Heizkörper ausgetauscht,\n•\tder Badezimmerboden neu gefliest und Teile der Sanitärausstattung erneuert,\n•\tdie Küche mit einem neuen Fliesenspiegel und einem zusätzlichen Fenster ausgestattet.\n\nDie Küche kann wahlweise ohne Einbauküche oder gegen Aufpreis mit Einbauküche (incl. Herd, Spülmaschine; excl. Kühlschrank) angemietet werden.\n\nZur Wohnung gehört außerdem ein separater Abstellraum im Nebengebäude. Eine gemeinschaftliche Fahrradgarage steht ebenfalls zur Verfügung. Parkmöglichkeiten befinden sich am Haus.\n\nLage:\nDie Wohnung liegt zentral im Ortskern von Hünxe-Drevenack. Einkaufsmöglichkeiten des täglichen Bedarfs, Kindertagesstätten, Grundschule sowie öffentliche Verkehrsmittel sind bequem zu Fuß erreichbar.\nAuch für Berufspendler ist die Lage günstig: Die Autobahn A3 ist in weniger als fünf Minuten erreichbar.\n\nHinweise zu den Bildern:\nDie Wohnung befindet sich derzeit noch in der abschließenden Modernisierung. Die Bilder in dieser Anzeige wurden mithilfe künstlicher Intelligenz erstellt bzw. digital bearbeitet. Diese Bilder sind zusätzlich als „KI-Visualisierung“ gekennzeichnet und dienen der Veranschaulichung des vorgesehenen bzw. modernisierten Ausstattungszustands.\nMaßgeblich ist der tatsächliche Zustand der Wohnung bei der Besichtigung.\n\nBei Interesse bitten wir um eine aussagekräftige Kontaktaufnahme per E-Mail mit einigen kurzen Angaben zu Ihrer Person bzw. den einziehenden Personen.\n\nBei einem Besichtigungstermin bitten wir um Vorlage aktueller Einkommensnachweise sowie einer SCHUFA-Auskunft ohne negative Einträge.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-21T07:33:14.071894+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -25402,15 +25528,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863692305",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Unique",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5863692305?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=35C9239E20A2050194351464F29AE60797595961",
-          "opublikowano": "2026-09-01T03:56:43Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -25429,20 +25546,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=Gn_duJO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25478,7 +25586,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=Gn_duJO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25489,6 +25597,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -25892,15 +26018,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863692305",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Unique",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5863692305?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=35C9239E20A2050194351464F29AE60797595961",
-          "opublikowano": "2026-09-01T03:56:43Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -25919,20 +26036,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25968,7 +26076,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25979,6 +26087,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -26355,20 +26481,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=3rW2SHu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=3rW2SHu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=YgIRD5S38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26386,7 +26503,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=3rW2SHu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=YgIRD5S38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26397,6 +26514,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -26563,20 +26698,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=3rW2SHu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=3rW2SHu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=YgIRD5S38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26594,7 +26720,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=3rW2SHu38RGz-cafFv7gOA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=YgIRD5S38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26605,6 +26731,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -26869,15 +27013,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863692305",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Unique",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5863692305?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=35C9239E20A2050194351464F29AE60797595961",
-          "opublikowano": "2026-09-01T03:56:43Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -26896,20 +27031,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26945,7 +27071,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26956,6 +27082,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -27574,15 +27718,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863692305",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Unique",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5863692305?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=35C9239E20A2050194351464F29AE60797595961",
-          "opublikowano": "2026-09-01T03:56:43Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -27601,20 +27736,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=Gn_duJO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -27650,7 +27776,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=cKCZ7nq38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=Gn_duJO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -27661,6 +27787,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -28100,15 +28244,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863692305",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Unique",
-          "miejscowosc": "Doetinchem, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5863692305?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=35C9239E20A2050194351464F29AE60797595961",
-          "opublikowano": "2026-09-01T03:56:43Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -28127,20 +28262,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -28176,7 +28302,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=2Eyr3Hq38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=bDiKppO38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -28187,6 +28313,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
@@ -28660,20 +28804,11 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854202954",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Unique",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/land/ad/5854202954?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=82004E67F35CB8B5E991FFA3C4EABB47AE3C8C0D",
-          "opublikowano": "2026-08-24T07:41:24Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5863828675",
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=HPeR5JO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -28691,7 +28826,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=qkZgGnu38RGAVvYIQ7qVrg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=HPeR5JO38RGmGvS17nuOig&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -28702,6 +28837,24 @@
           "miejscowosc": "Dinxperlo, Aalten",
           "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
           "kraj": "NL"
         },
         {
