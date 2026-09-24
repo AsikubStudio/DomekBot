@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:30:33.355674+00:00",
+  "generated_at": "2026-09-24T21:28:41.538388+00:00",
   "count": 113,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-24T18:30:33.355674+00:00",
+      "last_updated": "2026-09-24T21:28:41.538388+00:00",
       "interval_hours": 3
     }
   },
@@ -22190,7 +22190,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-erdgeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453894-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5eeb3d5b-a9d0-4531-af56-95475e9532f0?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/0711b3e3-89df-4edb-bf01-1e6aa26f6c21?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5eeb3d5b-a9d0-4531-af56-95475e9532f0?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/831fe2f8-79c9-42f1-a95d-d94ed217f34f?rule=$_59.AUTO",
@@ -22433,7 +22433,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07fc706a-856c-44e7-81b9-92fcc648ed2a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/583ec9a8-1ca2-425f-b939-cdf037115ec1?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/facaa225-db24-416f-b041-d61bb19de77b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/306f96f9-9ecf-4743-be1f-88d669098dea?rule=$_59.AUTO",
@@ -22557,7 +22557,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd76e624-fbfc-4da6-9acb-80f05cb99d8c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9e9f341-fa78-44ff-80e7-3c531296466f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e810c76f-1401-484e-a734-1e00d4a52338?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c9bb4c5-253a-4e54-9232-f34f6964e0ec?rule=$_59.AUTO",
@@ -22681,7 +22681,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/9342b093-2da7-4c04-ac05-77c0a54271c8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c319baca-9b30-4feb-812f-8518047fac85?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c2c717a-6a40-4246-87a6-174ca5a9f308?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/488e084a-72f7-4342-9519-572a975a6a09?rule=$_59.AUTO",
@@ -22805,7 +22805,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e40be6a4-86aa-4cfb-b142-22e07b1fb732?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/dbca17a5-a137-40dc-a889-c8da7ac220f7?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e412ff35-33bd-4e17-af95-eecd94c89010?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2682c50a-5715-43d4-bf22-73a99a7779cb?rule=$_59.AUTO",
@@ -23889,7 +23889,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=krs1Rl248RG0YIE6S5IGQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -24986,7 +24986,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=krs1Rl248RG0YIE6S5IGQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -25994,7 +25994,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=krs1Rl248RG0YIE6S5IGQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -27327,7 +27327,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=krs1Rl248RG0YIE6S5IGQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -28837,7 +28837,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=krs1Rl248RG0YIE6S5IGQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -29098,7 +29098,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Wohnung, 66m² mit Dachterrasse.",
+      "Tytuł": "2 Zimmer Wohnung, 66m² mit Dachterrasse sucht Nachmieter",
       "Cena (€)": 500.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 66.0,
@@ -29108,7 +29108,7 @@
       "Odległość od 's-Heerenberg (km)": 41.5,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-66m-mit-dachterrasse-/3521953401-203-1384",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-66m-mit-dachterrasse-sucht-nachmieter/3521953401-203-1384",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5efaf4c-d84b-49e4-8a1f-106c421726ef?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5efaf4c-d84b-49e4-8a1f-106c421726ef?rule=$_59.AUTO",
@@ -29119,13 +29119,13 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52fb63d1-dd0e-4517-9eb0-be59da68d6c8?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f217750-ec01-4759-9a37-ade6a044024e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0dede521-1c21-49ba-8946-7c98a756cfd9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/4526af1e-43da-4a1c-a5c5-4de7873d76f9?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f9f430a-bdee-4117-8f28-a6e4c130a4fb?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c8065e9-11f3-447e-8799-8ded982ba6bf?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f4c9208-173d-431c-915d-b2d40150a0b6?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5efaf4c-d84b-49e4-8a1f-106c421726ef?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec173172-41f2-4496-a2fb-ad9668901733?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07f57ffe-92aa-465b-a5ff-ba40fc9e2fb6?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d50c2f29-7c79-4546-bff2-4fb2edc15a80?rule=$_1.AUTO"
       ],
-      "Czynsz z mediami (€)": 680.0,
-      "Opis": "Helle 2 Zimmer Wohnung, 66 m², 3 Obergeschoss mit Dachterrasse und Anbau ab 01.12.2026 zu vermieten.\nBesichtigungstermine sind nach Absprache möglich.\nAufgrund der hohen Anfrage, kann sich die Antwort etwas verzögern.\nDer Mietvertrag wird dann mit der Vermieterin getroffen.\nBitte!!!! ihr Interesse bitte nur mit sauberer Schufa und entsprechendem Einkommen , nicht vom Amt, bekunden.",
+      "Czynsz z mediami (€)": null,
+      "Opis": "Helle 2 Zimmer Wohnung, 66 m², 3 Obergeschoss mit Dachterrasse und Anbau ab 01.12.2026 zu vermieten.\nBesichtigungstermine sind nach Absprache möglich.\nAUFGRUND DER VIELEN ANFRAGEN VERZÖGERT SICH DIE ANTWORT!!\nDer Mietvertrag wird mit der Vermieterin getroffen.\nBitte!!!! Interesse bitte nur mit sauberer Schufa und entsprechendem Einkommen , nicht vom Amt, bekunden.",
       "OfertyPracy": [
         {
           "refnr": "5846357134",
@@ -29236,7 +29236,7 @@
           "kraj": "NL"
         }
       ],
-      "PierwszyRaz": "2026-09-24T15:29:09.093076+00:00"
+      "PierwszyRaz": "2026-09-24T21:28:41.529682+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -31148,7 +31148,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=krs1Rl248RG0YIE6S5IGQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -32474,7 +32474,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=krs1Rl248RG0YIE6S5IGQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
