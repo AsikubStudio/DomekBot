@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T12:30:50.801941+00:00",
-  "count": 109,
+  "generated_at": "2026-09-24T15:29:09.101827+00:00",
+  "count": 111,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-09-22T11:17:14.008130+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-24T12:30:50.801941+00:00",
+      "last_updated": "2026-09-24T15:29:09.101827+00:00",
       "interval_hours": 3
     }
   },
@@ -21098,24 +21098,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -21131,6 +21113,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -21238,6 +21238,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=pPFUsiq48RG_LevdjZ8dqA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -21574,24 +21583,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=KNMnzxG48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=KNMnzxG48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -21607,6 +21598,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -21743,6 +21752,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=_FMMwyq48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5846864125",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -22076,24 +22094,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=pnDf3RG48RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=pnDf3RG48RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -22109,6 +22109,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -23297,21 +23315,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=BMEFGBK48RGxrqN77yHcEQ&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=BMEFGBK48RGxrqN77yHcEQ&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
           "kraj": "NL"
         },
         {
@@ -23418,6 +23427,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=TIrgDSu48RGqqJ23Mt790Q&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -23655,30 +23673,30 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=0nk3KBK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=0nk3KBK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
           "miejscowosc": "Groessen, Duiven",
           "link": "https://www.adzuna.nl/details/5879372454?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-11T07:46:43Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -23979,130 +23997,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer-Wohnung mit modernem Duschbad und kleinem Garten",
-      "Cena (€)": 439.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 58.99,
-      "Lokalizacja": "47167 Röttgersbach",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 54.4,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-modernem-duschbad-und-kleinem-garten/3513466548-203-26973",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/7784c062-b5b3-4a51-a9b0-d81bb80ea8b1?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/7784c062-b5b3-4a51-a9b0-d81bb80ea8b1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/542ec102-0c2a-496b-9dab-79867359d64a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59502384-ef30-4fc0-bd2b-7234d883f21b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f51d7882-c524-45c5-8152-525ea52fef92?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a095ab7-12e7-493e-86a8-ab73863b3dcd?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/1232af25-b1ff-48e1-8220-83fac8cacfe8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/ef98ff90-19e4-46f4-85de-1b76a62edb8c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d970c1fe-83b3-4320-b838-49fee30e8de2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7392f3f-31e1-45c1-bd44-6a2d9afa67c2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/149ce8e7-be52-49c6-95af-f1aacdac61a9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/1151e36a-0a42-4fbb-a806-f1fd52206db2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/94d9feda-cc3f-4703-8185-cf28c3481e73?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 602.0,
-      "Opis": "Aufzug • Keller • Garten/-mitnutzung\n\nUnsere Mietobjekte Am Kreyenbergshof befinden sich im Duisburger Stadtteil Röttgersbach. Die Gebäude sind 3-geschossig und mit Balkonen ausgestattet.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 1380-5-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Terrasse mit Garten\n• Modernes Bad mit Dusche und Waschmaschinenanschluss\n• Moderner Küchenfliesenspiegel\n• offene Küche\n• Fliesenboden in der gesamten Wohnung\n• Decken tapeziert und weiß gestrichen\n• Wände weiß gestrichen\n• eigener Keller\n• Abstellkammer in der Wohnung\n\n# Weitere Angaben\n- Verfügbar ab: sofort oder später\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen\n\n# Lagebeschreibung\nIn unmittelbarer Nähe unserer Bestände finden Sie Supermärkte, Bäckereinen, Kioske und alles, was Sie sonst für die tägliche Nahversorgung brauchen. Zusätzlich gibt es mehrere Kindergärten, Schulen und das St. Barbara-Hospital, ein Erholungspark und Sportanlagen. Die Anbindung an den ÖPNV ist ebenso gut wie die Nähe zu den Autobahnen A 3, A 42 und A 59.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 69.9 kWh/(m²*a)\n- Energieverbrauch für Warmwasser enthalten\n- Energieeffizienzklasse: B\n- Ausstellungsdatum: 05.12.2025\n- Baujahr (gemäß Energieausweis): 1966\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1380-5-M",
-      "OfertyPracy": [
-        {
-          "refnr": "5846357134",
-          "titel": "Allround warehouse employee",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-18T10:24:10Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5846855840",
-          "titel": "Warehouse employee 2 shifts",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-18T16:24:24Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5497949662",
-          "titel": "Order picker temporary projects part-time",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:16:05Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5497949629",
-          "titel": "Order picker temporary projects full-time",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:16:05Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5846361151",
-          "titel": "Orderpicker",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-18T10:28:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5674737003",
-          "titel": "Orderpicker",
-          "pracodawca": "Euro Planit Personeelsdiensten",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-03-22T02:02:40Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5864148879",
-          "titel": "Orderpicker",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-01T10:49:02Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5862123428",
-          "titel": "Orderpicker",
-          "pracodawca": "Olympia",
-          "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-30T12:42:12Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849208054",
-          "titel": "Orderpicker",
-          "pracodawca": "Olympia",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:57:33Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5829125961",
-          "titel": "Logistics Employee Crossdock",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-05T16:05:32Z",
-          "kraj": "NL"
-        }
-      ],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Single-Appartement",
       "Cena (€)": 440.0,
       "Pokoje": 2.0,
@@ -24146,8 +24040,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=0i0LlhK48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -24178,24 +24081,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5497971577",
-          "titel": "Full-time warehouse employee 2 shifts",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:20:36Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102821",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Start People",
-          "miejscowosc": "Aalten, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102821?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=CCDA072B46B543D62211FFFF2B14B75199E68FEA",
-          "opublikowano": "2026-09-24T03:45:54Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -24211,15 +24096,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2025-11-15T19:16:05Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885456365",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Lichtenvoorde, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5885456365?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=BD2D0EA3FEEB9E1EF999CED675290AF7EB9D628E",
-          "opublikowano": "2026-09-16T03:44:34Z",
           "kraj": "NL"
         },
         {
@@ -24256,6 +24132,24 @@
           "miejscowosc": "Heurne, Aalten",
           "link": "https://www.adzuna.nl/details/5863933581?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T07:44:34Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
           "kraj": "NL"
         },
         {
@@ -24773,6 +24667,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sOVoSCu48RGgMY43NiMBEQ&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5846864125",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -25106,24 +25009,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=umdq5xK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=umdq5xK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -25139,6 +25024,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -25243,8 +25146,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=0i0LlhK48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -25275,24 +25187,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5497971577",
-          "titel": "Full-time warehouse employee 2 shifts",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:20:36Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102821",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Start People",
-          "miejscowosc": "Aalten, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102821?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=CCDA072B46B543D62211FFFF2B14B75199E68FEA",
-          "opublikowano": "2026-09-24T03:45:54Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -25308,15 +25202,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2025-11-15T19:16:05Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885456365",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Lichtenvoorde, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5885456365?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=BD2D0EA3FEEB9E1EF999CED675290AF7EB9D628E",
-          "opublikowano": "2026-09-16T03:44:34Z",
           "kraj": "NL"
         },
         {
@@ -25353,6 +25238,24 @@
           "miejscowosc": "Heurne, Aalten",
           "link": "https://www.adzuna.nl/details/5863933581?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T07:44:34Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
           "kraj": "NL"
         },
         {
@@ -25510,7 +25413,7 @@
       "Powierzchnia (m²)": 54.33,
       "Lokalizacja": "47179 Walsum",
       "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": null,
+      "Czas dojazdu (min)": 42,
       "Odległość od 's-Heerenberg (km)": 51.6,
       "Łazienka": "?",
       "Kuchnia": "?",
@@ -25756,7 +25659,278 @@
       ],
       "Czynsz z mediami (€)": 456.0,
       "Opis": "Badewanne • Keller\n\nNachmieter gesucht – Wohnung ab 01.11.2026\n\nIch suche einen zuverlässigen Nachmieter für meine Wohnung.\n\nFrei ab: 30.10.2026\nLage: [Dinslaken]\nWohnfläche: [44] m²\nZimmer: [2]\nWarmmiete: [456 €]\n\nMöbeliert und kann übernommen werden bei Bedarf.\n\nBei Interesse gerne eine Nachricht schreiben. Weitere Informationen und Bilder schicke ich gerne auf Anfrage.\n\nWichtig: Die Übernahme zum 30.10.2026 erfolgt vorbehaltlich der Zustimmung des Vermieters.",
-      "OfertyPracy": [],
+      "OfertyPracy": [
+        {
+          "refnr": "5855421724",
+          "titel": "Warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5855421724?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-25T16:29:09Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5505943081",
+          "titel": "Warehouse employee parttime",
+          "pracodawca": "?",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5505943081?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-20T21:01:27Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846867008",
+          "titel": "Warehouse employee parttime",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846867008?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:30:31Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846864125",
+          "titel": "Warehouse employee bridge fulltime",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846864125?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:29:12Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846854031",
+          "titel": "Warehouse worker night shift",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846854031?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:22:57Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5866752987",
+          "titel": "Allround warehouse employee Zevenaar",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5866752987?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-02T10:47:56Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849208054",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:57:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5868417071",
+          "titel": "Logistics Employee",
+          "pracodawca": "SD Worx Jobs",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5868417071?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-03T07:32:37Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5825215498",
+          "titel": "Opleiding tot vrachtwagenchauffeur bij Melis Logistics",
+          "pracodawca": "Melis Logistics",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5825215498?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-02T04:49:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5896126723",
+          "titel": "Chauffeur C Distributie",
+          "pracodawca": "Sectorinstituut Transport en Logistiek B.V.",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5896126723?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-24T04:25:22Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5871534161",
+          "titel": "Performance Marketeer - Doetinchem",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-05T07:40:44Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5885489209",
+          "titel": "Expeditiemedewerker",
+          "pracodawca": "Adecco Nederland",
+          "miejscowosc": "Ulft, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-16T04:24:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5890245431",
+          "titel": "Freelance UX Designer met passie voor CRO",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T07:46:13Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5662927807",
+          "titel": "Software Engineer",
+          "pracodawca": "Marktlink",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-12T22:20:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5760132954",
+          "titel": "Klantenservice Medewerker Nederland (min 24u)",
+          "pracodawca": "Petite Amélie",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5760132954?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-06-11T19:45:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190524",
+          "titel": "Delivery Driver in Wehl",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Wehl, Doetinchem",
+          "link": "https://www.adzuna.nl/details/5849190524?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190536",
+          "titel": "Delivery Driver in Terborg",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Terborg, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190536?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190508",
+          "titel": "Delivery Driver in Zeddam",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Zeddam, Montferland",
+          "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190526",
+          "titel": "Delivery Driver in Etten",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Etten, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190526?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        }
+      ],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
@@ -25937,18 +26111,322 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Helle 2-Zimmer-Etagenwohnung in Bocholt – 45 m², ideal für Singles oder Paare",
+      "Cena (€)": 479.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-etagenwohnung-in-bocholt-45-m-ideal-fuer-singles-oder-paare/3494085593-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed0d6c65-e545-443e-8fb3-1204c05fbfb5?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed0d6c65-e545-443e-8fb3-1204c05fbfb5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b478aa53-c125-45da-8583-82eb84b97c9c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8eba1a79-6c38-4876-a266-02a1a234d249?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b50aec5-665a-4c83-b159-77e983e54654?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/459c092d-a856-41ba-b703-f040d8f202ef?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d84c7bd2-0454-4e10-a49b-9e38e5050665?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7dcbcf2-a47d-4bba-979e-fd6db73d6a89?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/5735ec99-c0a6-431f-84d9-a5ec2560fcf2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c486b59d-261c-4174-8aa4-c6f0f6726fa9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad807dc9-4d1b-4c3f-a012-92bcf1856276?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1bdc35ef-d89a-4be3-b35f-63ca4a4aa330?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 602.0,
+      "Opis": "Badewanne • Garage/Stellplatz\n\nZur Vermietung steht eine charmante 2-Zimmer-Etagenwohnung im Dachgeschoss eines gepflegten Mehrfamilienhauses aus dem Baujahr 1956 in Bocholt. Die Wohnung überzeugt durch ihre helle Atmosphäre und eine praktische Raumaufteilung auf 45 m².\n\nDas Badezimmer ist mit Fenster ausgestattet und bietet angenehmen Tageslichteinfall. Die Küche ist ohne Einrichtung, sodass Sie Ihren individuellen Kochbereich gestalten können. Der Boden ist mit pflegeleichtem Laminat Boden ausgelegt. Beheizt wird die Wohnung komfortabel über eine Kombitherme.\n\nBesonderheiten: Badfenster, helle Räume, zentrale Lage.\n\nIdeal für alle, die eine gemütliche und gut geschnittene Wohnung in Bocholt suchen!\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2296-9-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\nDie Wohnung ist wie folgt ausgestattet:\n\n• Waschkeller\n• Tageslichtbad mit Badewanne\n• Laminatboden\n• neue Wohnungseingangstüre\n• Kombitherme\n• neue Zimmertüren in der gesamten Wohnung\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Klausenerstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\nDie in den Nebenkosten enthaltenen TV-Gebühren in Höhe von derzeit 12,50 EUR dienen ausschließlich der transparenten Kostendarstellung.\nDiese stellen weder Kaltmiete noch umlagefähige Betriebskosten im klassischen Sinne dar, sondern eine zusätzliche vertragliche Leistung des Vermieters, die im Rahmen des Mietvertrages geregelt wird.\nAusführliche Informationen finden Sie auf www.leg-wohnen.de.Dort stehen Ihnen außerdem die Produktinformationsblätter sowie die Vertragszusammenfassungen zu den jeweiligen Angeboten und Leistungen zur Verfügung.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 281.3 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1956\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2296-9-M",
+      "OfertyPracy": [
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5854508727",
+          "titel": "Reachtruckchauffeur",
+          "pracodawca": "Momentum Personeel",
+          "miejscowosc": "Vragender, Oost Gelre",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887835841",
+          "titel": "Warehouse employee (morning shift)",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5887835841?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T17:15:52Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864548543",
+          "titel": "Logistiek Medewerker Warehouse (3-ploegen)",
+          "pracodawca": "Seesing Flex",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T13:42:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5863132033",
+          "titel": "Orderpicker",
+          "pracodawca": "WerkTalent",
+          "miejscowosc": "Aalten, Gelderland",
+          "link": "https://www.adzuna.nl/details/5863132033?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-31T22:37:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5863760938",
+          "titel": "Orderpicker",
+          "pracodawca": "?",
+          "miejscowosc": "Aalten, Gelderland",
+          "link": "https://www.adzuna.nl/details/5863760938?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T05:00:46Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5863933581",
+          "titel": "Orderpicker",
+          "pracodawca": "WerkTalent",
+          "miejscowosc": "Heurne, Aalten",
+          "link": "https://www.adzuna.nl/details/5863933581?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T07:44:34Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5895195108",
+          "titel": "Junior Customs Medewerker",
+          "pracodawca": "Seesing Flex",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5895195108?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-23T14:29:43Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5895873463",
+          "titel": "IT Medewerker TMS",
+          "pracodawca": "Seesing Flex",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5895873463?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-24T02:53:46Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5871534161",
+          "titel": "Performance Marketeer - Doetinchem",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-05T07:40:44Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5885489209",
+          "titel": "Expeditiemedewerker",
+          "pracodawca": "Adecco Nederland",
+          "miejscowosc": "Ulft, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-16T04:24:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5890245431",
+          "titel": "Freelance UX Designer met passie voor CRO",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T07:46:13Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5662927807",
+          "titel": "Software Engineer",
+          "pracodawca": "Marktlink",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-12T22:20:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5823165450",
+          "titel": "Assistent accountant mkb",
+          "pracodawca": "Aaff",
+          "miejscowosc": "Aalten, Gelderland",
+          "link": "https://www.adzuna.nl/details/5823165450?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-01T04:03:14Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887687594",
+          "titel": "Voorraadbeheerder",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Lichtenvoorde, Oost Gelre",
+          "link": "https://www.adzuna.nl/details/5887687594?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T14:23:42Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5886648326",
+          "titel": "Voorraadbeheerder",
+          "pracodawca": "Wolfram Chain",
+          "miejscowosc": "Lichtenvoorde, Oost Gelre",
+          "link": "https://www.adzuna.nl/details/5886648326?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-16T23:46:28Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887687595",
+          "titel": "Voorraadbeheerder Lichtenvoorde",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Lichtenvoorde, Oost Gelre",
+          "link": "https://www.adzuna.nl/details/5887687595?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T14:23:42Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190524",
+          "titel": "Delivery Driver in Wehl",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Wehl, Doetinchem",
+          "link": "https://www.adzuna.nl/details/5849190524?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190536",
+          "titel": "Delivery Driver in Terborg",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Terborg, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190536?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190508",
+          "titel": "Delivery Driver in Zeddam",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Zeddam, Montferland",
+          "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190483",
+          "titel": "Delivery Driver in Zelhem",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Zelhem, Bronckhorst",
+          "link": "https://www.adzuna.nl/details/5849190483?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190526",
+          "titel": "Delivery Driver in Etten",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Etten, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190526?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        }
+      ],
+      "PierwszyRaz": "2026-09-24T15:29:09.093076+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Renovierte 2-Zimmer-Balkonwohnung in Duisburg Walsum - inklusive 200EUR Einkaufsgutschein",
       "Cena (€)": 479.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 62.15,
       "Lokalizacja": "47179 Walsum",
       "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": null,
+      "Czas dojazdu (min)": 42,
       "Odległość od 's-Heerenberg (km)": 51.6,
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-balkonwohnung-in-duisburg-walsum-inklusive-200eur-einkaufsgutschein/3337185076-203-2143",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36603b7a-6035-485d-8dc9-808ef98cb15b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a178803c-3cad-433c-b525-c4d84a51eb80?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36603b7a-6035-485d-8dc9-808ef98cb15b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6509a8c-d0f0-436f-a71d-fc1a7ef1e098?rule=$_59.AUTO",
@@ -26106,6 +26584,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sOVoSCu48RGgMY43NiMBEQ&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -26442,24 +26929,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=umdq5xK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=umdq5xK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -26475,6 +26944,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -26564,7 +27051,413 @@
       ],
       "Czynsz z mediami (€)": 730.0,
       "Opis": "Badewanne • Altbau • Keller • Garage/Stellplatz • Haustiere erlaubt\n\nEinen schönen Altbauwohnung zum vermieten, Teils mit hohe Decken .Einen Stellplatz auf den Hof.\nIn die Nähe von Bahnhof.",
-      "OfertyPracy": [],
+      "OfertyPracy": [
+        {
+          "refnr": "5855421724",
+          "titel": "Warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5855421724?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-25T16:29:09Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5505943081",
+          "titel": "Warehouse employee parttime",
+          "pracodawca": "?",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5505943081?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-20T21:01:27Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846867008",
+          "titel": "Warehouse employee parttime",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846867008?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:30:31Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=KPH_liu48RGqqJ23Mt790Q&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846864125",
+          "titel": "Warehouse employee bridge fulltime",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846864125?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:29:12Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846854031",
+          "titel": "Warehouse worker night shift",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846854031?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:22:57Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5866752987",
+          "titel": "Allround warehouse employee Zevenaar",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5866752987?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-02T10:47:56Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887835841",
+          "titel": "Warehouse employee (morning shift)",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5887835841?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T17:15:52Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5873666318",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5873666318?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-07T05:32:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5502411034",
+          "titel": "Orderpicker",
+          "pracodawca": "?",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5502411034?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-18T20:51:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849208054",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:57:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5856984907",
+          "titel": "Logistics Operative",
+          "pracodawca": "Vintage.com",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5856984907?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-26T17:34:48Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5840330130",
+          "titel": "Logistics employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5840330130?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-13T16:15:45Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5868417071",
+          "titel": "Logistics Employee",
+          "pracodawca": "SD Worx Jobs",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5868417071?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-03T07:32:37Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5825215498",
+          "titel": "Opleiding tot vrachtwagenchauffeur bij Melis Logistics",
+          "pracodawca": "Melis Logistics",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5825215498?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-02T04:49:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5890257312",
+          "titel": "Word Vrachtwagenchauffeur",
+          "pracodawca": "Melis Logistics",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5890257312?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T07:50:20Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5896126723",
+          "titel": "Chauffeur C Distributie",
+          "pracodawca": "Sectorinstituut Transport en Logistiek B.V.",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5896126723?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-24T04:25:22Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841147901",
+          "titel": "E-commerce & Marketing Specialist",
+          "pracodawca": "Effect Personeelsdiensten",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841147901?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T04:16:27Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891252590",
+          "titel": "Commercieel E-commerce & Marketing specialist",
+          "pracodawca": "In Person",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891252590?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T04:24:04Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5871534161",
+          "titel": "Performance Marketeer - Doetinchem",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-05T07:40:44Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841147920",
+          "titel": "Teamleider Klantenservice",
+          "pracodawca": "Effect Personeelsdiensten",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841147920?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T04:16:28Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5885489209",
+          "titel": "Expeditiemedewerker",
+          "pracodawca": "Adecco Nederland",
+          "miejscowosc": "Ulft, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-16T04:24:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5890245431",
+          "titel": "Freelance UX Designer met passie voor CRO",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T07:46:13Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5662927807",
+          "titel": "Software Engineer",
+          "pracodawca": "Marktlink",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-12T22:20:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841147889",
+          "titel": "Klantenservice medewerker",
+          "pracodawca": "Effect Personeelsdiensten",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841147889?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T04:16:27Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5760132954",
+          "titel": "Klantenservice Medewerker Nederland (min 24u)",
+          "pracodawca": "Petite Amélie",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5760132954?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-06-11T19:45:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5879372454",
+          "titel": "Horeca Medewerker",
+          "pracodawca": "Taco Bell Nederland",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5879372454?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-11T07:46:43Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5790514084",
+          "titel": "Open Sollicitatie – Regio Doetinchem",
+          "pracodawca": "?",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190524",
+          "titel": "Delivery Driver in Wehl",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Wehl, Doetinchem",
+          "link": "https://www.adzuna.nl/details/5849190524?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190536",
+          "titel": "Delivery Driver in Terborg",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Terborg, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190536?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190531",
+          "titel": "Delivery Driver in Doetinchem",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5849190531?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190508",
+          "titel": "Delivery Driver in Zeddam",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Zeddam, Montferland",
+          "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190526",
+          "titel": "Delivery Driver in Etten",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Etten, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190526?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        }
+      ],
       "PierwszyRaz": "2026-09-19T18:12:45.718179+00:00"
     },
     {
@@ -26612,8 +27505,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=0i0LlhK48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -26644,24 +27546,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5497971577",
-          "titel": "Full-time warehouse employee 2 shifts",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:20:36Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102821",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Start People",
-          "miejscowosc": "Aalten, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102821?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=CCDA072B46B543D62211FFFF2B14B75199E68FEA",
-          "opublikowano": "2026-09-24T03:45:54Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -26677,15 +27561,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2025-11-15T19:16:05Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885456365",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Lichtenvoorde, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5885456365?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=BD2D0EA3FEEB9E1EF999CED675290AF7EB9D628E",
-          "opublikowano": "2026-09-16T03:44:34Z",
           "kraj": "NL"
         },
         {
@@ -26722,6 +27597,24 @@
           "miejscowosc": "Heurne, Aalten",
           "link": "https://www.adzuna.nl/details/5863933581?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T07:44:34Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
           "kraj": "NL"
         },
         {
@@ -26901,7 +27794,89 @@
       ],
       "Czynsz z mediami (€)": 480.0,
       "Opis": "Möbliert/Teilmöbliert\n\nIch suche einen Nachmieter für meine gepflegte 43 m² Wohnung.\nWohnung:\n• Wohnküche\n• Schlafzimmer\n• Badezimmer\n• Wohnfläche: ca. 43 m²\nMiete: 480 € monatlich\nKaution: 900 €\nEinzug: ab dem 15.10. oder 01.11., nach Absprache\nDie Wohnung kann mit der vorhandenen Einrichtung übernommen werden. Die Möbel und Elektrogeräte sind sehr gepflegt und befinden sich in einem sehr guten, fast neuwertigen Zustand.\nVorhandene Ausstattung:\n• Küche\n• Geschirrspüler\n• Kühlschrank\n• Waschmaschine\n• Bett\n• Weitere Möbel und Einrichtungsgegenstände\nDie Küche, Elektrogeräte und Möbel möchte ich gerne an den Nachmieter verkaufen. Dadurch eignet sich die Wohnung besonders für jemanden, der direkt einziehen möchte, ohne alles neu kaufen zu müssen.\nDer Preis für die Übernahme der gesamten Einrichtung kann bei ernsthaftem Interesse besprochen werden.\nBei Interesse gerne eine Nachricht mit einer kurzen Vorstellung senden.\nBesichtigung nach Absprache möglich.",
-      "OfertyPracy": [],
+      "OfertyPracy": [
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849208054",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:57:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        }
+      ],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
@@ -27287,24 +28262,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -27320,6 +28277,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -27400,7 +28375,413 @@
       ],
       "Czynsz z mediami (€)": null,
       "Opis": "Modern wohnen im Grünen – schöne 2-Zimmer-Wohnung mit Balkon & eigenem Garten in Wesel\n\nSie suchen ein ruhiges Zuhause mit guter Anbindung und viel Lebensqualität? Dann könnte diese gepflegte 2-Zimmer-Wohnung genau das Richtige für Sie sein.\n\nDie ca. 52 m² große Hochparterre-Wohnung befindet sich auf dem Gelände der ehemaligen Reitzensteinkaserne in Wesel und ist der 2. Bezug nach einer umfassenden Renovierung. Die Wohnung überzeugt durch ihren durchdachten Grundriss und eine helle, freundliche Atmosphäre.\n\nDas großzügige Wohn- und Esszimmer mit offener Küche bildet das Herzstück der Wohnung und bietet viel Platz zum Wohnen und Wohlfühlen. Das separate Schlafzimmer sorgt für Privatsphäre und einen erholsamen Rückzugsort. Das Badezimmer ist mit einer Badewanne ausgestattet.\n\nEin besonderes Highlight sind der Balkon mit direktem Zugang zum eigenen Garten – ideal, um die Ruhe zu genießen oder entspannte Stunden im Freien zu verbringen.\n\nDie Wohnung liegt auf einem gepflegten Privatgelände mit viel Grün und einem Spielplatz. Hier wohnen Sie ruhig und angenehm, fernab vom Durchgangsverkehr und dennoch stadtnah. Der Weseler Bahnhof sowie die Innenstadt sind in wenigen Minuten erreichbar.\n\nAusstattung auf einen Blick:\n\n- Ca. 52 m² Wohnfläche\n- Hochparterre\n- 2. Bezug nach Renovierung\n- 2 Zimmer (Wohn-/Essbereich mit offener Küche und separates Schlafzimmer)\n- Badezimmer mit Badewanne\n- Balkon mit eigenem Garten\n- Eigener, abgeschlossener Kellerraum\n- Außenstellplatz oder Tiefgaragenstellplatz auf Wunsch\n- Haustiere willkommen\n- Ruhige Lage auf Privatgelände mit Spielplatz\n- Stadtnah und bahnhofsnah\n\nDiese Wohnung eignet sich ideal für Singles oder Paare, die modernes Wohnen mit einer ruhigen Umgebung und guter Infrastruktur verbinden möchten.\n\nHaben wir Ihr Interesse geweckt? Dann freuen wir uns auf Ihre Nachricht und vereinbaren gerne einen Besichtigungstermin.\nBesichtigung jederzeit möglich.\n\nBezugsfrei ab 1.11.2026",
-      "OfertyPracy": [],
+      "OfertyPracy": [
+        {
+          "refnr": "5855421724",
+          "titel": "Warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5855421724?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-25T16:29:09Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5505943081",
+          "titel": "Warehouse employee parttime",
+          "pracodawca": "?",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5505943081?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-20T21:01:27Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846867008",
+          "titel": "Warehouse employee parttime",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846867008?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:30:31Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=KPH_liu48RGqqJ23Mt790Q&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846864125",
+          "titel": "Warehouse employee bridge fulltime",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846864125?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:29:12Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846854031",
+          "titel": "Warehouse worker night shift",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5846854031?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:22:57Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5866752987",
+          "titel": "Allround warehouse employee Zevenaar",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5866752987?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-02T10:47:56Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887835841",
+          "titel": "Warehouse employee (morning shift)",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5887835841?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T17:15:52Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5873666318",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5873666318?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-07T05:32:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5502411034",
+          "titel": "Orderpicker",
+          "pracodawca": "?",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5502411034?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-18T20:51:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5862123428",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849208054",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:57:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5856984907",
+          "titel": "Logistics Operative",
+          "pracodawca": "Vintage.com",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5856984907?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-26T17:34:48Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5840330130",
+          "titel": "Logistics employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5840330130?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-13T16:15:45Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5868417071",
+          "titel": "Logistics Employee",
+          "pracodawca": "SD Worx Jobs",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5868417071?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-03T07:32:37Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5825215498",
+          "titel": "Opleiding tot vrachtwagenchauffeur bij Melis Logistics",
+          "pracodawca": "Melis Logistics",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/details/5825215498?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-02T04:49:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5890257312",
+          "titel": "Word Vrachtwagenchauffeur",
+          "pracodawca": "Melis Logistics",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5890257312?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T07:50:20Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5896126723",
+          "titel": "Chauffeur C Distributie",
+          "pracodawca": "Sectorinstituut Transport en Logistiek B.V.",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5896126723?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-24T04:25:22Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841147901",
+          "titel": "E-commerce & Marketing Specialist",
+          "pracodawca": "Effect Personeelsdiensten",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841147901?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T04:16:27Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891252590",
+          "titel": "Commercieel E-commerce & Marketing specialist",
+          "pracodawca": "In Person",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891252590?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T04:24:04Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5871534161",
+          "titel": "Performance Marketeer - Doetinchem",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-05T07:40:44Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841147920",
+          "titel": "Teamleider Klantenservice",
+          "pracodawca": "Effect Personeelsdiensten",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841147920?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T04:16:28Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5885489209",
+          "titel": "Expeditiemedewerker",
+          "pracodawca": "Adecco Nederland",
+          "miejscowosc": "Ulft, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-16T04:24:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5890245431",
+          "titel": "Freelance UX Designer met passie voor CRO",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T07:46:13Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5662927807",
+          "titel": "Software Engineer",
+          "pracodawca": "Marktlink",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-12T22:20:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5841147889",
+          "titel": "Klantenservice medewerker",
+          "pracodawca": "Effect Personeelsdiensten",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841147889?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T04:16:27Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5760132954",
+          "titel": "Klantenservice Medewerker Nederland (min 24u)",
+          "pracodawca": "Petite Amélie",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5760132954?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-06-11T19:45:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5879372454",
+          "titel": "Horeca Medewerker",
+          "pracodawca": "Taco Bell Nederland",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5879372454?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-11T07:46:43Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5790514084",
+          "titel": "Open Sollicitatie – Regio Doetinchem",
+          "pracodawca": "?",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190524",
+          "titel": "Delivery Driver in Wehl",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Wehl, Doetinchem",
+          "link": "https://www.adzuna.nl/details/5849190524?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190536",
+          "titel": "Delivery Driver in Terborg",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Terborg, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190536?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190531",
+          "titel": "Delivery Driver in Doetinchem",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Doetinchem, Gelderland",
+          "link": "https://www.adzuna.nl/details/5849190531?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190508",
+          "titel": "Delivery Driver in Zeddam",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Zeddam, Montferland",
+          "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190526",
+          "titel": "Delivery Driver in Etten",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Etten, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190526?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        }
+      ],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
@@ -27582,7 +28963,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-2-zimmer-wohnung-mit-neuem-duschbad-laminat-und-tapeten/3490458703-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a9e3f62-d254-41ab-b846-8f4adefca49b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad807dc9-4d1b-4c3f-a012-92bcf1856276?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a9e3f62-d254-41ab-b846-8f4adefca49b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89a6ee6f-9759-4ead-9532-75076dcab9a2?rule=$_59.AUTO",
@@ -27614,8 +28995,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=0i0LlhK48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -27646,24 +29036,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5497971577",
-          "titel": "Full-time warehouse employee 2 shifts",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:20:36Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102821",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Start People",
-          "miejscowosc": "Aalten, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102821?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=CCDA072B46B543D62211FFFF2B14B75199E68FEA",
-          "opublikowano": "2026-09-24T03:45:54Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -27679,15 +29051,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2025-11-15T19:16:05Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885456365",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Lichtenvoorde, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5885456365?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=BD2D0EA3FEEB9E1EF999CED675290AF7EB9D628E",
-          "opublikowano": "2026-09-16T03:44:34Z",
           "kraj": "NL"
         },
         {
@@ -27724,6 +29087,24 @@
           "miejscowosc": "Heurne, Aalten",
           "link": "https://www.adzuna.nl/details/5863933581?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T07:44:34Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
           "kraj": "NL"
         },
         {
@@ -27875,34 +29256,34 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt zu vermieten",
-      "Cena (€)": 499.0,
+      "Tytuł": "2 Zimmer Wohnung, 66m² mit Dachterrasse.",
+      "Cena (€)": 500.0,
       "Pokoje": 2.0,
-      "Powierzchnia (m²)": 48.0,
-      "Lokalizacja": "46397 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Powierzchnia (m²)": 66.0,
+      "Lokalizacja": "46562 Voerde (Niederrhein)",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 37,
+      "Odległość od 's-Heerenberg (km)": 41.5,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-etagenwohnung-in-bocholt-zu-vermieten/3409417539-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a177f06-d25c-4554-a280-bd1ec2792b59?rule=$_2.AUTO",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-66m-mit-dachterrasse-/3521953401-203-1384",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5efaf4c-d84b-49e4-8a1f-106c421726ef?rule=$_2.AUTO",
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a177f06-d25c-4554-a280-bd1ec2792b59?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e09bb8d7-74dd-4582-b149-c2927150df98?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0949ca0d-1a77-4926-96ae-98ed66d4982c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/657ce614-971e-4da9-b26b-3af826c12b64?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1db8f6d9-ac45-4c2d-88c4-ff4c84890979?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc17fb48-f694-46b4-ace0-82f531208914?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1562997d-cf95-4def-aad4-c73d355db603?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43fdccf6-1ca9-4558-a58a-4eb2dd0ef124?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56769992-679c-4f6c-801f-69f9c250d7c6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c8be9a38-7fee-4ef8-a9d1-f46528a0f713?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4994126d-cadd-467c-9f3c-6d6483dfc315?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5efaf4c-d84b-49e4-8a1f-106c421726ef?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec173172-41f2-4496-a2fb-ad9668901733?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07f57ffe-92aa-465b-a5ff-ba40fc9e2fb6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d50c2f29-7c79-4546-bff2-4fb2edc15a80?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4aa0de6-426b-402d-a7ec-438db309b483?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52fb63d1-dd0e-4517-9eb0-be59da68d6c8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f217750-ec01-4759-9a37-ade6a044024e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0dede521-1c21-49ba-8946-7c98a756cfd9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/4526af1e-43da-4a1c-a5c5-4de7873d76f9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f9f430a-bdee-4117-8f28-a6e4c130a4fb?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c8065e9-11f3-447e-8799-8ded982ba6bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f4c9208-173d-431c-915d-b2d40150a0b6?rule=$_0.AUTO"
       ],
-      "Czynsz z mediami (€)": 660.0,
-      "Opis": "Keller • Garage/Stellplatz\n\nIn Bocholt erwartet Sie eine charmante 2-Zimmer-Etagenwohnung mit 48 m² Wohnfläche im 1. Obergeschoss eines 1937 erbauten Hauses. Die Wohnung besticht durch einen gemütlichen Laminatboden und ein helles Bad mit Badfenster. Die Küche ist ohne Einrichtung, sodass Sie Ihren persönlichen Stil verwirklichen können. Beheizt wird die Wohnung komfortabel mit einer Kombitherme. Ideal für alle, die eine angenehme Wohnatmosphäre in zentraler Lage suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-116-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030, per Telegram an LEGWohnen oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Gasetagenheizung\n• Fahrradkeller\n• Mieterkeller\n• Wasch- und Trockenkeller\n• Bad mit Dusche und Fenster\n• Isolierverglasung\n• Mediaanschluss\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer attraktiven Lage, die besonders durch ihre Nähe zu verschiedenen Bildungseinrichtungen besticht, darunter die Clemens-Dülmer-Schule sowie die Overberg-Schule. Für Familien mit Kindern ist der Kubaai-Spielplatz in bequemer Gehweite ein idealer Ort zum Spielen und Verweilen. Einkaufsmöglichkeiten sind ebenfalls gut erreichbar: Die Supermärkte ALDI Süd und REWE bieten eine breite Auswahl für den täglichen Bedarf. Erholsame Stunden im Grünen verspricht der nahegelegene Museumsgarten, der zu Spaziergängen und Freizeitaktivitäten im Freien einlädt. Medizinische Versorgung ist durch mehrere Arztpraxen in der Umgebung gewährleistet, darunter die Praxen von M.D. Omar Dakik, Dr. med. Ulrich Holtkamp und Dr. Peter E. van de Velde. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 14 Bushaltestellen, beispielsweise an der Schwartzstraße, sind schnell erreichbar, und auch zwei Bahnhöfe, unter anderem Bocholt, liegen in akzeptabler Entfernung.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-116-M",
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Helle 2 Zimmer Wohnung, 66 m², 3 Obergeschoss mit Dachterrasse und Anbau ab 01.12.2026 zu vermieten.\nBesichtigungstermine sind nach Absprache möglich.\nAufgrund der hohen Anfrage, kann sich die Antwort etwas verzögern.\nDer Mietvertrag wird dann mit der Vermieterin getroffen.\nBitte!!!! ihr Interesse bitte nur mit sauberer Schufa und entsprechendem Einkommen , nicht vom Amt, bekunden.",
       "OfertyPracy": [
         {
           "refnr": "5846357134",
@@ -27914,57 +29295,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5854508727",
-          "titel": "Reachtruckchauffeur",
-          "pracodawca": "Momentum Personeel",
-          "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=0i0LlhK48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
-          "opublikowano": "2026-08-24T18:41:49Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5887835841",
-          "titel": "Warehouse employee (morning shift)",
-          "pracodawca": "Randstad",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/details/5887835841?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-17T17:15:52Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5846855840",
           "titel": "Warehouse employee 2 shifts",
           "pracodawca": "Randstad",
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T16:24:24Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5864548543",
-          "titel": "Logistiek Medewerker Warehouse (3-ploegen)",
-          "pracodawca": "Seesing Flex",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-01T13:42:25Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5497971577",
-          "titel": "Full-time warehouse employee 2 shifts",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:20:36Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102821",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Start People",
-          "miejscowosc": "Aalten, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102821?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=CCDA072B46B543D62211FFFF2B14B75199E68FEA",
-          "opublikowano": "2026-09-24T03:45:54Z",
           "kraj": "NL"
         },
         {
@@ -27986,15 +29322,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5885456365",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Lichtenvoorde, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5885456365?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=BD2D0EA3FEEB9E1EF999CED675290AF7EB9D628E",
-          "opublikowano": "2026-09-16T03:44:34Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5846361151",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -28004,30 +29331,39 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5863132033",
+          "refnr": "5674737003",
           "titel": "Orderpicker",
-          "pracodawca": "WerkTalent",
-          "miejscowosc": "Aalten, Gelderland",
-          "link": "https://www.adzuna.nl/details/5863132033?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-31T22:37:21Z",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
           "kraj": "NL"
         },
         {
-          "refnr": "5863760938",
+          "refnr": "5864148879",
           "titel": "Orderpicker",
-          "pracodawca": "?",
-          "miejscowosc": "Aalten, Gelderland",
-          "link": "https://www.adzuna.nl/details/5863760938?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-01T05:00:46Z",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
           "kraj": "NL"
         },
         {
-          "refnr": "5863933581",
+          "refnr": "5862123428",
           "titel": "Orderpicker",
-          "pracodawca": "WerkTalent",
-          "miejscowosc": "Heurne, Aalten",
-          "link": "https://www.adzuna.nl/details/5863933581?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-01T07:44:34Z",
+          "pracodawca": "Olympia",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-30T12:42:12Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849208054",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:57:33Z",
           "kraj": "NL"
         },
         {
@@ -28040,111 +29376,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5895195108",
-          "titel": "Junior Customs Medewerker",
-          "pracodawca": "Seesing Flex",
-          "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/details/5895195108?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-23T14:29:43Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5895873463",
-          "titel": "IT Medewerker TMS",
-          "pracodawca": "Seesing Flex",
-          "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/details/5895873463?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-24T02:53:46Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5871534161",
-          "titel": "Performance Marketeer - Doetinchem",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-05T07:40:44Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5885489209",
           "titel": "Expeditiemedewerker",
           "pracodawca": "Adecco Nederland",
           "miejscowosc": "Ulft, Oude IJsselstreek",
           "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-16T04:24:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5890245431",
-          "titel": "Freelance UX Designer met passie voor CRO",
-          "pracodawca": "La Souris",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-19T07:46:13Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5662927807",
-          "titel": "Software Engineer",
-          "pracodawca": "Marktlink",
-          "miejscowosc": "Wijnbergen, Montferland",
-          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-03-12T22:20:33Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5823165450",
-          "titel": "Assistent accountant mkb",
-          "pracodawca": "Aaff",
-          "miejscowosc": "Aalten, Gelderland",
-          "link": "https://www.adzuna.nl/details/5823165450?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-01T04:03:14Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5887687594",
-          "titel": "Voorraadbeheerder",
-          "pracodawca": "WolframChain",
-          "miejscowosc": "Lichtenvoorde, Oost Gelre",
-          "link": "https://www.adzuna.nl/details/5887687594?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-17T14:23:42Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5886648326",
-          "titel": "Voorraadbeheerder",
-          "pracodawca": "Wolfram Chain",
-          "miejscowosc": "Lichtenvoorde, Oost Gelre",
-          "link": "https://www.adzuna.nl/details/5886648326?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-16T23:46:28Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5887687595",
-          "titel": "Voorraadbeheerder Lichtenvoorde",
-          "pracodawca": "WolframChain",
-          "miejscowosc": "Lichtenvoorde, Oost Gelre",
-          "link": "https://www.adzuna.nl/details/5887687595?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-17T14:23:42Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190524",
-          "titel": "Delivery Driver in Wehl",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Wehl, Doetinchem",
-          "link": "https://www.adzuna.nl/details/5849190524?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190536",
-          "titel": "Delivery Driver in Terborg",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Terborg, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/details/5849190536?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         },
         {
@@ -28155,27 +29392,9 @@
           "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
-        },
-        {
-          "refnr": "5849190483",
-          "titel": "Delivery Driver in Zelhem",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Zelhem, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190483?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190526",
-          "titel": "Delivery Driver in Etten",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Etten, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/details/5849190526?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
         }
       ],
-      "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+      "PierwszyRaz": "2026-09-24T15:29:09.093076+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -28748,24 +29967,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -28781,6 +29982,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -28833,6 +30052,38 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer-Erdgeschosswohnung mit Garten in stadtnaher Lage",
+      "Cena (€)": 533.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 47.0,
+      "Lokalizacja": "46399 Bocholt",
+      "Odległość (km)": 24.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": 23.4,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-erdgeschosswohnung-mit-garten-in-stadtnaher-lage/3521984234-203-1851",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78618259-7bb0-48cf-a718-d92e650e4796?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df3d920e-9aee-4a86-9fbd-3ae943f90960?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58803e56-7c61-4c18-a716-9f26d01d454a?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c87b96a4-d13d-4539-969e-88da5a892001?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/180a34ed-992d-4af0-9cfc-06d5f4168b37?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab45145b-2362-4a3b-adfd-b38ae003100f?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/ee8625ab-b40f-4a78-982c-b3d966cde99e?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82cc73e6-d9da-435f-8956-825f7db32cc7?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ea42b0c4-245c-4028-b5eb-61427936a7e5?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9dae52ab-438d-416e-b481-2d0c61823c30?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b498922-ffb3-465c-901c-bcffce7e16c6?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Wir suchen zum 01.11.2026 einen Nachmieter für unsere gemütliche 2-Zimmer-Erdgeschosswohnung mit ca. 47 m² Wohnfläche.\n\nDie Wohnung besteht aus einem Wohn-/Küchenbereich, einem Schlafzimmer und einem Badezimmer mit Dusche.\n\nZur Wohnung gehören außerdem:\n\n* eigener Garten mit Terrasse und Schuppen\n* PKW-Stellplatz\n* privater Fahrradschuppen\n* eigener Kellerabstellraum\n* Gemeinschaftswaschkeller\n\nDie Wohnung liegt sehr stadtnah, sodass Einkaufsmöglichkeiten und die Bocholter Innenstadt schnell erreichbar sind.\n\nMiete:\n\n* Kaltmiete: 473 €\n* Nebenkosten: 60 €\n* Strom, Wasser und Gas werden nach eigenem Verbrauch direkt mit dem jeweiligen Versorger abgerechnet.\n\nWichtig: Haustiere sind leider nicht erlaubt.\n\nBei Interesse gerne eine Nachricht mit ein paar kurzen Informationen zu sich selbst.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-24T15:29:09.093076+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Frisch sanierte 2 Zimmerwohnung mit Balkon zu vermieten",
       "Cena (€)": 540.0,
       "Pokoje": 2.0,
@@ -28858,7 +30109,89 @@
       ],
       "Czynsz z mediami (€)": 680.0,
       "Opis": "Balkon • Keller\n\nDiese ansprechende 2-Zimmer-Wohnung in Duisburg präsentiert sich nach einer umfassenden Modernisierung im Jahr 2026 als Erstbezug. Die 62 m² Wohnfläche verteilen sich auf zwei helle Zimmer sowie ein Badezimmer und befinden sich in der zweiten Etage eines gepflegten Mehrfamilienhauses aus dem Jahr 1970. Ein besonderes Highlight ist der Balkon, der zum Verweilen einlädt. Zusätzlich sorgt ein eigener Kellerraum für praktischen Stauraum. Die Beheizung erfolgt über eine Etagenheizung (moderne Infrarotheizung). Das Objekt ist ab sofort verfügbar und bietet eine flexible Regelung bezüglich der Tierhaltung.\n\n\\- neues Bad\n\n\\- moderne Infrarotheizungen\n\nDie Holtener Straße liegt im Duisburger Stadtteil Obermarxloh, der durch eine gute Anbindung an den öffentlichen Nahverkehr überzeugt. Buslinien und die U-Bahn-Linie U79 ermöglichen eine schnelle Verbindung zum Stadtzentrum. Das lebendige Viertel bietet eine angenehme Infrastruktur mit einer Mischung aus Familien und Berufstätigen.\n\nHeizkosten sind nicht in den Nebenkosten enthalten und laufen über den privaten Stromtarif.",
-      "OfertyPracy": [],
+      "OfertyPracy": [
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849208054",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:57:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        }
+      ],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
@@ -28922,6 +30255,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=pPFUsiq48RG_LevdjZ8dqA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -29258,24 +30600,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=KNMnzxG48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=KNMnzxG48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -29291,6 +30615,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -29739,24 +31081,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -29772,6 +31096,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -29821,6 +31163,310 @@
         }
       ],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt zu vermieten",
+      "Cena (€)": 559.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-etagenwohnung-in-bocholt-zu-vermieten/3482560376-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d84c7bd2-0454-4e10-a49b-9e38e5050665?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d84c7bd2-0454-4e10-a49b-9e38e5050665?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67bea118-2ae8-4691-aee7-ec18d8ca72b1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2ed2914c-55f1-4bbe-b75c-02653623626b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b48f1105-f01b-483e-bfc7-24e74e1a728d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f6fa1b4-af65-4072-a382-f87f9c9df2d6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02acc642-8b91-4162-a49e-c3d930b90d37?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d17bfb2-386b-4f7a-89b1-d356a34822d3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e85310ae-9ba4-44a8-9a10-059d43e10828?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9481e8c-a780-47ec-9dc8-b08094c696ea?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91872d87-a730-42a1-81d2-0882ca14033f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/75cbaa96-e78b-4073-828e-7dc11b8ae6ad?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 694.0,
+      "Opis": "Keller • Garage/Stellplatz\n\nIn einem gepflegten Gebäude aus dem Jahr 1937 erwartet Sie diese charmante 48 m² große 2-Zimmer-Etagenwohnung im Erdgeschoss. Die Wohnung besticht durch eine gemütliche Atmosphäre und verfügt über ein Bad mit Dusche und Badfenster, das für angenehme Lichtverhältnisse sorgt. Die Küche ist ohne Einrichtung, sodass Sie sie ganz nach Ihren Wünschen gestalten können. Der Bodenbelag ist pflegeleicht, und die Beheizung erfolgt komfortabel über Gas. Ideal für Singles oder Paare, die eine ruhige und behagliche Wohnatmosphäre in Bocholt suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-167-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n- Mieterkeller\n- Fahrradkeller\n- Waschkeller\n- Tageslichtbad mit Dusche\n- Dielenboden\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer hervorragend angebundenen Lage, die insbesondere Familien und Berufstätigen entgegenkommt. Bildungseinrichtungen wie die Clemens-Dülmer-Schule und die Overberg-Schule sind bequem zu Fuß erreichbar. Für Freizeit und Erholung bietet sich der nahegelegene Kubaai-Spielplatz an, ideal für Kinder und Familienaktivitäten. Einkaufsmöglichkeiten sind durch die nahe gelegenen Supermärkte ALDI Süd und REWE schnell zugänglich. Wer gerne Zeit im Grünen verbringt, findet im Museumsgarten eine attraktive Möglichkeit, um entspannte Stunden im Freien zu genießen. Medizinische Versorgung ist durch mehrere Arztpraxen in unmittelbarer Umgebung gewährleistet. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 13 Bushaltestellen, darunter die Haltestelle Schwartzstraße, sind schnell erreichbar. Zudem sind zwei Bahnhöfe, darunter Bocholt, in etwa 15 Minuten zu Fuß zu erreichen, was die Mobilität zusätzlich erleichtert.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 264.8 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 18.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-167-M",
+      "OfertyPracy": [
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5854508727",
+          "titel": "Reachtruckchauffeur",
+          "pracodawca": "Momentum Personeel",
+          "miejscowosc": "Vragender, Oost Gelre",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887835841",
+          "titel": "Warehouse employee (morning shift)",
+          "pracodawca": "Randstad",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5887835841?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T17:15:52Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864548543",
+          "titel": "Logistiek Medewerker Warehouse (3-ploegen)",
+          "pracodawca": "Seesing Flex",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T13:42:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5863132033",
+          "titel": "Orderpicker",
+          "pracodawca": "WerkTalent",
+          "miejscowosc": "Aalten, Gelderland",
+          "link": "https://www.adzuna.nl/details/5863132033?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-31T22:37:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5863760938",
+          "titel": "Orderpicker",
+          "pracodawca": "?",
+          "miejscowosc": "Aalten, Gelderland",
+          "link": "https://www.adzuna.nl/details/5863760938?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T05:00:46Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5863933581",
+          "titel": "Orderpicker",
+          "pracodawca": "WerkTalent",
+          "miejscowosc": "Heurne, Aalten",
+          "link": "https://www.adzuna.nl/details/5863933581?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T07:44:34Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5895195108",
+          "titel": "Junior Customs Medewerker",
+          "pracodawca": "Seesing Flex",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5895195108?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-23T14:29:43Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5895873463",
+          "titel": "IT Medewerker TMS",
+          "pracodawca": "Seesing Flex",
+          "miejscowosc": "Lengel, Montferland",
+          "link": "https://www.adzuna.nl/details/5895873463?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-24T02:53:46Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5871534161",
+          "titel": "Performance Marketeer - Doetinchem",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5871534161?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-05T07:40:44Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5885489209",
+          "titel": "Expeditiemedewerker",
+          "pracodawca": "Adecco Nederland",
+          "miejscowosc": "Ulft, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5885489209?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-16T04:24:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5890245431",
+          "titel": "Freelance UX Designer met passie voor CRO",
+          "pracodawca": "La Souris",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5890245431?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T07:46:13Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5662927807",
+          "titel": "Software Engineer",
+          "pracodawca": "Marktlink",
+          "miejscowosc": "Wijnbergen, Montferland",
+          "link": "https://www.adzuna.nl/details/5662927807?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-12T22:20:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5823165450",
+          "titel": "Assistent accountant mkb",
+          "pracodawca": "Aaff",
+          "miejscowosc": "Aalten, Gelderland",
+          "link": "https://www.adzuna.nl/details/5823165450?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-01T04:03:14Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887687594",
+          "titel": "Voorraadbeheerder",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Lichtenvoorde, Oost Gelre",
+          "link": "https://www.adzuna.nl/details/5887687594?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T14:23:42Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5886648326",
+          "titel": "Voorraadbeheerder",
+          "pracodawca": "Wolfram Chain",
+          "miejscowosc": "Lichtenvoorde, Oost Gelre",
+          "link": "https://www.adzuna.nl/details/5886648326?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-16T23:46:28Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5887687595",
+          "titel": "Voorraadbeheerder Lichtenvoorde",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Lichtenvoorde, Oost Gelre",
+          "link": "https://www.adzuna.nl/details/5887687595?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-17T14:23:42Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190524",
+          "titel": "Delivery Driver in Wehl",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Wehl, Doetinchem",
+          "link": "https://www.adzuna.nl/details/5849190524?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190536",
+          "titel": "Delivery Driver in Terborg",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Terborg, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190536?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190508",
+          "titel": "Delivery Driver in Zeddam",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Zeddam, Montferland",
+          "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190483",
+          "titel": "Delivery Driver in Zelhem",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Zelhem, Bronckhorst",
+          "link": "https://www.adzuna.nl/details/5849190483?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849190526",
+          "titel": "Delivery Driver in Etten",
+          "pracodawca": "Picnic",
+          "miejscowosc": "Etten, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/details/5849190526?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:52:29Z",
+          "kraj": "NL"
+        }
+      ],
+      "PierwszyRaz": "2026-09-24T15:29:09.093076+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -30027,7 +31673,89 @@
       ],
       "Czynsz z mediami (€)": 740.0,
       "Opis": "Diese gepflegte und modern ausgestattete Wohnung befindet sich in einer ruhigen Wohnlage in Duisburg-Neumühl und überzeugt durch ihren sehr guten Zustand sowie eine praktische Raumaufteilung.\n\nDie ca. 62 m² große Wohnung ist sofort bezugsfertig – Renovierung arbeiten sind nicht erforderlich. Böden, Wände und Ausstattung sind in einem gepflegten Zustand, sodass ein unkomplizierter Einzug möglich ist.\n\nAusstattung:\n\nca. 62 m² Wohnfläche\ngut geschnittener Grundriss\ngepflegter Zustand (kein Renovierungsbedarf)\nhelle Räume\nruhige Wohnlage\n\nLage:\nDie Wohnung befindet sich in Duisburg-Neumühl in einer ruhigen und angenehmen Wohngegend. Einkaufsmöglichkeiten für den täglichen Bedarf, Supermärkte, Bäckereien und weitere Geschäfte sind schnell erreichbar.\n\nAuch die Anbindung an den öffentlichen Nahverkehr ist gut, sodass umliegende Stadtteile sowie die Duisburger Innenstadt bequem erreichbar sind. Schulen, Kindergärten und Ärzte befinden sich ebenfalls in der näheren Umgebung.\n\nDie Lage bietet eine gute Kombination aus ruhigem Wohnen und praktischer Infrastruktur.\n\nMiete:\nKaltmiete: 560,00 €\nNebenkosten: 180,00 €\nWarmmiete: 740,00 €\n\nKaution: 1050,00 €\n\nSonstiges:\nIdeal geeignet für Singles oder Paare, die eine gepflegte Wohnung in ruhiger Lage suchen.",
-      "OfertyPracy": [],
+      "OfertyPracy": [
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849208054",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:57:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        }
+      ],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
@@ -30807,8 +32535,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=0i0LlhK48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -30839,24 +32576,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5497971577",
-          "titel": "Full-time warehouse employee 2 shifts",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:20:36Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102821",
-          "titel": "Magazijnmedewerker",
-          "pracodawca": "Start People",
-          "miejscowosc": "Aalten, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102821?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=CCDA072B46B543D62211FFFF2B14B75199E68FEA",
-          "opublikowano": "2026-09-24T03:45:54Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -30872,15 +32591,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2025-11-15T19:16:05Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5885456365",
-          "titel": "Magazijnmedewerker dagdienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Lichtenvoorde, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5885456365?se=yD3_lhK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=BD2D0EA3FEEB9E1EF999CED675290AF7EB9D628E",
-          "opublikowano": "2026-09-16T03:44:34Z",
           "kraj": "NL"
         },
         {
@@ -30917,6 +32627,24 @@
           "miejscowosc": "Heurne, Aalten",
           "link": "https://www.adzuna.nl/details/5863933581?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T07:44:34Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
           "kraj": "NL"
         },
         {
@@ -31449,24 +33177,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -31482,6 +33192,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -32072,6 +33800,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sOVoSCu48RGgMY43NiMBEQ&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5846864125",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -32405,24 +34142,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=umdq5xK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=umdq5xK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -32438,6 +34157,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -32527,7 +34264,89 @@
       ],
       "Czynsz z mediami (€)": 785.0,
       "Opis": "Balkon • Einbauküche • Keller\n\nDiese frisch und umfassend sanierte 2-Zimmer-Wohnung mit ca. 58,09 m² Wohnfläche befindet sich im 1. Obergeschoss eines gepflegten Mehrfamilienhauses mit insgesamt nur sechs Wohneinheiten.\n\nDie Wohnung wird nach der Sanierung erstmals bezogen und präsentiert sich in einem modernen, hellen und freundlichen Zustand. Im Zuge der Arbeiten wurden unter anderem die Elektrik teilweise erneuert, sämtliche Wandflächen aufbereitet, neue Bodenbeläge verlegt und eine hochwertige Einbauküche eingebaut.\n\nDarüber hinaus wurde auch energetisch in das Gebäude investiert: Sämtliche Fenster wurden durch neue, dreifach verglaste und energieeffiziente Fenster ersetzt. Zusätzlich erhielt die Vorderseite des Hauses ein neues Wärmedämmverbundsystem (WDVS). Die im vorhandenen Energieausweis ausgewiesenen Verbrauchs- bzw. Bedarfswerte beziehen sich noch auf den Zustand vor diesen Modernisierungsmaßnahmen und berücksichtigen diese daher nicht.\n\nDer durchdachte Grundriss bietet ein geräumiges Schlafzimmer, einen praktischen Flur sowie ein helles und großzügiges Wohnzimmer mit direktem Zugang zum eigenen Balkon. Die separate Küche bietet ausreichend Platz und ist bereits mit einer neuen, vollwertigen Einbauküche ausgestattet. Eine praktische Abstellkammer innerhalb der Wohnung schafft zusätzlichen Stauraum.\n\nDas modernisierte Badezimmer verfügt über Dusche, WC und Handtuchheizkörper. Ein eigener Kellerraum gehört ebenfalls zur Wohnung.\n\nDas gepflegte Sechs-Parteien-Haus zeichnet sich durch eine ruhige Wohnatmosphäre und eine angenehme, freundliche Mieterschaft aus.\n\nDie Beheizung erfolgt über eine Gaszentralheizung. Die Warmwasseraufbereitung erfolgt über einen Durchlauferhitzer.\n\nObjektzustand: Erstbezug nach Sanierung\n\n# Ausstattung\nBalkon, Keller, Duschbad, Einbauküche, Laminat, Fliesen\n\nBemerkungen:\n- Erstbezug nach umfassender Sanierung\n- Neue, dreifach verglaste und energieeffiziente Fenster\n- Hochwertiger Laminatboden im Wohn- und Schlafzimmer\n- Fliesenboden in Küche und Badezimmer\n- Helles, großzügiges Wohnzimmer mit direktem Zugang zum Balkon\n- Geräumiges Schlafzimmer\n- Separate Küche mit neuer, vollwertiger IKEA-Einbauküche\n- 4-Zonen-Induktionskochfeld der Marke Siemens\n- Backofen der Marke Siemens\n- XXL-Spülmaschine der Marke Siemens\n- Großzügiger Stauraum in der neuen Einbauküche\n- Waschmaschinenanschluss in der Küche vorhanden\n- Badezimmer mit Dusche, WC und Handtuchheizkörper\n- Praktische Abstellkammer innerhalb der Wohnung\n- Rollläden\n- Eigener Kellerraum\n- Gaszentralheizung\n- Warmwasseraufbereitung über Durchlauferhitzer in der Wohnung\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: saniert\n- Bodenbelag: Fliesen, Laminat\n\n# Lagebeschreibung\nDie Wohnung befindet sich in der Döltgenstraße im Duisburger Norden. Die Lage verbindet ein ruhiges Wohnumfeld mit einer guten Infrastruktur für den täglichen Bedarf.\n\nEinkaufsmöglichkeiten befinden sich im näheren Umfeld. Unter anderem sind im Bereich der Holtener Straße sowie rund um Hamborn verschiedene Supermärkte und weitere Geschäfte des täglichen Bedarfs vorhanden. Auch Bushaltestellen befinden sich im umliegenden Wohngebiet, wodurch eine Anbindung an den öffentlichen Personennahverkehr gegeben ist.\n\nFür Autofahrer bietet die Lage eine gute regionale und überregionale Verkehrsanbindung. Insbesondere die A42 und A59 sind über den Duisburger Norden gut erreichbar und ermöglichen schnelle Verbindungen unter anderem in Richtung Duisburger Innenstadt, Oberhausen, Dinslaken sowie in das weitere Ruhrgebiet. Die Ausfahrt Duisburg-Neumühl der A42 sowie die Anschlussstelle Duisburg-Alt-Hamborn der A59 erschließen diesen Teil des Duisburger Nordens.\n\nAuch hinsichtlich Freizeit und Naherholung bietet die Umgebung attraktive Möglichkeiten. Der Landschaftspark Duisburg-Nord ist eines der bekanntesten Freizeit- und Naherholungsziele Duisburgs und verbindet weitläufige Grünflächen mit der Industriekultur des ehemaligen Hüttenwerks. Das Gelände bietet Möglichkeiten zum Spazierengehen, Radfahren sowie für zahlreiche Kultur- und Freizeitaktivitäten.\n\nDamit eignet sich die Lage insbesondere für Mieter, die ein ruhiges Wohnumfeld mit guter Erreichbarkeit der Einrichtungen des täglichen Lebens und einer schnellen Anbindung innerhalb Duisburgs und des Ruhrgebiets schätzen.\nInfrastruktur (im Umkreis von 5 km):\nApotheke, Lebensmittel-Discount, Allgemeinmediziner, Kindergarten, Grundschule, Hauptschule, Realschule, Gymnasium, Gesamtschule, Öffentliche Verkehrsmittel\n\n# Sonstiges\nHeizungsart: Zentralheizung\nEnergieträger: Gas\n\n- Mindestmietdauer von 18 Monaten wird vereinbart.\n- Es handelt sich um einen Indexmietvertrag.\n\nMakleranfragen nicht erwünscht. Nach § 7 UWG sind unaufgeforderte Kontaktaufnahmen durch Makler ohne ausdrückliche Einwilligung des Empfängers verboten!\n\nohne-makler (OM) ist weder Anbieter noch Vermittler der Immobilie. OM betreibt eine Plattform für Immobilieneigentümer, die unter anderem die gleichzeitige Veröffentlichung einzelner Inserate auf mehreren Immobilienportalen ermöglicht. Die Inhalte dieser Inserate werden ausschließlich von Dritten verantwortet. Für die Richtigkeit, Vollständigkeit oder Rechtmäßigkeit der Angaben übernimmt OM keine Haftung. Hinweise auf mögliche Rechtsverstöße können jederzeit gemeldet werden und werden nach Prüfung umgehend bearbeitet.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 103 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Baujahr: 1963\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 496268",
-      "OfertyPracy": [],
+      "OfertyPracy": [
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5674737003",
+          "titel": "Orderpicker",
+          "pracodawca": "Euro Planit Personeelsdiensten",
+          "miejscowosc": "Dinxperlo, Aalten",
+          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-03-22T02:02:40Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849208054",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:57:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        }
+      ],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
@@ -32631,6 +34450,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=pPFUsiq48RG_LevdjZ8dqA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5846864125",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -32964,24 +34792,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=KNMnzxG48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=KNMnzxG48RGaHIBJXs1Sjg&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -32997,6 +34807,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -33481,24 +35309,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=YEtuvxG48RGYOcG44kjgMg&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
@@ -33514,6 +35324,24 @@
           "miejscowosc": "Doetinchem, Gelderland",
           "link": "https://www.adzuna.nl/details/5790514084?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-07-07T04:40:41Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
@@ -33726,6 +35554,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=TIrgDSu48RGqqJ23Mt790Q&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -33963,30 +35800,30 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5896102797",
-          "titel": "Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=0nk3KBK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
-          "opublikowano": "2026-09-24T03:45:53Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5896102864",
-          "titel": "Logistiek Coördinator Medewerker binnendienst",
-          "pracodawca": "Start People",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=0nk3KBK48RG30v2CWKAarA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
-          "opublikowano": "2026-09-24T03:45:55Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5879372454",
           "titel": "Horeca Medewerker",
           "pracodawca": "Taco Bell Nederland",
           "miejscowosc": "Groessen, Duiven",
           "link": "https://www.adzuna.nl/details/5879372454?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-11T07:46:43Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5891926522",
+          "titel": "Medewerker Sales Binnendienst Logistiek",
+          "pracodawca": "DACHSER Regional Headoffice BENELUX",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5891926522?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-20T18:30:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5889918969",
+          "titel": "Transportplanner Duiven",
+          "pracodawca": "WolframChain",
+          "miejscowosc": "Groessen, Duiven",
+          "link": "https://www.adzuna.nl/details/5889918969?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-19T02:24:21Z",
           "kraj": "NL"
         },
         {
