@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T03:28:11.618733+00:00",
-  "count": 109,
+  "generated_at": "2026-09-24T06:31:36.153519+00:00",
+  "count": 110,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-09-22T11:17:14.008130+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-24T03:28:11.618733+00:00",
+      "last_updated": "2026-09-24T06:31:36.153519+00:00",
       "interval_hours": 3
     }
   },
@@ -20841,7 +20841,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -20877,7 +20877,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21102,7 +21102,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -21111,7 +21111,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -21308,7 +21308,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=6CIj7cW38RGBufFyCMhJ1A&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=9LRQj9-38RGK-oqux5En4Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21344,7 +21344,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=6CIj7cW38RGBufFyCMhJ1A&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=9LRQj9-38RGK-oqux5En4Q&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21578,7 +21578,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=fCVx78W38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=7DLJkd-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -21587,7 +21587,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=fCVx78W38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=7DLJkd-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -21810,7 +21810,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yDt1_MW38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yImTnt-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -21846,7 +21846,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yDt1_MW38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yImTnt-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22080,7 +22080,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=EoDu_sW38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=PMjtoN-38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -22089,7 +22089,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=EoDu_sW38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=PMjtoN-38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -22249,7 +22249,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=EsXJC8a38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=BFMRrd-38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22267,7 +22267,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=EsXJC8a38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=BFMRrd-38RGxPoSQSRWI2w&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22391,7 +22391,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=VtkIGsa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=4IQmvN-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22409,7 +22409,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=VtkIGsa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=4IQmvN-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22519,7 +22519,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=pkWSKca38RGP0qQ_3oqDJw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=aoeByt-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22537,7 +22537,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=pkWSKca38RGP0qQ_3oqDJw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=aoeByt-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22593,7 +22593,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1899c0be-cddb-4390-a70c-9abea5e24fd8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e5b45c0-180b-4944-8962-1b487d46d2bc?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/facaa225-db24-416f-b041-d61bb19de77b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/306f96f9-9ecf-4743-be1f-88d669098dea?rule=$_59.AUTO",
@@ -22652,7 +22652,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=pkWSKca38RGP0qQ_3oqDJw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=aoeByt-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22670,7 +22670,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=pkWSKca38RGP0qQ_3oqDJw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=aoeByt-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22785,7 +22785,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=VtkIGsa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=4IQmvN-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22803,7 +22803,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=VtkIGsa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=4IQmvN-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22859,7 +22859,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/95a7aed5-dc5f-402f-8c8e-829cadbbf176?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9fc7ecd-463d-43ee-a243-e12a92e03b5f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e810c76f-1401-484e-a734-1e00d4a52338?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c9bb4c5-253a-4e54-9232-f34f6964e0ec?rule=$_59.AUTO",
@@ -22918,7 +22918,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=7CT5OMa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=ZPrY2N-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22936,7 +22936,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=7CT5OMa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=ZPrY2N-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -22992,7 +22992,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4d77110-90db-4670-88e0-074b1a853857?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8a2a89c-9e95-4440-a5e3-9ca130cf163b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c2c717a-6a40-4246-87a6-174ca5a9f308?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/488e084a-72f7-4342-9519-572a975a6a09?rule=$_59.AUTO",
@@ -23051,7 +23051,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=7CT5OMa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=ZPrY2N-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23069,7 +23069,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=7CT5OMa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=ZPrY2N-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23125,7 +23125,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1e25a9a-ed62-437e-bff1-eb45553bae44?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6b0679b-83a9-4851-868b-d93eff19eac8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e412ff35-33bd-4e17-af95-eecd94c89010?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2682c50a-5715-43d4-bf22-73a99a7779cb?rule=$_59.AUTO",
@@ -23184,7 +23184,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=pkWSKca38RGP0qQ_3oqDJw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=aoeByt-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23202,7 +23202,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=pkWSKca38RGP0qQ_3oqDJw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=aoeByt-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23317,7 +23317,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=kMWMR8a38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=tqUd59-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23335,7 +23335,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=kMWMR8a38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=tqUd59-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23522,7 +23522,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=LPgnVsa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yAtg9d-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23540,7 +23540,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=LPgnVsa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yAtg9d-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23648,7 +23648,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=ChB2WMa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=fIy199-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -23657,7 +23657,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=ChB2WMa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=fIy199-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -23862,7 +23862,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=VtkIGsa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=4IQmvN-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -23880,7 +23880,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=VtkIGsa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=4IQmvN-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24083,7 +24083,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=pkWSKca38RGP0qQ_3oqDJw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=aoeByt-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24101,7 +24101,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=pkWSKca38RGP0qQ_3oqDJw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=aoeByt-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24282,7 +24282,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=7CT5OMa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=ZPrY2N-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24300,7 +24300,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=7CT5OMa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=ZPrY2N-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24387,7 +24387,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/willkommen-in-ihrer-bezugsfertigen-2-zimmer-wohnung-mit-balkon-ab-15-10-26/3495805112-203-26973",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/479b9951-10df-4777-a010-07417e55579d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b8c1a1a-4449-48ef-bf97-7547a21b5a9b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc54310b-3e52-45b4-a994-b17b94e227ec?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3efd75eb-ebec-4272-a4fe-bf1f09bd8f9e?rule=$_59.AUTO",
@@ -24687,7 +24687,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24723,7 +24723,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -24948,7 +24948,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -24957,7 +24957,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -25295,7 +25295,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=7CT5OMa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=ZPrY2N-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25313,7 +25313,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=7CT5OMa38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=ZPrY2N-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25550,7 +25550,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=6CIj7cW38RGBufFyCMhJ1A&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=9LRQj9-38RGK-oqux5En4Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25586,7 +25586,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=6CIj7cW38RGBufFyCMhJ1A&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=9LRQj9-38RGK-oqux5En4Q&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -25820,7 +25820,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=fCVx78W38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=7DLJkd-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -25829,7 +25829,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=fCVx78W38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=7DLJkd-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -26040,7 +26040,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26076,7 +26076,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26301,7 +26301,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -26310,7 +26310,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -26485,7 +26485,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=kMWMR8a38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=tqUd59-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26503,7 +26503,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=kMWMR8a38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=tqUd59-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26702,7 +26702,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=kMWMR8a38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=tqUd59-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -26720,7 +26720,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=kMWMR8a38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=tqUd59-38RGDhtF6etb7sA&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -27035,7 +27035,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -27071,7 +27071,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -27296,7 +27296,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -27305,7 +27305,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -27473,6 +27473,39 @@
       "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Badewanne • Garage/Stellplatz\n\nMöblierte Wohnung in Dinslaken-Bruch ab 01.10.2026 für 6 Monate zu vermieten\n\nAb dem 01.10.2026 wird eine komplett möblierte Wohnung in Dinslaken-Bruch für einen Zeitraum von sechs Monaten vermietet. Die Wohnung eignet sich daher ideal für jemanden, der eine möblierte Übergangslösung sucht oder kurzfristig für einige Monate eine Wohnung benötigt.\n\nDie Wohnung wird nur an eine Person und ausschließlich an Vollzeit-Berufstätige vermietet.\n\nZur Wohnung:\n\n* komplett möbliert\n* voll ausgestattete Küche mit Spülmaschine, Kühlschrank, Herd etc.\n* Badezimmer mit Badewanne und Duschwand, sodass sowohl Baden als auch komfortables Duschen möglich ist\n* sehr ruhige und entspannte Wohnlage\n* nur wenige Gehminuten vom Tenderingssee entfernt – ideal zum Spazierengehen\n* zahlreiche Lebensmittelgeschäfte und Einkaufsmöglichkeiten in unmittelbarer Umgebung\n* schnelle Anbindung an die Autobahn A59\n\nFolgende Möbel können gegen Ablöse übernommen werden und gehören dann dem Nachmieter. Preise hierfür können wir unkompliziert besprechen. Da werden wir uns sicherlich einig.\n\n* Boxspringbett inkl. Topper\n(gekauft in 2024)\nDas Bett verfügt über zwei Bettkästen und ist sehr gemütlich.\n* IKEA-Couch – (gekauft in 2025)\n\n* Kleiderschrank\n\nKostenfrei zur Nutzung enthalten:\n\n* Küche mit E Geräten und Spülmaschine\n* Kallax-Regal, auf dem sich beispielsweise auch ein Fernseher aufstellen lässt\n* Nachttisch\n* Wohnzimmertisch\n* mittelgroße Kommode\n* kleine Kommode\n* Internet zur sofortigen Nutzung in Mietsumme enthalten. (Guter Empfang und eine schnelle Internetverbindung)\n* Stellplatz direkt vor der Wohnung\n\nDiese Möbel werden nach Ablauf des Mietverhältnisses wieder an die Vermieterin übergeben.\n\nDie Wohnung bietet eine ruhige Wohnatmosphäre sowie Privatsphäre und ist aufgrund der vollständigen Möblierung besonders praktisch, wenn man für einen begrenzten Zeitraum eine unkomplizierte Wohnlösung sucht.\n\nBesichtigungen sind nach Absprache möglich.\n\nBei Interesse gerne mit ein paar kurzen Informationen zur eigenen Person und beruflichen Situation melden. Bei Interesse bitte eine Nachricht schreiben. Wenn alles passt gebe ich dir die Kontaktdaten von der Vermieterin.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Möblierte 2,5 Zimmerwohnung Dinslaken Bruch, kurzfristig verfügb",
+      "Cena (€)": 620.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 52.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": 47.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-2-5-zimmerwohnung-dinslaken-bruch-kurzfristig-verfuegb/3501292413-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/525bff42-a1fc-4fe7-a8b3-791e992dc06e?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/525bff42-a1fc-4fe7-a8b3-791e992dc06e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a853b6e6-af9f-4a7b-a08e-0f1f3f7833ab?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/3225d5c5-f757-432a-9a4c-03d0e63b40b1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/427e2b02-6f8c-425f-b959-dd5e595ec372?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02e95f20-bb85-4338-ad07-ccff0b15a3f3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d62bbe70-9f58-441c-9cfa-f3cfad3bfc62?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f01f4e7-b35a-4ff9-bbf4-a981827aba35?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8b940bc-9615-4c42-aa65-2328188fd46f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91292257-1e5a-46d1-8c88-4ae13bf3fcd0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbaf65ef-b715-4260-b1c7-0f42ad051ec0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29aad55a-024b-4ec5-ad0b-321ce5d442ba?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3f8c7b7-e2f4-4480-9c7f-deb69ef883d0?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 620.0,
+      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Altbau • Garage/Stellplatz\n\nDiese gepflegte und vollständig möblierte 2,5-Zimmer-Wohnung befindet sich im 1. Obergeschoss eines ruhigen Dreiparteienhauses in Dinslaken-Bruch.\n\nAuf ca. 52 m² Wohnfläche verteilen sich ein Wohnbereich, ein Schlafzimmer, ein weiteres Zimmer, eine Küche, eine Diele sowie ein Tageslicht-Duschbad. Die Wohnung wird komplett möbliert vermietet und eignet sich ideal für Einzelpersonen oder Paare, die eine kurzfristig verfügbare und bezugsfertige Wohnung suchen.\n\nEin PKW-Stellplatz kann bei Bedarf für 60,00 € monatlich zusätzlich angemietet werden.\n\nAusstattungsmerkmale\n\n* Ca. 52 m² Wohnfläche\n* 2,5 Zimmer\n* Möblierte Vermietung\n* Küche\n* Tageslicht-Duschbad\n* 1.\tObergeschoss\n* Ruhiges Dreiparteienhaus\n* Fernwärme\n* Kurzfristig verfügbar\n* Optionaler PKW-Stellplatz\n\nMietkonditionen\n\n* Kaltmiete: 470,00 € / Monat\n* Betriebskostenvorauszahlung: 150,00 € / Monat\n* PKW-Stellplatz (optional): 60,00 € / Monat\n* Mietsicherheit: 3 Monatskaltmieten\n\nEnergieausweis\n\n* Baujahr: 1914\n* Heizungsart: Fernwärme\n* Energieausweis: Bedarfsausweis\n* Endenergiebedarf: 218,7 kWh/(m²·a)\n* Ausstellungsdatum: 16.02.2025\n* Gültig bis: 15.02.2035\n\nInteresse geweckt?\n\nBei Interesse an dieser Wohneinheit bitten wir Sie, uns zunächst Ihre E-Mail-Adresse mitzuteilen. Im Anschluss erhalten Sie von uns eine Mieterselbstauskunft, die bitte vollständig ausgefüllt an uns zurückgesendet wird.\n\nNach Prüfung Ihrer Unterlagen werden wir gegebenenfalls einen Besichtigungstermin mit Ihnen vereinbaren.\n\nMit freundlichen Grüßen\n\nVerTraut Immobilienverwaltung\nGüneycan Traut",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-24T06:31:36.145458+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -27740,7 +27773,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=6CIj7cW38RGBufFyCMhJ1A&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=9LRQj9-38RGK-oqux5En4Q&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -27776,7 +27809,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=6CIj7cW38RGBufFyCMhJ1A&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=9LRQj9-38RGK-oqux5En4Q&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -28010,7 +28043,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=fCVx78W38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=7DLJkd-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -28019,7 +28052,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=fCVx78W38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=7DLJkd-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -28266,7 +28299,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -28302,7 +28335,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=yiLu28W38RGu6_LrFdMpxQ&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=4h-Lft-38RGy9Y8VGxfkJg&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -28527,7 +28560,7 @@
           "titel": "Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102797?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
+          "link": "https://www.adzuna.nl/land/ad/5896102797?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=7D1EBFC8101D6CC892F1A0CDD37CE7A90CD8E264",
           "opublikowano": "2026-09-24T03:45:53Z",
           "kraj": "NL"
         },
@@ -28536,7 +28569,7 @@
           "titel": "Logistiek Coördinator Medewerker binnendienst",
           "pracodawca": "Start People",
           "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5896102864?se=bqeV3sW38RGodromBYMogA&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
+          "link": "https://www.adzuna.nl/land/ad/5896102864?se=9jgfgd-38RGaQ8BgLwMzsw&utm_medium=api&utm_source=ac776865&v=76716426D883D1677911A83C5106C4F38963DAC3",
           "opublikowano": "2026-09-24T03:45:55Z",
           "kraj": "NL"
         },
@@ -28808,7 +28841,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828675?se=VtkIGsa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
+          "link": "https://www.adzuna.nl/land/ad/5863828675?se=4IQmvN-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=0E9FE4B08D9855C666A55691FF0CD4636F88ADA5",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
@@ -28826,7 +28859,7 @@
           "titel": "Orderpicker",
           "pracodawca": "Intermediair Uitzendbureau",
           "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/land/ad/5863828672?se=VtkIGsa38RGzYNQ456lxMw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
+          "link": "https://www.adzuna.nl/land/ad/5863828672?se=4IQmvN-38RGfIdjF1O8OKw&utm_medium=api&utm_source=ac776865&v=18E0ED69D00CC0BA475402B8C423573C55E4252A",
           "opublikowano": "2026-09-01T07:07:18Z",
           "kraj": "NL"
         },
