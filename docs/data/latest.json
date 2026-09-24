@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-09-24T15:29:09.101827+00:00",
-  "count": 111,
+  "generated_at": "2026-09-24T18:30:33.355674+00:00",
+  "count": 113,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-09-22T11:17:14.008130+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-24T15:29:09.101827+00:00",
+      "last_updated": "2026-09-24T18:30:33.355674+00:00",
       "interval_hours": 3
     }
   },
@@ -21241,15 +21241,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=pPFUsiq48RG_LevdjZ8dqA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5846864125",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -21749,15 +21740,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=_FMMwyq48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -22451,7 +22433,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11c64044-8aae-4b52-b76d-468812440284?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07fc706a-856c-44e7-81b9-92fcc648ed2a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/facaa225-db24-416f-b041-d61bb19de77b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/306f96f9-9ecf-4743-be1f-88d669098dea?rule=$_59.AUTO",
@@ -22564,130 +22546,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Renovierte 2-Zimmer-Wohnung im 3. Obergeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
-      "Cena (€)": 370.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 55.0,
-      "Lokalizacja": "47169 Marxloh",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": 54.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-3-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3471855237-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6492a67-abad-4df4-b227-e26859ea07a9?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6492a67-abad-4df4-b227-e26859ea07a9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0f82e27-d1c2-4cdc-aa92-98308e83f45e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/257ccdcc-86a3-4465-a635-073e3fbfad67?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/50158a17-c47f-4c5d-bd7c-dca27f743a8e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30c04e42-6ec6-48a2-b4d0-e03fdb627f24?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ab5f245-6a0b-48a1-a73e-ee3ae5dc547e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5a4d438-f856-44b9-98fa-c12cba7f26d3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/10/106dbb0c-12b7-47e3-b289-a0b544032c3a?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f2561585-1ad6-4edf-a90c-90b45f965cc0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/676723ae-6924-4d4e-bb12-145bfdcb567f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5eeb3d5b-a9d0-4531-af56-95475e9532f0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a58d05c-d6ff-4c8a-8b24-9a00f61f5185?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 665.0,
-      "Opis": "Balkon • Badewanne\n\nDas 3-stöckige Wohnhaus wurde 1959 erbaut - In der 3. Etage liegt Ihre neue Wohnung.\n\nLebendige Nachbarschaften und Service vor Ort: Um die optimale Pflege der Anlage kümmert sich unser Hausmeisterservice.\n\nSichern Sie sich Ihren privaten Parkplatz!\nIn vielen unserer Objekte bieten wir Ihnen die Möglichkeit, private Parkplätze anzumieten.\nJetzt anfragen und bequem parken – schnell, einfach und stressfrei! Sprechen Sie uns an!\n\n*Erhalten Sie bis zum 31.10.2026 in Duisburg beim Abschluss eines Mietvertrages für eine ausgewählte Aktionswohnung einen 500 € Gutschein für Amazon/Wunschgutschein.\nBitte beachten Sie die Teilnahmebedingungen: https://www.grandcityproperty.de/datenschutz/gutschein-aktionen\n\n# Ausstattung\nDie 2-Zimmer-Wohnung verteilt sich auf ca. 55 m²\n\n- Balkon\n- Laminat/PVC- Bodenbelag und Raufasertapete in den Wohnräumen\n- Anthrazite Boden- und weiße Wandfliesen in der Küche\n- Anthrazite Boden- und weiße Wandfliesen im Bad\n- Tageslichtbad mit Badewanne\n- Haustiere nach Vereinbarung\n- Hausmeisterservice\n- 24/7 für Sie erreichbar - auch im Notfall\n- Moderner Mieterservice über WhatsApp, Telefon, E-Mail und die GCP App: Kontakte, Unterlagen und Anliegen bequem online verwalten\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.110,00 €\n\n# Lagebeschreibung\nWillkommen in Duisburg - im Stadtteil Marxloh.\nIn einer ruhigen Nebenstraße liegt die gepflegte Wohnanlage.\nIm Umkreis von wenigen hunderten Metern befinden sich Supermärkte und Einkaufsmöglichkeiten des täglichen Bedarfs. Für die Kleinen gibt es Schulen und Kindergärten, die zu Fuß gut erreichbar sind.\nNahegelegene Haltestellen des öffentlichen Nahverkehrs gewährleisten eine gute Anbindung.\nFür die Freizeitgestaltung dienen Parks und Grünanlagen in der Nähe, sowie Sportvereine in der Umgebung.\n\n# Sonstiges\nAlle Informationen zur Datennutzung und Datenschutzrechten durch Grand City Property Ltd – Zweigniederlassung Deutschland finden Sie unter: grandcityproperty.de/datenschutz.\n\nWichtige Hinweise:\n•\tBitte senden Sie uns keine vertraulichen personenbezogenen Dokumente (z. B. Gehaltsabrechnungen) vor der Besichtigung zu. Sollten Sie dies dennoch tun, werden diese Dateien umgehend gelöscht.\n•\tDer Energieausweis kann bei der Besichtigung vorgelegt werden (ausgenommen Stellplätze/Garagen).\n•\tDie in der Anzeige verwendeten Fotos können Beispielfotos oder KI-generierte Visualisierungen (Kennzeichnung mit „virtually staged“) sein, die der besseren Veranschaulichung der Immobilie dienen und von den tatsächlichen Gegebenheiten abweichen können.\n•\tSämtliche Daten in diesem Exposé, einschließlich Bilder, Grundrisse und sonstige Beschreibungen wie auch Grundrissgrafiken mit Maßangaben oder Einrichtungen, dienen ausschließlich der allgemeinen Information und stellen keine verbindlichen Zusicherungen dar. Die Daten sind so gründlich wie möglich angegeben, dennoch lassen sich Fehler nicht ausschließen. Alle Angaben im Exposé sind daher unverbindlich und etwaige Änderungen vorbehalten. Wir übernehmen daher keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen. Maßgeblich sind allein die Vereinbarungen des zu schließenden Mietvertrages. Eine Haftung für fahrlässige Fehler oder Abweichungen der Angaben wird – soweit gesetzlich zulässig – ausgeschlossen.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 193.6 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Baujahr: 1959\n- Letzte Modernisierung: 2026\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5071/01077/001/0008",
-      "OfertyPracy": [
-        {
-          "refnr": "5846357134",
-          "titel": "Allround warehouse employee",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-18T10:24:10Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5846855840",
-          "titel": "Warehouse employee 2 shifts",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-18T16:24:24Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5497949662",
-          "titel": "Order picker temporary projects part-time",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:16:05Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5497949629",
-          "titel": "Order picker temporary projects full-time",
-          "pracodawca": "?",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2025-11-15T19:16:05Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5846361151",
-          "titel": "Orderpicker",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-18T10:28:21Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5674737003",
-          "titel": "Orderpicker",
-          "pracodawca": "Euro Planit Personeelsdiensten",
-          "miejscowosc": "Dinxperlo, Aalten",
-          "link": "https://www.adzuna.nl/details/5674737003?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-03-22T02:02:40Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5864148879",
-          "titel": "Orderpicker",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-09-01T10:49:02Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5862123428",
-          "titel": "Orderpicker",
-          "pracodawca": "Olympia",
-          "miejscowosc": "Lengel, Montferland",
-          "link": "https://www.adzuna.nl/details/5862123428?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-30T12:42:12Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849208054",
-          "titel": "Orderpicker",
-          "pracodawca": "Olympia",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:57:33Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5829125961",
-          "titel": "Logistics Employee Crossdock",
-          "pracodawca": "Randstad",
-          "miejscowosc": "'s-Heerenberg, Montferland",
-          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-05T16:05:32Z",
-          "kraj": "NL"
-        }
-      ],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Hier zieht dein Leben ein – du kommst einfach hinterher.",
       "Cena (€)": 390.0,
       "Pokoje": 2.0,
@@ -22699,7 +22557,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e008f360-786b-4977-a21c-e01ce623335c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd76e624-fbfc-4da6-9acb-80f05cb99d8c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e810c76f-1401-484e-a734-1e00d4a52338?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c9bb4c5-253a-4e54-9232-f34f6964e0ec?rule=$_59.AUTO",
@@ -22823,7 +22681,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31c488ec-1f26-4c7f-816e-bf0201534744?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/9342b093-2da7-4c04-ac05-77c0a54271c8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c2c717a-6a40-4246-87a6-174ca5a9f308?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/488e084a-72f7-4342-9519-572a975a6a09?rule=$_59.AUTO",
@@ -22947,7 +22805,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6e2010d-a61b-4bec-8a95-2ea08482b06a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e40be6a4-86aa-4cfb-b142-22e07b1fb732?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e412ff35-33bd-4e17-af95-eecd94c89010?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2682c50a-5715-43d4-bf22-73a99a7779cb?rule=$_59.AUTO",
@@ -23427,15 +23285,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=TIrgDSu48RGqqJ23Mt790Q&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -24040,17 +23889,8 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -24078,6 +23918,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T13:42:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497971577",
+          "titel": "Full-time warehouse employee 2 shifts",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:20:36Z",
           "kraj": "NL"
         },
         {
@@ -24667,15 +24516,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sOVoSCu48RGgMY43NiMBEQ&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5846864125",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -25146,17 +24986,8 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -25184,6 +25015,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T13:42:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497971577",
+          "titel": "Full-time warehouse employee 2 shifts",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:20:36Z",
           "kraj": "NL"
         },
         {
@@ -26154,17 +25994,8 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -26192,6 +26023,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T13:42:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497971577",
+          "titel": "Full-time warehouse employee 2 shifts",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:20:36Z",
           "kraj": "NL"
         },
         {
@@ -26584,15 +26424,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sOVoSCu48RGgMY43NiMBEQ&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -27089,15 +26920,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=KPH_liu48RGqqJ23Mt790Q&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5846864125",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -27505,17 +27327,8 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -27543,6 +27356,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T13:42:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497971577",
+          "titel": "Full-time warehouse employee 2 shifts",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:20:36Z",
           "kraj": "NL"
         },
         {
@@ -28347,6 +28169,35 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Schöne 2 Z-WG, ca. 45 qm, Balkon in Schermbeck zum 01.10.2026 zu vermieten",
+      "Cena (€)": 490.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "46514 Schermbeck",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": null,
+      "Odległość od 's-Heerenberg (km)": 45.0,
+      "Łazienka": "?",
+      "Kuchnia": "tak",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-z-wg-ca-45-qm-balkon-in-schermbeck-zum-01-10-2026-zu-vermieten/3494292839-203-1756",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/0278fcf9-97ce-45ec-bfdd-f2703aba6a31?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/0278fcf9-97ce-45ec-bfdd-f2703aba6a31?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e066ca51-854a-41e6-ac60-ae1264dd9895?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/260d2c06-4611-4a76-accd-c09dedafe8f7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e8d89f0-ccfb-475c-b700-000e198b2426?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b97f3651-bab3-472d-9e98-f7952c331025?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85d56a0f-debf-44e2-b4e3-20ce0185d2dc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afa26037-83b7-4a65-9ea0-a9a5350c18ca?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d30adbad-75a7-4537-9c61-2fb4ae40ee1a?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 650.0,
+      "Opis": "Balkon • Einbauküche • Keller • Garten/-mitnutzung\n\nCharmante 2-Zimmer-Wohnung mit Balkon, Einbauküche und Gemeinschaftsgarten in Schermbeck\n\nPfarrer-Holtrichter-Str. 4 · 46514 Schermbeck\n\nZur Vermietung steht eine gemütliche und gut geschnittene 2-Zimmer-Wohnung in einem gepflegten Mehrfamilienhaus mit insgesamt nur 9 Wohneinheiten.\n\nDie Wohnung bietet ein angenehmes Zuhause für Singles oder Paare und überzeugt durch ihren Balkon, eine komplette Einbauküche sowie praktische Gemeinschafts- und Kellerräume.\n\nDie Wohnung\n\nDie 2-Zimmer-Wohnung verfügt über einen ansprechenden Wohnbereich und ein separates Schlafzimmer. Das Badezimmer ist mit einer Dusche ausgestattet.\n\nEin besonderes Plus ist der Balkon, der zusätzlichen privaten Freiraum bietet und zum Entspannen einlädt.\n\nDie Wohnung wird mit einer kompletten Küche vermietet. Die Kosten für die Küche sind bereits in der Miete enthalten – ein zusätzlicher Küchenkauf ist somit nicht erforderlich.\n\nAusstattung auf einen Blick\n\n* 2 Zimmer\n* Badezimmer mit Dusche\n* Balkon\n* komplett ausgestattete Küche inklusive\n* eigener Kellerraum\n* Gemeinschaftsgarten\n* Gemeinschaftskeller mit Stellmöglichkeit für die Waschmaschine\n* separater Gemeinschaftskeller für Fahrräder\n* gepflegtes Mehrfamilienhaus mit 9 Parteien\n* Hausmeisterservice für die Reinigung des Hausflurs\n* Ölzentralheizung\n* aktueller Energieausweis vorhanden\n\nGebäude & Energie\n\nDas Mehrfamilienhaus wurde 1969 erbaut. Die Ölheizung stammt aus dem Jahr 2000. Ein aktueller Energieausweis liegt vor und kann entsprechend eingesehen werden.\n\nMietkonditionen\n\nFür die Wohnung wird eine Staffelmiete mit einer jährlichen Erhöhung von 10 € vereinbart. Die konkreten Mietkonditionen und Staffelbeträge werden im Mietvertrag transparent festgehalten.\n\nLage\n\nDie Wohnung befindet sich in der Pfarrer-Holtrichter-Str. 4 in 46514 Schermbeck. Die Wohnlage verbindet ein angenehmes Wohnumfeld mit den Vorzügen der Gemeinde Schermbeck.\n\nDer Gemeinschaftsgarten bietet zusätzlichen Freiraum und rundet das Wohnangebot ab.\n\nWichtige Informationen:\n\n* Baujahr: 1969\n* Energieausweistyp: Verbrauchsausweis\n* Endenergieverbrauch: 119,2 kWh/(m²·a)\n* Heizungsart: Ölheizung\n* Energieausweis bis 2036 gültig",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-24T18:30:33.347270+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Moderne 2 Zimmer Wohnung mit Balkon & Garten",
       "Cena (€)": 494.0,
       "Pokoje": 2.0,
@@ -28410,15 +28261,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=KPH_liu48RGqqJ23Mt790Q&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -28995,17 +28837,8 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -29033,6 +28866,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T13:42:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497971577",
+          "titel": "Full-time warehouse employee 2 shifts",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:20:36Z",
           "kraj": "NL"
         },
         {
@@ -30258,15 +30100,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=pPFUsiq48RG_LevdjZ8dqA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5846864125",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -31166,6 +30999,112 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Modernes Wohnen! Sanierte 2-Zimmer-Wohnung in DU-Walsum",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 62.04,
+      "Lokalizacja": "47179 Walsum",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 42,
+      "Odległość od 's-Heerenberg (km)": 51.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/modernes-wohnen-sanierte-2-zimmer-wohnung-in-du-walsum/3393302885-203-2143",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b15779d-8558-4ee6-8304-5c82d9c31397?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b15779d-8558-4ee6-8304-5c82d9c31397?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/8394d0f6-8ecf-42a4-aed0-25402c4baaf2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58ce498d-377e-4ba5-b6a4-97ba6fb4d499?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/74d4dff4-00fb-417e-9ac8-8836b2f0f221?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/561a95ae-a47d-47d0-8cd0-6eccdc59a7f9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9ddbd17-58c3-4864-a06e-f4b47e4fc19d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/940c67df-2e0c-47c5-9cc2-3387721c4fb0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6423382-062b-4234-95f4-c6e8b6d25f47?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09c0a282-c1f6-4e7c-aac4-568d0ff0632b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/0470ba82-057f-4552-8138-76b1fadc6d0b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ec46508-dfc4-4990-ba23-4392e3e46706?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2a7181ec-4b99-429e-8101-0373e7934a80?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 795.0,
+      "Opis": "Bei der angebotene Immobilie handelt es sich um eine moderne 2-Zimmer-Wohnung im 3. Obergeschoss eines gepflegten Mehrfamilienhauses in Duisburg-Walsum. Besonders hervorzuheben ist die moderne Ausstattung, die ein angenehmes Wohnambiente schafft. Die Diele bildet das Herz der Einheit und gewährt Ihnen Zugang zu allen Räumlichkeiten. Das lichtdurchflutete Wohnzimmer überzeugt mit viel Platz für eine gemütliche Fernsehecke sowie einen Essbereich. Die offene Küche ergänzt das Raumkonzept und schafft eine angenehme Verbindung von Wohnen und Kochen. Das Tageslichtbad ist mit großen Fliesen in weiß und anthrazit gestaltet und verfügt über eine Dusche. Zudem befindet sich hier der Anschluss für eine Waschmaschine. Abgerundet wird die Wohnung durch dem Schlafzimmer.\nInsgesamt die ideale Immobilie für Singles oder Paare!\n\n# Ausstattung\n- ruhige Lage\n- saniert\n- gepflegtes Mehrfamilienhaus\n- Tageslichtbad mit Dusche\n- offenes Wohn-Koch-Konzept\n- viel Tageslicht\n- Dachgeschoss ohne Aufzug\n\n# Weitere Angaben\n- Verfügbar ab: 2026-08-01\n\n- Hinweis zur Kaution: 3 Kaltmieten Kaution\n\n# Lagebeschreibung\nDuisburg ist die westlichste Großstadt des Ruhrgebietes und mit knapp 496.000 Einwohnern die 15-größte Stadt. Die Stadt liegt im Knotenpunkt eines dichten überregionalen Autobahn-, Schienen- und\nWasserwegenetzes, die sie an das Ruhrgebiet, den größten industriellen Ballungsraum Europas, anbindet. Der Stadtteil Walsum grenzt an den Rhein und die Nachbarbezirke Altenrade und Hamborn. Das Objekt befindet sich in einem ruhigen Wohngebiet. Supermärkte, Banken, Cafés usw. sind im Umfeld bequem zu erreichen.\n\n# Sonstiges\nAnsprechpartner: Frau Denise Wolniczak\nE-Mail Kontakt: vertrieb@dahlheim-immobiliengruppe.de\nTelefonnummer: 0211 3679799999\n\n# Energie\n- Letzte Modernisierung: 2026\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: W8-WE8",
+      "OfertyPracy": [
+        {
+          "refnr": "5846357134",
+          "titel": "Allround warehouse employee",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:24:10Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846855840",
+          "titel": "Warehouse employee 2 shifts",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846855840?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T16:24:24Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949662",
+          "titel": "Order picker temporary projects part-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949662?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497949629",
+          "titel": "Order picker temporary projects full-time",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497949629?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:16:05Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5846361151",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5846361151?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-18T10:28:21Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5864148879",
+          "titel": "Orderpicker",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5864148879?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-09-01T10:49:02Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5849208054",
+          "titel": "Orderpicker",
+          "pracodawca": "Olympia",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5849208054?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-20T04:57:33Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5829125961",
+          "titel": "Logistics Employee Crossdock",
+          "pracodawca": "Randstad",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5829125961?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-05T16:05:32Z",
+          "kraj": "NL"
+        }
+      ],
+      "PierwszyRaz": "2026-09-24T18:30:33.347270+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt zu vermieten",
       "Cena (€)": 559.0,
       "Pokoje": 2.0,
@@ -31209,17 +31148,8 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -31247,6 +31177,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T13:42:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497971577",
+          "titel": "Full-time warehouse employee 2 shifts",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:20:36Z",
           "kraj": "NL"
         },
         {
@@ -32535,17 +32474,8 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=_P4NekS48RGkY-IWYxKjFQ&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mnKrKiu48RGPOd9YPZETDw&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -32573,6 +32503,15 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5864548543?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-01T13:42:25Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5497971577",
+          "titel": "Full-time warehouse employee 2 shifts",
+          "pracodawca": "?",
+          "miejscowosc": "'s-Heerenberg, Montferland",
+          "link": "https://www.adzuna.nl/details/5497971577?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2025-11-15T19:20:36Z",
           "kraj": "NL"
         },
         {
@@ -33449,6 +33388,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "73 qm EG-Wohnung am Kurpark - ab 01.01.2027",
+      "Cena (€)": 600.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 73.0,
+      "Lokalizacja": "46509 Xanten",
+      "Odległość (km)": 24.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 26.0,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/73-qm-eg-wohnung-am-kurpark-ab-01-01-2027/3522175234-203-1403",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/189c0933-4fc0-4c47-9f2b-a41b1d9aaedf?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/189c0933-4fc0-4c47-9f2b-a41b1d9aaedf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/221aec6a-4f4b-4d7c-aa16-f0b481d4defd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f047868b-d08b-4727-9e66-7d204882a569?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29b0a450-d144-48c2-9a32-53f55ceb8441?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f621cb8d-ee43-4523-80f3-9177fa91f881?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33d2e4a0-6c99-4374-b701-2e3fb901df1e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13cb2dd9-7a5c-43f1-97ab-5331728bd425?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c38f75ec-0361-4598-acad-a5ba170cbd1d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d489b09-6f21-4a70-992d-0bc583847df8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/189c0933-4fc0-4c47-9f2b-a41b1d9aaedf?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/221aec6a-4f4b-4d7c-aa16-f0b481d4defd?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f047868b-d08b-4727-9e66-7d204882a569?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Die 2-Zimmer-Wohnung in einem Drei-Parteien Haus ist wie folgt aufgeteilt:\n\n+ Wohnzimmer mit Essbereich\n+ Offene Küche\n+ Schlafzimmer\n+ Bad mit Badewanne und barrierefreie Dusche\n+ Gäste-WC\n+ Abstellraum\n+ zusätzlich gibt es einen Raum für Fahrräder (Zugriff für alle Hausbewohner)\n\nDie geräumige Einbauküche (mit Spülmaschine, Backofen, Herd), die Kühlschrank- Gefrierkombination und das Sofa sind gegen eine Abstandszahlung zu übernehmen.\n\nEs sind keine Haustiere erlaubt.\n\nLage:\nDie Wohnung befindet sich in einer ruhigen Einbahnstraße. Ausreichend Parkplätze sind in den naheliegenden Straßen vorhanden. Bahnhof, Innenstadt, Restaurants sowie die Südsee sind in nur wenigen Gehminuten zu erreichen.\n\nWarmmiete: 700,00 € zuzüglich Gas und Strom\n\nKaution: 1400 €\n\nDa ich der aktuelle Mieter bin, werde ich lediglich für den Vermieter eine Vorauswahl treffen.\n\nBei Interesse können Sie mir gerne eine Nachricht mit den folgenden Angaben hinterlassen:\n\n- Eckdaten zu Ihrer Person / Arbeitsverhältnis\n\nDie Wohnung ist für Alleinstehende oder Paare geeignet, da nur ein Schlafzimmer vorhanden ist.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-24T18:30:33.347270+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Wohnung in Zentrum wesel",
       "Cena (€)": 600.0,
       "Pokoje": 2.0,
@@ -33797,15 +33769,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sOVoSCu48RGgMY43NiMBEQ&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -34447,15 +34410,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=pPFUsiq48RG_LevdjZ8dqA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -35554,15 +35508,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5846357134?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-18T10:24:10Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5858290871",
-          "titel": "Proces Operator",
-          "pracodawca": "jouwtechniekbaan.nl",
-          "miejscowosc": "Varsseveld, Oude IJsselstreek",
-          "link": "https://www.adzuna.nl/land/ad/5858290871?se=TIrgDSu48RGqqJ23Mt790Q&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
-          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
