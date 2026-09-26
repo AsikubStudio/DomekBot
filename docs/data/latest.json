@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T21:27:08.155755+00:00",
+  "generated_at": "2026-09-26T00:30:38.070255+00:00",
   "count": 111,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-25T21:27:08.155755+00:00",
+      "last_updated": "2026-09-26T00:30:38.070255+00:00",
       "interval_hours": 3
     }
   },
@@ -21125,6 +21125,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=_p8JlD-58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -21157,15 +21166,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zeddam, Montferland",
           "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -21592,6 +21592,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=ODbipD-58RGTNqZ8OBoZQw&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -21642,15 +21651,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zelhem, Bronckhorst",
           "link": "https://www.adzuna.nl/details/5849190483?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -22085,6 +22085,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=QJt1sz-58RGGQ9u1mQKVdw&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -22135,15 +22144,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zelhem, Bronckhorst",
           "link": "https://www.adzuna.nl/details/5849190483?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -23155,6 +23155,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=lrit7j-58RGGQ9u1mQKVdw&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -23504,6 +23513,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=YG4z_T-58RGGQ9u1mQKVdw&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -23835,7 +23853,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=PA7-aya58RGN--5TZlnpyA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=ptKLE0C58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -24919,6 +24937,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=ZHoWN0C58RGCw6kuTDrJlg&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -24960,15 +24987,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zelhem, Bronckhorst",
           "link": "https://www.adzuna.nl/details/5849190483?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -25020,7 +25038,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=PA7-aya58RGN--5TZlnpyA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=ptKLE0C58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -25760,6 +25778,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=5tgTVEC58RG3jpCv9xpWmA&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -26427,6 +26454,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=gClWY0C58RGCw6kuTDrJlg&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -26510,7 +26546,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=PA7-aya58RGN--5TZlnpyA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=ptKLE0C58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -27294,6 +27330,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=_p8JlD-58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -27326,15 +27371,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zeddam, Montferland",
           "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -27712,6 +27748,15 @@
           "miejscowosc": "Duiven, Gelderland",
           "link": "https://www.adzuna.nl/details/5895699798?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-23T23:41:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=gClWY0C58RGCw6kuTDrJlg&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
           "kraj": "NL"
         },
         {
@@ -28668,6 +28713,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=oBdNn0C58RGGQ9u1mQKVdw&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -29238,6 +29292,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=_lRDrkC58RGCw6kuTDrJlg&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -29270,15 +29333,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zeddam, Montferland",
           "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -29695,6 +29749,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=_p8JlD-58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -29727,15 +29790,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zeddam, Montferland",
           "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -29795,7 +29849,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=0ngEDye58RG0wIwUkE_4JA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=GskjtkC58RGPYtpzhC2suw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -30752,6 +30806,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=ODbipD-58RGTNqZ8OBoZQw&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -30802,15 +30865,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zelhem, Bronckhorst",
           "link": "https://www.adzuna.nl/details/5849190483?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -31224,6 +31278,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=_p8JlD-58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -31256,15 +31319,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zeddam, Montferland",
           "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -31422,7 +31476,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=PA7-aya58RGN--5TZlnpyA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=ptKLE0C58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -32903,7 +32957,7 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=PA7-aya58RGN--5TZlnpyA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=ptKLE0C58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
           "kraj": "NL"
         },
@@ -33687,6 +33741,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=_p8JlD-58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -33719,15 +33782,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zeddam, Montferland",
           "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -34856,6 +34910,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=_lRDrkC58RGCw6kuTDrJlg&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -34888,15 +34951,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zeddam, Montferland",
           "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -35331,6 +35385,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=ODbipD-58RGTNqZ8OBoZQw&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -35381,15 +35444,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zelhem, Bronckhorst",
           "link": "https://www.adzuna.nl/details/5849190483?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -35839,6 +35893,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=_p8JlD-58RGCGYRASTF80g&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5849190524",
           "titel": "Delivery Driver in Wehl",
           "pracodawca": "Picnic",
@@ -35871,15 +35934,6 @@
           "pracodawca": "Picnic",
           "miejscowosc": "Zeddam, Montferland",
           "link": "https://www.adzuna.nl/details/5849190508?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-20T04:52:29Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5849190525",
-          "titel": "Delivery Driver in Hummelo",
-          "pracodawca": "Picnic",
-          "miejscowosc": "Hummelo, Bronckhorst",
-          "link": "https://www.adzuna.nl/details/5849190525?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-08-20T04:52:29Z",
           "kraj": "NL"
         }
@@ -36300,6 +36354,15 @@
           "miejscowosc": "Duiven, Gelderland",
           "link": "https://www.adzuna.nl/details/5895699798?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-23T23:41:29Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5859542372",
+          "titel": "C or CE general cargo driver",
+          "pracodawca": "Logistic Force",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5859542372?se=YG4z_T-58RGGQ9u1mQKVdw&utm_medium=api&utm_source=ac776865&v=718FF3F9552707BD934CD4320B535F1B95F71F4F",
+          "opublikowano": "2026-08-28T11:56:02Z",
           "kraj": "NL"
         },
         {
