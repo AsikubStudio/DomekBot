@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T21:23:20.526734+00:00",
+  "generated_at": "2026-10-01T00:29:34.011847+00:00",
   "count": 110,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-09-30T21:23:20.526734+00:00",
+      "last_updated": "2026-10-01T00:29:34.011847+00:00",
       "interval_hours": 3
     }
   },
@@ -20810,15 +20810,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ws8R1BO98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -20891,6 +20882,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -20900,12 +20900,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ipalyS298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -21120,7 +21120,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=0E2r2xO98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=pBwn0C298RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -21338,6 +21338,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sLt16i298RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -21380,15 +21389,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=LoxW8xO98RGGRMm4C9apug&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -21464,6 +21464,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -21473,12 +21482,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=yPSa7C298RGGRMm4C9apug&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -21711,7 +21720,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=3nWh-hO98RGGRMm4C9apug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=WL9h8y298RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -21840,6 +21849,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mhWy-y298RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -21882,15 +21900,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=FHDNAhS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -21966,6 +21975,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -21975,12 +21993,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=Xto1_i298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -22213,7 +22231,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=4mFRChS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=bCbaBC698RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -22403,9 +22421,16 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/tauschwohnung-schoene-2-zimmer-mit-wohnkueche-64-qm-fussgaengerzone-balkon/3415718457-203-2144",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/0016d8d4-2868-412a-b1ff-5560e8cc4398?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/0016d8d4-2868-412a-b1ff-5560e8cc4398?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/348230ce-8fca-4845-ab43-07ad9cd52d0c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/c3/c3b95966-07ae-4a52-ac0c-cc67006d46ce?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc572a30-69d0-42d3-8341-9bedd39956d8?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2c/2c21402a-9cb3-4d9d-9c60-41e6a1633b5f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/094238d9-2354-4f19-9545-927b32f2e7ae?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 505.0,
+      "Opis": "Balkon • Terrasse • Badewanne • Keller\n\nEs handelt es sich hierbei um ein Tauschangebot. (Anbieter-ID: 181361)\nSehr schöne 2 Zimmer Wohnung in guter Lage - 1Wohnzimmer, 1 Schlafzimmer mit großer Wohnküche komplett Laminat , Bad weiß gefliest Marmor Optik mit Badewanne und Fenster - 64 qm für 505€ warm ( Schnäppchen) 3.Etage mit Balkon Blick ins grüne mit Sonnenuntergang mit großer Wohnküche , Wohnzimmer und Schlafzimmer zur Fußgängerzone mit vielen Geschäften und Cafés /Eisdiele sonnig. Schöne große Fenster.\nDiese Anzeige wurde von einem Nutzer eingestellt. Tauschwohnung.com stellt nur die Plattform bereit und ist nicht Anbieter der Wohnung. Hinweise auf mögliche Rechtsverletzungen (z. B. bei Fotos) bitte hier melden: https://www.tauschwohnung.com/reporting-process-for-illegal-content\n\n# Weitere Angaben\n- Bodenbelag: Fliesen, Laminat\n\nAnbieter-Objekt-ID: 181361",
       "OfertyPracy": [
         {
           "refnr": "5901448404",
@@ -22496,9 +22521,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1f84419-cfc0-47a9-8dc4-23dc17971b58?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e27339a-0569-4979-b931-09e6963f6c44?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b51c78b0-9ad2-45f4-b19c-565204285b2f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87ab5e41-6579-4c0a-8c17-5123f39456ae?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45e92d00-4090-4d55-91c1-b208188ad9f0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58de0f04-d935-4839-88d4-9cae6c839bf0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/866a29d0-4596-4859-ada0-c8f55833126f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e88adbf-b353-4d46-972d-6241d9626562?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a57f40e1-29b8-4eef-97fc-b3c83e389a8d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7816f59d-4a46-4c5f-b238-48fe7004c991?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 510.0,
+      "Opis": "Badewanne • Haustiere erlaubt\n\nDas weitläufige Ensemble aus An der Abtei 46–58, Bremenstraße 10–18, Glücksaufstraße 5 und 11 sowie Steigerstraße 1, 7a und 11a in Duisburg bildet ein vielseitiges Wohnquartier, das durch seine Größe und Vielfalt verschiedenste Wohnbedürfnisse abdeckt. Die Häuser fügen sich in ein gewachsenes, lebendiges Wohnumfeld ein und bieten solide, alltagstaugliche Wohnqualität für unterschiedliche Lebenslagen. Das Ensemble steht für Wohnen mit Substanz – verlässlich, übersichtlich trotz seiner Breite, und mit dem Charakter eines Quartiers, das weiß, was es seinen Bewohnern schuldet.\n\nKaltmiete: 355,00 EUR\nBetriebskosten: 155,00 EUR\nHeizkosten: 90,00 EUR\nWarmmiete: 600,00 EUR\n\nACHTUNG!\nAnmietung über das Jobcenter für einen Ein-Personenhaushalt ist NICHT möglich. Die Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n__________________________________________________\n\nThe extensive ensemble comprising An der Abtei 46–58, Bremenstraße 10–18, Glücksaufstraße 5 and 11, and Steigerstraße 1, 7a, and 11a in Duisburg forms a versatile residential quarter that, through its scale and variety, caters to a wide range of living needs. The buildings are embedded in an established, lively neighbourhood and offer solid, practical residential quality for different stages of life. The ensemble stands for housing with substance – dependable, manageable despite its breadth, and with the character of a neighbourhood that knows what it owes its residents.\n\nBase rent: EUR355.00\nUtility costs: EUR155.00\nHeating costs: EUR90.00\nTotal rent (incl. utilities): EUR600.00\n\nNOTE!\nRenting through the Jobcenter for a one-person household is NOT possible. The gross base rent (rent plus utility costs) exceeds the assessment limit set by the authority.\n\n# Ausstattung\n- alle Räume sind von der Diele aus begehbar\n- großer Wohnbereich; kleineres Schlafzimmer\n- geweißte Wände mit Raufasertapete\n- großzügige Küche mit weißem Fliesenspiegel und Vinylboden\n- grauer Laminatboden in den Räumen\n- Wannenbad mit Fenster, Weiß gefliest mit Sprossenheizung\n- Vinylboden in heller Holzoptik\n- Gegensprechanlage\n- Hausmeisterservice\n- Treppenhausreinigung\n__________________________________\n\nAll rooms accessible from the hallway\nLarge living area; smaller bedroom\nWhitewashed walls with textured wallpaper\nGenerous kitchen with white tiled splashback and vinyl flooring\nGrey laminate flooring in the rooms\nBathroom with tub, window, white tiles, towel radiator\nVinyl flooring in a light wood-look design\nIntercom system\nCaretaker service\nStaircase cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Objekte liegen im Stadtteil Alt-Hamborn im Duisburger Norden – dem historischen Kern des Stadtbezirks Hamborn. Alt-Hamborn ist ein gewachsenes Wohnviertel mit einer Mischung aus historischer und neuerer Bebauung sowie einer internationalem Gemeinschaft. Das Viertel verfügt über eine etablierte Infrastruktur: Die Jägerstraße als Hauptgeschäftsstraße, der Hamborner Altmarkt mit dreimal wöchentlichem Markt sowie das St. Johannes-Hospital prägen das Alltagsleben. Kulturell ist das Quartier durch die Prämonstratenser-Abtei Hamborn – gegründet 1136, geweiht 1170 – und das Abteizentrum mit regelmäßigem Kulturprogramm bereichert. Der Botanische Garten Hamborn und der Stadtpark bieten grüne Erholungsflächen im direkten Umfeld. Der Landschaftspark Duisburg-Nord ist als überregionales Freizeitziel gut erreichbar.\n\n__________________________________________________\n\nThe properties are situated in the Alt-Hamborn district in northern Duisburg – the historic core of the Hamborn borough. Alt-Hamborn is an established residential neighbourhood with a mix of historic and more recent architecture and an international community. The district has a well-developed infrastructure: Jägerstraße as the main shopping street, the Hamborner Altmarkt with its market three times a week, and St. Johannes Hospital all shape everyday life. Culturally, the neighbourhood is enriched by the Premonstratensian Hamborn Abbey – founded in 1136 and consecrated in 1170 – and the Abteizentrum, which hosts a regular programme of classical music, cabaret, and the arts. The Hamborn Botanical Garden and city park offer green recreational spaces in the immediate vicinity. The Landschaftspark Duisburg-Nord is easily accessible as a major regional leisure destination.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n_________________________________\n\nInterested in this apartment and would like to arrange a viewing?\nThen don't waste any time — get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we'll get back to you.\n\nThis offer is non-binding, subject to errors.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 440-1600078-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 152.5 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1952\n- Wesentliche Energieträger: Fernwärme\n\nAnbieter-Objekt-ID: 440-1600078-M",
       "OfertyPracy": [
         {
           "refnr": "5901448404",
@@ -22634,6 +22672,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=opldLS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -22676,15 +22723,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=Ukb6LxS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -22760,6 +22798,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -22769,12 +22816,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=YgEqLy698RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -23007,7 +23054,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=osBfNxS98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=Rr-4NS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -23315,8 +23362,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=vo5fPhS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -23679,15 +23735,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ws8R1BO98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -23760,6 +23807,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -23769,12 +23825,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ipalyS298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -23989,7 +24045,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=0E2r2xO98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=pBwn0C298RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -24157,9 +24213,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/764b2bac-b487-4761-a793-de5ecc543480?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba0bd840-c1f3-4cb5-ab4c-18698c63c1c6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/219d1691-34b8-44de-9aaf-b007c58ea4a5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/75859c7f-cb09-46e6-b944-4221b525db6f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc966202-13b4-466a-8646-ed4f1dca4801?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09c01665-0dca-4aa5-af80-ee2a60044b83?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/643b63a3-8a2c-4499-8675-8f248c9226d4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22a6775a-672d-414b-a89f-f09186578ea2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e854666-a914-4efa-8076-b5fabd4a529e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/071eb1ad-6ab9-4ebf-b1bf-26b0d3708bc2?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 575.0,
+      "Opis": "Balkon • Badewanne\n\nDas Ensemble aus An der Abtei 20–42, Dr.-Heinrich-Laakmann-Straße 1, 3 und 11, Steigerstraße 4a sowie Stollenstraße 1 und 9 in Duisburg umfasst eine Reihe von Wohnhäusern, die gemeinsam ein charaktervolles Quartier innerhalb des gewachsenen Stadtteils Alt-Hamborn bilden. Die Vielfalt der Straßennamen spiegelt die organische Struktur des Viertels wider – jede Adresse hat ihren eigenen Platz, alle teilen denselben soliden Wohncharakter. Das Ensemble bietet verlässliche Wohnqualität für Menschen, die ein gelebtes, bodenständiges Wohnumfeld schätzen.\n\nKaltmiete: 415,00 EUR\nBetriebskosten: 160,00 EUR\nHeizkosten: 110,00 EUR\nWarmmiete: 685,00 EUR\n\nACHTUNG!\nAnmietung über das Jobcenter für einen Ein- und Zwei-Personenhaushalt ist NICHT möglich. Die Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n__________________________________________________\n\nThe ensemble comprising An der Abtei 20–42, Dr.-Heinrich-Laakmann-Straße 1, 3, and 11, Steigerstraße 4a, and Stollenstraße 1 and 9 in Duisburg encompasses a series of residential buildings that together form a characterful quarter within the established Alt-Hamborn neighbourhood. The variety of street names reflects the organic structure of the district – each address has its own place, all share the same solid residential character. The ensemble offers reliable residential quality for those who value a lived-in, grounded neighbourhood environment.\n\nBase rent: EUR415.00\nUtility costs: EUR160.00\nHeating costs: EUR110.00\nTotal rent (incl. utilities): EUR685.00\n\nNOTE!\nRenting through the Jobcenter for a one- or two-person household is NOT possible. The gross base rent (rent plus utility costs) exceeds the assessment limit set by the authority.\n\n# Ausstattung\n- Großes Wohnzimmer, Schlafzimmer, große Diele, Wannenbad, Küche, Balkon\n- alle Räume sind von der Diele aus begehbar\n- geweißte Wände mit Raufasertapete\n- Küche mit weißem Fliesenspiegel und Vinylboden\n- innenliegendes Wannenbad, weißgefliest, Vinylboden\n- PVC-Boden in grauer Holzoptik\n- Balkon / Loggia, Zugang über die Küche\n- Gegensprechanlage\n- Hausmeisterservice\n- Treppenhausreinigung\n_______________________________________\n\nLarge living room, bedroom, spacious hallway, bathroom with tub, kitchen, balcony\nAll rooms accessible from the hallway\nWhitewashed walls with textured wallpaper\nKitchen with white tiled splashback and vinyl flooring\nInterior bathroom with tub, white tiles, vinyl flooring\nPVC flooring in grey wood-look design\nBalcony / loggia, accessed via the kitchen\nIntercom system\nCaretaker service\nStaircase cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Objekte liegen im Stadtteil Alt-Hamborn im Duisburger Norden – dem historischen Kern des Stadtbezirks Hamborn. Das Viertel ist geprägt von einer Mischung aus historischer Bebauung und einer internationalem, lebendigen Gemeinschaft. Die Infrastruktur ist gut entwickelt: Die Jägerstraße als Hauptgeschäftsstraße, der Hamborner Altmarkt mit dreimal wöchentlichem Markt sowie das St. Johannes-Hospital versorgen den Alltag zuverlässig. Die Prämonstratenser-Abtei Hamborn – gegründet 1136, geweiht 1170 – ist das historische Wahrzeichen des Viertels und zugleich Veranstaltungsort für klassische Musik und Kulturprogramm im Abteizentrum. Botanischer Garten und Stadtpark bieten grüne Erholungsflächen, der Landschaftspark Duisburg-Nord ist gut erreichbar.\n\n__________________________________________________\n\nThe properties are located in the Alt-Hamborn district in northern Duisburg – the historic core of the Hamborn borough. The neighbourhood is characterised by a mix of historic architecture and a lively, international community. Infrastructure is well developed: Jägerstraße as the main shopping street, the Hamborner Altmarkt with its market three times a week, and St. Johannes Hospital reliably serve everyday needs. The Premonstratensian Hamborn Abbey – founded in 1136 and consecrated in 1170 – is the neighbourhood's historic landmark and also serves as a venue for classical music and cultural events at the Abteizentrum. The Botanical Garden and city park offer green recreational space, and the Landschaftspark Duisburg-Nord is easily reachable.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n\n_________________________________\n\nInterested in this apartment and would like to arrange a viewing?\nThen don't waste any time — get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we'll get back to you.\n\nThis offer is non-binding, subject to errors.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 974-117-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 144.1 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1900\n- Wesentliche Energieträger: Fernwärme, Gas\n\nAnbieter-Objekt-ID: 974-117-M",
       "OfertyPracy": [
         {
           "refnr": "5901448404",
@@ -24758,6 +24827,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=opldLS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -24800,15 +24878,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=Ukb6LxS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -24884,6 +24953,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -24893,12 +24971,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=YgEqLy698RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -25131,7 +25209,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=osBfNxS98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=Rr-4NS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -25228,8 +25306,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=vo5fPhS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -25808,15 +25895,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ws8R1BO98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -25889,6 +25967,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -25898,12 +25985,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ipalyS298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -26118,7 +26205,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=0E2r2xO98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=pBwn0C298RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -26755,15 +26842,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ws8R1BO98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -26836,6 +26914,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -26845,12 +26932,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ipalyS298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -27065,7 +27152,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=0E2r2xO98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=pBwn0C298RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -27221,15 +27308,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ws8R1BO98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -27302,6 +27380,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -27311,12 +27398,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ipalyS298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -27531,7 +27618,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=0E2r2xO98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=pBwn0C298RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -27651,6 +27738,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=hKGUti698RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -27693,15 +27789,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=PpJgtBS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -27777,6 +27864,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -27786,12 +27882,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=MiZMuC698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -27970,7 +28066,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=eC_cuxS98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=-MPxvS698RGGRMm4C9apug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -28027,9 +28123,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-eg-wohnung-mit-balkon/3516100878-203-1291",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7e947e9-3f49-4efd-812d-1f2345f08989?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7e947e9-3f49-4efd-812d-1f2345f08989?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/757aee28-cf4d-45e5-a173-7aaa48a45968?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/196ed5a9-d132-478b-9dec-4b58e487639d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87988a50-fbc1-4640-892b-936f77b3af75?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e64549c1-ba9b-499a-a361-a0a284858a5f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fec9b0ce-de06-4f27-8abc-b4d3ce50d2f9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e87a557-8788-4ec8-9d5c-8539d6a233ce?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17163af5-8563-44ec-82b6-2f5d2de0da81?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/916bc58e-7d94-446b-bd6a-de3a66a2410a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f6f89fd-78f4-48d3-8756-e21869a304db?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11fb2196-6ed2-41bc-ab54-605f80c2e6be?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1454318-3400-4bd5-9c4e-1cfa939c15fc?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 614.0,
+      "Opis": "Balkon • Keller\n\nEs handelt sich bei der Liegenschaft um ein ruhiges 5 Parteienhaus. In wenigen Minuten haben sie alle Einkaufsmöglichkeiten von Holten erreicht.\nGerne vereinbaren wir einen individuellen Besichtigungstermin !",
       "OfertyPracy": [
         {
           "refnr": "5901448404",
@@ -28275,8 +28384,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=vo5fPhS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -28588,8 +28706,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=vo5fPhS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -29030,6 +29157,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=wJuz1C698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -29072,15 +29208,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=9IJR0RS98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -29156,6 +29283,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -29165,12 +29301,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=9MhV1i698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -29367,7 +29503,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=gCTC2BS98RGGRMm4C9apug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=qDz72y698RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -29571,6 +29707,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=3q6W4y698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -29613,15 +29758,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=UHTX3xS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -29697,6 +29833,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -29706,12 +29851,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=FIo95S698RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -29935,7 +30080,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=uG8_5xS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=sJPs6i698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -30473,6 +30618,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sLt16i298RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -30515,15 +30669,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=LoxW8xO98RGGRMm4C9apug&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -30599,6 +30744,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -30608,12 +30762,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=yPSa7C298RGGRMm4C9apug&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -30846,7 +31000,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=3nWh-hO98RGGRMm4C9apug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=WL9h8y298RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -31008,15 +31162,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ws8R1BO98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -31089,6 +31234,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -31098,12 +31252,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ipalyS298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -31318,7 +31472,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=0E2r2xO98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=pBwn0C298RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -31503,8 +31657,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=vo5fPhS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -31816,8 +31979,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=vo5fPhS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -32378,6 +32550,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=opldLS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -32420,15 +32601,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=Ukb6LxS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -32504,6 +32676,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -32513,12 +32694,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=YgEqLy698RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -32751,7 +32932,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=osBfNxS98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=Rr-4NS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -33437,15 +33618,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ws8R1BO98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -33518,6 +33690,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -33527,12 +33708,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ipalyS298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -33747,7 +33928,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=0E2r2xO98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=pBwn0C298RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -34275,6 +34456,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=mhWy-y298RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -34317,15 +34507,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=FHDNAhS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -34401,6 +34582,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -34410,12 +34600,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=Xto1_i298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -34648,7 +34838,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=4mFRChS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=bCbaBC698RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -34754,8 +34944,17 @@
           "titel": "Reachtruckchauffeur",
           "pracodawca": "Momentum Personeel",
           "miejscowosc": "Vragender, Oost Gelre",
-          "link": "https://www.adzuna.nl/land/ad/5854508727?se=vo5fPhS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
+          "link": "https://www.adzuna.nl/land/ad/5854508727?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=A26F52FA9298C651EE275DB20B6C8F07ADC5E070",
           "opublikowano": "2026-08-24T18:41:49Z",
+          "kraj": "NL"
+        },
+        {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=aKl3PS698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
           "kraj": "NL"
         },
         {
@@ -35178,6 +35377,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sH5yAS-98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -35220,15 +35428,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=AK_Z_BS98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -35304,6 +35503,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -35313,12 +35521,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ngQWAy-98RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -35542,7 +35750,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=JEwqBBW98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=RnfICC-98RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -35662,6 +35870,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=3q6W4y698RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -35704,15 +35921,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=UHTX3xS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -35788,6 +35996,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -35797,12 +36014,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=FIo95S698RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -36026,7 +36243,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=uG8_5xS98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=sJPs6i698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -36258,6 +36475,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=opldLS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -36300,15 +36526,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=Ukb6LxS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -36384,6 +36601,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -36393,12 +36619,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=YgEqLy698RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -36631,7 +36857,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=osBfNxS98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=Rr-4NS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -36751,6 +36977,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=opldLS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -36793,15 +37028,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=Ukb6LxS98RG154oS1PvO9A&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -36877,6 +37103,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -36886,12 +37121,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=YgEqLy698RGUbs1A20sszg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -37124,7 +37359,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=osBfNxS98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=Rr-4NS698RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -37244,6 +37479,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5858290871",
+          "titel": "Proces Operator",
+          "pracodawca": "jouwtechniekbaan.nl",
+          "miejscowosc": "Varsseveld, Oude IJsselstreek",
+          "link": "https://www.adzuna.nl/land/ad/5858290871?se=sH5yAS-98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=4BE5ACFCAF7156F95BA19E61C19A329CD7D3CF44",
+          "opublikowano": "2026-08-27T15:58:14Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5902815154",
           "titel": "Warehouse employee bridge fulltime",
           "pracodawca": "Randstad",
@@ -37286,15 +37530,6 @@
           "miejscowosc": "'s-Heerenberg, Montferland",
           "link": "https://www.adzuna.nl/details/5901448404?utm_medium=api&utm_source=ac776865",
           "opublikowano": "2026-09-28T11:29:47Z",
-          "kraj": "NL"
-        },
-        {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=AK_Z_BS98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -37370,6 +37605,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -37379,12 +37623,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ngQWAy-98RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -37608,7 +37852,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=JEwqBBW98RG3o_WaHzgyQw&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=RnfICC-98RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
@@ -37764,15 +38008,6 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5898376662",
-          "titel": "Logistics Employee",
-          "pracodawca": "LeukeBaan.nl",
-          "miejscowosc": "Duiven, Gelderland",
-          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ws8R1BO98RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
-          "opublikowano": "2026-09-25T16:05:50Z",
-          "kraj": "NL"
-        },
-        {
           "refnr": "5497949662",
           "titel": "Order picker temporary projects part-time",
           "pracodawca": "?",
@@ -37845,6 +38080,15 @@
           "kraj": "NL"
         },
         {
+          "refnr": "5841215707",
+          "titel": "Orderpicker",
+          "pracodawca": "In Person",
+          "miejscowosc": "Zevenaar, Gelderland",
+          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
+          "opublikowano": "2026-08-14T05:03:46Z",
+          "kraj": "NL"
+        },
+        {
           "refnr": "5864148879",
           "titel": "Orderpicker",
           "pracodawca": "Randstad",
@@ -37854,12 +38098,12 @@
           "kraj": "NL"
         },
         {
-          "refnr": "5841215707",
-          "titel": "Orderpicker",
-          "pracodawca": "In Person",
-          "miejscowosc": "Zevenaar, Gelderland",
-          "link": "https://www.adzuna.nl/details/5841215707?utm_medium=api&utm_source=ac776865",
-          "opublikowano": "2026-08-14T05:03:46Z",
+          "refnr": "5898376662",
+          "titel": "Logistics Employee",
+          "pracodawca": "LeukeBaan.nl",
+          "miejscowosc": "Duiven, Gelderland",
+          "link": "https://www.adzuna.nl/land/ad/5898376662?se=ipalyS298RGwgaviw0YlUg&utm_medium=api&utm_source=ac776865&v=8ADDCAF3FCB4EB8E801C6BAAE3D9A2DF189FA65B",
+          "opublikowano": "2026-09-25T16:05:50Z",
           "kraj": "NL"
         },
         {
@@ -38074,7 +38318,7 @@
           "titel": "C or CE general cargo driver",
           "pracodawca": "Logistic Force",
           "miejscowosc": "Groessen, Duiven",
-          "link": "https://www.adzuna.nl/land/ad/5860333676?se=0E2r2xO98RG5W_OotpWUug&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
+          "link": "https://www.adzuna.nl/land/ad/5860333676?se=pBwn0C298RG0kfYQieN-mA&utm_medium=api&utm_source=ac776865&v=1AB5DD8DAAC53B60759061B3DBAECC9A1D3B15D4",
           "opublikowano": "2026-08-29T01:43:07Z",
           "kraj": "NL"
         },
