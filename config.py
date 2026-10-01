@@ -176,7 +176,7 @@ MIN_SIZE_SQM = 30
 # ograniczenie świadomie: oferty z Holandii (JOB_SEARCH_NL_ENABLED) mają
 # priorytet i pokazują się WYŻEJ w dropdownie "Praca w pobliżu" (patrz
 # main.py::attach_nearby_jobs), niemieckie oferty trzeba i tak przejrzeć ręcznie.
-JOB_SEARCH_ENABLED = True
+JOB_SEARCH_ENABLED = False
 JOB_SEARCH_RADIUS_KM = 30   # promień wokół KAŻDEJ oferty mieszkania (nie Emmerich)
 JOB_SEARCH_EMPLOYMENT_TYPES = ["vz", "tz"]   # vz=pełny etat, tz=część etatu (kody Bundesagentur)
 JOB_SEARCH_MAX_RESULTS_PER_KEYWORD = 10      # limit wyników na słowo kluczowe - dropdown ma być czytelny, nie zalany
@@ -225,7 +225,7 @@ JOB_SEARCH_KEYWORDS = [
 # samo jak ORS_API_KEY (patrz utils/geo.py):
 #   - w chmurze (GitHub Actions): sekrety repo ADZUNA_APP_ID / ADZUNA_APP_KEY
 #   - lokalnie (ImmoScout24): local_secrets/adzuna_app_id.txt / adzuna_app_key.txt
-JOB_SEARCH_NL_ENABLED = True
+JOB_SEARCH_NL_ENABLED = False
 JOB_SEARCH_NL_COUNTRY = "nl"     # kod kraju Adzuna (endpoint /v1/api/jobs/{country}/search/...)
 JOB_SEARCH_NL_RADIUS_KM = 20     # promień (km) wokół najbliższej "kotwicy" (patrz utils/geo.py)
 JOB_SEARCH_NL_MAX_RESULTS_PER_KEYWORD = 10
