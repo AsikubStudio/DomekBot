@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-02T03:14:49.026642+00:00",
-  "count": 113,
+  "generated_at": "2026-10-02T06:17:27.445285+00:00",
+  "count": 114,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-01T21:34:56.327028+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-02T03:14:49.026642+00:00",
+      "last_updated": "2026-10-02T06:17:27.445285+00:00",
       "interval_hours": 3
     }
   },
@@ -11157,30 +11157,26 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "3 Zimmer Wohnung nähe Saturn. Ab 01.10.2026 Zum Vermieten.",
+      "Tytuł": "3 Zimmer Wohnung nähe Saturn.  Zum Vermieten.",
       "Cena (€)": 1.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 60.0,
       "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 9.0,
+      "Odległość (km)": 10.0,
       "Czas dojazdu (min)": 19,
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-naehe-saturn-ab-01-10-2026-zum-vermieten-/3515723666-203-1125",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-naehe-saturn-zum-vermieten-/3515723666-203-1125",
       "Zdjęcie": null,
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4b99716-0107-4128-ba61-9973b5dde82e?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/94cd5190-8d05-4bab-86dd-2c413d55c365?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eec58ec-1caf-4ec5-b130-8a4b3c4ce8e9?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c1dcaa9-670d-4b88-8ce4-e94bf95b7626?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8f9b120-a532-49b6-857f-24754f0779fd?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b23cb1b-37b1-4e1f-ab81-df7bcc1e5c40?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8eda6dac-89a1-4151-a02d-4f1e0e759816?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1ed0d1b-ae25-4499-979b-013b6a50e967?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 151.0,
-      "Opis": "Balkon • Terrasse • Altbau • Keller • Garage/Stellplatz • Garten/-mitnutzung\n\nAb 01.10.2026 zum vermieten\n\nEs gibt noch EG Wohnungen welcher mit Garten u. Garage hat.\n\n1150KM+150NK, Kaution 2000€ Strom u Gas extra",
+      "Opis": "Balkon • Terrasse • Altbau • Keller • Garage/Stellplatz • Garten/-mitnutzung\n\nzum vermieten\n\nEs gibt noch EG Wohnungen welcher mit Garten u. Garage hat.",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T15:11:22.015711+00:00"
+      "PierwszyRaz": "2026-09-18T00:15:57.963902+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -11346,7 +11342,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c6bcf8a0-e257-4709-a725-3bd421bc4f9d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fec08446-ed60-4b2c-871e-1ccc2c82c071?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -11568,7 +11564,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae885d0a-2fa8-40fc-a17c-bcd8e473c0af?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0fd7b0a-5474-4df3-a07a-ce43649bfa1b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -11601,7 +11597,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4585025-d7f9-43f9-b4d2-8229145aeccb?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52ce816c-a6f4-42ca-bb7e-5c46661d3aff?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -11700,7 +11696,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28dd9ebc-e430-4733-9010-04590981e1c9?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb7b7fb8-2173-4e06-a873-2469fceb45bb?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -11741,6 +11737,39 @@
       "Opis": "Balkon • Aufzug\n\n**Ausstattung:**\n\n* Ca. 49 m² Wohnfläche\n* Schlafzimmer\n* Wohn- und Essbereich mit offener Küche\n* Badezimmer mit Badewanne\n* Balkon\n* Separater Abstellraum auf dem Flur\n* Warmwasser über Durchlauferhitzer\n* Aufzug\n\n**Mietkonditionen:**\n\n* Kaltmiete: 441,00 €\n* Nebenkosten: 250,00 €\n* Kaution: 1.323,00 € (3 Kaltmieten)\n\nDie Wohnung ist ab sofort bezugsfrei.\n\nBei Interesse senden Sie uns bitte eine kurze Vorstellung Ihrer Person sowie sofern vorhanden Informationen zu Ihrem Beschäftigungsverhältnis. Wir freuen uns auf Ihre Anfrage und vereinbaren gerne einen Besichtigungstermin.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Beecker Straße 182 - 2 ZKB Wohnung im 2.OG nur mit Wohnberechtigungsschein !!!",
+      "Cena (€)": 442.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 72.35,
+      "Lokalizacja": "47166 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": 55.3,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/beecker-strasse-182-2-zkb-wohnung-im-2-og-nur-mit-wohnberechtigungsschein-/3290438333-203-2144",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b843ea33-996b-48c8-a056-f699f5938a01?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b843ea33-996b-48c8-a056-f699f5938a01?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/769b7785-7152-4b44-9829-ed1c8d3915e2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/705118b6-51c9-471d-ab4f-badfdfbb083b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1d57ad6-7129-4b10-87a7-2a01c5255f12?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70440387-1786-4211-bb54-1fba2d835c0f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2d9140a-dbd9-40b1-900f-33dc6872362d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca35af95-6229-4e0e-9935-effaa32d2d07?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5cc678c-9bf4-4148-b5f2-0b369b2c5b82?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de96397d-a6a8-4a10-abc0-cfe661898cb0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40a49ccd-012d-4ed5-98e3-03d34eb85f3b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a2dca0f-48c4-4c0f-a7c5-af75fc19db62?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63ab9b6b-ceb3-4ae5-b614-1cfa9635626e?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 722.0,
+      "Opis": "Balkon • Badewanne\n\nDiese charmante Etagenwohnung zur Miete in Duisburg bietet ein komfortables und modernes Wohnambiente. Die Wohnung befindet sich in einem gepflegten Mehrfamilienhaus und besticht durch ihre hellen und freundlichen Räumlichkeiten. Für die Anmietung ist ein entsprechender Wohnberechtigungsschein notwendig.\n\nDie Wohnung verfügt über:\n- drei geräumige Zimmer, die ausreichend Platz für Ruhe und Entspannung bieten\n- schöner Balkon mit ordentlich Platz\n\nDie Wohnung ist mit modernen Bodenbelägen und einer ansprechenden Farbgestaltung versehen, die eine warme und einladende Atmosphäre schaffen. Die großzügigen Fenster sorgen für eine optimale Belichtung aller Räume und lassen natürliches Licht in die Wohnung eindringen.\n\nZusätzliche Highlights dieser Immobilie:\n- Ruhige Wohngegend mit guter Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten\n\nDiese Etagenwohnung in Duisburg bietet alles, was Sie für ein komfortables und stilvolles Wohnen benötigen. Vereinbaren Sie noch heute einen Besichtigungstermin und überzeugen Sie sich selbst von den Vorzügen dieser Immobilie.\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: modernisiert\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen, Laminat, Kunststoff\n\n- Hinweis zur Kaution: 1.324,02 €\n\n- Nutzfläche: ca. 72,35 m²\n\n# Lagebeschreibung\nEntdecken Sie Ihr neues Zuhause in der charmanten Stadt Duisburg, einer lebendigen Metropole am Rhein. Diese Mietwohnung befindet sich in einer der begehrtesten Wohnlagen, die sowohl Ruhe als auch urbanes Flair vereint.\n\n- Zentrale Lage: Nur wenige Gehminuten vom Stadtzentrum entfernt, genießen Sie die Nähe zu Einkaufsmöglichkeiten, Restaurants und kulturellen Einrichtungen.\n- Ausgezeichnete Verkehrsanbindung: Die Wohnung liegt verkehrsgünstig mit direkter Anbindung an öffentliche Verkehrsmittel. Die Autobahnen A40 und A59 sind nur wenige Minuten entfernt, sodass Pendler von optimalen Verbindungsmöglichkeiten profitieren.\n- Grüne Oasen: In direkter Umgebung finden Sie zahlreiche Parks und Erholungsgebiete. Der beliebte Duisburger Stadtpark und der Kaiserberg mit seinem Zoo laden zu entspannten Spaziergängen ein.\n- Bildungseinrichtungen: In der Nähe befinden sich renommierte Schulen und Kindergärten, ideal für Familien.\n- Gesundheitswesen: Profitieren Sie von der Nähe zu Krankenhäusern und medizinischen Einrichtungen, die eine hervorragende gesundheitliche Versorgung gewährleisten.\n\nErleben Sie das Beste aus beiden Welten – Stadtleben und Natur – in dieser hervorragenden Lage in Duisburg.Entfernungen:\nFlughafen 24,5 km\nFernbahnhof 1,4 km\nBus 0 km\n\nAnbieter-Objekt-ID: Beecker Straße 182, 2.OG links",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
