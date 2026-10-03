@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-03T03:21:38.039203+00:00",
-  "count": 110,
+  "generated_at": "2026-10-03T06:21:27.473634+00:00",
+  "count": 111,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-03T03:21:38.039203+00:00",
+      "last_updated": "2026-10-03T06:21:27.473634+00:00",
       "interval_hours": 3
     }
   },
@@ -1051,7 +1051,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36c514f3-8cf8-40db-8e06-b4efc83b877f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41e5bc92-094e-41e8-8bc4-9826b5aadfa2?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1273,7 +1273,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/199ef3d0-4cf3-4758-a1fb-aaf31ff75885?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/0554c7b9-e051-44ca-aab1-96712d37af95?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1306,7 +1306,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff301b2f-eb1e-4a89-8b16-ec468c0a8577?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b449e174-d59d-47ba-ad98-b9bafb18e6dd?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1339,7 +1339,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/7206e1ea-a341-45a2-a0b8-5fec5f88342d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/7302060c-4f73-4b55-b94a-a12b4e3e862d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1438,7 +1438,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/dbb1ebc8-e633-4f75-8008-d1112b25a2ea?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8c1f935-88ad-4d44-9094-b748bb9d4ee5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1654,7 +1654,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/bezugsfertig-helle-2-zimmer-wohnung-in-marxloh-300-als-willkommensgeschenk-/3528728350-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ea146f39-7291-4870-911f-e81f1872a693?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ea146f39-7291-4870-911f-e81f1872a693?rule=$_1.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2221cdba-eeeb-4447-afef-6957867d4ad7?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79fc4ccc-3aa2-48cb-ab86-32a30620d708?rule=$_59.AUTO",
@@ -2344,6 +2344,39 @@
       "Opis": "Keller • Garage/Stellplatz\n\nIn einem gepflegten Gebäude aus dem Jahr 1937 erwartet Sie diese charmante 48 m² große 2-Zimmer-Etagenwohnung im Erdgeschoss. Die Wohnung besticht durch eine gemütliche Atmosphäre und verfügt über ein Bad mit Dusche und Badfenster, das für angenehme Lichtverhältnisse sorgt. Die Küche ist ohne Einrichtung, sodass Sie sie ganz nach Ihren Wünschen gestalten können. Der Bodenbelag ist pflegeleicht, und die Beheizung erfolgt komfortabel über Gas. Ideal für Singles oder Paare, die eine ruhige und behagliche Wohnatmosphäre in Bocholt suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-167-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n- Mieterkeller\n- Fahrradkeller\n- Waschkeller\n- Tageslichtbad mit Dusche\n- Dielenboden\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer hervorragend angebundenen Lage, die insbesondere Familien und Berufstätigen entgegenkommt. Bildungseinrichtungen wie die Clemens-Dülmer-Schule und die Overberg-Schule sind bequem zu Fuß erreichbar. Für Freizeit und Erholung bietet sich der nahegelegene Kubaai-Spielplatz an, ideal für Kinder und Familienaktivitäten. Einkaufsmöglichkeiten sind durch die nahe gelegenen Supermärkte ALDI Süd und REWE schnell zugänglich. Wer gerne Zeit im Grünen verbringt, findet im Museumsgarten eine attraktive Möglichkeit, um entspannte Stunden im Freien zu genießen. Medizinische Versorgung ist durch mehrere Arztpraxen in unmittelbarer Umgebung gewährleistet. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 13 Bushaltestellen, darunter die Haltestelle Schwartzstraße, sind schnell erreichbar. Zudem sind zwei Bahnhöfe, darunter Bocholt, in etwa 15 Minuten zu Fuß zu erreichen, was die Mobilität zusätzlich erleichtert.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 264.8 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 18.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-167-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-24T15:29:09.093076+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Single Wohnung 38 m in Xanten Wardt",
+      "Cena (€)": 560.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 38.0,
+      "Lokalizacja": "46509 Xanten",
+      "Odległość (km)": 21.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 26.0,
+      "Łazienka": "tak",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/single-wohnung-38-m-in-xanten-wardt/3507825876-203-1403",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/019726a4-2ee4-4945-bf19-395446202316?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/019726a4-2ee4-4945-bf19-395446202316?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/787eb0b9-c47b-459d-8c7a-87cc078fd196?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d6172b2-1a03-4fb0-b51d-5fd24e535c20?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/71f2eb17-d90b-4cbb-acb9-d14f92790c59?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11861fe4-ccd5-46c1-9019-88e40eb413a4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a28eab28-1538-4410-a0c1-accfb6bf98e4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/5806ba2c-be94-46c6-bc7a-6b02c95bd0f2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc9498f-b4fd-4638-9304-e27ed51c602c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6fafe49-c7e2-4703-8623-639fc457a658?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/115117a7-f134-4e29-a9f1-b11125a969b6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6ab6b33b-17b1-4b2b-acca-b2280742c7dd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db24ac5a-122d-4ce3-be7b-04dcdaab3d2a?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 560.0,
+      "Opis": "2 Zimmer Bad Diele Abstellraum Terrasse\nStellplatz\nKeine Haustiere",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-17T18:14:40.487377+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
