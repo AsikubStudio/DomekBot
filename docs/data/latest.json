@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T18:57:10.183190+00:00",
+  "generated_at": "2026-10-04T02:49:35.733111+00:00",
   "count": 109,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-03T18:57:10.183190+00:00",
+      "last_updated": "2026-10-04T02:49:35.733111+00:00",
       "interval_hours": 3
     }
   },
@@ -3086,9 +3086,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung/3505582025-203-23949",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0de9f78d-3814-4044-b2b8-298b56c32333?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0de9f78d-3814-4044-b2b8-298b56c32333?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ada488b-1282-4cc2-96e5-ab40c190918d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c58fbb2-5f64-4952-99cf-d89f64a72cfb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb3b75df-537e-4abb-91fe-94ab2b63116e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/18ccb8d3-26e5-4d0c-b553-307f4a7ead77?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aa134285-f3f3-433d-9401-27ebe4d00461?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78402cc2-e2cf-4105-93a3-68fd5896f1cd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d51a6dd8-eb59-4f04-baa3-8836a39198d2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/159a5856-1373-4436-b57a-7d59a5b6163c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd92cbb5-564a-41f5-a8bb-3e53fedb66d3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce7186ba-c7a8-4f4f-87a7-b78ba8c9b332?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b5e2a51-7488-452d-8d0d-208e37e681f5?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 740.0,
+      "Opis": "Dachboden\n\nErstbezug alles neu renoviert",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
