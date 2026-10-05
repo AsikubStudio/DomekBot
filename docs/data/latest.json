@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-05T06:21:11.726328+00:00",
-  "count": 107,
+  "generated_at": "2026-10-05T09:16:18.203351+00:00",
+  "count": 106,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-05T06:21:11.726328+00:00",
+      "last_updated": "2026-10-05T09:16:18.203351+00:00",
       "interval_hours": 3
     }
   },
@@ -1024,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ed07cac-ead0-4b03-b616-687319dd5b5f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ee91f92-afca-4a0a-b4fb-fd622437848d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1188,7 +1188,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2efedc6f-6619-4434-87a9-ac3927375340?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/596c7284-7b04-443c-9f2b-327a0c8c834f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1221,7 +1221,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f06e174e-9b10-462d-9292-641f994ef5e2?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4a83203-6eb0-45b9-9b45-465c9c2c7350?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1254,7 +1254,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d34fe843-33f5-4c8d-8f9a-26031ecb64c8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b8ce07f-0d30-4e33-bf27-01ab2a544cd5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1386,7 +1386,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d19ddab8-afd9-4d6f-b81e-7e6ba4e7fefa?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1a39a98d-f154-4cae-8e2d-08fe75a44ffd?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1460,39 +1460,6 @@
       "Opis": "Balkon • Badewanne\n\nDiese charmante Etagenwohnung zur Miete in Duisburg bietet ein komfortables und modernes Wohnambiente. Die Wohnung befindet sich in einem gepflegten Mehrfamilienhaus und besticht durch ihre hellen und freundlichen Räumlichkeiten. Für die Anmietung ist ein entsprechender Wohnberechtigungsschein notwendig.\n\nDie Wohnung verfügt über:\n- drei geräumige Zimmer, die ausreichend Platz für Ruhe und Entspannung bieten\n- schöner Balkon mit ordentlich Platz\n\nDie Wohnung ist mit modernen Bodenbelägen und einer ansprechenden Farbgestaltung versehen, die eine warme und einladende Atmosphäre schaffen. Die großzügigen Fenster sorgen für eine optimale Belichtung aller Räume und lassen natürliches Licht in die Wohnung eindringen.\n\nZusätzliche Highlights dieser Immobilie:\n- Ruhige Wohngegend mit guter Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten\n\nDiese Etagenwohnung in Duisburg bietet alles, was Sie für ein komfortables und stilvolles Wohnen benötigen. Vereinbaren Sie noch heute einen Besichtigungstermin und überzeugen Sie sich selbst von den Vorzügen dieser Immobilie.\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: modernisiert\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen, Laminat, Kunststoff\n\n- Hinweis zur Kaution: 1.324,02 €\n\n- Nutzfläche: ca. 72,35 m²\n\n# Lagebeschreibung\nEntdecken Sie Ihr neues Zuhause in der charmanten Stadt Duisburg, einer lebendigen Metropole am Rhein. Diese Mietwohnung befindet sich in einer der begehrtesten Wohnlagen, die sowohl Ruhe als auch urbanes Flair vereint.\n\n- Zentrale Lage: Nur wenige Gehminuten vom Stadtzentrum entfernt, genießen Sie die Nähe zu Einkaufsmöglichkeiten, Restaurants und kulturellen Einrichtungen.\n- Ausgezeichnete Verkehrsanbindung: Die Wohnung liegt verkehrsgünstig mit direkter Anbindung an öffentliche Verkehrsmittel. Die Autobahnen A40 und A59 sind nur wenige Minuten entfernt, sodass Pendler von optimalen Verbindungsmöglichkeiten profitieren.\n- Grüne Oasen: In direkter Umgebung finden Sie zahlreiche Parks und Erholungsgebiete. Der beliebte Duisburger Stadtpark und der Kaiserberg mit seinem Zoo laden zu entspannten Spaziergängen ein.\n- Bildungseinrichtungen: In der Nähe befinden sich renommierte Schulen und Kindergärten, ideal für Familien.\n- Gesundheitswesen: Profitieren Sie von der Nähe zu Krankenhäusern und medizinischen Einrichtungen, die eine hervorragende gesundheitliche Versorgung gewährleisten.\n\nErleben Sie das Beste aus beiden Welten – Stadtleben und Natur – in dieser hervorragenden Lage in Duisburg.Entfernungen:\nFlughafen 24,5 km\nFernbahnhof 1,4 km\nBus 0 km\n\nAnbieter-Objekt-ID: Beecker Straße 182, 2.OG links",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Reserviert",
-      "Cena (€)": 450.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "46395 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 24,
-      "Odległość od 's-Heerenberg (km)": 23.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/reserviert/3519020338-203-1849",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46a1a9db-d7b7-42ba-967b-e2fcc591511d?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46a1a9db-d7b7-42ba-967b-e2fcc591511d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08fa6113-f201-45c7-8ad9-594133122ec2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21d4c39f-2371-4d33-a595-27ce429bf514?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8e11355-6b13-4f64-b226-3ce5cc1daeda?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84684136-785b-4f3d-b921-8189de034391?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46a1a9db-d7b7-42ba-967b-e2fcc591511d?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08fa6113-f201-45c7-8ad9-594133122ec2?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21d4c39f-2371-4d33-a595-27ce429bf514?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8e11355-6b13-4f64-b226-3ce5cc1daeda?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84684136-785b-4f3d-b921-8189de034391?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/937a5c22-bee4-449c-8514-f575f12cc55f?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62b4a504-7912-4d57-8c30-6a3867a4edba?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Anfrage STOPP\nAufgrund der hohen Anfrage, muss ich erstmal schauen. Ich entschuldige mich jetzt schon dafür, dass ich nicht jeden zur Besichtigung eingeladen kann.\n\nIch biete hier eine Dachgeschoss im 2 OG eines 6 Parteien Haus in Bocholt/ Biemenhorst.\nSchlafzimmer und Wohnzimmer wurden vor zwei Jahren mit neuem Teppich ausgelegt, Küche kann vom Vormieter übernommen werden.\n\nDie Wohnung liegt zentral in Bocholt/ Biemenhorst und bietet eine gute Anbindung an die lokale Infrastruktur. Alle Einrichtungen des täglichen Bedarfs sind aus dieser Lage gut erreichbar.\n\nAusstattung:\n1 Schlafzimmer, Wohn- Esszimmer, Küche, Bad, Flur und Abstellraum. Loggia, Kellerabteil abschließbar und uneinsichtig. Stellplatz vor dem Haus.\n\nEckdaten:\n\n- 2 Zimmer\n- Küche\n- Badezimmer\n- ruhiges Haus\n- ab Dezember verfügbar\n- nichtraucher!\n- keine Haustiere!\n\n450€ Kaltmiete\n80€ Nebenkosten\n20€ Stellplatz\nzusätzlich Strom/Wasser/Gas in eigener Verantwortung.\n\nEnergieausweiss liegt vor: C mit 84,6 kWh/(m²*a)\n\nBei Interesse gerne mit Name hier melden.\nWeitere Fragen beantworte ich gerne.\n\nDie Wohnung wird bevorzugt an eine ruhige Einzelperson vermietet werden.\n\nTierhaltung aus persönlichen Gründen nicht möglich.\n\nBei Interesse freuen ich mich über eine kurze Nachricht mit ein paar Informationen zur Person.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-30T09:56:07.293101+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
