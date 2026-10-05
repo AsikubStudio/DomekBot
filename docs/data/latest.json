@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-05T12:18:41.682544+00:00",
-  "count": 105,
+  "generated_at": "2026-10-05T15:18:16.867694+00:00",
+  "count": 106,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-05T12:18:41.682544+00:00",
+      "last_updated": "2026-10-05T15:18:16.867694+00:00",
       "interval_hours": 3
     }
   },
@@ -2293,39 +2293,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Nachmieter gesucht Seniorengerechtes Wohnen Barrierefrei",
-      "Cena (€)": 560.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 66.76,
-      "Lokalizacja": "47574 Goch",
-      "Odległość (km)": 18.0,
-      "Czas dojazdu (min)": 33,
-      "Odległość od 's-Heerenberg (km)": 21.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-seniorengerechtes-wohnen-barrierefrei/3505659196-203-1147",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b6dbb25-d90f-4b62-b7cc-539fad7ea2ce?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b6dbb25-d90f-4b62-b7cc-539fad7ea2ce?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/2734846f-86c6-4edd-ac5b-bd1c2169421e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e51c6d80-8459-41a6-b057-c5d8f08efba1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/50b82232-bbf1-4cd8-a25b-906cf4f72b4f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683202c4-a21d-4913-a642-0cbc78d78dee?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1c1e877-63b1-49a2-a737-b2a35780ca8d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/57156b1f-ad72-458b-9519-1dac99cf287d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a41b7572-581b-42cc-bc2b-de2e90f19864?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f3e9ed8-7fa5-478b-9f26-64a08bbf9580?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba0bd5ca-0174-4f02-b341-47f066db4009?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c52c3a0e-718d-465c-863e-036d00bd3792?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f68b9d11-42ae-4d98-a236-172c17a268c5?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 570.0,
-      "Opis": "Balkon • Stufenloser Zugang • Aufzug • WBS benötigt\n\nMeine Eltern suchen zum 01.11.2026 einen Nachmieter.\n\nDie Hausverwaltung möchte die Wohnung nicht an Einzelpersonen vermieten. Auch wünscht sich die Hausverwaltung ältere oder Pflegebedürftige Personen.\n\nDie Wohnung ist Barrierefrei und man gelangt über einen Aufzug in die 1.Etage.\nDie Dusche ist ebenerdig. Auch ist die Wohnung komplett gefliest und mit Rauhfaser tapeziert. Hier muss nur noch gestrichen werden.\n\nEs gibt ein Schlafzimmer, ein Wohnzimmer, einen Flur, ein Badezimmer, einen Abstellraum mit Anschluss für die Waschmaschine und eine zum Wohnzimmer offene Küche.\n\nDie Einbauküche sollte idealerweise übernommen werden. Einzelheiten dazu, siehe meine anderen Anzeigen.\n\nZum Schutz der Privatsphäre wurden alle Bilder mit KI bearbeitet. Es kann daher sein, dass nicht alles zu 100% der Realität entspricht.\n\nWBS Schein erforderlich!\n\nBitte schreiben Sie in Ihrer Anfrage etwas zu Ihrer Person.\n\nIch rechne mit vielen Nachrichten und werde nur die der Personen beantworten, die in die engere Auswahl kommen.\nBitte haben sie dafür Verständnis.\n\nDie Angaben der Mietkosten sind die Kosten, die meine Eltern momentan haben. Auf eine höhere Miete, Heiz- und Nebenkosten haben wir keinen Einfluss.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-01T16:10:45.270921+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "2,5 Zimmer Wohnung in ruhiger Lage / Duisburg Neumühl",
       "Cena (€)": 560.0,
       "Pokoje": 2.0,
@@ -2356,6 +2323,39 @@
       "Opis": "Diese gepflegte und modern ausgestattete Wohnung befindet sich in einer ruhigen Wohnlage in Duisburg-Neumühl und überzeugt durch ihren sehr guten Zustand sowie eine praktische Raumaufteilung.\n\nDie ca. 62 m² große Wohnung ist sofort bezugsfertig – Renovierung arbeiten sind nicht erforderlich. Böden, Wände und Ausstattung sind in einem gepflegten Zustand, sodass ein unkomplizierter Einzug möglich ist.\n\nAusstattung:\n\nca. 62 m² Wohnfläche\ngut geschnittener Grundriss\ngepflegter Zustand (kein Renovierungsbedarf)\nhelle Räume\nruhige Wohnlage\n\nLage:\nDie Wohnung befindet sich in Duisburg-Neumühl in einer ruhigen und angenehmen Wohngegend. Einkaufsmöglichkeiten für den täglichen Bedarf, Supermärkte, Bäckereien und weitere Geschäfte sind schnell erreichbar.\n\nAuch die Anbindung an den öffentlichen Nahverkehr ist gut, sodass umliegende Stadtteile sowie die Duisburger Innenstadt bequem erreichbar sind. Schulen, Kindergärten und Ärzte befinden sich ebenfalls in der näheren Umgebung.\n\nDie Lage bietet eine gute Kombination aus ruhigem Wohnen und praktischer Infrastruktur.\n\nMiete:\nKaltmiete: 560,00 €\nNebenkosten: 180,00 €\nWarmmiete: 740,00 €\n\nKaution: 1050,00 €\n\nSonstiges:\nIdeal geeignet für Singles oder Paare, die eine gepflegte Wohnung in ruhiger Lage suchen.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Mietswohnung OG Neustraße 11-46459 Rees",
+      "Cena (€)": 561.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 62.0,
+      "Lokalizacja": "46459 Rees",
+      "Odległość (km)": 13.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietswohnung-og-neustrasse-11-46459-rees/3532295031-203-1389",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbafcf91-cb89-4b6f-aeec-c76ca90f9a42?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bbafcf91-cb89-4b6f-aeec-c76ca90f9a42?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8bceb3dc-2fa7-4ec7-832d-7339025e5989?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a65e8413-271d-45d3-a95a-a18c24d8d104?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1c223cc-b377-415d-85cf-518baf6bc8c7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d5a6f85-f941-4191-bb74-ca4b6142a5ff?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9fe61d0b-ea1b-4b36-9dd6-97d0bc00cf0e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4e68545-ea73-40f4-b1b9-1e8d479a933c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f147c471-88f8-4b40-ac1a-685203d13d7a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45a86375-84c8-4726-a6b9-8417b63e2ab8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c98a91e3-e3c4-4e0b-aed3-c2e0394f62a2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76f5e156-4ff2-4960-bfa1-96e3a0752782?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6681cc90-5985-4d83-badd-6d0b4c0bfb03?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Die Mietwohnung in Rees liegt im Obergeschoss eines Altbaus in zentraler Lage im Stadtkern. Sie hat 62 m?, 2 Zimmer, 1 Schlafzimmer und 1 Badezimmer. Die Miete liegt bei 561 € kalt ,verfügbar ab November.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-05T15:18:16.865975+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2945,6 +2945,39 @@
       "Opis": "**OBJEKTBESCHREIBUNG**\n\n2-Zimmer-Wohnung in Kleve Unterstadt ab dem 01.12.2026 zu vermieten. Der Mietpreis setzt sich wie folgt zusammen:\n\nKaltmiete: 650 €\n\nNebenkosten: 70,00 €\n\nHeizkosten: 150,00 €\n\nGarage: 30,00 €\n\nKüche: 35,00 €\n\nGesamtmiete: 935 €\n\nSONSTIGES\n\nBitte online Anfragen!\n\nBEACHTEN SIE:\n\nDer Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n\n* Ihr Alter\n\n* Sind Haustiere vorhanden, wenn ja, welche?\n\n* Was machen Sie beruflich?\n* Rauchen Sie?\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-21T15:12:48.222369+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Moderne 2-Zimmer-Wohnung in Walsum",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 43.0,
+      "Lokalizacja": "47179 Walsum",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 42,
+      "Odległość od 's-Heerenberg (km)": 51.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-zimmer-wohnung-in-walsum/3532156356-203-2143",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d377f320-042a-4524-827a-0105b6b3a949?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d377f320-042a-4524-827a-0105b6b3a949?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22b4087d-b0f6-40a6-b495-b1441209eeec?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e30b54d0-247a-4e0b-aa40-273e4096effc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e9633a2-69c0-4323-a49c-52dab4a7dc00?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a449120-1b9b-424d-9962-f56ebc2f8d4d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/10121999-2f8e-4b0c-b6dc-95489b514acc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7da0d7f5-6fb3-4f04-9abf-211e73067ece?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/820d459b-8047-49db-903a-d5eb115a05dc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be1e0b61-1749-4a33-987d-731b3f9bcaae?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/edaed7e7-e9a5-481e-b506-88502040c453?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/dfa57653-580b-4d89-98cb-c0f3f1210752?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1155807-0925-485f-a823-f6009fbdaa06?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 800.0,
+      "Opis": "Möbliert/Teilmöbliert • Badewanne • Stufenloser Zugang • Fußbodenheizung • Altbau\n\nDiese gepflegte 2-Zimmer-Wohnung in Walsum bietet eine gelungene Kombination aus modernem Wohnkomfort, funktionaler Raumaufteilung und einer angenehmen Wohnatmosphäre. Die Wohnung eignet sich ideal für Singles, Paare, Berufstätige oder Pendler, die ein gemütliches und gut geschnittenes Zuhause suchen.\n\nDer helle Wohnbereich bietet ausreichend Platz für eine gemütliche Sitzecke, einen Essbereich und individuelle Einrichtungsideen. Große Fenster sorgen für angenehmes Tageslicht und verleihen dem Raum eine freundliche und offene Atmosphäre. Die moderne Gestaltung mit harmonischen Farben und ausgewählten Einrichtungselementen schafft ein wohnliches Ambiente.\n\nDas separate Schlafzimmer bietet ausreichend Platz für ein Doppelbett, einen Kleiderschrank und weitere Möbel. Durch die ruhige Gestaltung entsteht ein angenehmer Rückzugsort, der sich ideal zum Entspannen und Erholen eignet.\n\nDie Küche ist funktional gestaltet und bietet ausreichend Arbeits- und Stauraum. Sie lässt sich praktisch in den Alltag integrieren und bietet genügend Platz für die Zubereitung von Mahlzeiten.\n\nDas Badezimmer ist modern und zeitlos ausgestattet. Eine Dusche, ein Waschtisch mit Spiegel sowie ein WC sorgen für den notwendigen Komfort. Die hellen und neutralen Farbtöne lassen den Raum freundlich und gepflegt wirken.\n\nAusstattung im Überblick\nModerne 2-Zimmer-Wohnung\n\nHeller und gut geschnittener Wohnbereich\n\nSeparates Schlafzimmer\n\nFunktionale Küche\n\nAusreichend Stauraum\n\nModernes Badezimmer\n\nDusche\n\nWaschtisch mit Spiegel\n\nWC\n\nFreundliche und zeitlose Gestaltung\n\nAngenehme Wohnatmosphäre\n\nIdeal für Singles oder Paare\n\nLage – Duisburg-Walsum\nDie Wohnung befindet sich in Walsum, einem beliebten Stadtteil im Norden von Duisburg. Die Umgebung bietet eine gute Infrastruktur mit Einkaufsmöglichkeiten, Supermärkten, Restaurants, Cafés sowie Einrichtungen des täglichen Bedarfs.\n\nAuch die Verkehrsanbindung ist praktisch: Über die umliegenden Straßen und den öffentlichen Nahverkehr sind weitere Stadtteile von Duisburg sowie das regionale Umfeld gut erreichbar. Gleichzeitig bietet Walsum zahlreiche Grün- und Erholungsmöglichkeiten und eignet sich daher sowohl für Berufstätige als auch für Paare und kleine Haushalte.\n\nBesichtigung anfragen\nSie haben Interesse an der Wohnung und möchten einen Besichtigungstermin vereinbaren?\n\nBitte füllen Sie hierfür das entsprechende Formular auf unserer Website hpvisa.com aus. Anschließend können die weiteren Schritte zur Terminvereinbarung abgestimmt werden.\n\nWichtiger Hinweis: Für die Anfrage und die Vereinbarung eines Besichtigungstermins sind keine Bankdaten erforderlich. Bitte geben Sie auf der Website keine Bankverbindung, Kreditkartendaten oder sonstige Zahlungsinformationen ein.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-05T15:18:16.865975+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
