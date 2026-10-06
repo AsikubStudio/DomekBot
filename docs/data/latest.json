@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T09:15:05.122803+00:00",
-  "count": 103,
+  "generated_at": "2026-10-06T12:16:54.429381+00:00",
+  "count": 102,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-06T09:15:05.122803+00:00",
+      "last_updated": "2026-10-06T12:16:54.429381+00:00",
       "interval_hours": 3
     }
   },
@@ -1024,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/3990b1d6-5436-4a1e-8d61-3a5d8d38d574?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b752938-5782-4e24-88d7-4074c885138e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1188,7 +1188,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6c25c7c-40f9-4b7c-9b90-45c685b9bab4?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02a5e72c-7626-4f50-9586-afcfe52cadc4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1221,7 +1221,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85d791aa-b4d1-4000-bf31-4623885f723e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2cd7e17-ae6e-48af-b8c7-07895338c9ad?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1254,7 +1254,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b0c9e34-b770-4a2d-8d42-c6e78bd7b7f9?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01cd3224-2996-4196-acf4-c8f6192e41e6?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1386,7 +1386,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/748bb8ae-a2b7-4df4-a900-62002503bd13?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df97c7ea-0e14-4f86-bc09-715df72592fc?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1558,39 +1558,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmern Wohnung Xanten",
-      "Cena (€)": 464.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 45.0,
-      "Lokalizacja": "46509 Xanten",
-      "Odległość (km)": 24.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": 26.0,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmern-wohnung-xanten/3519289578-203-1403",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e6043fb-212b-4fdb-b473-893d06083d5f?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e6043fb-212b-4fdb-b473-893d06083d5f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/cea68f13-fdef-4a51-8eb0-8c96d23032b8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e6043fb-212b-4fdb-b473-893d06083d5f?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/cea68f13-fdef-4a51-8eb0-8c96d23032b8?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b562d65a-2db7-4685-84de-320387e1af21?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d14119e-7d1b-4008-919b-9776406a7747?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/810f649d-2f03-4b7d-bcb0-d9abaf7406ea?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/019726a4-2ee4-4945-bf19-395446202316?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be45fc2d-9393-4fa5-8545-39ff9dfdb999?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45460a10-99bf-40d1-be49-59a0f7200f7b?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3babad4b-f629-45d6-9f3a-82f2008039ae?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "2 Zimmern Wohnung in Xanten. EG\nWBS erforderlich.\n464 Warm( Heizung, Warmwasser sind drin)\n450 Kaution\nSofort einziehen\nKeine Haustiere\nKeine Soziale Hilfe\n\nMelden Sie sich gerne.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-28T06:28:03.354237+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "2-Zimmer-Wohnung mit Einbauküche in Wesel zu vermieten",
       "Cena (€)": 468.0,
       "Pokoje": 2.0,
@@ -1610,39 +1577,6 @@
       "Opis": "Einbauküche • Haustiere erlaubt\n\n**Eckdaten:**\n\n* Wohnfläche: ca. 52 m²\n* Kaution: 1.404,00 € (3 Kaltmieten)\n* Badezimmer mit Dusche\n* Einbauküche vorhanden\n\n**Monatliche Gesamtmiete:**\n\n* Kaltmiete: 468,00 €\n* Küche: 50,00 €\n* Nebenkosten: 200,00 €\n* Gesamt: 718,00 € (zzgl. Strom)\n\nBei Interesse freuen wir uns über Ihre Nachricht. Bitte stellen Sie sich kurz vor und fügen Sie nach Möglichkeit bereits Angaben zu Ihrer Person sowie Ihrem Beschäftigungsverhältnis bei.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Renovierte 2-Zimmer-Balkonwohnung in Duisburg Walsum - inklusive 200EUR Einkaufsgutschein",
-      "Cena (€)": 479.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 62.15,
-      "Lokalizacja": "47179 Walsum",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": 51.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-balkonwohnung-in-duisburg-walsum-inklusive-200eur-einkaufsgutschein/3337185076-203-2143",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21de5afd-1685-4e9e-b77b-94be7fb1ca96?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21de5afd-1685-4e9e-b77b-94be7fb1ca96?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b02a9542-7443-42b9-8f13-26c86443545c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b6b8040-8deb-40b4-99dc-a25f37d48c25?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2f53c37-e61f-4749-80ce-33e07e97c457?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38ece3e2-3f0a-4605-a84e-63690e80c42b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c11be84c-d90f-43b3-a9a2-0d4aefe31a74?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cbfffc0-42fe-4f75-a2a5-05adf8232c0c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66b6e035-45a0-4ed0-ba44-93a3b63b08b9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/5167da6c-a156-47bc-988c-3fef70cddb42?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc277370-6bb3-47a8-a1b4-536893fb3aa3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b18ef54-7b0b-4a21-aee0-ec62ae128fe7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f1ca91e-29e0-4c9e-af37-75318527054e?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 660.0,
-      "Opis": "Balkon • Aufzug • Keller\n\nUnsere Mietobjekte auf der Dr. Hans-Böckler-Straße und Friedrich-Ebert-Straße befinden sich in einer zentraler Lage von Duisburg-Walsum. Die Gebäude sind mehrgeschossig und überwiegend mit Balkonen ausgestattet.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 3911-13-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Aufzug\n• Balkon\n• Isolierverglasung\n• weiß gefliestes Bad mit Dusche\n• neuer Laminatboden in der gesamten Wohnung, Fliesenboden in Küche und Bad\n• Wände tapeziert und weiß gestrichen\n• Decken frisch weiß gestrichen\n• Türen werden noch frisch weiß lackiert\n• Abstellkammer in der Diele (wird noch frisch weiß lackiert)\n• Keller\n• Fernwärme\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nIm Westen grenzt Walsum an den Niederrhein, im Norden an Dinslaken, im Osten an Oberhausen und im Süden an Hamborn.\nFür die Medizinische Versorgung und die Schulische Bildung ist auch gesorgt. Arztpraxen, Lebensmittelgeschäfte, Kindergärten und Schulen liegen in unmittelbarer Umgebung.\nDie Autobahn 59 mit ihren Verbindungen zur A40 und A42 befindet sich in unmittelbarer Umgebung.\nAuch der ÖPNV ermöglicht Ihnen schnelle Verbindungen in umliegende Stadtteile und Städte.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 143 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Ausstellungsdatum: 21.02.2017\n- Baujahr (gemäß Energieausweis): 1973\n- Heizungsart: Fernwärme\n- Wesentliche Energieträger: Fernwärme\n\nAnbieter-Objekt-ID: 3911-13-M",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-24T12:30:50.794630+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2356,6 +2290,37 @@
       "Opis": "Diese charmante 2-Zimmer-Wohnung befindet sich im ersten Obergeschoss (links) eines im Jahr 1998 erbauten Mehrfamilienhauses in Bocholt. Auf 54,87 m² bietet die Wohnung eine gemütliche Atmosphäre mit Laminatboden in den Wohnräumen. Das Badezimmer ist mit einem Fenster ausgestattet und verfügt über eine Badewanne. Die Küche ist ohne Einrichtung, sodass Sie Ihren eigenen Stil verwirklichen können. Die Wohnung wird beheizt mit einer modernen Heizungsanlage. Ideal für Singles oder Paare, die eine angenehme und ruhige Wohnatmosphäre suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 416-33-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Balkon\n• Tageslichtbad mit Badewanne\n• Laminatboden\n• Isolierverglasung mit Rollladen\n• gepflegt\n• Abstellraum\n• Mediaanschluss\n• Aussenstellplatz\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDer Arnikaweg befindet sich süd-westlich vom Stadtkern und besticht durch ihre zentrale Lage. Geschäfte des alltäglichen Bedarfs und Supermärkte sind fußläufig erreichbar. In kürzester Zeit ist man zudem mit dem Auto auf der Bundesstraße 67 oder 473.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 99.3 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Ausstellungsdatum: 20.11.2018\n- Baujahr (gemäß Energieausweis): 1998\n- Heizungsart: Fernwärme\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 416-33-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-29T12:28:29.067214+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer-Wohnung mit Balkon und Keller in Isselburg-Anholt",
+      "Cena (€)": 570.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 71.0,
+      "Lokalizacja": "46419 Isselburg",
+      "Odległość (km)": 13.0,
+      "Czas dojazdu (min)": 17,
+      "Odległość od 's-Heerenberg (km)": 15.1,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-balkon-und-keller-in-isselburg-anholt/3532878653-203-1848",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/681e75e4-b57a-4086-a0b4-f18c5a2885d0?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/681e75e4-b57a-4086-a0b4-f18c5a2885d0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fae87715-5a66-4e55-a19c-4d8cf491a133?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/175c7a63-5bf3-4ee8-a046-3cf2207c2feb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/681e75e4-b57a-4086-a0b4-f18c5a2885d0?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fae87715-5a66-4e55-a19c-4d8cf491a133?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/175c7a63-5bf3-4ee8-a046-3cf2207c2feb?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7176a2-2d2c-4f61-896c-d94ec17485c4?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d659af0e-6dd9-490c-92f4-67f2d2e66a85?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd940aff-6e22-41fb-a5a6-854d2f3884d6?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e33c4b6d-cefa-43b5-9a2c-298e6e62d602?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "In der 3. Etage erwartet Sie eine 2-Zimmer-Wohnung mit einer Wohnfläche von 71 qm. Die Wohnung verfügt über 1 Schlafzimmer und 1 Badezimmer. Ein Balkon lädt zum Entspannen im Freien ein, während der vorhandene Keller zusätzlichen Stauraum für den Alltag bietet.\n\n# Ausstattung\nZur Wohnung gehört ein Balkon sowie ein Keller. Beheizt wird die Immobilie mit einer Gasheizung. Die Energieeffizienz ist mit der Klasse C ausgewiesen, was sich positiv auf die langfristigen Energiekosten auswirken kann.\n\n# Weitere Angaben\n- Verfügbar ab: 01.11.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung liegt in Isselburg in der Niederstraße (46419). Durch die zentrale Lage sind Alltagswege in der Umgebung gut erreichbar. Auch für Fahrten in die Region bietet Isselburg eine praktische Anbindung an die umliegenden Orte und Städte.\n\n# Sonstiges\nDie Wohnung ist ab dem 1. November 2026 verfügbar. Die Kaltmiete beträgt 570 EUR, die Nebenkosten belaufen sich auf 130 EUR, sodass sich eine Gesamtmiete von 700 EUR pro Monat ergibt.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: Erdgas schwer\n- Energieverbrauch: 94 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Baujahr (gemäß Energieausweis): 1984\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 215803",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-06T12:16:54.427313+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
