@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T06:17:36.604225+00:00",
-  "count": 105,
+  "generated_at": "2026-10-06T09:15:05.122803+00:00",
+  "count": 103,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-06T06:17:36.604225+00:00",
+      "last_updated": "2026-10-06T09:15:05.122803+00:00",
       "interval_hours": 3
     }
   },
@@ -1024,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b7e788b-3685-4fd8-bdba-60a25c343914?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/3990b1d6-5436-4a1e-8d61-3a5d8d38d574?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1188,7 +1188,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e6cd3f2-10b6-4f08-8370-c113d93865bc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6c25c7c-40f9-4b7c-9b90-45c685b9bab4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1221,7 +1221,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b3e6b11-a703-40a6-9b5d-e2907767f16c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85d791aa-b4d1-4000-bf31-4623885f723e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1254,7 +1254,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc52d440-8ceb-4bca-999b-9d1e0b47b761?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b0c9e34-b770-4a2d-8d42-c6e78bd7b7f9?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1386,7 +1386,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17d2c626-82de-48f5-a8c5-311e0e69c345?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/748bb8ae-a2b7-4df4-a900-62002503bd13?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1522,39 +1522,6 @@
       "Opis": "Bei der angebotene Immobilie handelt es sich um eine moderne 2-Zimmer-Wohnung im 3. Obergeschoss eines gepflegten Mehrfamilienhauses in Duisburg-Walsum. Besonders hervorzuheben ist die moderne Ausstattung, die ein angenehmes Wohnambiente schafft. Die Diele bildet das Herz der Einheit und gewährt Ihnen Zugang zu allen Räumlichkeiten. Das großzügig geschnittene Wohnzimmer bietet Ihnen viel Platz für eine Sofaecke, sowie einen Essbereich. Angrenzend befindet sich die Küche, die mit einem weißen Fliesenspiegel ausgestattet ist. Das Tageslichtbad ist mit großen Fliesen in weiß und anthrazit gestaltet und verfügt über eine Dusche. Zudem befindet sich hier der Anschluss für eine Waschmaschine. Angerundet wird die Wohnung durch dem Schlafzimmer.\nInsgesamt die ideale Immobilie für Singles oder Paare!\n\n# Ausstattung\n- moderne Ausstattung\n- gepflegtes Mehrfamilienhaus\n- Dachgeschoss ohne Aufzug\n- helle Räumlichkeiten\n- Tageslichtbad mit Dusche\n- zeitlose Bodenbeläge\n\n# Weitere Angaben\n- Verfügbar ab: 2026-08-01\n- Objektzustand: Erstbezug\n\n- Hinweis zur Kaution: 3 Kaltmieten Kaution\n\n# Lagebeschreibung\nDuisburg ist die westlichste Großstadt des Ruhrgebietes und mit knapp 496.000 Einwohnern die 15-größte Stadt. Die Stadt liegt im Knotenpunkt eines dichten überregionalen Autobahn-, Schienen- und\nWasserwegenetzes, die sie an das Ruhrgebiet, den größten industriellen Ballungsraum Europas, anbindet. Der Stadtteil Walsum grenzt an den Rhein und die Nachbarbezirke Altenrade und Hamborn. Das Objekt befindet sich in einem ruhigen Wohngebiet. Supermärkte, Banken, Cafés usw. sind im Umfeld bequem zu erreichen.\n\n# Sonstiges\nAnsprechpartner: Frau Denise Wolniczak\nE-Mail Kontakt: vertrieb@dahlheim-immobiliengruppe.de\nTelefonnummer: 0211 3679799999\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: Gas\n- Endenergiebedarf: 148.6 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Ausstellungsdatum: 28.02.2025\n- Gültig bis: 2035-02-27\n- Baujahr (gemäß Energieausweis): 1978\n- Letzte Modernisierung: 2026\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: W10-WE8",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-24T12:30:50.794630+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer-Whg 68 m2 mit Balkon in Duisburg –13 Etage,Haustiere OK",
-      "Cena (€)": 450.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 68.0,
-      "Lokalizacja": "47169 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": 53.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-whg-68-m2-mit-balkon-in-duisburg-13-etage-haustiere-ok/3502613471-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4127f13-a64c-42f1-8e67-27554d1cc544?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4127f13-a64c-42f1-8e67-27554d1cc544?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66d63b54-b9fa-44cf-8f77-a3fcff2a1486?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aac57e72-e0de-4fc2-8d7b-2f3b95ab21e4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f01dc60-1e89-456e-923d-bd1748ced3c6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e7cb1f7-a1ed-4acd-9661-dd7bf8bed74a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b3596c6-3e07-4672-a330-f66f3c538c81?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48330cf1-5473-4f23-a07a-2ef824ba6d91?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3ebba47c-09fc-4d79-95ac-0e1b45919c08?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/217de604-03a1-48c9-84c2-41306b1d1648?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05880753-a56b-4e91-9121-c44775fddd07?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3d20edc-a72c-4faa-bed8-d2b3bde41684?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/6568d618-f2c7-4bab-a8cd-faa9d8aefc24?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 700.0,
-      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Badewanne • Stufenloser Zugang • Altbau • Aufzug • Haustiere erlaubt\n\nHier wird eine geräumige und helle 2-Zimmer-Wohnung mit einer Wohnfläche von 68 m² in Duisburg zur Vermietung angeboten. Die Wohnung befindet sich im 13. Obergeschoss eines 20-stöckigen Wohngebäudes und bietet eine schöne Aussicht. Die Wohnung eignet sich ideal für kleine Familien (gerne mit 1-2 Kindern)\nRaumaufteilung: 2 Zimmer (Wohnzimmer, Schlafzimmer), Küche, Badezimmer, 2 Flure und ein großzügiger Balkon.\nMöblierung: Die Wohnung verfügt über eine Einbauküche zur Nutzung und einige Möbelstücke.Gebäude: Das Gebäude verfügt über 4 Eingänge. Pro Treppenhaus gibt es 2 Aufzüge (einen Personenaufzug und einen großen Lastenaufzug für Möbel).\nEin Hausmeister-Service ist vor Ort für die Pflege der Anlage zuständig.\nWichtiger Hinweis zum Wohnumfeld (Bitte lesen): Die Wohnung befindet sich in einer sehr großen Wohnanlage (20 Stockwerke). Das Gebäude hat einen hohen Anteil an ausländischen Mitbewohnern und Jobcenter-Empfängern.\nHaustiere sind nach Absprache erlaubt (maximal 2 Hunde oder 2 Katzen). Voraussetzung ist, dass sie ruhig sind, die Hausordnung eingehalten wird und die gesetzlichen Ruhezeiten respektiert werden.\nHinweis zur Abrechnung: Die Heiz- und Nebenkosten sind als Vorauszahlung in den 700 € enthalten. Einmal im Jahr erfolgt die offizielle Nebenkostenabrechnung durch die Hausverwaltung. Bei Mehrverbrauch muss der Mieter nachzahlen, bei geringerem Verbrauch erhält er eine Rückerstattung.\nSowohl Berufstätige (Selbstzahler) als auch Personen, die vom Jobcenter Duisburg unterstützt werden, sind herzlich willkommen.\nBenötigte Unterlagen für die Vermietung:\nFür Selbstzahler: Die letzten 3 Gehaltsnachweise, aktueller Arbeitsvertrag (zur Überprüfung, ob Sie sich in der Probezeit befinden oder ein kurzfristiges/befristetes Arbeitsverhältnis vorliegt), aktuelle SCHUFA-Auskunft, Mietschuldenfreiheitsbescheinigung vom vorherigen Vermieter.\nFür Jobcenter-Kunden: Aktueller Bewilligungsbescheid, die schriftliche Zusicherung der Mietübernahme vor Vertragsunterzeichnung sowie die schriftliche Bestätigung über die Übernahme der Mietkaution (Darlehenszusage).\nBei Personen, die vom Jobcenter unterstützt werden, ist eine Mietabtretung zur direkten Mietzahlung an den Vermieter sowie eine Schweigepflichtentbindung erforderlich.\nDie Direktzahlung der Miete an uns ist eine feste Voraussetzung für das Mietverhältnis.\nBei Interesse senden Sie uns bitte eine Nachricht mit einer kurzen Vorstellung (Name, Beruf/Einkommen, wie viele Personen einziehen möchten).\nWir melden uns zeitnah bei Ihnen.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1934,36 +1901,6 @@
       ],
       "Czynsz z mediami (€)": 700.0,
       "Opis": "Gemütliche 2-Zimmer-Wohnung frisch renoviert – ab sofort verfügbar\n\nAb sofort zu vermieten: schöne und gemütliche 2-Zimmer-Wohnung mit ca. 60 m² frisch renoviert in ruhiger ländlicher Lage.\n\nDie Wohnung befindet sich in einer idyllischen Umgebung, umgeben von Feldern und Wäldern. Hier haben Sie zahlreiche Möglichkeiten für Spaziergänge und Erholung in der Natur.\n\nDie Wohnung verfügt über:\n\nca. 60 m² Wohnfläche\n\nWohnzimmer mit Küche\n\nSchlafzimmer\n\nBadezimmer\n\nAbstellraum\n\nFlur\n\nMietkosten\n\nGesamtmiete: 700 € monatlich\n\nIn der Gesamtmiete sind bereits Strom, Heizung, Wasser und sonstige Nebenkosten enthalten.\n\nKaution: 1.500 €\n\nRuhige Lage mitten im Grünen\nViele Möglichkeiten für Spaziergänge in der Natur\nAngenehme und entspannte Wohnatmosphäre\n\nDie Wohnung ist ab sofort verfügbar.\n\nBei Interesse können Sie mich gerne per WhatsApp unter 0157 30830819 kontaktieren.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Z.Wohnung in Duisburg",
-      "Cena (€)": 500.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 61.0,
-      "Lokalizacja": "47169 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": 53.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-z-wohnung-in-duisburg/3504257120-203-2146",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b843ea33-996b-48c8-a056-f699f5938a01?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b42e56d5-f7a0-4787-ae85-f3d7dd544f49?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/155ea4dd-1eb6-4c32-9134-430a8de913d1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9efebf0-21f5-467d-b3c1-1fa530675599?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff372f23-cd14-4984-9eca-0e9564ae8395?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd4b3c24-1362-4f76-9d4b-c12f7cd5d9e0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4127f13-a64c-42f1-8e67-27554d1cc544?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/9163e141-a3bd-4616-8915-abb068239ca4?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2049379b-5c93-46b3-8b8b-d16faa851edc?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 750.0,
-      "Opis": "Die Mietwohnung in Duisburg hat 61 m?, 2 Zimmer und 1 Schlafzimmer im 5. Obergeschoss. Die Warmmiete beträgt 750 €, inkl.250 € Nebenkosten, ab sofort verfügbar und auch von Jobcenter.\nNoch Fragen?",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
