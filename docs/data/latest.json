@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T15:16:30.839390+00:00",
-  "count": 104,
+  "generated_at": "2026-10-06T18:14:46.455447+00:00",
+  "count": 105,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-06T15:16:30.839390+00:00",
+      "last_updated": "2026-10-06T18:14:46.455447+00:00",
       "interval_hours": 3
     }
   },
@@ -1024,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b752938-5782-4e24-88d7-4074c885138e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52df0919-69d3-493b-b28f-37eed1edf1d5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1254,7 +1254,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02a5e72c-7626-4f50-9586-afcfe52cadc4?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19a3aa8b-7b81-410a-8251-e58844ddbd3b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1287,7 +1287,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2cd7e17-ae6e-48af-b8c7-07895338c9ad?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/5214a16e-ba7d-430d-95c2-1366bd90d9d5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1320,7 +1320,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01cd3224-2996-4196-acf4-c8f6192e41e6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/678b9aef-c9cd-404b-89c0-ed0d835b7785?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1485,7 +1485,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df97c7ea-0e14-4f86-bc09-715df72592fc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ecfb39bc-9c9d-4190-8305-c643bbd44e2c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2389,6 +2389,39 @@
       "Opis": "Diese charmante 2-Zimmer-Wohnung befindet sich im ersten Obergeschoss (links) eines im Jahr 1998 erbauten Mehrfamilienhauses in Bocholt. Auf 54,87 m² bietet die Wohnung eine gemütliche Atmosphäre mit Laminatboden in den Wohnräumen. Das Badezimmer ist mit einem Fenster ausgestattet und verfügt über eine Badewanne. Die Küche ist ohne Einrichtung, sodass Sie Ihren eigenen Stil verwirklichen können. Die Wohnung wird beheizt mit einer modernen Heizungsanlage. Ideal für Singles oder Paare, die eine angenehme und ruhige Wohnatmosphäre suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 416-33-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Balkon\n• Tageslichtbad mit Badewanne\n• Laminatboden\n• Isolierverglasung mit Rollladen\n• gepflegt\n• Abstellraum\n• Mediaanschluss\n• Aussenstellplatz\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDer Arnikaweg befindet sich süd-westlich vom Stadtkern und besticht durch ihre zentrale Lage. Geschäfte des alltäglichen Bedarfs und Supermärkte sind fußläufig erreichbar. In kürzester Zeit ist man zudem mit dem Auto auf der Bundesstraße 67 oder 473.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 99.3 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Ausstellungsdatum: 20.11.2018\n- Baujahr (gemäß Energieausweis): 1998\n- Heizungsart: Fernwärme\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 416-33-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-29T12:28:29.067214+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Einzugsfertige 2-Zimmer-Wohnung in Voerde mit Balkon",
+      "Cena (€)": 570.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 67.0,
+      "Lokalizacja": "46562 Voerde (Niederrhein)",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 37,
+      "Odległość od 's-Heerenberg (km)": 41.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/einzugsfertige-2-zimmer-wohnung-in-voerde-mit-balkon/3533241863-203-1384",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d670affe-def7-44ba-8e22-7add1b6b55a7?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d670affe-def7-44ba-8e22-7add1b6b55a7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/273e7558-d1e6-4372-8173-a6efbb8267da?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e4ec5ae-c2b5-45a2-8b16-628f06d5d0a9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b0f9fa5a-1fb4-41ec-8ba2-8de2ffcbb364?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39e84cfe-7037-4a03-9a1c-133d20662a04?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/709a1df1-e49e-4346-9af9-fd56bf8d5924?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/112e1321-c9ab-4411-bba3-13b9904d3987?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b112116-ae91-43cd-bcd5-be8893836554?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d670affe-def7-44ba-8e22-7add1b6b55a7?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/273e7558-d1e6-4372-8173-a6efbb8267da?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e4ec5ae-c2b5-45a2-8b16-628f06d5d0a9?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b0f9fa5a-1fb4-41ec-8ba2-8de2ffcbb364?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Renovierte helle 2-Zimmer-Wohnung mit Balkon in einem gepflegten 8-Familienhaus in ruhiger Straße.\nVinyl-Laminat in allen Räumen, neues Waschbecken und WC, neue Steckdosen und Schalter. Wohn-/ Schlafzimmer frisch gestrichen, Rolladen, Einbauschrank im Flur, Keller, Küche kann übernommen werden, Einzelgarage separat anmietbar. Separater Fahrrad-/ und Waschkeller.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-06T18:14:46.454272+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
