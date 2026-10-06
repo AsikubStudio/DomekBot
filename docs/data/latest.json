@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-06T00:20:30.037667+00:00",
-  "count": 106,
+  "generated_at": "2026-10-06T03:13:59.236940+00:00",
+  "count": 105,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-06T00:20:30.037667+00:00",
+      "last_updated": "2026-10-06T03:13:59.236940+00:00",
       "interval_hours": 3
     }
   },
@@ -1553,37 +1553,6 @@
       ],
       "Czynsz z mediami (€)": 700.0,
       "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Badewanne • Stufenloser Zugang • Altbau • Aufzug • Haustiere erlaubt\n\nHier wird eine geräumige und helle 2-Zimmer-Wohnung mit einer Wohnfläche von 68 m² in Duisburg zur Vermietung angeboten. Die Wohnung befindet sich im 13. Obergeschoss eines 20-stöckigen Wohngebäudes und bietet eine schöne Aussicht. Die Wohnung eignet sich ideal für kleine Familien (gerne mit 1-2 Kindern)\nRaumaufteilung: 2 Zimmer (Wohnzimmer, Schlafzimmer), Küche, Badezimmer, 2 Flure und ein großzügiger Balkon.\nMöblierung: Die Wohnung verfügt über eine Einbauküche zur Nutzung und einige Möbelstücke.Gebäude: Das Gebäude verfügt über 4 Eingänge. Pro Treppenhaus gibt es 2 Aufzüge (einen Personenaufzug und einen großen Lastenaufzug für Möbel).\nEin Hausmeister-Service ist vor Ort für die Pflege der Anlage zuständig.\nWichtiger Hinweis zum Wohnumfeld (Bitte lesen): Die Wohnung befindet sich in einer sehr großen Wohnanlage (20 Stockwerke). Das Gebäude hat einen hohen Anteil an ausländischen Mitbewohnern und Jobcenter-Empfängern.\nHaustiere sind nach Absprache erlaubt (maximal 2 Hunde oder 2 Katzen). Voraussetzung ist, dass sie ruhig sind, die Hausordnung eingehalten wird und die gesetzlichen Ruhezeiten respektiert werden.\nHinweis zur Abrechnung: Die Heiz- und Nebenkosten sind als Vorauszahlung in den 700 € enthalten. Einmal im Jahr erfolgt die offizielle Nebenkostenabrechnung durch die Hausverwaltung. Bei Mehrverbrauch muss der Mieter nachzahlen, bei geringerem Verbrauch erhält er eine Rückerstattung.\nSowohl Berufstätige (Selbstzahler) als auch Personen, die vom Jobcenter Duisburg unterstützt werden, sind herzlich willkommen.\nBenötigte Unterlagen für die Vermietung:\nFür Selbstzahler: Die letzten 3 Gehaltsnachweise, aktueller Arbeitsvertrag (zur Überprüfung, ob Sie sich in der Probezeit befinden oder ein kurzfristiges/befristetes Arbeitsverhältnis vorliegt), aktuelle SCHUFA-Auskunft, Mietschuldenfreiheitsbescheinigung vom vorherigen Vermieter.\nFür Jobcenter-Kunden: Aktueller Bewilligungsbescheid, die schriftliche Zusicherung der Mietübernahme vor Vertragsunterzeichnung sowie die schriftliche Bestätigung über die Übernahme der Mietkaution (Darlehenszusage).\nBei Personen, die vom Jobcenter unterstützt werden, ist eine Mietabtretung zur direkten Mietzahlung an den Vermieter sowie eine Schweigepflichtentbindung erforderlich.\nDie Direktzahlung der Miete an uns ist eine feste Voraussetzung für das Mietverhältnis.\nBei Interesse senden Sie uns bitte eine Nachricht mit einer kurzen Vorstellung (Name, Beruf/Einkommen, wie viele Personen einziehen möchten).\nWir melden uns zeitnah bei Ihnen.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmerwohnung",
-      "Cena (€)": 456.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 44.0,
-      "Lokalizacja": "46539 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 28,
-      "Odległość od 's-Heerenberg (km)": 50.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmerwohnung/3501542286-203-1855",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68a37072-4932-4869-b366-ab5178766b8e?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc16f6da-7313-4d1c-b9e8-e931ea1ec5de?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0877ca7-6a00-4692-9ae3-b374ef3bac55?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02974afd-d401-4d21-8527-19a3bb980ca8?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d9a30e3-f1c0-457f-b682-62a47d2de281?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbaf65ef-b715-4260-b1c7-0f42ad051ec0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/94b713f3-aed6-4f19-bac1-c4b0fc7775cb?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29aad55a-024b-4ec5-ad0b-321ce5d442ba?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9c4a672-5de0-4619-be4c-ebcef9340b78?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39b2a4ec-1d7e-48d4-b608-f408b30a6920?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 456.0,
-      "Opis": "Badewanne • Keller\n\nNachmieter gesucht – Wohnung ab 01.11.2026\n\nIch suche einen zuverlässigen Nachmieter für meine Wohnung.\n\nFrei ab: 30.10.2026\nLage: [Dinslaken]\nWohnfläche: [44] m²\nZimmer: [2]\nWarmmiete: [456 €]\n\nMöbeliert und kann übernommen werden bei Bedarf.\n\nBei Interesse gerne eine Nachricht schreiben. Weitere Informationen und Bilder schicke ich gerne auf Anfrage.\n\nWichtig: Die Übernahme zum 30.10.2026 erfolgt vorbehaltlich der Zustimmung des Vermieters.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
