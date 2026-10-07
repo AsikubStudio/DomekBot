@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T03:14:33.480822+00:00",
+  "generated_at": "2026-10-07T06:16:28.146401+00:00",
   "count": 105,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-07T03:14:33.480822+00:00",
+      "last_updated": "2026-10-07T06:16:28.146401+00:00",
       "interval_hours": 3
     }
   },
@@ -991,7 +991,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-erdgeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453894-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2049379b-5c93-46b3-8b8b-d16faa851edc?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2049379b-5c93-46b3-8b8b-d16faa851edc?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9144fab-7f85-4d8a-bfa2-b1682d6d6fb2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfa337ca-1c23-4f46-9ce0-09d79d9ff709?rule=$_59.AUTO",
@@ -1024,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/461d7567-9567-4e46-9541-23f87834eac4?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0224510-626d-4d0b-9a5b-757488575fcd?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1254,7 +1254,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7af9c2bf-1ec0-43a4-879b-5d0696ff2c41?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c1d9809d-774f-4db0-8361-229144d35b0b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1287,7 +1287,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9fea522-b69f-4662-a316-51ccce772370?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/caddcce5-c764-4689-9733-3542648608e0?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1320,7 +1320,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9f54127-c383-48d4-9305-6f4dda2e56fb?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ee89fe1-58d6-4902-bb75-1cbff9b1cc0f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1408,39 +1408,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Renovierte 2-Zimmer-Wohnung im 1. Obergeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
-      "Cena (€)": 430.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 66.14,
-      "Lokalizacja": "47169 Marxloh",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": 54.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-1-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453791-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/9163e141-a3bd-4616-8915-abb068239ca4?rule=$_1.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f81f9e-b7a0-4596-a85d-4620cf44d6b9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/4168403d-08a7-492d-9237-0a8eee835bab?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81d1f815-5fd2-4288-9f66-7a4c8a3afc7a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a6ee5d1-fd08-4cfc-ab35-fe4e4fd7a271?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/9414371e-93c5-411a-9d09-ab593011e21b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e75726b1-f054-4a28-a778-084a879d7461?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/880e0734-23ad-4105-bbf0-65f2ad84fb66?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/10/106dbb0c-12b7-47e3-b289-a0b544032c3a?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05703c32-5598-4a8d-9503-38cfe059bacd?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9144fab-7f85-4d8a-bfa2-b1682d6d6fb2?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2867be08-6bbd-4b2d-80d6-2389e1a7910b?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/1645f074-6168-4e86-bf56-96bc19e5075c?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 720.0,
-      "Opis": "Balkon • Badewanne\n\nDas 2-stöckige Wohnhaus wurde 1956 erbaut - In der 1. Etage liegt Ihre neue Wohnung.\n\nLebendige Nachbarschaften und Service vor Ort: Um die optimale Pflege der Anlage kümmert sich unser Hausmeisterservice.\n\nSichern Sie sich Ihren privaten Parkplatz!\nIn vielen unserer Objekte bieten wir Ihnen die Möglichkeit, private Parkplätze anzumieten.\nJetzt anfragen und bequem parken – schnell, einfach und stressfrei! Sprechen Sie uns an!\n\n*Erhalten Sie bis zum 31.10.2026 in Duisburg beim Abschluss eines Mietvertrages für eine ausgewählte Aktionswohnung einen 500 € Gutschein für Amazon/Wunschgutschein.\nBitte beachten Sie die Teilnahmebedingungen: https://www.grandcityproperty.de/datenschutz/gutschein-aktionen\n\n# Ausstattung\nDie 2-Zimmer-Wohnung verteilt sich auf ca. 66 m²\n\n- Balkon\n- Laminat/PVC- Bodenbelag und Raufasertapete in den Wohnräumen\n- Anthrazite Boden- und weiße Wandfliesen in der Küche\n- Anthrazite Boden- und weiße Wandfliesen im Bad\n- Tageslichtbad mit Badewanne\n- Haustiere nach Vereinbarung\n- Hausmeisterservice\n- 24/7 für Sie erreichbar - auch im Notfall\n- Moderner Mieterservice über WhatsApp, Telefon, E-Mail und die GCP App: Kontakte, Unterlagen und Anliegen bequem online verwalten\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.290,00 EUR\n\n# Lagebeschreibung\nWillkommen in Duisburg - im Stadtteil Marxloh.\nIn einer ruhigen Nebenstraße liegt die gepflegte Wohnanlage.\nIm Umkreis von wenigen hunderten Metern befinden sich Supermärkte und Einkaufsmöglichkeiten des täglichen Bedarfs. Für die Kleinen gibt es Schulen und Kindergärten, die zu Fuß gut erreichbar sind.\nNahegelegene Haltestellen des öffentlichen Nahverkehrs gewährleisten eine gute Anbindung.\nFür die Freizeitgestaltung dienen Parks und Grünanlagen in der Nähe, sowie Sportvereine in der Umgebung.\n\n# Sonstiges\nAlle Informationen zur Datennutzung und Datenschutzrechten durch Grand City Property Ltd – Zweigniederlassung Deutschland finden Sie unter: grandcityproperty.de/datenschutz\n\nWichtige Hinweise:\n•\tBitte senden Sie uns keine vertraulichen personenbezogenen Dokumente (z. B. Gehaltsabrechnungen) vor der Besichtigung zu. Sollten Sie dies dennoch tun, werden diese Dateien umgehend gelöscht.\n•\tDer Energieausweis kann bei der Besichtigung vorgelegt werden (ausgenommen Stellplätze/Garagen).\n•\tDie in der Anzeige verwendeten Fotos können Beispielfotos oder KI-generierte Visualisierungen (Kennzeichnung mit „virtually staged“) sein, die der besseren Veranschaulichung der Immobilie dienen und von den tatsächlichen Gegebenheiten abweichen können.\nSämtliche Daten in diesem Exposé, einschließlich Bilder, Grundrisse und sonstige Beschreibungen wie auch Grundrissgrafiken mit Maßangaben oder Einrichtungen, dienen ausschließlich der allgemeinen Information und stellen keine verbindlichen Zusicherungen dar. Die Daten sind so gründlich wie möglich angegeben, dennoch lassen sich Fehler nicht ausschließen. Alle Angaben im Exposé sind daher unverbindlich und etwaige Änderungen vorbehalten. Wir übernehmen daher keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen. Maßgeblich sind allein die Vereinbarungen des zu schließenden Mietvertrages. Eine Haftung für fahrlässige Fehler oder Abweichungen der Angaben wird – soweit gesetzlich zulässig – ausgeschlossen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 194 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Baujahr: 1956\n- Letzte Modernisierung: 2025\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5071/01112/001/0002",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "** Helle 2-Zimmer-Wohnung mit ruhiger und dennoch zentraler Lage **",
       "Cena (€)": 430.0,
       "Pokoje": 2.0,
@@ -1474,6 +1441,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Renovierte 2-Zimmer-Wohnung im 1. Obergeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
+      "Cena (€)": 430.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 66.14,
+      "Lokalizacja": "47169 Marxloh",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 42,
+      "Odległość od 's-Heerenberg (km)": 54.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-1-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453791-203-23949",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/9163e141-a3bd-4616-8915-abb068239ca4?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f81f9e-b7a0-4596-a85d-4620cf44d6b9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/4168403d-08a7-492d-9237-0a8eee835bab?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81d1f815-5fd2-4288-9f66-7a4c8a3afc7a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a6ee5d1-fd08-4cfc-ab35-fe4e4fd7a271?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/9414371e-93c5-411a-9d09-ab593011e21b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e75726b1-f054-4a28-a778-084a879d7461?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/880e0734-23ad-4105-bbf0-65f2ad84fb66?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/10/106dbb0c-12b7-47e3-b289-a0b544032c3a?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05703c32-5598-4a8d-9503-38cfe059bacd?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9144fab-7f85-4d8a-bfa2-b1682d6d6fb2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2867be08-6bbd-4b2d-80d6-2389e1a7910b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/1645f074-6168-4e86-bf56-96bc19e5075c?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 720.0,
+      "Opis": "Balkon • Badewanne\n\nDas 2-stöckige Wohnhaus wurde 1956 erbaut - In der 1. Etage liegt Ihre neue Wohnung.\n\nLebendige Nachbarschaften und Service vor Ort: Um die optimale Pflege der Anlage kümmert sich unser Hausmeisterservice.\n\nSichern Sie sich Ihren privaten Parkplatz!\nIn vielen unserer Objekte bieten wir Ihnen die Möglichkeit, private Parkplätze anzumieten.\nJetzt anfragen und bequem parken – schnell, einfach und stressfrei! Sprechen Sie uns an!\n\n*Erhalten Sie bis zum 31.10.2026 in Duisburg beim Abschluss eines Mietvertrages für eine ausgewählte Aktionswohnung einen 500 € Gutschein für Amazon/Wunschgutschein.\nBitte beachten Sie die Teilnahmebedingungen: https://www.grandcityproperty.de/datenschutz/gutschein-aktionen\n\n# Ausstattung\nDie 2-Zimmer-Wohnung verteilt sich auf ca. 66 m²\n\n- Balkon\n- Laminat/PVC- Bodenbelag und Raufasertapete in den Wohnräumen\n- Anthrazite Boden- und weiße Wandfliesen in der Küche\n- Anthrazite Boden- und weiße Wandfliesen im Bad\n- Tageslichtbad mit Badewanne\n- Haustiere nach Vereinbarung\n- Hausmeisterservice\n- 24/7 für Sie erreichbar - auch im Notfall\n- Moderner Mieterservice über WhatsApp, Telefon, E-Mail und die GCP App: Kontakte, Unterlagen und Anliegen bequem online verwalten\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.290,00 EUR\n\n# Lagebeschreibung\nWillkommen in Duisburg - im Stadtteil Marxloh.\nIn einer ruhigen Nebenstraße liegt die gepflegte Wohnanlage.\nIm Umkreis von wenigen hunderten Metern befinden sich Supermärkte und Einkaufsmöglichkeiten des täglichen Bedarfs. Für die Kleinen gibt es Schulen und Kindergärten, die zu Fuß gut erreichbar sind.\nNahegelegene Haltestellen des öffentlichen Nahverkehrs gewährleisten eine gute Anbindung.\nFür die Freizeitgestaltung dienen Parks und Grünanlagen in der Nähe, sowie Sportvereine in der Umgebung.\n\n# Sonstiges\nAlle Informationen zur Datennutzung und Datenschutzrechten durch Grand City Property Ltd – Zweigniederlassung Deutschland finden Sie unter: grandcityproperty.de/datenschutz\n\nWichtige Hinweise:\n•\tBitte senden Sie uns keine vertraulichen personenbezogenen Dokumente (z. B. Gehaltsabrechnungen) vor der Besichtigung zu. Sollten Sie dies dennoch tun, werden diese Dateien umgehend gelöscht.\n•\tDer Energieausweis kann bei der Besichtigung vorgelegt werden (ausgenommen Stellplätze/Garagen).\n•\tDie in der Anzeige verwendeten Fotos können Beispielfotos oder KI-generierte Visualisierungen (Kennzeichnung mit „virtually staged“) sein, die der besseren Veranschaulichung der Immobilie dienen und von den tatsächlichen Gegebenheiten abweichen können.\nSämtliche Daten in diesem Exposé, einschließlich Bilder, Grundrisse und sonstige Beschreibungen wie auch Grundrissgrafiken mit Maßangaben oder Einrichtungen, dienen ausschließlich der allgemeinen Information und stellen keine verbindlichen Zusicherungen dar. Die Daten sind so gründlich wie möglich angegeben, dennoch lassen sich Fehler nicht ausschließen. Alle Angaben im Exposé sind daher unverbindlich und etwaige Änderungen vorbehalten. Wir übernehmen daher keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen. Maßgeblich sind allein die Vereinbarungen des zu schließenden Mietvertrages. Eine Haftung für fahrlässige Fehler oder Abweichungen der Angaben wird – soweit gesetzlich zulässig – ausgeschlossen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 194 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Baujahr: 1956\n- Letzte Modernisierung: 2025\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5071/01112/001/0002",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Modern. Hell. Sofort verfügbar./Modern. Bright. Available immediately.",
       "Cena (€)": 440.0,
       "Pokoje": 2.0,
@@ -1485,7 +1485,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03002f8a-6775-45a4-b651-5391ef00789c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76f4f633-cb18-4583-9ba1-a4a1fdffaa61?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
