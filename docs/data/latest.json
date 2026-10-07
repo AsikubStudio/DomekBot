@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T09:15:06.954419+00:00",
+  "generated_at": "2026-10-07T12:19:12.424241+00:00",
   "count": 105,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-07T09:15:06.954419+00:00",
+      "last_updated": "2026-10-07T12:19:12.424241+00:00",
       "interval_hours": 3
     }
   },
@@ -1024,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0224510-626d-4d0b-9a5b-757488575fcd?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e1c1d80-390e-41ad-8607-3b10d2f0d76a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1076,6 +1076,39 @@
       "Opis": "Die zentral gelegene und renovierte Mietwohnung in Wesel ist eine Etagenwohnung mit 45 m², Wohnzimmer, Schlafzimmer und 1 Badezimmer im 1. Obergeschoss. Sie verfügt über eine separate Küche und einen Keller.\n\nDie Wohnung wird über eine separate Gasetagenheizung beheizt. Die Heizkosten sind in den o.g. Nebenkosten **nicht** enthalten und werden vom Mieter direkt an einen Gasversorger entrichtet.\n\nVerfügbar ab Oktober 2026",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-06T15:16:30.836295+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Renoviert. Bezugsfertig. Ihr Zuhause. / Renovated. Move-in ready. Your new home.",
+      "Cena (€)": 370.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.47,
+      "Lokalizacja": "47166 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": 55.3,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-bezugsfertig-ihr-zuhause-renovated-move-in-ready-your-new-home-/3533776533-203-2144",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3525b940-8d7a-4077-9253-8b30b0cc6382?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3525b940-8d7a-4077-9253-8b30b0cc6382?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/586ad3b3-ffe1-40f5-9980-873698de7454?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/033b3b6e-6ca9-4d08-9887-6f3f3bb646f6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/575fab5e-f676-44db-87ad-c74d40aae918?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2815a0e6-fccb-45a6-98a5-3e555d6f9a3c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/18d698a7-6e03-40d1-b014-9ce50f1c4818?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb9bb88d-7e34-4eb5-b099-c8c35ac5fdac?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b0b0e06b-d15a-42bb-88c0-875747f6bdc9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d4021f0-4a5e-4c8d-bde2-07081bd8cf11?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9cd5331-b2c9-4136-81a7-f98a4e0201dd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/74b5b170-5593-4f0f-b67a-5c3a2445eb86?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a61f01e-d68f-417d-9da1-d2a59da9bdcd?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 535.0,
+      "Opis": "Badewanne\n\nDas Ensemble aus An der Abtei 20–42, Dr.-Heinrich-Laakmann-Straße 1, 3 und 11, Steigerstraße 4a sowie Stollenstraße 1 und 9 in Duisburg umfasst eine Reihe von Wohnhäusern, die gemeinsam ein charaktervolles Quartier innerhalb des gewachsenen Stadtteils Alt-Hamborn bilden. Die Vielfalt der Straßennamen spiegelt die organische Struktur des Viertels wider – jede Adresse hat ihren eigenen Platz, alle teilen denselben soliden Wohncharakter. Das Ensemble bietet verlässliche Wohnqualität für Menschen, die ein gelebtes, bodenständiges Wohnumfeld schätzen.\n\n__________________________________________________\n\nThe ensemble comprising An der Abtei 20–42, Dr.-Heinrich-Laakmann-Straße 1, 3, and 11, Steigerstraße 4a, and Stollenstraße 1 and 9 in Duisburg encompasses a series of residential buildings that together form a characterful quarter within the established Alt-Hamborn neighbourhood. The variety of street names reflects the organic structure of the district – each address has its own place, all share the same solid residential character. The ensemble offers reliable residential quality for those who value a lived-in, grounded neighbourhood environment.\n\n# Ausstattung\nWohnzimmer, Schlafzimmer, Flur, Wannenbad, Küche alle Räume sind von der Diele aus begehbar\ngeweißte Wände mit Raufaser\ngrauer Laminatboden Küche mit weißem Fliesenspiegel und Vinylboden\ninnenliegendes Wannenbad, weißgefliest, Vinylboden\nWaschmaschinenanschluss im Badezimmer\nAußenrollos an den Fenstern\nmanuell Gegensprechanlage\nHausmeisterservice\nTreppenhausreinigung\n\n_______________________________________\n\nLiving room, bedroom, hallway, bathroom with bathtub, kitchen All rooms are accessible from the hallway White-painted walls with woodchip wallpaper (Raufaser) Grey laminate flooring Kitchen with white tiled splashback and vinyl flooring Interior bathroom with bathtub, white tiles, vinyl flooring Washing machine connection in the bathroom Manual external roller shutters on the windows Intercom system Caretaker service Staircase cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Objekte liegen im Stadtteil Alt-Hamborn im Duisburger Norden – dem historischen Kern des Stadtbezirks Hamborn. Das Viertel ist geprägt von einer Mischung aus historischer Bebauung und einer internationalem, lebendigen Gemeinschaft. Die Infrastruktur ist gut entwickelt: Die Jägerstraße als Hauptgeschäftsstraße, der Hamborner Altmarkt mit dreimal wöchentlichem Markt sowie das St. Johannes-Hospital versorgen den Alltag zuverlässig. Die Prämonstratenser-Abtei Hamborn – gegründet 1136, geweiht 1170 – ist das historische Wahrzeichen des Viertels und zugleich Veranstaltungsort für klassische Musik und Kulturprogramm im Abteizentrum. Botanischer Garten und Stadtpark bieten grüne Erholungsflächen, der Landschaftspark Duisburg-Nord ist gut erreichbar.\n\n__________________________________________________\n\nThe properties are located in the Alt-Hamborn district in northern Duisburg – the historic core of the Hamborn borough. The neighbourhood is characterised by a mix of historic architecture and a lively, international community. Infrastructure is well developed: Jägerstraße as the main shopping street, the Hamborner Altmarkt with its market three times a week, and St. Johannes Hospital reliably serve everyday needs. The Premonstratensian Hamborn Abbey – founded in 1136 and consecrated in 1170 – is the neighbourhood's historic landmark and also serves as a venue for classical music and cultural events at the Abteizentrum. The Botanical Garden and city park offer green recreational space, and the Landschaftspark Duisburg-Nord is easily reachable.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n________________________________________\n\nInterested in this apartment and would like to arrange a viewing? Then don't lose any time and get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an enquiry with your full contact details, and we will get back to you.\n\nThis offer is non-binding and subject to error.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 974-101-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 133 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1900\n- Wesentliche Energieträger: Fernwärme\n\nAnbieter-Objekt-ID: 974-101-M",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-07T12:19:12.422246+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1254,7 +1287,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c1d9809d-774f-4db0-8361-229144d35b0b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a56e6cef-4c33-4992-81b8-3043cc5ae869?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1287,7 +1320,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/caddcce5-c764-4689-9733-3542648608e0?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82acd4aa-eb19-443f-b911-e9e5459fccfa?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1320,7 +1353,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ee89fe1-58d6-4902-bb75-1cbff9b1cc0f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe2ce733-718b-43b0-828c-34aab424ad45?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1372,39 +1405,6 @@
       "Opis": "Balkon\n\nDie charmante Wohnung im EG (Zugang mit wenigen Stufen) verfügt über drei geräumige Zimmer, die viel Platz für gemütliches Wohnen bieten. Auf dem sonnigen Balkon kann man entspannen und die frische Luft genießen.\n\nDie verkehrsgünstige Lage ist optimal, um Geschäfte des täglichen Lebens zu erreichen.\n\nZu der Wohnung gehört selbstverständlich ein Kellerraum.\n\nEnergieausweis ist beantragt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-06T15:16:30.836295+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Dachgeschosswohnung, teilmöbliert",
-      "Cena (€)": 420.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "47167 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschosswohnung-teilmoebliert/3528716057-203-2145",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55b0126a-45db-4585-8cad-152171500fdb?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55b0126a-45db-4585-8cad-152171500fdb?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08db9554-08c7-4f5e-ac0e-9d6d51dc25d5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49da9af4-d967-4a4c-9878-5ec8c8a72593?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78da0263-59f9-4392-b574-aa24d183c6b2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/982294e9-4d84-41f3-aa9f-9e2993023a00?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae287ea3-4a0c-40a8-8c36-cad69cd60ca7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d660818-71de-4781-acf9-ac5e3921fa7e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/579a11ed-f184-4d92-834f-9a5b3c492085?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1a533c22-2b11-4b8a-85a4-e5548d11267b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/033b1573-f274-4e5d-9b50-279018d8a9d9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5588fce8-af8c-4de2-9199-4c380691c3c1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/73153652-1d31-47c9-a439-20750f4149be?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 640.0,
-      "Opis": "Möbliert/Teilmöbliert • Badewanne • Altbau\n\nNette Dachgeschosswohnung im Ortsteil Röttgersbach für ein bis maximal zwei Personen ab Dezember 26 zu vermieten.\nBei 2 Personen erhöhen sich die Nebenkosten um 25€. Eine Haftpflichtversicherung wird vorausgesetzt.\n\nDie Wohnung ist teilmöbliert und somit gut für jemanden geeignet, der seine erste Wohnung beziehen möchte.\n\nIm Schlafzimmer steht ein Einbaukleiderschrank zur Verfügung und Kommoden. Lediglich ein Bett müsste besorgt werden.\nIm Wohnzimmer ist eine Schrankwand, ein Bettsofa und ein Tisch vorhanden.\nEin weiterer kleiner Raum kann als Abstellraum oder Arbeitszimmer genutzt werden.\nIn der Küche sind Tisch und Stühle vorhanden und eine Küchenzeile, allerdings kein Herd/Backofen. Ein kleiner Kühlschrank ist vorhanden.\nBadezimmer mit Spiegelschrank und Unterschrank.\n\nSämtliche Möbel (ohne TV und Deko) sind nur als Erstausstattung zu sehen und können selbstverständlich auch durch eigene Möbel ersetzt werden. Defektes Mobiliar wird nicht mehr vom Vermieter erneuert.\n\nFlur, Bad und Küche sind gefliest, die anderen Räume haben Laminat.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-02T09:15:13.170614+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1485,7 +1485,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76f4f633-cb18-4583-9ba1-a4a1fdffaa61?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/634fef81-5b73-4a2f-832f-9c613885d33f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1676,39 +1676,6 @@
       "Opis": "Einbauküche • Haustiere erlaubt\n\n**Eckdaten:**\n\n* Wohnfläche: ca. 52 m²\n* Kaution: 1.404,00 € (3 Kaltmieten)\n* Badezimmer mit Dusche\n* Einbauküche vorhanden\n\n**Monatliche Gesamtmiete:**\n\n* Kaltmiete: 468,00 €\n* Küche: 50,00 €\n* Nebenkosten: 200,00 €\n* Gesamt: 718,00 € (zzgl. Strom)\n\nBei Interesse freuen wir uns über Ihre Nachricht. Bitte stellen Sie sich kurz vor und fügen Sie nach Möglichkeit bereits Angaben zu Ihrer Person sowie Ihrem Beschäftigungsverhältnis bei.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Nachmieter gesucht – 43 m² Wohnung mit Wohnküche und Möbeln",
-      "Cena (€)": 480.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 43.0,
-      "Lokalizacja": "47167 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.7,
-      "Łazienka": "?",
-      "Kuchnia": "tak",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-43-m-wohnung-mit-wohnkueche-und-moebeln/3512884895-203-2145",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4497682-6783-49f6-ab2a-b9297238e69b?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4497682-6783-49f6-ab2a-b9297238e69b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/833f9fc8-0ad6-45c2-a2f6-339abe0119b4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/143c0cf5-d95b-45e3-9e92-9362384b0517?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3fc044a7-0245-4819-8a0d-a72298a1e846?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f9548b8-d954-476c-81e7-0dbac43a0a4c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3ebba47c-09fc-4d79-95ac-0e1b45919c08?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6130726-f33b-4e01-b03c-0977abf5e8db?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/10c4bab9-d885-4d25-a71f-a0016eb43255?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3d20edc-a72c-4faa-bed8-d2b3bde41684?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4127f13-a64c-42f1-8e67-27554d1cc544?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad2a800-2914-4fe6-904b-c0256cb0ed23?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6f14746-ea32-4153-99cf-64d6fd6eb6c3?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 480.0,
-      "Opis": "Möbliert/Teilmöbliert\n\nIch suche einen Nachmieter für meine gepflegte 43 m² Wohnung.\nWohnung:\n• Wohnküche\n• Schlafzimmer\n• Badezimmer\n• Wohnfläche: ca. 43 m²\nMiete: 480 € monatlich\nKaution: 900 €\nEinzug: ab dem 15.10. oder 01.11., nach Absprache\nDie Wohnung kann mit der vorhandenen Einrichtung übernommen werden. Die Möbel und Elektrogeräte sind sehr gepflegt und befinden sich in einem sehr guten, fast neuwertigen Zustand.\nVorhandene Ausstattung:\n• Küche\n• Geschirrspüler\n• Kühlschrank\n• Waschmaschine\n• Bett\n• Weitere Möbel und Einrichtungsgegenstände\nDie Küche, Elektrogeräte und Möbel möchte ich gerne an den Nachmieter verkaufen. Dadurch eignet sich die Wohnung besonders für jemanden, der direkt einziehen möchte, ohne alles neu kaufen zu müssen.\nDer Preis für die Übernahme der gesamten Einrichtung kann bei ernsthaftem Interesse besprochen werden.\nBei Interesse gerne eine Nachricht mit einer kurzen Vorstellung senden.\nBesichtigung nach Absprache möglich.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2682,6 +2649,39 @@
       "Opis": "Balkon • Einbauküche • Badewanne\n\nDie Heizkosten sind in den Nebenkosten enthalten.\n\nDiese ansprechende 2-Zimmer-Wohnung im 2. Obergeschoss\neines gepflegten 4-Parteienhauses überzeugt mit einer\ndurchdachten Raumaufteilung und hochwertiger Ausstattung.\nMit ca. 65 m² Wohnfläche bietet sie genügend Platz für Singles\noder Paare, die Wert auf Komfort und eine zentrale Lage legen.\nHunde sind nicht erlaubt.\n\nDie Wohnung besticht durch eine helle Küche mit direktem\nZugang zum Balkon, eine Einbauküche sowie ein hochwertig\nsaniertes Badezimmer. Ein eigener Kellerraum sorgt für\nzusätzlichen Stauraum.\n\nAusstattung im Detail\n\nCa. 65 m² Wohnfläche\n2 Zimmer\nEinbauküche aus 2012 – Boden gefliest\nBalkon für entspannte Stunden im Freien\nModernisiertes Badezimmer (saniert 2012) mit Fenster\nLaminat im Flur, Schlafzimmer und Wohnzimmer 2012 erneuert\nWeiße Türelente, 2012 erneuert\nEigener Kellerraum für zusätzlichen Stauraum\nZentralheizung mit Gas\nEnergieeffizienzklasse: B\nÖffentliche Parkmöglichkeiten in der Nähe\n\nLage:\nDie Wohnung liegt in 46483 Wesel, in unmittelbarer Nähe zur\nFußgängerzone. Einkaufsmöglichkeiten, Cafés, Restaurants\nsowie öffentliche Verkehrsmittel befinden sich in direkter\nUmgebung. Die Rheinpromenade ist ebenfalls nur wenige\nMinuten entfernt und lädt zu entspannten Spaziergängen ein.\n\nWeitere Angaben:\nObjektzustand: im Jahre 2012 umfangreich saniert\nBaujahr: 1953\nQualität der Ausstattung: Normal\nHeizungsart: Zentralheizung (2012 saniert)\nWesentliche Energieträger: Gas\nHaustiere: Nach Vereinbarung",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Helle EG Wohnung mit großer Terrasse",
+      "Cena (€)": 600.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 62.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 8.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-eg-wohnung-mit-grosser-terrasse/3533677671-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebbef02e-af9b-42aa-beff-f080edc127bc?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebbef02e-af9b-42aa-beff-f080edc127bc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/548f7475-6e82-4ab1-a1b0-db918e085a8b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb024d53-cb8a-4d39-b2b2-cb3ba43fe6ac?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d84d823-a037-4726-93af-7e811b6db2b4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3ba2867c-376d-458e-b449-563ed326cbc1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebbef02e-af9b-42aa-beff-f080edc127bc?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/548f7475-6e82-4ab1-a1b0-db918e085a8b?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb024d53-cb8a-4d39-b2b2-cb3ba43fe6ac?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d84d823-a037-4726-93af-7e811b6db2b4?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3ba2867c-376d-458e-b449-563ed326cbc1?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67194d01-7459-43c0-b3d1-f30f0dc1bc44?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7080252-4e71-49ed-980e-5c92be510234?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "ANFRAGEN STOP !!! NACH DEM WE WIRD DIE ANZEIGE GGF. WIEDER FREIGEGEBEN\n\nHi,\nIch suche für meine schöne EG Wohnung am Forstgarten eine/n NachmieterIn zum 1.11 oder 15.11.26.\nNeben dem großen Schlafzimmer gibt es einen großen Wohnbereich mit offener Küche und Zugang zur Terrasse und einem Gemeinschaftsgarten. Helle warme Atmosphäre durch die bodentiefen Fenster. Großer Kellerraum mit stromanschluss und einem Fahrradzugang. Die Einbauküche (ohne Kühlschrank) soll gegen einen fairen geringen Betrag übernommen werden.\nDie Eigentümerin wünscht sich 1-2 berufstätige Personen. Besichtigungstermine finden in den nächsten Tagen vormittags oder kommendes Wochenende statt.\nSchreibt mir einfach ☀️",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-07T12:19:12.422246+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
