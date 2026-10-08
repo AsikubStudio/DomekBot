@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T09:15:51.262700+00:00",
+  "generated_at": "2026-10-08T12:18:25.332156+00:00",
   "count": 104,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-08T09:15:51.262700+00:00",
+      "last_updated": "2026-10-08T12:18:25.332156+00:00",
       "interval_hours": 3
     }
   },
@@ -959,9 +959,12 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/oeffentlich-gefoerderte-2-zimmer-wohnung-fuer-2-personen-in-krechting/3514157777-203-1381",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e5f3a8a-47f1-46b0-8490-9216be156a9f?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e5f3a8a-47f1-46b0-8490-9216be156a9f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/c3/c3c23c16-8e2c-4360-bb72-eba5de3cc636?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 441.0,
+      "Opis": "Terrasse • Badewanne • WBS benötigt\n\nObjektreferenz: 1.71.9\n\nDie angebotene 2-Zimmer-Wohnung befindet sich im Erdgeschoss eines gepflegten Zweifamilienhauses aus dem Baujahr 1998. Mit einer Wohnfläche von 63,63 m² bietet die Wohnung eine praktische und gut durchdachte Raumaufteilung.\nNeben einem gemütlichen Schlafzimmer verfügt die Wohnung einen direktem Zugang zur Terrasse. Das Tageslichtbad ist mit einem Fenster ausgestattet und sorgt für eine angenehme Belüftung sowie eine freundliche Atmosphäre.\n\n# Weitere Angaben\n- Verfügbar ab: 01.01.2027\n- Objektzustand: gepflegt\n- Bodenbelag: Kunststoff\n\n# Lagebeschreibung\nDie Lage zeichnet sich durch eine ruhige Wohnatmosphäre sowie naturnahes Wohnen aus und bietet gleichzeitig eine gute Anbindung an die umliegenden Städte Rhede und Bocholt. Einkaufsmöglichkeiten für den täglichen Bedarf, Kindergärten, Schulen sowie weitere Einrichtungen des öffentlichen Lebens befinden sich in der näheren Umgebung und sind in wenigen Minuten erreichbar. Eine Bushaltestelle befindet sich in fußläufiger Entfernung und gewährleistet eine gute Anbindung an den öffentlichen Nahverkehr.\n\n# Sonstiges\nAlle Angaben ohne Gewähr.\n\nHINWEIS ZUR BEWERBUNG:\nUm Ihnen den bestmöglichen Service zu bieten, können Sie sich bei uns digital bewerben. Kopieren Sie den untenstehenden Link in die Adresszeile Ihres Browsers und folgen Sie der Anleitung.\n\nhttps://tenant.immomio.com/apply/0ab55bf6-81c5-4371-9f92-b93f26c3c3c9\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: Gas\n- Energieverbrauch: 113 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Ausstellungsdatum: 15.02.2019\n- Baujahr (gemäß Energieausweis): 1998\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1.71.9-SGwJwP",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-08T09:15:51.261000+00:00"
     },
@@ -978,7 +981,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b53c254-c155-430a-a658-d43d03fdd338?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/340fbb77-43fe-483c-aff3-041b110abbf4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1044,7 +1047,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-bezugsfertig-ihr-zuhause-renovated-move-in-ready-your-new-home-/3533776533-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40b6171e-88d1-4dc1-b1e2-338ccc363689?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/34e0f458-a0d5-4dad-b753-5939ceb0e550?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3525b940-8d7a-4077-9253-8b30b0cc6382?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/586ad3b3-ffe1-40f5-9980-873698de7454?rule=$_59.AUTO",
@@ -1208,7 +1211,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72f08b67-0cb0-471d-902c-9826db349ff7?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28c7274f-722d-4a3c-a8a5-b0d986787088?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1241,7 +1244,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/738927e6-af45-49e5-bd12-4905d4bc483c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12ee257b-4faf-49ea-8aef-a6ca5ff6bb6d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1274,7 +1277,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/398600ca-ab12-42cb-ac37-6f7f6c475902?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7df27759-0521-41d4-8315-2dde2a177595?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1362,39 +1365,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "** Helle 2-Zimmer-Wohnung mit ruhiger und dennoch zentraler Lage **",
-      "Cena (€)": 430.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 48.33,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/-helle-2-zimmer-wohnung-mit-ruhiger-und-dennoch-zentraler-lage-/3508590185-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cc0582-3ce8-4397-9c97-19103c80b6f9?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cc0582-3ce8-4397-9c97-19103c80b6f9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ad7bdd3-7e80-4763-9489-d12b7a96b06f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae303e69-c82f-4ac7-8c81-b1474160e5e0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36f33389-461e-4949-a6ce-5397645a3086?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c4b0e7-4bd9-4ae7-bacd-e60b6cdb8366?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c39f120-4388-4358-a608-d8c46d9cff49?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83073014-5e8e-4e55-8fa3-8deccc22aabf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ea6787f-b7fd-4536-ae1f-4b180feb1546?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e028312-7b6a-4bc8-9c26-9ebbb9fc0c47?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a67bbb28-2b4d-4b84-b5f6-87e1875e30ef?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/696cafdb-dd87-4ccc-b268-5d5190553f11?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5e83b4b-afbf-47d0-9c82-4f8beb8b448b?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 610.0,
-      "Opis": "Balkon\n\nVirtueller Rundgang: https://my.matterport.com/show/?m=Vvjjt2fsxYf\n\nIhr neues Zuhause steht bereit! Diese charmante 2-Zimmer-Wohnung befindet sich im Erdgeschoss eines Wohngebäudes aus dem Jahr 1958. Mit einer Wohnfläche von rund 48 m² bietet sie genügend Platz für Sie und Ihre Liebsten.\n\nDie Wohnung überzeugt durch ihre hellen, freundlichen Räume, die durch die Fenster viel Tageslicht einlassen. Der Boden in stilvoller Holzoptik verleiht den Zimmern eine warme und einladende Atmosphäre, perfekt zum Entspannen und Wohlfühlen.\n\nDas Badezimmer ist mit einer Badewanne ausgestattet und bietet genügend Platz für Ihre tägliche Pflegeroutine. Dank eines Fensters wird der Raum wunderbar mit natürlichem Licht durchflutet, was für ein angenehmes Ambiente sorgt.\n\nDie Küche beeindruckt mit ihrer Helligkeit und einem dekorativen Fliesenspiegel an der Wand. Eine Einbauküche ist nicht vorhanden, was Ihnen die Möglichkeit gibt, den Raum ganz nach Ihren Vorstellungen zu gestalten und Ihrer Kreativität freien Lauf zu lassen.\n\nSie möchten das Objekt besichtigen? Dann senden Sie uns gerne eine Nachricht über das entsprechende Kontaktformular. Wir freuen uns auf Ihre Anfrage!\n\n# Ausstattung\n+ Boden in Holzoptik\n+ Lichtdurchflutete Räume\n+ Badewanne\n\n# Weitere Angaben\n- Verfügbar ab: 2026-10-16\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Skagerrakstraße 71 befindet sich in einer ruhigen Wohngegend im Stadtteil Oberhausen. Die Straße ist von Einfamilienhäusern und kleinen Mehrfamilienhäusern geprägt, was für eine angenehme und familiäre Atmosphäre sorgt.\n\nIn unmittelbarer Nähe der Adresse befinden sich verschiedene Einkaufsmöglichkeiten, Schulen und Kindergärten, die bequem zu Fuß oder mit dem Fahrrad erreicht werden können. Auch die Anbindung an den öffentlichen Nahverkehr ist gut, so dass man schnell in die Innenstadt gelangen kann.\n\nDie Umgebung bietet zudem zahlreiche Freizeitmöglichkeiten wie Parks, Spielplätze und Sportanlagen. Auch das nahegelegene Naherholungsgebiet lädt zu ausgedehnten Spaziergängen oder Radtouren ein.\n\nInsgesamt zeichnet sich die Lage der Skagerrakstraße 71 durch ihre ruhige und dennoch zentrale Lage aus, was sie zu einem attraktiven Wohnort für Familien und Pendler macht.\n\n# Sonstiges\n** Es wird ein Indexmietvertrag vereinbart. **\n\n# Energie\n- Baujahr: 1958\n- Heizungsart: Fernwärme\n\nAnbieter-Objekt-ID: MV-WKG735",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Modern. Hell. Sofort verfügbar./Modern. Bright. Available immediately.",
       "Cena (€)": 440.0,
       "Pokoje": 2.0,
@@ -1406,7 +1376,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e56c18d5-4bb1-4767-8453-7b8ccd242cea?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77b41fe5-40b6-4c92-a106-d89d47671ab5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1857,6 +1827,39 @@
       "Opis": "Balkon • Fußbodenheizung • Neubau • Aufzug • WBS benötigt • Garage/Stellplatz\n\nDiese großzügige 2-Zimmer-Wohnung mit ca. 65 m² Wohnfläche befindet sich in Kalkar. Die Wohnung überzeugt durch ihren offenen Wohn- und Essbereich, der direkten Zugang zum großzügigen Balkonbietet und somit ideal zum Entspannen im Freien ist. Ein separater Abstellraum innerhalb der Wohnung sorgt für zusätzlichen Stauraum.\n\nDie Anmietung der Wohnung ist ausschließlich mit einem gültigen Wohnberechtigungsschein (WBS) möglich.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Zentrale 2-Zimmer-Wohnung im Herzen Bocholts – nahe dem alten Rathaus!",
+      "Cena (€)": 510.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 55.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/zentrale-2-zimmer-wohnung-im-herzen-bocholts-nahe-dem-alten-rathaus-/3534634696-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc9560a-4ba1-402e-8fb1-8d62b0724641?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc9560a-4ba1-402e-8fb1-8d62b0724641?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f7faeb5-30e9-4a69-973f-243953dca278?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07dfe0f9-31eb-4c2a-a30d-c51fec0d0c3c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e31cbd03-b741-4c80-9cb8-41f63ebb2e00?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b95671ef-088e-4db2-94bb-8f8c848220e9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81e0c1d5-132f-4ae7-8467-c274a4a5e7c1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c132bf85-cf94-47ca-a5fa-ea6d1b231cb4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b32b8f4e-67a6-4d94-ba57-260ebccecf64?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/dfc7a16b-ecce-4131-b1ca-d45081a98401?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc9560a-4ba1-402e-8fb1-8d62b0724641?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f7faeb5-30e9-4a69-973f-243953dca278?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07dfe0f9-31eb-4c2a-a30d-c51fec0d0c3c?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "**Zentrale 2-Zimmer-Wohnung im Herzen Bocholts – nahe dem alten Rathaus!**\n\nUmgeben von reichlich Bocholter Kultur befindet sich die gemütliche 2-Zimmer-Wohnung in zentraler Lage auf der Königstraße in Bocholt – mit Blickweite zum historischen Bocholter Rathaus. Beim Betreten der Wohnung gelangt man zunächst in die Diele, von der aus alle weiteren Räume bequem erreichbar sind. Die Wohnung verfügt über ein Badezimmer mit Badewanne sowie ein separates WC. Darüber hinaus stehen ein eigener Raum für die Küche und zwei weitere Zimmer zur individuellen Nutzung zur Verfügung, die sich ideal als Wohn- und Schlafzimmer eignen. Insgesamt überzeugt die Wohnung durch ihre übersichtliche und praktische Raumaufteilung sowie den einheitlichen, hellen Parkettboden, der den Räumen eine freundliche und wohnliche Atmosphäre verleiht.\n\n**Lage:**\n\n* sehr zentral und stadtnah gelegen\n* wenige Meter Fußweg zur Bocholts Stadtmitte\n* optimale Gastronomie- und Shoppingmöglichkeiten schnell erreichbar\n* gute Busanbindung\n\n**Eckdaten auf einen Blick:**\n\n* Wohnfläche: 55 m²\n* Kaltmiete: 510,00 €\n* Nebenkosten: 95,00 €\n* Kaution: 1.530,00 €\n\nEin Energieverbrauchsausweis liegt vor. Der Endenergieverbrauch des Gebäudes liegt bei 210,60 kWh/(m²\\*a).\n\n* Wesentlicher Energieträger: Gas\n* Baujahr Wärmeerzeuger: 2009",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-08T12:18:25.330254+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
