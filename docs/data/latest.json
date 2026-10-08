@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-08T12:18:25.332156+00:00",
-  "count": 104,
+  "generated_at": "2026-10-08T15:15:21.759485+00:00",
+  "count": 106,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-08T12:18:25.332156+00:00",
+      "last_updated": "2026-10-08T15:15:21.759485+00:00",
       "interval_hours": 3
     }
   },
@@ -1365,6 +1365,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "** Helle 2-Zimmer-Wohnung mit ruhiger und dennoch zentraler Lage **",
+      "Cena (€)": 430.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.33,
+      "Lokalizacja": "46149 Oberhausen",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 56.2,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/-helle-2-zimmer-wohnung-mit-ruhiger-und-dennoch-zentraler-lage-/3508590185-203-1290",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cc0582-3ce8-4397-9c97-19103c80b6f9?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cc0582-3ce8-4397-9c97-19103c80b6f9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ad7bdd3-7e80-4763-9489-d12b7a96b06f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae303e69-c82f-4ac7-8c81-b1474160e5e0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36f33389-461e-4949-a6ce-5397645a3086?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c4b0e7-4bd9-4ae7-bacd-e60b6cdb8366?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c39f120-4388-4358-a608-d8c46d9cff49?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83073014-5e8e-4e55-8fa3-8deccc22aabf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ea6787f-b7fd-4536-ae1f-4b180feb1546?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e028312-7b6a-4bc8-9c26-9ebbb9fc0c47?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a67bbb28-2b4d-4b84-b5f6-87e1875e30ef?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/696cafdb-dd87-4ccc-b268-5d5190553f11?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5e83b4b-afbf-47d0-9c82-4f8beb8b448b?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 610.0,
+      "Opis": "Balkon\n\nVirtueller Rundgang: https://my.matterport.com/show/?m=Vvjjt2fsxYf\n\nIhr neues Zuhause steht bereit! Diese charmante 2-Zimmer-Wohnung befindet sich im Erdgeschoss eines Wohngebäudes aus dem Jahr 1958. Mit einer Wohnfläche von rund 48 m² bietet sie genügend Platz für Sie und Ihre Liebsten.\n\nDie Wohnung überzeugt durch ihre hellen, freundlichen Räume, die durch die Fenster viel Tageslicht einlassen. Der Boden in stilvoller Holzoptik verleiht den Zimmern eine warme und einladende Atmosphäre, perfekt zum Entspannen und Wohlfühlen.\n\nDas Badezimmer ist mit einer Badewanne ausgestattet und bietet genügend Platz für Ihre tägliche Pflegeroutine. Dank eines Fensters wird der Raum wunderbar mit natürlichem Licht durchflutet, was für ein angenehmes Ambiente sorgt.\n\nDie Küche beeindruckt mit ihrer Helligkeit und einem dekorativen Fliesenspiegel an der Wand. Eine Einbauküche ist nicht vorhanden, was Ihnen die Möglichkeit gibt, den Raum ganz nach Ihren Vorstellungen zu gestalten und Ihrer Kreativität freien Lauf zu lassen.\n\nSie möchten das Objekt besichtigen? Dann senden Sie uns gerne eine Nachricht über das entsprechende Kontaktformular. Wir freuen uns auf Ihre Anfrage!\n\n# Ausstattung\n+ Boden in Holzoptik\n+ Lichtdurchflutete Räume\n+ Badewanne\n\n# Weitere Angaben\n- Verfügbar ab: 2026-10-16\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Skagerrakstraße 71 befindet sich in einer ruhigen Wohngegend im Stadtteil Oberhausen. Die Straße ist von Einfamilienhäusern und kleinen Mehrfamilienhäusern geprägt, was für eine angenehme und familiäre Atmosphäre sorgt.\n\nIn unmittelbarer Nähe der Adresse befinden sich verschiedene Einkaufsmöglichkeiten, Schulen und Kindergärten, die bequem zu Fuß oder mit dem Fahrrad erreicht werden können. Auch die Anbindung an den öffentlichen Nahverkehr ist gut, so dass man schnell in die Innenstadt gelangen kann.\n\nDie Umgebung bietet zudem zahlreiche Freizeitmöglichkeiten wie Parks, Spielplätze und Sportanlagen. Auch das nahegelegene Naherholungsgebiet lädt zu ausgedehnten Spaziergängen oder Radtouren ein.\n\nInsgesamt zeichnet sich die Lage der Skagerrakstraße 71 durch ihre ruhige und dennoch zentrale Lage aus, was sie zu einem attraktiven Wohnort für Familien und Pendler macht.\n\n# Sonstiges\n** Es wird ein Indexmietvertrag vereinbart. **\n\n# Energie\n- Baujahr: 1958\n- Heizungsart: Fernwärme\n\nAnbieter-Objekt-ID: MV-WKG735",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Modern. Hell. Sofort verfügbar./Modern. Bright. Available immediately.",
       "Cena (€)": 440.0,
       "Pokoje": 2.0,
@@ -1926,6 +1959,37 @@
       "Opis": "Die Wohnung wurde komplett saniert und präsentiert sich in einem modernen und gepflegten Zustand. Die hellen, freundlichen Räume sowie die großen Fenster sorgen für eine angenehme und lichtdurchflutete Wohnatmosphäre.\n\nDie Wohnung befindet sich im 4. Obergeschoss eines gepflegten Mehrfamilienhauses. Ein Aufzug ist vorhanden und ermöglicht einen komfortablen Zugang zur Wohnung.\n\nDas moderne Badezimmer rundet das zeitgemäße Wohnangebot ab.\n\nDank der zentralen Lage in der Innenstadt von Dinslaken befinden sich Einkaufsmöglichkeiten, Restaurants, Geschäfte und Einrichtungen des täglichen Bedarfs in unmittelbarer Nähe.\n\nNach Absprache sind Besichtigungen jederzeit möglich.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-03T14:59:20.158782+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Frisch sanierte 2 Zimmerwohnung mit Balkon zu vermieten",
+      "Cena (€)": 540.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 62.0,
+      "Lokalizacja": "47167 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 56.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-2-zimmerwohnung-mit-balkon-zu-vermieten/3508465925-203-2145",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da39bc74-e2ad-440f-b0b7-9e4d76d1143f?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da39bc74-e2ad-440f-b0b7-9e4d76d1143f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb7bfac2-3fa7-4b0d-a231-34588ed0260e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5db06953-7861-4315-94b3-9fdec155418a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88a3afc9-5a7e-4203-8fac-aef19d9c3a50?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3ba1ee8a-6d09-46c3-afc4-3610ce42eb5c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9cb4903-3915-44c3-8cbc-40a668df77e6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/ef/ef6ea992-9abf-427d-9500-54a9f04fc369?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f67e2d0-ed19-4b70-8c52-317dc734047b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8592627f-fd21-4be3-8dc9-2d0e9980023d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6c4186d-8e6b-45f8-8c76-7ca2b986db8f?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Balkon • Keller\n\nDiese ansprechende 2-Zimmer-Wohnung in Duisburg präsentiert sich nach einer umfassenden Modernisierung im Jahr 2026 als Erstbezug. Die 62 m² Wohnfläche verteilen sich auf zwei helle Zimmer sowie ein Badezimmer und befinden sich in der zweiten Etage eines gepflegten Mehrfamilienhauses aus dem Jahr 1970. Ein besonderes Highlight ist der Balkon, der zum Verweilen einlädt. Zusätzlich sorgt ein eigener Kellerraum für praktischen Stauraum. Die Beheizung erfolgt über eine Etagenheizung (moderne Infrarotheizung). Das Objekt ist ab sofort verfügbar und bietet eine flexible Regelung bezüglich der Tierhaltung.\n\n\\- neues Bad\n\n\\- moderne Infrarotheizungen\n\nDie Holtener Straße liegt im Duisburger Stadtteil Obermarxloh, der durch eine gute Anbindung an den öffentlichen Nahverkehr überzeugt. Buslinien und die U-Bahn-Linie U79 ermöglichen eine schnelle Verbindung zum Stadtzentrum. Das lebendige Viertel bietet eine angenehme Infrastruktur mit einer Mischung aus Familien und Berufstätigen.\n\nHeizkosten sind nicht in den Nebenkosten enthalten und laufen über den privaten Stromtarif.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
