@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:15:21.759485+00:00",
+  "generated_at": "2026-10-08T18:16:07.080598+00:00",
   "count": 106,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-08T15:15:21.759485+00:00",
+      "last_updated": "2026-10-08T18:16:07.080598+00:00",
       "interval_hours": 3
     }
   },
@@ -981,7 +981,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/340fbb77-43fe-483c-aff3-041b110abbf4?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683b0732-e4df-4815-a501-41de83fcdd59?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1047,7 +1047,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-bezugsfertig-ihr-zuhause-renovated-move-in-ready-your-new-home-/3533776533-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/34e0f458-a0d5-4dad-b753-5939ceb0e550?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6615d33-863b-4dcd-a03b-af47908c2479?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3525b940-8d7a-4077-9253-8b30b0cc6382?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/586ad3b3-ffe1-40f5-9980-873698de7454?rule=$_59.AUTO",
@@ -1211,7 +1211,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28c7274f-722d-4a3c-a8a5-b0d986787088?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdcc48eb-9861-4135-83bb-66637b17460d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1244,7 +1244,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12ee257b-4faf-49ea-8aef-a6ca5ff6bb6d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb9b245c-f1f4-4dc2-b082-65e77078b182?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1277,7 +1277,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7df27759-0521-41d4-8315-2dde2a177595?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b54a702-768e-41e5-a716-78a1c44b4a90?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1409,7 +1409,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77b41fe5-40b6-4c92-a106-d89d47671ab5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88c11505-bb60-445e-8e5a-cdd08eec3daa?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2129,7 +2129,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-erdgeschosswohnung-in-bocholt-ideal-fuer-singles-oder-paare/3525951041-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a10cf02e-f879-4ce6-939c-62f5c554e22a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eedaf89-1108-4edf-9626-c6cd04a1b86b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61f6509e-4363-4461-b29f-de2c62e92134?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81082d40-50ef-4f77-a9c3-2085969736e7?rule=$_59.AUTO",
