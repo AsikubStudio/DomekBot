@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T10:10:03.594312+00:00",
+  "generated_at": "2026-10-09T18:03:03.296933+00:00",
   "count": 106,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-09T10:10:03.594312+00:00",
+      "last_updated": "2026-10-09T18:03:03.296933+00:00",
       "interval_hours": 3
     }
   },
@@ -981,7 +981,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e714a11-659e-4472-9081-f5bd8669a582?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/843d3ec6-2e94-4331-9914-d86c73ed0bd5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1047,7 +1047,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-bezugsfertig-ihr-zuhause-renovated-move-in-ready-your-new-home-/3533776533-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/029aced3-2562-41cf-931e-8993c8fa90f2?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bdce4336-5bbc-411c-baa1-1cab4408341c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3525b940-8d7a-4077-9253-8b30b0cc6382?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/586ad3b3-ffe1-40f5-9980-873698de7454?rule=$_59.AUTO",
@@ -1146,7 +1146,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-etagenwohnung-in-bocholt-31-m-komfort-zum-wohlfuehlen/3471631224-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47903dbb-ebf4-4e93-8bb5-6915c4ac3149?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/240106d6-eb15-42a1-8770-a23b225a9fb5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a890d820-3e11-403b-a02a-7d69ba370c91?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4a53b9e-5c6c-4ba9-8c96-b89f6d2c92fd?rule=$_59.AUTO",
@@ -1211,7 +1211,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c97334f1-83c7-439a-a61e-446be114c4b6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e7bcaeb3-8f9b-4d20-bbb3-da823c124f70?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1244,7 +1244,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47703eb6-2507-43e1-a1e8-7ad300732cc8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b0fb5cf-79c6-4def-aae2-0765acc2c5dd?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1277,7 +1277,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/ddd545db-c957-49f3-b52f-eed7b949d43e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/adb1ff3d-928c-45e3-be74-4d62f7aef393?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1409,7 +1409,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a701677-ef23-4a4b-b121-f8128d2774b1?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3b8d262-d4a0-439b-ac90-ff8062bb9816?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1962,37 +1962,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Frisch sanierte 2 Zimmerwohnung mit Balkon zu vermieten",
-      "Cena (€)": 540.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 62.0,
-      "Lokalizacja": "47167 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-2-zimmerwohnung-mit-balkon-zu-vermieten/3508465925-203-2145",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da39bc74-e2ad-440f-b0b7-9e4d76d1143f?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da39bc74-e2ad-440f-b0b7-9e4d76d1143f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb7bfac2-3fa7-4b0d-a231-34588ed0260e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5db06953-7861-4315-94b3-9fdec155418a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88a3afc9-5a7e-4203-8fac-aef19d9c3a50?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3ba1ee8a-6d09-46c3-afc4-3610ce42eb5c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9cb4903-3915-44c3-8cbc-40a668df77e6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/ef/ef6ea992-9abf-427d-9500-54a9f04fc369?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f67e2d0-ed19-4b70-8c52-317dc734047b?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8592627f-fd21-4be3-8dc9-2d0e9980023d?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6c4186d-8e6b-45f8-8c76-7ca2b986db8f?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 680.0,
-      "Opis": "Balkon • Keller\n\nDiese ansprechende 2-Zimmer-Wohnung in Duisburg präsentiert sich nach einer umfassenden Modernisierung im Jahr 2026 als Erstbezug. Die 62 m² Wohnfläche verteilen sich auf zwei helle Zimmer sowie ein Badezimmer und befinden sich in der zweiten Etage eines gepflegten Mehrfamilienhauses aus dem Jahr 1970. Ein besonderes Highlight ist der Balkon, der zum Verweilen einlädt. Zusätzlich sorgt ein eigener Kellerraum für praktischen Stauraum. Die Beheizung erfolgt über eine Etagenheizung (moderne Infrarotheizung). Das Objekt ist ab sofort verfügbar und bietet eine flexible Regelung bezüglich der Tierhaltung.\n\n\\- neues Bad\n\n\\- moderne Infrarotheizungen\n\nDie Holtener Straße liegt im Duisburger Stadtteil Obermarxloh, der durch eine gute Anbindung an den öffentlichen Nahverkehr überzeugt. Buslinien und die U-Bahn-Linie U79 ermöglichen eine schnelle Verbindung zum Stadtzentrum. Das lebendige Viertel bietet eine angenehme Infrastruktur mit einer Mischung aus Familien und Berufstätigen.\n\nHeizkosten sind nicht in den Nebenkosten enthalten und laufen über den privaten Stromtarif.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "2ZDDB auf 40m² im 6. OG mit Balkon / Aufzug",
       "Cena (€)": 550.0,
       "Pokoje": 2.0,
@@ -2327,7 +2296,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-etagenwohnung-in-bocholt-54-87-m-/3526398738-203-1849",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/447953df-8338-4c72-91f0-796211b7d7ac?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df647fd1-6bb9-452c-9fdc-80078b252330?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/447953df-8338-4c72-91f0-796211b7d7ac?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83ff707a-1031-4019-8a96-b50dc6ec042e?rule=$_59.AUTO",
@@ -2507,6 +2476,39 @@
       "Opis": "2 Zimmer Wohnung\nSonsbeck\n65 m²\n590,00 € + 60,00 € NK pro Person\nWohnzimmer + Küche offen\nSchlafzimmer\nBadezimmer\nFlur\nkleiner Balkon\nKeller Abstellraum\nKFZ Stellplatz hinter dem Haus\nMülltonnen Stellplatz + Fahrrad Stellplatz\nhinten im Hof",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Nachmieter Gesucht",
+      "Cena (€)": 593.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 55.0,
+      "Lokalizacja": "46395 Bocholt",
+      "Odległość (km)": 25.0,
+      "Czas dojazdu (min)": 24,
+      "Odległość od 's-Heerenberg (km)": 23.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht/3535711812-203-1849",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12681536-6ddf-4fc0-b2fb-b00eb2e74816?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12681536-6ddf-4fc0-b2fb-b00eb2e74816?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b094bdd-d6f2-4f5e-9ad4-fe451c8730fa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/080f1b87-f278-4428-a264-f0e8f193a845?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d474b14d-bfa5-4107-81c3-c3cddb7957b1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/113a39bf-86c4-4881-9923-716d64ec386b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/34b2d814-0d6d-42c9-afa7-9f89d0ff8ab6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca6ac144-f5f7-4951-8440-4755268cfa9c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0bf2030-fa2f-4248-a743-de5f60ec0d2b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f317862-7301-4e51-b3e3-74dbde8f66ac?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/3270ba0e-5666-41ef-a535-cde9176f5dff?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12681536-6ddf-4fc0-b2fb-b00eb2e74816?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b094bdd-d6f2-4f5e-9ad4-fe451c8730fa?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Guten Tag zusammen, ich suche einen nachmieter zum nächstmöglichen Zeitpunkt. Die helle Dachgeschosswohnung befindet sich in guter Lage angrenzend ans schöne Biemenhorst.\nKüche muss übernommen werden. (Preis nach Absprache).\nTermine zur Besichtigung können nach Absprache gemacht werden.\nBewerbungen werden gesammelt und danach bewertet.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-09T18:03:03.295350+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
