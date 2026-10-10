@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-10T17:03:28.278085+00:00",
-  "count": 108,
+  "generated_at": "2026-10-10T20:50:10.853277+00:00",
+  "count": 109,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-10T17:03:28.278085+00:00",
+      "last_updated": "2026-10-10T20:50:10.853277+00:00",
       "interval_hours": 3
     }
   },
@@ -981,7 +981,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1cb7353b-5d84-4f11-a88c-f9e999f9c34b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25916985-b671-478c-a676-cbcef0747852?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1047,7 +1047,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-bezugsfertig-ihr-zuhause-renovated-move-in-ready-your-new-home-/3533776533-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec2af387-df5a-4d36-b29c-17ae9a61c3f7?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3ce66209-98ab-4937-ad76-3001abb385c7?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3525b940-8d7a-4077-9253-8b30b0cc6382?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/586ad3b3-ffe1-40f5-9980-873698de7454?rule=$_59.AUTO",
@@ -1211,7 +1211,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/1208985e-cbb3-4d58-9998-1e7757cef558?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c9879da-7c2d-4559-b88d-a2e15739aadd?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1244,7 +1244,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fdfa6cc-5da0-4bc7-b518-776409e948b5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db1361e0-1795-4a6f-9924-cc782630ba87?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1376,7 +1376,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a26e4e4-21d8-4984-91c9-f88119cc0aff?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1f6953c-836f-414f-91d6-13822c349d55?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1699,6 +1699,35 @@
       "Opis": "2-Zimmer-Wohnung mit Balkon & Garage zu vermieten – Duisburg-Marxloh\n\nWiesenstraße 33, 47169 Duisburg\n\nAb sofort steht eine helle und gut geschnittene 2-Zimmer-Wohnung im 2. Obergeschoss eines Mehrfamilienhauses zur Vermietung.\n\nEckdaten\n\nca. 74 m² Wohnfläche\n\n️ 2 Zimmer\n\n2. Obergeschoss\n\nBalkon\n\nEinbauküche vorhanden\n\nGaragenstellplatz vorhanden\n\nBadezimmer mit Badewanne\n\n☀️ Helle Räumlichkeiten\n\nVorteilhafter Grundriss\n\nAb sofort verfügbar\n\n☀️ Balkon & Solarpaneele\n\nDer Balkon ist gut für die Installation von Solarpaneelen geeignet, da er ausreichend Sonne bekommt und eine gute Ausrichtung für die Nutzung von Solarenergie bietet.\n\nDie Installation von Balkon-Solarpaneelen ist möglich und kann dazu beitragen, den eigenen Stromverbrauch und damit die Stromkosten zu reduzieren.\n\nLage\n\nDie Wohnung befindet sich in Duisburg-Marxloh mit guter Anbindung an den öffentlichen Nahverkehr. Eine Straßenbahnhaltestelle ist in etwa 5 Gehminuten erreichbar. Einkaufsmöglichkeiten, Supermärkte, Apotheken, Restaurants sowie Schulen und Kindergärten befinden sich ebenfalls in der näheren Umgebung. Der Volkspark Schwelgern ist ebenfalls schnell erreichbar.\n\nMiete\n\nKaltmiete: 499 €\nNebenkosten: 130 €\nGaragenstellplatz: 50 €\n\nGesamtmiete: 679 €\n\nKaution: 1400 €\n\nBei Interesse\n\nWenn Sie Interesse an der Wohnung haben, senden Sie mir bitte zunächst einige kurze Informationen über sich:\n\nName\n\nBeruf / berufliche Tätigkeit\n\nWie viele Personen werden einziehen?\n\nGewünschter Einzugstermin\n\nKurze Information zur aktuellen Wohnsituation\n\nBesichtigungen sind nach vorheriger Terminvereinbarung möglich.\n\nVideo der Wohnung\n\nSie können sich vorab auch ein Video der Wohnung ansehen.\nKlicken Sie einfach auf den folgenden Link, um das Video anzusehen:\n\nhttps://m.youtube.com/watch?v=bcpPZnit4VE&t=70s&pp=2AFGkAIB\n\nBitte nur ernstgemeinte Anfragen.\n\nVielen Dank!",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-26T18:25:28.856235+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2 -Zimmer Wohnung",
+      "Cena (€)": 500.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 35.0,
+      "Lokalizacja": "46509 Xanten",
+      "Odległość (km)": 19.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 26.0,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung/3537042601-203-1403",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91467181-6d5e-4a18-b429-57e3142cf261?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91467181-6d5e-4a18-b429-57e3142cf261?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91467181-6d5e-4a18-b429-57e3142cf261?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e85e638b-69b4-4374-ae68-401b70199cb3?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45460a10-99bf-40d1-be49-59a0f7200f7b?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4c5efaf-86db-41c1-b710-5b771ddd80e4?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be45fc2d-9393-4fa5-8545-39ff9dfdb999?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "2-Zimmer-Wohnung in ländlicher Lage in Xanten zu günstigen Konditionen\n\nIn Xanten biete ich eine gemütliche, möblierte 2-Zimmer-Wohnung, ca. 35m², in ruhiger, ländlicher Umgebung zu einer vergünstigten Miete an.\n\nIm Gegenzug wünsche ich mir von der zukünftigen Mieterin bzw. dem zukünftigen Mieter gelegentliche Unterstützung im Alltag. Dazu können beispielsweise leichte Tätigkeiten im Haushalt, kleinere Besorgungen oder gelegentliches Kochen gehören.\n\nDer Umfang der Unterstützung und die genauen Mietkonditionen werden selbstverständlich im Vorfeld gemeinsam besprochen und verbindlich vereinbart.\n\nGesucht wird eine zuverlässige, verantwortungsbewusste und freundliche Person, die sich ein alternatives Wohnmodell mit gegenseitiger Unterstützung vorstellen kann.\n\nBei Interesse freue ich mich über eine kurze Nachricht mit einigen Informationen zu Ihrer Person.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-10T20:50:10.852084+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
