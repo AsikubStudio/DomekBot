@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T18:03:03.296933+00:00",
+  "generated_at": "2026-10-10T00:32:16.787523+00:00",
   "count": 106,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-09T18:03:03.296933+00:00",
+      "last_updated": "2026-10-10T00:32:16.787523+00:00",
       "interval_hours": 3
     }
   },
@@ -981,7 +981,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/843d3ec6-2e94-4331-9914-d86c73ed0bd5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a952a2e-2c2f-4bf9-98cb-00f7e6c1e481?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1047,7 +1047,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-bezugsfertig-ihr-zuhause-renovated-move-in-ready-your-new-home-/3533776533-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bdce4336-5bbc-411c-baa1-1cab4408341c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ac05c83-7ed1-4275-b776-5b4807ed801c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/3525b940-8d7a-4077-9253-8b30b0cc6382?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/586ad3b3-ffe1-40f5-9980-873698de7454?rule=$_59.AUTO",
@@ -1080,7 +1080,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-3-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3471855237-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e6230dc-72f8-4856-86a8-e09c06805845?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fcd23525-e4bb-4ccd-8533-a28734bc7cec?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05703c32-5598-4a8d-9503-38cfe059bacd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49d48ca6-4958-462a-9e77-a3f217e70486?rule=$_59.AUTO",
@@ -1211,7 +1211,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e7bcaeb3-8f9b-4d20-bbb3-da823c124f70?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04172622-2473-45a3-90bf-8b39e287d589?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1244,7 +1244,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b0fb5cf-79c6-4def-aae2-0765acc2c5dd?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55ca6b89-7a68-41c1-93c2-a50c4835e269?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/3430bb1d-01b2-4914-9a0c-6ac96c5f9983?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f064e6b-5074-47e1-b34b-d2e763aca4c3?rule=$_59.AUTO",
@@ -1277,7 +1277,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/kompakt-clever-gemuetlich-compact-clever-cozy/3493305864-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/adb1ff3d-928c-45e3-be74-4d62f7aef393?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84eb81dd-7262-4539-8532-ec671e9e1b69?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff460eff-3570-4b2a-bec3-d8dcdfd4b482?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01efe5f8-b139-4f21-a232-acef5d0f9607?rule=$_59.AUTO",
@@ -1343,7 +1343,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-1-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453791-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/74554057-2cd5-4bd4-b281-a47a309dfb9f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/326d14b1-646b-47be-b39f-ad62476a418a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f81f9e-b7a0-4596-a85d-4620cf44d6b9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/4168403d-08a7-492d-9237-0a8eee835bab?rule=$_59.AUTO",
@@ -1365,39 +1365,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "** Helle 2-Zimmer-Wohnung mit ruhiger und dennoch zentraler Lage **",
-      "Cena (€)": 430.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 48.33,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/-helle-2-zimmer-wohnung-mit-ruhiger-und-dennoch-zentraler-lage-/3508590185-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cc0582-3ce8-4397-9c97-19103c80b6f9?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cc0582-3ce8-4397-9c97-19103c80b6f9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ad7bdd3-7e80-4763-9489-d12b7a96b06f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae303e69-c82f-4ac7-8c81-b1474160e5e0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36f33389-461e-4949-a6ce-5397645a3086?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c4b0e7-4bd9-4ae7-bacd-e60b6cdb8366?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c39f120-4388-4358-a608-d8c46d9cff49?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83073014-5e8e-4e55-8fa3-8deccc22aabf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ea6787f-b7fd-4536-ae1f-4b180feb1546?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e028312-7b6a-4bc8-9c26-9ebbb9fc0c47?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a67bbb28-2b4d-4b84-b5f6-87e1875e30ef?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/696cafdb-dd87-4ccc-b268-5d5190553f11?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5e83b4b-afbf-47d0-9c82-4f8beb8b448b?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 610.0,
-      "Opis": "Balkon\n\nVirtueller Rundgang: https://my.matterport.com/show/?m=Vvjjt2fsxYf\n\nIhr neues Zuhause steht bereit! Diese charmante 2-Zimmer-Wohnung befindet sich im Erdgeschoss eines Wohngebäudes aus dem Jahr 1958. Mit einer Wohnfläche von rund 48 m² bietet sie genügend Platz für Sie und Ihre Liebsten.\n\nDie Wohnung überzeugt durch ihre hellen, freundlichen Räume, die durch die Fenster viel Tageslicht einlassen. Der Boden in stilvoller Holzoptik verleiht den Zimmern eine warme und einladende Atmosphäre, perfekt zum Entspannen und Wohlfühlen.\n\nDas Badezimmer ist mit einer Badewanne ausgestattet und bietet genügend Platz für Ihre tägliche Pflegeroutine. Dank eines Fensters wird der Raum wunderbar mit natürlichem Licht durchflutet, was für ein angenehmes Ambiente sorgt.\n\nDie Küche beeindruckt mit ihrer Helligkeit und einem dekorativen Fliesenspiegel an der Wand. Eine Einbauküche ist nicht vorhanden, was Ihnen die Möglichkeit gibt, den Raum ganz nach Ihren Vorstellungen zu gestalten und Ihrer Kreativität freien Lauf zu lassen.\n\nSie möchten das Objekt besichtigen? Dann senden Sie uns gerne eine Nachricht über das entsprechende Kontaktformular. Wir freuen uns auf Ihre Anfrage!\n\n# Ausstattung\n+ Boden in Holzoptik\n+ Lichtdurchflutete Räume\n+ Badewanne\n\n# Weitere Angaben\n- Verfügbar ab: 2026-10-16\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Skagerrakstraße 71 befindet sich in einer ruhigen Wohngegend im Stadtteil Oberhausen. Die Straße ist von Einfamilienhäusern und kleinen Mehrfamilienhäusern geprägt, was für eine angenehme und familiäre Atmosphäre sorgt.\n\nIn unmittelbarer Nähe der Adresse befinden sich verschiedene Einkaufsmöglichkeiten, Schulen und Kindergärten, die bequem zu Fuß oder mit dem Fahrrad erreicht werden können. Auch die Anbindung an den öffentlichen Nahverkehr ist gut, so dass man schnell in die Innenstadt gelangen kann.\n\nDie Umgebung bietet zudem zahlreiche Freizeitmöglichkeiten wie Parks, Spielplätze und Sportanlagen. Auch das nahegelegene Naherholungsgebiet lädt zu ausgedehnten Spaziergängen oder Radtouren ein.\n\nInsgesamt zeichnet sich die Lage der Skagerrakstraße 71 durch ihre ruhige und dennoch zentrale Lage aus, was sie zu einem attraktiven Wohnort für Familien und Pendler macht.\n\n# Sonstiges\n** Es wird ein Indexmietvertrag vereinbart. **\n\n# Energie\n- Baujahr: 1958\n- Heizungsart: Fernwärme\n\nAnbieter-Objekt-ID: MV-WKG735",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Modern. Hell. Sofort verfügbar./Modern. Bright. Available immediately.",
       "Cena (€)": 440.0,
       "Pokoje": 2.0,
@@ -1409,7 +1376,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3b8d262-d4a0-439b-ac90-ff8062bb9816?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44781fed-3777-41c4-988d-ea2c2f252e5b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1526,7 +1493,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/bezugsfertig-helle-2-zimmer-wohnung-in-marxloh-300-als-willkommensgeschenk-/3528728350-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c4175b2-6231-4080-be0a-1c4eeda7a4e8?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/059c8125-db9b-4868-b851-7e59228bf2b5?rule=$_1.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2221cdba-eeeb-4447-afef-6957867d4ad7?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79fc4ccc-3aa2-48cb-ab86-32a30620d708?rule=$_59.AUTO",
@@ -1959,6 +1926,36 @@
       "Opis": "Die Wohnung wurde komplett saniert und präsentiert sich in einem modernen und gepflegten Zustand. Die hellen, freundlichen Räume sowie die großen Fenster sorgen für eine angenehme und lichtdurchflutete Wohnatmosphäre.\n\nDie Wohnung befindet sich im 4. Obergeschoss eines gepflegten Mehrfamilienhauses. Ein Aufzug ist vorhanden und ermöglicht einen komfortablen Zugang zur Wohnung.\n\nDas moderne Badezimmer rundet das zeitgemäße Wohnangebot ab.\n\nDank der zentralen Lage in der Innenstadt von Dinslaken befinden sich Einkaufsmöglichkeiten, Restaurants, Geschäfte und Einrichtungen des täglichen Bedarfs in unmittelbarer Nähe.\n\nNach Absprache sind Besichtigungen jederzeit möglich.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-03T14:59:20.158782+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung zu vermieten ca.",
+      "Cena (€)": 540.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "46562 Voerde (Niederrhein)",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 37,
+      "Odległość od 's-Heerenberg (km)": 41.5,
+      "Łazienka": "tak",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-zu-vermieten-ca-/3535937043-203-1384",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2c/2c0f3c0b-7802-4881-9f9d-1a6978d5904c?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f7bb347-13f3-4ed3-b825-b08a1e34fe27?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/514293b5-4676-4ad5-be9e-4dadd36a6cc6?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/326d14b1-646b-47be-b39f-ad62476a418a?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b976d31b-a539-4699-9b50-3c7d5111800a?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1316910c-2821-4983-b0fd-6c070cd2164f?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f9df77d-9ad9-4694-a84f-f8c788f6b658?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Ca.45m2 in 2fam.haus ,neues Bad eingene Eingang und ruhige Lage",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-10T00:32:16.784561+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
