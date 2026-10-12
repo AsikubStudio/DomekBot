@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-12T10:20:21.495062+00:00",
-  "count": 105,
+  "generated_at": "2026-10-12T21:00:15.340583+00:00",
+  "count": 106,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-12T10:20:21.495062+00:00",
+      "last_updated": "2026-10-12T21:00:15.340583+00:00",
       "interval_hours": 3
     }
   },
@@ -958,7 +958,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66df0cd0-19c1-44e6-bc4b-fa0609f483d4?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72a6771e-eda4-4923-9982-40bb080398d2?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1155,7 +1155,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/452749c8-1a4a-42b1-bc9d-1f56827b8e1c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3e05f0f-fa27-40e1-a389-b50201093267?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1188,7 +1188,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renoviert-ganz-ohne-baustellenromantik-renovated-with-absolutely-no-construction-site-romance-/3484589272-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a858cdb8-bfaf-42a8-aeb2-ddac0a417f9c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9be174bd-6cb8-494b-92b5-95eaa685acf1?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1307,7 +1307,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f05e49ac-c1ee-43ac-a60e-b50c42987267?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26738043-ebc7-4e50-97bb-c373b13a4112?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1498,6 +1498,31 @@
       "Opis": "Gäste WC\n\nBitte online anfragen! BEACHTEN SIE: Der Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n* Ihr Alter\n* Sind Haustiere vorhanden, wenn ja, welche?\n* Was machen Sie beruflich?\n* Rauchen Sie?\n\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer-Wohnung im Erdgeschoss mit Balkon",
+      "Cena (€)": 491.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 55.79,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 27.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-im-erdgeschoss-mit-balkon/3533570522-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9fc716f8-258d-4e03-821a-714bb00a73ba?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9fc716f8-258d-4e03-821a-714bb00a73ba?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/c3/c3c23c16-8e2c-4360-bb72-eba5de3cc636?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b510c008-7c23-4400-80d1-750a6d4070d3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4d9fa5e-49a0-4ec5-8d1d-55d57851e033?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 631.0,
+      "Opis": "Balkon • Keller\n\nObjektreferenz: 1.10.14\n\nDiese gepflegte 2-Zimmer-Wohnung befindet sich im Erdgeschoss rechts eines Mehrparteienhauses aus dem Baujahr 1950. Mit einer Wohnfläche von 55,79 m² bietet die Wohnung eine praktische Raumaufteilung und vielseitige Nutzungsmöglichkeiten. Zur Wohnung gehören ein Schlafzimmer, sowie ein Balkon, der zusätzlichen Wohnkomfort im Freien bietet. Das Badezimmer ist mit einem Fenster ausgestattet und sorgt dadurch für eine angenehme Belichtung sowie eine natürliche Belüftung.\n\n# Weitere Angaben\n- Verfügbar ab: 01.12.2026\n- Objektzustand: gepflegt\n\n# Lagebeschreibung\nDie Lübecker Straße befindet sich in einer ruhigen und gewachsenen Wohnlage von Bocholt. Einkaufsmöglichkeiten für den täglichen Bedarf, Ärzte, Schulen, Kindergärten sowie weitere Einrichtungen des öffentlichen Lebens sind in wenigen Minuten erreichbar. Auch verschiedene Freizeit- und Erholungsmöglichkeiten befinden sich in der näheren Umgebung und tragen zu einer hohen Wohnqualität bei.\n\n# Sonstiges\nDie Strom- und Heizkosten werden separat mit dem ortsansässigem Versorger abgerechnet.\n\nAlle Angaben ohne Gewähr.\n\nHINWEIS ZUR BEWERBUNG:\nUm Ihnen den bestmöglichen Service zu bieten, können Sie sich bei uns digital bewerben. Kopieren Sie den untenstehenden Link in die Adresszeile Ihres Browsers und folgen Sie der Anleitung.\n\nhttps://tenant.immomio.com/apply/86a704ba-0706-4a16-945b-13e48ce8b00d\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: Gas\n- Energieverbrauch: 172 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Ausstellungsdatum: 15.02.2019\n- Baujahr (gemäß Energieausweis): 1950\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1.10.14-sFpjHw",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-12T21:00:15.339122+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2500,39 +2525,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer-Dachgeschosswohnung zu vermieten",
-      "Cena (€)": 595.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 45.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 9.0,
-      "Czas dojazdu (min)": 19,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-dachgeschosswohnung-zu-vermieten/3538491492-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/696a5b6f-b9e7-4b63-878d-7c19b48b5557?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/696a5b6f-b9e7-4b63-878d-7c19b48b5557?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19c06916-3aab-41a8-93ca-e4425e3eb1c2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/ccf10de1-6b2b-4e88-8750-6523ece700a3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7733f68-c97f-4dcc-9c68-d86c93665591?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97c29b02-a7f0-4f4b-ba68-087b9b5ea3f8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4ae8f5a3-a8b0-4713-a6ba-2ba68c692112?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c78799cd-28b7-4642-a97b-3e623fdfdd59?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dc714da0-89ae-4d43-93fb-c6ba3d9310e4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d51f1752-ec92-42e0-82c9-b72b0a5fe2c8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/789030df-a2c4-4def-b681-f5f43a5a8b91?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d23310e-c780-41f8-8e39-739db676d367?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5c6ec92-5125-4502-ba84-645c12ee53a3?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Zur Vermietung steht eine gemütliche 2-Zimmer-Dachgeschosswohnung mit ca. 45m² Wohnfläche in der Klever Oberstadt, Nähe EOC.\n\nDie Wohnung befindet sich in einem Haus mit insgesamt nur drei Parteien.\n\nAusstattung und Details\n\n* Ca. 45 m² Wohnfläche\n* 2 Zimmer\n* Dachgeschosswohnung\n* Küche vorhanden\n* Separater Kellerraum\n* Eigener Strom- und Gaszähler\n* Frei ab 01.11.2026\n\nLage\n\nDie Wohnung befindet sich in der Klever Oberstadt, in der Nähe des EOC. Einkaufsmöglichkeiten für den täglichen Bedarf sowie öffentliche Verkehrsmittel sind gut erreichbar.\n\nMietkonditionen\n\n* Warmmiete: 595 € monatlich\n* Kaution: 1.190 € (entspricht zwei Monatsmieten)\n* Strom und Gas werden über separate Zähler erfasst und vom Mieter abgeschlossen\n\nBesichtigung\n\nBei Interesse freuen wir uns über eine Nachricht mit einer kurzen Vorstellung Ihrer Person und Angaben zu Ihrer beruflichen Situation. Bitte senden Sie eine aktuelle Gehaltsabrechnungen als Einkommensnachweis, sowie Ihre Schufa Auskunft mit.\n\nWir freuen uns auf Ihre Nachricht und vereinbaren gerne einen Besichtigungstermin!",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-12T00:16:53.474429+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Zentrale 2 Zimmer Wohnung in Bocholt zu vermieten.",
       "Cena (€)": 595.0,
       "Pokoje": 2.0,
@@ -2956,6 +2948,39 @@
       "Opis": "**OBJEKTBESCHREIBUNG**\n\n2-Zimmer-Wohnung in Kleve Unterstadt ab dem 01.12.2026 zu vermieten. Der Mietpreis setzt sich wie folgt zusammen:\n\nKaltmiete: 650 €\n\nNebenkosten: 70,00 €\n\nHeizkosten: 150,00 €\n\nGarage: 30,00 €\n\nKüche: 35,00 €\n\nGesamtmiete: 935 €\n\nSONSTIGES\n\nBitte online Anfragen!\n\nBEACHTEN SIE:\n\nDer Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n\n* Ihr Alter\n\n* Sind Haustiere vorhanden, wenn ja, welche?\n\n* Was machen Sie beruflich?\n* Rauchen Sie?\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-21T15:12:48.222369+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Vollmöblierte Erdgeschoss Wohnung mit Balkon in Oberhausen",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 52.0,
+      "Lokalizacja": "46149 Oberhausen",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 56.2,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/vollmoeblierte-erdgeschoss-wohnung-mit-balkon-in-oberhausen/3538853108-203-1290",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d47e15e-b80a-4611-bcd0-3d824edb2c0f?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d47e15e-b80a-4611-bcd0-3d824edb2c0f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/18f6d70b-5dc1-4653-bacb-9413ea76d01d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebebb1ca-905a-4154-9320-9791ccc42ae4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3566f4e-bc04-4c83-ac23-0e1cd5836d1b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/adb27022-3bfd-47a6-a6de-1dd104878f22?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16780514-717b-4313-ad75-9080fe85a4c6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/501e86b5-1fcd-4ba1-93ec-268919003617?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/540acea1-3b0b-4d07-b75c-028d6b713b40?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66e0e75b-9978-4b79-9717-6354e4049fd5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/129d72db-38c1-4d8d-8ee6-37413fdca8c6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a636d57-f027-4d41-a8df-0737bfd5d84b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b45c5c4c-4b32-48fa-ba84-7e2a963edd28?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 800.0,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\nWohnen ohne Renovierungsstress – diese wunderschöne Wohnung ist bereits liebevoll und geschmackvoll eingerichtet und ab sofort verfügbar\n\nIn einem gepflegten 6-Familienhaus am Stadtrand von Oberhausen-Buschhausen, an der Grenze zu Neumühl, vermieten wir eine charmante Wohnung, die mit ihrer wohnlichen Atmosphäre und einer praktischen, hochwertigen Ausstattung überzeugt.\n\nWohnzimmer – gemütlich und stilvoll\nEine moderne Schrankwand, eine gemütliche Couchecke und eine Essgruppe sorgen für ein harmonisches Wohnambiente (ohne Deko und Fernseher)\n\nKüche – bestens ausgestattet\nDie moderne Einbauküche ist mit den wichtigsten Elektrogeräten ausgestattet. Herd, Backofen, Spülmaschine und Dunstabzugshaube sind bereits vorhanden\n\nSchlafzimmer – Komfort für erholsame Nächte\nDas Schlafzimmer bietet eine komfortable Einrichtung mit einem vollelektrischen Boxspringbett, einem geräumigen Spiegel - Schwebetüren - Kleiderschrank und einer großen Kommode\n\nBadezimmer – hell und freundlich\nDas Badezimmer verfügt über eine Badewanne und ein Fenster, das für angenehmes Tageslicht und eine gute Lüftungsmöglichkeit sorgt.\n\nFlur – praktisch, einladend und gut organisiert\nSchon beim Betreten der Wohnung empfängt Sie ein freundlich gestalteter Flur, der mit praktischen Möbeln ausgestattet ist. Eine Kommode, eine Garderobe, ein Spiegel und ein Schuhschrank sorgen für Ordnung und bieten nützlichen Stauraum.\n\nGarage\nAuf Wunsch können Sie auf unserem direkt hinter dem Haus befindlichen Garagenhof eine Garage anmieten\n\nLage\nDie Wohnung befindet sich am Stadtrand von Oberhausen-Buschhausen, an der Grenze zu Duisburg-Neumühl.\n\nIhre Vorteile auf einen Blick\no\tWunderschöne, vollmöblierte Erdgeschosswohnung\no\tBalkon für entspannte Stunden im Freien\no\tGepflegtes 6-Familienhaus\no\tGesamte Wohnung mit neuwertigem Laminat\no\tKeine Renovierung notwendig\no\tModern und wohnlich eingerichtetes Wohnzimmer\no\tKüche inklusive Elektrogeräten\no\tKomfortables Schlafzimmer mit vollelektrischem Boxspringbett\no\tBadezimmer mit Badewanne und Fenster\no\tAttraktive Lage in Oberhausen-Buschhausen, an der Grenze zu Neumühl\no Keller vorhanden\no Garage optional anzumieten\n\nUnser Angebot richtet sich ausschließlich an Nichtraucher.\nHaustiere sind leider nicht gestattet\nEnergieausweis gültig bis zum 26.07.2031 - Energieverbrauch 111,2 kWh/(m².a)",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-12T21:00:15.339122+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
