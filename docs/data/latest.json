@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-13T18:58:39.239768+00:00",
-  "count": 104,
+  "generated_at": "2026-10-14T00:11:54.905997+00:00",
+  "count": 103,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-13T18:58:39.239768+00:00",
+      "last_updated": "2026-10-14T00:11:54.905997+00:00",
       "interval_hours": 3
     }
   },
@@ -1611,35 +1611,6 @@
       "Opis": "Badewanne • Keller • Garage/Stellplatz\n\nDiese charmante 2-Zimmer-Wohnung mit 48 m² Wohnfläche befindet sich im 1. Obergeschoss eines 1937 erbauten Hauses in Bocholt. Die Wohnung besticht durch ihren gemütlichen Charakter und einen gepflegten Laminatboden. Das Badezimmer ist mit Badewanne und Fenster ausgestattet und sorgt für ein angenehmes Wohngefühl. Die Küche ist ohne Einrichtung und bietet Ihnen somit die Möglichkeit zur individuellen Gestaltung. Beheizt wird die Wohnung durch eine Kombitherme. Ideal für Singles oder Paare, die eine behagliche Wohnung in zentraler Lage suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-121-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Neues Wannenbad mit hellen Fliesen und Fenster\n• Waschküche mit eigenem Waschmaschinenstellplatz\n• eigener Mieterkeller\n• neue Wohnungseingangstüre\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\nDie in den Nebenkosten enthaltenen TV-Gebühren in Höhe von derzeit 12,50 EUR dienen ausschließlich der transparenten Kostendarstellung.\nDiese stellen weder Kaltmiete noch umlagefähige Betriebskosten im klassischen Sinne dar, sondern eine zusätzliche vertragliche Leistung des Vermieters, die im Rahmen des Mietvertrages geregelt wird.\nAusführliche Informationen finden Sie auf www.leg-wohnen.de.Dort stehen Ihnen außerdem die Produktinformationsblätter sowie die Vertragszusammenfassungen zu den jeweiligen Angeboten und Leistungen zur Verfügung.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-121-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-30T18:26:25.821381+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 -Zimmer Wohnung",
-      "Cena (€)": 500.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 35.0,
-      "Lokalizacja": "46509 Xanten",
-      "Odległość (km)": 20.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": 26.0,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung/3537042601-203-1403",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91467181-6d5e-4a18-b429-57e3142cf261?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91467181-6d5e-4a18-b429-57e3142cf261?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91467181-6d5e-4a18-b429-57e3142cf261?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e85e638b-69b4-4374-ae68-401b70199cb3?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45460a10-99bf-40d1-be49-59a0f7200f7b?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4c5efaf-86db-41c1-b710-5b771ddd80e4?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be45fc2d-9393-4fa5-8545-39ff9dfdb999?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "2-Zimmer-Wohnung in ländlicher Lage in Xanten zu günstigen Konditionen\n\nIn Xanten biete ich eine gemütliche, möblierte 2-Zimmer-Wohnung, ca. 35m², in ruhiger, ländlicher Umgebung zu einer vergünstigten Miete an.\n\nIm Gegenzug wünsche ich mir von der zukünftigen Mieterin bzw. dem zukünftigen Mieter gelegentliche Unterstützung im Alltag. Dazu können beispielsweise leichte Tätigkeiten im Haushalt, kleinere Besorgungen oder gelegentliches Kochen gehören.\n\nDer Umfang der Unterstützung und die genauen Mietkonditionen werden selbstverständlich im Vorfeld gemeinsam besprochen und verbindlich vereinbart.\n\nGesucht wird eine zuverlässige, verantwortungsbewusste und freundliche Person, die sich ein alternatives Wohnmodell mit gegenseitiger Unterstützung vorstellen kann.\n\nBei Interesse freue ich mich über eine kurze Nachricht mit einigen Informationen zu Ihrer Person.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-10T20:50:10.852084+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
