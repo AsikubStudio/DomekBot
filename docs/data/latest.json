@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T14:24:19.261794+00:00",
-  "count": 106,
+  "generated_at": "2026-10-14T23:45:44.569769+00:00",
+  "count": 111,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-14T14:24:19.261794+00:00",
+      "last_updated": "2026-10-14T23:45:44.569769+00:00",
       "interval_hours": 3
     }
   },
@@ -914,6 +914,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Platz für Lieblingsmenschen. / Room for the people you love.",
+      "Cena (€)": 330.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 46.78,
+      "Lokalizacja": "47166 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": 55.3,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72b69a4a-c011-40b5-9f7a-55d4725c7026?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72b69a4a-c011-40b5-9f7a-55d4725c7026?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7eabc64-8b2f-4f71-8d76-29b82e5a380a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc077ec3-b0fd-48f7-a8ec-8994584f087a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd6f877f-7883-4e8d-9374-91bd0078d683?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af683ef8-d5fe-4bd9-b401-0ff653bba414?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e3a5c10-0382-4a6a-a352-766c2d569d23?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fef0915c-9d67-4b96-b02e-a32dc4ccedc8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/53662809-a62f-4a70-bdaf-6ed3d760f6da?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/574d3cec-fd41-4107-9c6d-a4f32dbf2e3e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80face46-dcba-4682-8d3b-3e56b5c5e789?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8baf8c78-febe-477b-ad5a-3cd0d046790f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/955b68cf-9b76-4315-b308-00f06cade292?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 495.0,
+      "Opis": "Badewanne • Keller\n\nDie Bremenstraße bilden einen zusammenhängenden Abschnitt der historischen Josef-Kolonie im Duisburger Stadtteil Alt-Hamborn. Die Siedlung, im Volksmund „Jupp-Kolonie' genannt, wurde im frühen 20. Jahrhundert als Werkswohnungsbau errichtet und ist bis heute als geschlossenes, ruhiges Wohnquartier erhalten. Die Gebäude fügen sich in ein einheitliches städtebauliches Bild ein und bieten ein Wohnumfeld mit eigenem, gewachsenem Charakter in unmittelbarer Nähe zur Abtei Hamborn.\n\nKaltmiete: 330,00 EUR\nBetriebskosten: 165,00 EUR\nHeizkosten: 90,00 EUR\nWarmmiete: 585,00 EUR\n\nACHTUNG!\nAnmietung über das Jobcenter für einen Ein-Personenhaushalt ist NICHT möglich. Die Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n__________________________________________________\n\nThe Bremenstraße form a cohesive section of the historic Josef-Kolonie in the Duisburg district of Alt-Hamborn. The settlement, known locally as the 'Jupp-Kolonie', was built in the early 20th century as workers' housing and remains intact today as a self-contained, quiet residential quarter. The buildings fit into a uniform urban streetscape and offer a residential environment with its own distinct, organically grown character in immediate proximity to Hamborn Abbey.\n\nBase rent (net): 330.00 EUR Service charges (operating costs): 165.00 EUR Heating costs: 90.00 EUR Total rent (including utilities): 585.00 EUR\n\nATTENTION! Renting through the Jobcenter for a single-person household is NOT possible. The gross base rent exceeds the maximum amount set by the authority.\n\n# Ausstattung\n- alle Räume sind von der Diele aus begehbar\n- trotz Dachschrägen gute Stellmöglichkeiten\n- geweißte Wände mit Raufasertapete\n- Küche mit weißem Fliesenspiegel und Vinylboden\n- Laminatboden in den Räumen\n- Wannenbad mit Fenster, Weiß gefliest mit Sprossenheizung\n- Gegensprechanlage\n- eigenes Kellerabteil\n- Hausmeisterservice\n- Treppenhausreinigung\n\n______________________________________________\n\nAll rooms are accessible from the hallway\nGood furniture placement options despite sloped ceilings\nWhitewashed walls with woodchip wallpaper (lining paper)\nKitchen with white tile splashback and vinyl flooring\nLaminate flooring in the rooms\nBathroom with bathtub and window, white tiles, column radiator (Sprossenheizung)\nIntercom system\nPrivate basement storage room\nCaretaker service\nStairwell cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nAlt-Hamborn ist ein Stadtteil, der hält, was er verspricht. Die Abteischule und die Abtei-Grundschule an der Jägerstraße – gerade neu gedacht und erweitert – geben Kindern im Quartier einen guten Start. Das Abtei-Gymnasium und das Leibniz-Gymnasium begleiten sie weiter. Kitas sind da, das Helios Klinikum und das Katholische Klinikum St. Johannes ebenfalls. Abends lädt das Abteizentrum ein, der Botanische Garten Hamborn gibt Raum zum Durchatmen. Und wer morgens in Bus oder Bahn steigt, ist schnell dort, wo er hin muss. Ein Viertel, das funktioniert – und in dem die Jupp-Kolonie seit über hundert Jahren ihren Platz hat.\n\n__________________________________________________\n\nAlt-Hamborn is a district that delivers on its promises. The Abteischule and the Abtei-Grundschule on Jägerstraße – currently reimagined and expanded – give children in the neighbourhood a strong start. The Abtei-Gymnasium and Leibniz-Gymnasium accompany them further. Childcare is available, as are the Helios Klinikum and the Katholisches Klinikum St. Johannes. In the evenings, the Abteizentrum invites, and the Hamborn Botanical Garden offers space to breathe. And those who board a bus or tram in the morning quickly reach wherever they need to be. A neighbourhood that works – and in which the Jupp-Kolonie has held its place for over a hundred years.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n___________________________________\n\nAre you interested in this apartment and would like to view it? Then don't waste any time and get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we will get back to you.\n\nThis offer is non-binding, subject to errors and changes.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 825-118-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 128 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1900\n- Wesentliche Energieträger: Fernwärme, Gas\n\nAnbieter-Objekt-ID: 825-118-M",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-14T23:45:44.567926+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Gepflegte 2-Zimmer-Wohnung im Erdgeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
       "Cena (€)": 332.0,
       "Pokoje": 2.0,
@@ -959,9 +992,14 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/oeffentlich-gefoerderte-2-zimmer-wohnung-fuer-2-personen-in-krechting/3514157777-203-1381",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7c4d5b-3db7-4582-b5fd-11e0ccda7599?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7c4d5b-3db7-4582-b5fd-11e0ccda7599?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/c3/c3c23c16-8e2c-4360-bb72-eba5de3cc636?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b510c008-7c23-4400-80d1-750a6d4070d3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4d9fa5e-49a0-4ec5-8d1d-55d57851e033?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 441.0,
+      "Opis": "Terrasse • Badewanne • WBS benötigt\n\nObjektreferenz: 1.71.9\n\nDie angebotene 2-Zimmer-Wohnung befindet sich im Erdgeschoss eines gepflegten Zweifamilienhauses aus dem Baujahr 1998. Mit einer Wohnfläche von 63,63 m² bietet die Wohnung eine praktische und gut durchdachte Raumaufteilung.\nNeben einem gemütlichen Schlafzimmer verfügt die Wohnung einen direktem Zugang zur Terrasse. Das Tageslichtbad ist mit einem Fenster ausgestattet und sorgt für eine angenehme Belüftung sowie eine freundliche Atmosphäre.\n\n# Weitere Angaben\n- Verfügbar ab: 01.01.2027\n- Objektzustand: gepflegt\n- Bodenbelag: Kunststoff\n\n# Lagebeschreibung\nDie Lage zeichnet sich durch eine ruhige Wohnatmosphäre sowie naturnahes Wohnen aus und bietet gleichzeitig eine gute Anbindung an die umliegenden Städte Rhede und Bocholt. Einkaufsmöglichkeiten für den täglichen Bedarf, Kindergärten, Schulen sowie weitere Einrichtungen des öffentlichen Lebens befinden sich in der näheren Umgebung und sind in wenigen Minuten erreichbar. Eine Bushaltestelle befindet sich in fußläufiger Entfernung und gewährleistet eine gute Anbindung an den öffentlichen Nahverkehr.\n\n# Sonstiges\nAlle Angaben ohne Gewähr.\n\nHINWEIS ZUR BEWERBUNG:\nUm Ihnen den bestmöglichen Service zu bieten, können Sie sich bei uns digital bewerben. Kopieren Sie den untenstehenden Link in die Adresszeile Ihres Browsers und folgen Sie der Anleitung.\n\nhttps://tenant.immomio.com/apply/0ab55bf6-81c5-4371-9f92-b93f26c3c3c9\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: Gas\n- Energieverbrauch: 113 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Ausstellungsdatum: 15.02.2019\n- Baujahr (gemäß Energieausweis): 1998\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1.71.9-SGwJwP",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-08T09:15:51.261000+00:00"
     },
@@ -978,7 +1016,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4548b2b-7815-4aa2-9f00-75e5ef88788e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/8758cbe1-c643-4486-9ce3-d96d22fc1aee?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -997,6 +1035,39 @@
       "Opis": "Badewanne • Haustiere erlaubt\n\nDas weitläufige Ensemble aus An der Abtei 46–58, Bremenstraße 10–18, Glücksaufstraße 5 und 11 sowie Steigerstraße 1, 7a und 11a in Duisburg bildet ein vielseitiges Wohnquartier, das durch seine Größe und Vielfalt verschiedenste Wohnbedürfnisse abdeckt. Die Häuser fügen sich in ein gewachsenes, lebendiges Wohnumfeld ein und bieten solide, alltagstaugliche Wohnqualität für unterschiedliche Lebenslagen. Das Ensemble steht für Wohnen mit Substanz – verlässlich, übersichtlich trotz seiner Breite, und mit dem Charakter eines Quartiers, das weiß, was es seinen Bewohnern schuldet.\n\nKaltmiete: 355,00 EUR\nBetriebskosten: 155,00 EUR\nHeizkosten: 90,00 EUR\nWarmmiete: 600,00 EUR\n\nACHTUNG!\nAnmietung über das Jobcenter für einen Ein-Personenhaushalt ist NICHT möglich. Die Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n__________________________________________________\n\nThe extensive ensemble comprising An der Abtei 46–58, Bremenstraße 10–18, Glücksaufstraße 5 and 11, and Steigerstraße 1, 7a, and 11a in Duisburg forms a versatile residential quarter that, through its scale and variety, caters to a wide range of living needs. The buildings are embedded in an established, lively neighbourhood and offer solid, practical residential quality for different stages of life. The ensemble stands for housing with substance – dependable, manageable despite its breadth, and with the character of a neighbourhood that knows what it owes its residents.\n\nBase rent: EUR355.00\nUtility costs: EUR155.00\nHeating costs: EUR90.00\nTotal rent (incl. utilities): EUR600.00\n\nNOTE!\nRenting through the Jobcenter for a one-person household is NOT possible. The gross base rent (rent plus utility costs) exceeds the assessment limit set by the authority.\n\n# Ausstattung\n- alle Räume sind von der Diele aus begehbar\n- großer Wohnbereich; kleineres Schlafzimmer\n- geweißte Wände mit Raufasertapete\n- großzügige Küche mit weißem Fliesenspiegel und Vinylboden\n- grauer Laminatboden in den Räumen\n- Wannenbad mit Fenster, Weiß gefliest mit Sprossenheizung\n- Vinylboden in heller Holzoptik\n- Gegensprechanlage\n- Hausmeisterservice\n- Treppenhausreinigung\n__________________________________\n\nAll rooms accessible from the hallway\nLarge living area; smaller bedroom\nWhitewashed walls with textured wallpaper\nGenerous kitchen with white tiled splashback and vinyl flooring\nGrey laminate flooring in the rooms\nBathroom with tub, window, white tiles, towel radiator\nVinyl flooring in a light wood-look design\nIntercom system\nCaretaker service\nStaircase cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Objekte liegen im Stadtteil Alt-Hamborn im Duisburger Norden – dem historischen Kern des Stadtbezirks Hamborn. Alt-Hamborn ist ein gewachsenes Wohnviertel mit einer Mischung aus historischer und neuerer Bebauung sowie einer internationalem Gemeinschaft. Das Viertel verfügt über eine etablierte Infrastruktur: Die Jägerstraße als Hauptgeschäftsstraße, der Hamborner Altmarkt mit dreimal wöchentlichem Markt sowie das St. Johannes-Hospital prägen das Alltagsleben. Kulturell ist das Quartier durch die Prämonstratenser-Abtei Hamborn – gegründet 1136, geweiht 1170 – und das Abteizentrum mit regelmäßigem Kulturprogramm bereichert. Der Botanische Garten Hamborn und der Stadtpark bieten grüne Erholungsflächen im direkten Umfeld. Der Landschaftspark Duisburg-Nord ist als überregionales Freizeitziel gut erreichbar.\n\n__________________________________________________\n\nThe properties are situated in the Alt-Hamborn district in northern Duisburg – the historic core of the Hamborn borough. Alt-Hamborn is an established residential neighbourhood with a mix of historic and more recent architecture and an international community. The district has a well-developed infrastructure: Jägerstraße as the main shopping street, the Hamborner Altmarkt with its market three times a week, and St. Johannes Hospital all shape everyday life. Culturally, the neighbourhood is enriched by the Premonstratensian Hamborn Abbey – founded in 1136 and consecrated in 1170 – and the Abteizentrum, which hosts a regular programme of classical music, cabaret, and the arts. The Hamborn Botanical Garden and city park offer green recreational spaces in the immediate vicinity. The Landschaftspark Duisburg-Nord is easily accessible as a major regional leisure destination.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n_________________________________\n\nInterested in this apartment and would like to arrange a viewing?\nThen don't waste any time — get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we'll get back to you.\n\nThis offer is non-binding, subject to errors.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 440-1600078-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 152.5 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1952\n- Wesentliche Energieträger: Fernwärme\n\nAnbieter-Objekt-ID: 440-1600078-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-23T12:32:39.995656+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Schöne Dachgeschoss- Wohnung in Kleve-Kellen",
+      "Cena (€)": 360.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 36.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 6.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-dachgeschoss-wohnung-in-kleve-kellen/3541218769-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85af48e2-1ae1-4e16-a4a5-75e7270153db?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85af48e2-1ae1-4e16-a4a5-75e7270153db?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1159622-a17a-4cc0-ba9b-6f896daeec9a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/cc860289-0b48-45ca-9d07-182c9aa708ad?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04b1518a-616f-4d58-866b-9288182f5620?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b83d4427-72fe-4f1d-9b81-fd4a79440413?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85af48e2-1ae1-4e16-a4a5-75e7270153db?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1159622-a17a-4cc0-ba9b-6f896daeec9a?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/cc860289-0b48-45ca-9d07-182c9aa708ad?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04b1518a-616f-4d58-866b-9288182f5620?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b83d4427-72fe-4f1d-9b81-fd4a79440413?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/448ef214-a225-4982-8ce3-2a21e0f33979?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1bf8969f-0c59-4569-aaf9-1a0955e8e26a?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Renovierte Dachgeschosswohnung in der 2. Etage eines ruhigen 6 Parteienhauses in Kleve- Kellen am Anfang des Postdeichs. Die Wohnung besteht aus 2 Zimmern, 1 Küche, 1 Badezimmer mit Wanne und einem großen (ca. 23 qm) zusätzlichen Hobbyraum im Souterrain mit Heizung. Die Wohnung kann teilmöbliert gemietet werden, zudem ist auch eine gute Einbauküche mit Elektrogeräten vorhanden. Laminatböden, Gemeinschaftskeller für Fahrräder, Gaszentralheizung (Energieausweis vorhanden). Vermietet wird zum 01.11.2026 nur an 1 Person, keine WG. Haustiere nicht erlaubt. Bitte stellen Sie sich bei Interesse ausführlich vor und geben Sie eine Telefonnummer zur Kontaktaufnahme an.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-14T23:45:44.567926+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1175,7 +1246,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d28b33e-6535-49a1-8978-e975403434f6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f13147a9-1c94-4fb4-9b39-ff0ee9b089ed?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1227,6 +1298,39 @@
       "Opis": "Balkon\n\nDie charmante Wohnung im EG (Zugang mit wenigen Stufen) verfügt über drei geräumige Zimmer, die viel Platz für gemütliches Wohnen bieten. Auf dem sonnigen Balkon kann man entspannen und die frische Luft genießen.\n\nDie verkehrsgünstige Lage ist optimal, um Geschäfte des täglichen Lebens zu erreichen.\n\nZu der Wohnung gehört selbstverständlich ein Kellerraum.\n\nEnergieausweis ist beantragt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-06T15:16:30.836295+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer Dachgeschosswohnung in Kleve-Materborn",
+      "Cena (€)": 430.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 52.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 11.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-dachgeschosswohnung-in-kleve-materborn/3541186332-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/448ef214-a225-4982-8ce3-2a21e0f33979?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/448ef214-a225-4982-8ce3-2a21e0f33979?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26308f9a-09d8-4dcd-b72e-8a94f36cee49?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33bf9fd9-2a3c-4900-ad7a-33348c742ced?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e204ebea-7e89-4cf9-aabb-1fb2c4e71733?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ecc9939-f53e-4135-8436-ffda0d627ceb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b8e8c5a-8499-4bba-ad47-3b64643de200?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a240cb86-933c-43d1-90e6-51c25acf78ac?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/070e8407-cbaa-46a8-9d0e-b8ae4077c5d9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0b6e3f6-37ec-4319-b9c1-3e5197d5be82?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/50bcf042-0b72-4e3c-b080-cde60f1c23b3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/723a8e17-cc38-473c-9f34-12d67958eacc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/bed031b9-5756-40c9-9828-eac19c397d31?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 580.0,
+      "Opis": "Einbauküche • Keller • Garten/-mitnutzung\n\nWir suchen einen passenden Nachmieter für unsere Wohnung schöne und gepflegte Dachgeschosswohnung im beliebten Stadtteil Kleve-Materborn (nahe Rewe).\n\nBei der Wohnung handelt es sich um eine Dachgeschosswohnung in Kleve-Materborn Nähe des Rewe.\nDie Wohnung ist 52qm2 groß und verfügt über 2 Räume (einem Wohn- und einem Schlafzimmer), einem Badezimmer mit Dusche und einer Küche. Das Wohnzimmer und die Küche sind durch einen harmonischen Türbogen offen miteinander verbunden, was ein modernes und freundliches Raumgefühl schafft.\n\nIn der Wohnung befindet sich eine passgenau angefertigte Einbauküche von Alma Küchen, welche gegen einen fairen Abschlag übernommen werden kann.\nBei Bedarf können nach Absprache auch weitere Möbelstücke sowie die Lampen und Gardinen im Schlafzimmer gegen ein Entgelt übernommen werden.\n\nZu der Wohnung gehört ein eigener Kellerraum sowie einen Gemeinschaftskellerraum zum sicheren Abstellen von Fahrrädern.\n\nDie Kaltmiete liegt bei 430€ / Monat.\nDie Nebenkosten liegen\n- bei Belegung mit einer Person bei 150€ / Monat,\n- ⁠bei Belegung mit zwei Personen bei 180€ / Monat.\nHieraus ergibt sich eine Gesamtmiete von 580€ / Monat\n\nDie Vermieterin legt Wert auf ein langfristiges Mietverhältnis. Es sollte auf eine ordentliche Kündigung für die Dauer von 2 Jahren verzichtet werden. Zudem muss ein festes Arbeitverhältniss seit mindestens einem Jahr nachgewiesen werden.\n\nBei Interesse senden Sie uns gerne Ihre persönlichen Daten zu (Name, Alter, Berufssituation und Angaben zu einziehenden Personen).",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-14T23:45:44.567926+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1307,7 +1411,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b91ab737-a9b5-4070-8a21-6bb0bcf6fdc1?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/6062ee65-27c4-4c75-91aa-11662f60bba8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1410,6 +1514,39 @@
       "Opis": "Bei der angebotene Immobilie handelt es sich um eine moderne 2-Zimmer-Wohnung im 3. Obergeschoss eines gepflegten Mehrfamilienhauses in Duisburg-Walsum. Besonders hervorzuheben ist die moderne Ausstattung, die ein angenehmes Wohnambiente schafft. Die Diele bildet das Herz der Einheit und gewährt Ihnen Zugang zu allen Räumlichkeiten. Das großzügig geschnittene Wohnzimmer bietet Ihnen viel Platz für eine Sofaecke, sowie einen Essbereich. Angrenzend befindet sich die Küche, die mit einem weißen Fliesenspiegel ausgestattet ist. Das Tageslichtbad ist mit großen Fliesen in weiß und anthrazit gestaltet und verfügt über eine Dusche. Zudem befindet sich hier der Anschluss für eine Waschmaschine. Angerundet wird die Wohnung durch dem Schlafzimmer.\nInsgesamt die ideale Immobilie für Singles oder Paare!\n\n# Ausstattung\n- moderne Ausstattung\n- gepflegtes Mehrfamilienhaus\n- Dachgeschoss ohne Aufzug\n- helle Räumlichkeiten\n- Tageslichtbad mit Dusche\n- zeitlose Bodenbeläge\n\n# Weitere Angaben\n- Verfügbar ab: 2026-08-01\n- Objektzustand: Erstbezug\n\n- Hinweis zur Kaution: 3 Kaltmieten Kaution\n\n# Lagebeschreibung\nDuisburg ist die westlichste Großstadt des Ruhrgebietes und mit knapp 496.000 Einwohnern die 15-größte Stadt. Die Stadt liegt im Knotenpunkt eines dichten überregionalen Autobahn-, Schienen- und\nWasserwegenetzes, die sie an das Ruhrgebiet, den größten industriellen Ballungsraum Europas, anbindet. Der Stadtteil Walsum grenzt an den Rhein und die Nachbarbezirke Altenrade und Hamborn. Das Objekt befindet sich in einem ruhigen Wohngebiet. Supermärkte, Banken, Cafés usw. sind im Umfeld bequem zu erreichen.\n\n# Sonstiges\nAnsprechpartner: Frau Denise Wolniczak\nE-Mail Kontakt: vertrieb@dahlheim-immobiliengruppe.de\nTelefonnummer: 0211 3679799999\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: Gas\n- Endenergiebedarf: 148.6 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Ausstellungsdatum: 28.02.2025\n- Gültig bis: 2035-02-27\n- Baujahr (gemäß Energieausweis): 1978\n- Letzte Modernisierung: 2026\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: W10-WE8",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-24T12:30:50.794630+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Sanierte 2-Zimmer Wohnung in bevorzugter Wohnlage",
+      "Cena (€)": 460.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 42.0,
+      "Lokalizacja": "46399 Bocholt",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": 23.4,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/sanierte-2-zimmer-wohnung-in-bevorzugter-wohnlage/3540992055-203-1851",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8ba9cb0-e47d-40ba-aadd-4d99cfec57ad?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8ba9cb0-e47d-40ba-aadd-4d99cfec57ad?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1d72f31-425d-494e-8709-64d3002186fc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/352781fb-b900-4fdf-86b7-d5f3380e3c52?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d7cb591-725a-4f29-b2fd-dbf425447b48?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/295c8a37-2d0e-46c6-a0b1-ae6a93a9b9b7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/979ecc9d-70fa-44c5-8a39-90f5005cc171?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/958e4282-f2da-4b5b-bbdf-b91d51b0aff4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/800d620d-99e1-44df-9972-ad9a816013d1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/714907e1-26cb-4680-a639-231c64d84628?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d85c2c9-8347-4ca7-916d-214832224754?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a750372-0574-426d-848c-09005bda7dd0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6ff7ccd4-e242-4d3b-b2cf-5adcac677f68?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 520.0,
+      "Opis": "Einbauküche • Badewanne • Keller\n\nZu vermieten ist eine 2-Zimmer-Wohnung im Hochparterre eines sanierten 3-Parteien-Altbaus in einer ruhigen Seitenstraße in bevorzugter Wohnlage. Die Wohnfläche beträgt ca. 42 m². Zur Ausstattung gehören eine Einbauküche aus dem Jahr 2024, steuerbare elektrische Rollos sowie eine Videotürsprechanlage. Das Gebäude wird über eine effiziente Wärmepumpe beheizt. Ein eigener, abschließbarer Kellerraum und zwei überdachte Fahrradstellplätze sind ebenfalls vorhanden. Im Waschkeller gibt es einen eigenen Wohnungsanschluss für Waschmaschine und Trockner sowie Platz zum Wäscheaufhängen.\n\nDie Wohnung befindet sich in einer zentralen und gehobenen Wohnlage von Bocholt.\n\nKosten:\n\nKaltmiete: 460€\nNebenkosten: 60€\nHeizkosten: nicht in den Nebenkosten enthalten\nGesamtmiete: 520€ (zzgl. Heizkosten)\nKaution: 1380€\n\nBausubstanz & Energieausweis\n\nObjektzustand: Saniert\nHeizungsart: Wärmepumpe\nWesentliche Energieträger: Strom\nEnergie­ausweistyp: Bedarfsausweis\nEndenergie­bedarf: 69,1 kWh/(m²*a)\nEnergie­effizienz­klasse: B\nBaujahr laut Energieausweis: 1899",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-14T23:45:44.567926+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2160,7 +2297,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-erdgeschosswohnung-in-bocholt-ideal-fuer-singles-oder-paare/3525951041-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eedaf89-1108-4edf-9626-c6cd04a1b86b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d08fb4f-205f-46a4-936e-a2c1393c79f7?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61f6509e-4363-4461-b29f-de2c62e92134?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81082d40-50ef-4f77-a9c3-2085969736e7?rule=$_59.AUTO",
@@ -2474,6 +2611,39 @@
       "Opis": "Kalt Miete 580,00€\nBetriebs und Nebenkosten 100,00€\nHeizkosten 125,00€\nStromkosten 50,00€\nGesamt pro Monat: 855,00€\n\nGehaltsnachweise und eine Positive Schufa Auskunft sind vor der Besichtigung erforderlich.\n\nDiese helle 2-Zimmer Wohnung mit ca. 46 m² Wohnfläche befindet sich im 2. Obergeschoss eines Mehrfamilienhauses in Wesel. Die Wohnung verfügt über ein Badezimmer.\nEin besonderes Highlight ist der Balkon, der zum Entspannen einlädt. Ein Keller bietet zusätzlichen Stauraum. Die Wohnung wird ab dem 01.11.2026 verfügbar sein. Haustiere sind nicht gestattet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T06:15:08.477201+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Mietwohnung Single",
+      "Cena (€)": 585.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": 47.5,
+      "Łazienka": "tak",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung-single/3541009621-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e3a51c9-1c5b-4694-984c-a6fc1b3216c6?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e3a51c9-1c5b-4694-984c-a6fc1b3216c6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0ca05f2a-d5cb-4914-976d-6eeacef19ea1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b54013c-1579-419d-896c-6164e5732257?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/3257a111-9d94-4b25-9ae7-ec4aefc45c90?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b2fdba1-c97f-4f84-bb14-408cbae66b75?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a72bf420-99e2-42eb-83df-be1a83025641?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44369d68-3e74-4913-aa49-71b004419d50?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0af5d3a4-59e0-446b-8d0a-32c1ea63872c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90941592-2e57-436c-814e-0132d6c1fdb9?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9f528-e44c-444b-b52b-5492745a5c35?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/dec9797e-7dc4-410b-89e3-215ad0c4f534?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/865025dc-b7c9-4851-9b98-c8d993fa4ee5?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 585.0,
+      "Opis": "Fußbodenheizung • Neubau • Keller\n\nDie Mietwohnung in Dinslaken hat 45 mº, 2 Zimmer mit 1 Schlafzimmer und 1 Badezimmer. Sie befindet sich im 1.\nObergeschoss und ist kernsaniert mit Lominatböden, großzügiger Wohnküche und Kellerraum. Warmmiete: 585\n€, Kaution: 1.215 €, verfügbar ob November.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-14T23:45:44.567926+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
