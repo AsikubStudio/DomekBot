@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T10:58:38.688800+00:00",
+  "generated_at": "2026-10-15T16:26:53.409175+00:00",
   "count": 109,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-15T10:58:38.688800+00:00",
+      "last_updated": "2026-10-15T16:26:53.409175+00:00",
       "interval_hours": 3
     }
   },
@@ -925,7 +925,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e35fbbf-6803-4142-bcfd-1ecf33174cb5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d36a51e0-b522-4dce-b2c9-c63862a5e323?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72b69a4a-c011-40b5-9f7a-55d4725c7026?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7eabc64-8b2f-4f71-8d76-29b82e5a380a?rule=$_59.AUTO",
@@ -980,31 +980,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Öffentlich geförderte 2 Zimmer Wohnung für 2 Personen in Krechting",
-      "Cena (€)": 344.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.63,
-      "Lokalizacja": "46414 Rhede",
-      "Odległość (km)": 22.0,
-      "Czas dojazdu (min)": 33,
-      "Odległość od 's-Heerenberg (km)": 32.1,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/oeffentlich-gefoerderte-2-zimmer-wohnung-fuer-2-personen-in-krechting/3514157777-203-1381",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7c4d5b-3db7-4582-b5fd-11e0ccda7599?rule=$_59.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7c4d5b-3db7-4582-b5fd-11e0ccda7599?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/c3/c3c23c16-8e2c-4360-bb72-eba5de3cc636?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b510c008-7c23-4400-80d1-750a6d4070d3?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4d9fa5e-49a0-4ec5-8d1d-55d57851e033?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 441.0,
-      "Opis": "Terrasse • Badewanne • WBS benötigt\n\nObjektreferenz: 1.71.9\n\nDie angebotene 2-Zimmer-Wohnung befindet sich im Erdgeschoss eines gepflegten Zweifamilienhauses aus dem Baujahr 1998. Mit einer Wohnfläche von 63,63 m² bietet die Wohnung eine praktische und gut durchdachte Raumaufteilung.\nNeben einem gemütlichen Schlafzimmer verfügt die Wohnung einen direktem Zugang zur Terrasse. Das Tageslichtbad ist mit einem Fenster ausgestattet und sorgt für eine angenehme Belüftung sowie eine freundliche Atmosphäre.\n\n# Weitere Angaben\n- Verfügbar ab: 01.01.2027\n- Objektzustand: gepflegt\n- Bodenbelag: Kunststoff\n\n# Lagebeschreibung\nDie Lage zeichnet sich durch eine ruhige Wohnatmosphäre sowie naturnahes Wohnen aus und bietet gleichzeitig eine gute Anbindung an die umliegenden Städte Rhede und Bocholt. Einkaufsmöglichkeiten für den täglichen Bedarf, Kindergärten, Schulen sowie weitere Einrichtungen des öffentlichen Lebens befinden sich in der näheren Umgebung und sind in wenigen Minuten erreichbar. Eine Bushaltestelle befindet sich in fußläufiger Entfernung und gewährleistet eine gute Anbindung an den öffentlichen Nahverkehr.\n\n# Sonstiges\nAlle Angaben ohne Gewähr.\n\nHINWEIS ZUR BEWERBUNG:\nUm Ihnen den bestmöglichen Service zu bieten, können Sie sich bei uns digital bewerben. Kopieren Sie den untenstehenden Link in die Adresszeile Ihres Browsers und folgen Sie der Anleitung.\n\nhttps://tenant.immomio.com/apply/0ab55bf6-81c5-4371-9f92-b93f26c3c3c9\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: Gas\n- Energieverbrauch: 113 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Ausstellungsdatum: 15.02.2019\n- Baujahr (gemäß Energieausweis): 1998\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1.71.9-SGwJwP",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-08T09:15:51.261000+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Frisch renoviert. Frisch verliebt. / Freshly renovated. Falling in love all over again.",
       "Cena (€)": 355.0,
       "Pokoje": 2.0,
@@ -1016,7 +991,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd3cfc6e-bee8-45ea-8c76-40f499d176f8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/ddb036f0-df2f-4202-bcfc-40d7be7f705f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1246,7 +1221,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2ea949cb-1462-432b-bba6-ef00533e7c4e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b98d0507-1f37-4f2d-8306-48af0ec04fca?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1334,39 +1309,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "** Helle 2-Zimmer-Wohnung mit ruhiger und dennoch zentraler Lage **",
-      "Cena (€)": 430.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 48.33,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/-helle-2-zimmer-wohnung-mit-ruhiger-und-dennoch-zentraler-lage-/3508590185-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cc0582-3ce8-4397-9c97-19103c80b6f9?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cc0582-3ce8-4397-9c97-19103c80b6f9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ad7bdd3-7e80-4763-9489-d12b7a96b06f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae303e69-c82f-4ac7-8c81-b1474160e5e0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36f33389-461e-4949-a6ce-5397645a3086?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c4b0e7-4bd9-4ae7-bacd-e60b6cdb8366?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c39f120-4388-4358-a608-d8c46d9cff49?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83073014-5e8e-4e55-8fa3-8deccc22aabf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ea6787f-b7fd-4536-ae1f-4b180feb1546?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9e028312-7b6a-4bc8-9c26-9ebbb9fc0c47?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a67bbb28-2b4d-4b84-b5f6-87e1875e30ef?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/696cafdb-dd87-4ccc-b268-5d5190553f11?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5e83b4b-afbf-47d0-9c82-4f8beb8b448b?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 610.0,
-      "Opis": "Balkon\n\nVirtueller Rundgang: https://my.matterport.com/show/?m=Vvjjt2fsxYf\n\nIhr neues Zuhause steht bereit! Diese charmante 2-Zimmer-Wohnung befindet sich im Erdgeschoss eines Wohngebäudes aus dem Jahr 1958. Mit einer Wohnfläche von rund 48 m² bietet sie genügend Platz für Sie und Ihre Liebsten.\n\nDie Wohnung überzeugt durch ihre hellen, freundlichen Räume, die durch die Fenster viel Tageslicht einlassen. Der Boden in stilvoller Holzoptik verleiht den Zimmern eine warme und einladende Atmosphäre, perfekt zum Entspannen und Wohlfühlen.\n\nDas Badezimmer ist mit einer Badewanne ausgestattet und bietet genügend Platz für Ihre tägliche Pflegeroutine. Dank eines Fensters wird der Raum wunderbar mit natürlichem Licht durchflutet, was für ein angenehmes Ambiente sorgt.\n\nDie Küche beeindruckt mit ihrer Helligkeit und einem dekorativen Fliesenspiegel an der Wand. Eine Einbauküche ist nicht vorhanden, was Ihnen die Möglichkeit gibt, den Raum ganz nach Ihren Vorstellungen zu gestalten und Ihrer Kreativität freien Lauf zu lassen.\n\nSie möchten das Objekt besichtigen? Dann senden Sie uns gerne eine Nachricht über das entsprechende Kontaktformular. Wir freuen uns auf Ihre Anfrage!\n\n# Ausstattung\n+ Boden in Holzoptik\n+ Lichtdurchflutete Räume\n+ Badewanne\n\n# Weitere Angaben\n- Verfügbar ab: 2026-10-16\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Skagerrakstraße 71 befindet sich in einer ruhigen Wohngegend im Stadtteil Oberhausen. Die Straße ist von Einfamilienhäusern und kleinen Mehrfamilienhäusern geprägt, was für eine angenehme und familiäre Atmosphäre sorgt.\n\nIn unmittelbarer Nähe der Adresse befinden sich verschiedene Einkaufsmöglichkeiten, Schulen und Kindergärten, die bequem zu Fuß oder mit dem Fahrrad erreicht werden können. Auch die Anbindung an den öffentlichen Nahverkehr ist gut, so dass man schnell in die Innenstadt gelangen kann.\n\nDie Umgebung bietet zudem zahlreiche Freizeitmöglichkeiten wie Parks, Spielplätze und Sportanlagen. Auch das nahegelegene Naherholungsgebiet lädt zu ausgedehnten Spaziergängen oder Radtouren ein.\n\nInsgesamt zeichnet sich die Lage der Skagerrakstraße 71 durch ihre ruhige und dennoch zentrale Lage aus, was sie zu einem attraktiven Wohnort für Familien und Pendler macht.\n\n# Sonstiges\n** Es wird ein Indexmietvertrag vereinbart. **\n\n# Energie\n- Baujahr: 1958\n- Heizungsart: Fernwärme\n\nAnbieter-Objekt-ID: MV-WKG735",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Renovierte 2-Zimmer-Wohnung im 1. Obergeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
       "Cena (€)": 430.0,
       "Pokoje": 2.0,
@@ -1411,7 +1353,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f36f4d4-d674-4b1c-9279-d5fa362b1d5c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e88f1130-c0ff-4bd4-9918-7fb7491e59cc?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1485,6 +1427,39 @@
       "Opis": "Balkon • Badewanne\n\nDiese charmante Etagenwohnung zur Miete in Duisburg bietet ein komfortables und modernes Wohnambiente. Die Wohnung befindet sich in einem gepflegten Mehrfamilienhaus und besticht durch ihre hellen und freundlichen Räumlichkeiten. Für die Anmietung ist ein entsprechender Wohnberechtigungsschein notwendig.\n\nDie Wohnung verfügt über:\n- drei geräumige Zimmer, die ausreichend Platz für Ruhe und Entspannung bieten\n- schöner Balkon mit ordentlich Platz\n\nDie Wohnung ist mit modernen Bodenbelägen und einer ansprechenden Farbgestaltung versehen, die eine warme und einladende Atmosphäre schaffen. Die großzügigen Fenster sorgen für eine optimale Belichtung aller Räume und lassen natürliches Licht in die Wohnung eindringen.\n\nZusätzliche Highlights dieser Immobilie:\n- Ruhige Wohngegend mit guter Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten\n\nDiese Etagenwohnung in Duisburg bietet alles, was Sie für ein komfortables und stilvolles Wohnen benötigen. Vereinbaren Sie noch heute einen Besichtigungstermin und überzeugen Sie sich selbst von den Vorzügen dieser Immobilie.\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: modernisiert\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen, Laminat, Kunststoff\n\n- Hinweis zur Kaution: 1.324,02 €\n\n- Nutzfläche: ca. 72,35 m²\n\n# Lagebeschreibung\nEntdecken Sie Ihr neues Zuhause in der charmanten Stadt Duisburg, einer lebendigen Metropole am Rhein. Diese Mietwohnung befindet sich in einer der begehrtesten Wohnlagen, die sowohl Ruhe als auch urbanes Flair vereint.\n\n- Zentrale Lage: Nur wenige Gehminuten vom Stadtzentrum entfernt, genießen Sie die Nähe zu Einkaufsmöglichkeiten, Restaurants und kulturellen Einrichtungen.\n- Ausgezeichnete Verkehrsanbindung: Die Wohnung liegt verkehrsgünstig mit direkter Anbindung an öffentliche Verkehrsmittel. Die Autobahnen A40 und A59 sind nur wenige Minuten entfernt, sodass Pendler von optimalen Verbindungsmöglichkeiten profitieren.\n- Grüne Oasen: In direkter Umgebung finden Sie zahlreiche Parks und Erholungsgebiete. Der beliebte Duisburger Stadtpark und der Kaiserberg mit seinem Zoo laden zu entspannten Spaziergängen ein.\n- Bildungseinrichtungen: In der Nähe befinden sich renommierte Schulen und Kindergärten, ideal für Familien.\n- Gesundheitswesen: Profitieren Sie von der Nähe zu Krankenhäusern und medizinischen Einrichtungen, die eine hervorragende gesundheitliche Versorgung gewährleisten.\n\nErleben Sie das Beste aus beiden Welten – Stadtleben und Natur – in dieser hervorragenden Lage in Duisburg.Entfernungen:\nFlughafen 24,5 km\nFernbahnhof 1,4 km\nBus 0 km\n\nAnbieter-Objekt-ID: Beecker Straße 182, 2.OG links",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Seniorengerechte Wohnung im Laurentius-Haus Uedem",
+      "Cena (€)": 446.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.41,
+      "Lokalizacja": "47589 Uedem",
+      "Odległość (km)": 18.0,
+      "Czas dojazdu (min)": 34,
+      "Odległość od 's-Heerenberg (km)": 22.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/seniorengerechte-wohnung-im-laurentius-haus-uedem/3541576448-203-1148",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebc3d60b-8f91-4c12-864a-e70f9792d500?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebc3d60b-8f91-4c12-864a-e70f9792d500?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76719744-3104-4f07-b7fa-f1ca62ed95c4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b1b890a-a4a3-41db-a6d0-42f802f489d1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d17de708-ef6f-4dc5-aafd-9323d9def83d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1aa47743-9587-4450-8804-132dd53d95f1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5d748c4-4241-4c63-96b2-1af5d651966e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d759185a-1fc2-4d27-a363-dc9fd686c137?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f956bea1-6722-4f46-b655-5c08a5f695e8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39a3c48f-d51f-4556-b088-d5af37402c6d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/521c73ba-5b9d-4f49-ad00-516eb732f497?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76ad6e7b-0e88-414a-bea3-7cbb1620f913?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 641.0,
+      "Opis": "Balkon • Stufenloser Zugang • Neubau • Aufzug\n\nDie Wohnung befindet sich im Staffelgeschoss des Laurentius-Hauses in Uedem und ist daher hervorragend für Senioren geeignet. Es handelt sich um eine barrierefreie, gepflegte Neubauwohnung mit schönen Dachterrassen. Die Wohnung verfügt über eine Küche, ein Wohn- und ein Schlafzimmer. Im Bad befindet sich eine bodentiefe Dusche neben Waschbecken und WC. In selbigem kann auch die Waschmaschine stehen. Über den Aufzug können die verschiedenen Etagen des Hauses problemlos erreicht werden.\nDie Fotos sind Beispielbilder.\n\nEine Besichtigung der Wohnung können Interessenten gern unter 02831-9395-88 zu den üblichen Telefonzeiten (9:00 – 15:00 Uhr) mit uns abstimmen. Bei Nichterreichbarkeit kann ein Rückrufwunsch in der Zentrale Caritasverbandes Geldern Kevelaer e.V. hinterlegt werden.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-15T16:26:53.406414+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2058,6 +2033,39 @@
       "Opis": "Balkon • Keller\n\nDiese ansprechende 2-Zimmer-Wohnung in Duisburg präsentiert sich nach einer umfassenden Modernisierung im Jahr 2026 als Erstbezug. Die 62 m² Wohnfläche verteilen sich auf zwei helle Zimmer sowie ein Badezimmer und befinden sich in der zweiten Etage eines gepflegten Mehrfamilienhauses aus dem Jahr 1970. Ein besonderes Highlight ist der Balkon, der zum Verweilen einlädt. Zusätzlich sorgt ein eigener Kellerraum für praktischen Stauraum. Die Beheizung erfolgt über eine Etagenheizung (moderne Infrarotheizung). Das Objekt ist ab sofort verfügbar und bietet eine flexible Regelung bezüglich der Tierhaltung.\n\n\\- neues Bad\n\n\\- moderne Infrarotheizungen\n\nDie Holtener Straße liegt im Duisburger Stadtteil Obermarxloh, der durch eine gute Anbindung an den öffentlichen Nahverkehr überzeugt. Buslinien und die U-Bahn-Linie U79 ermöglichen eine schnelle Verbindung zum Stadtzentrum. Das lebendige Viertel bietet eine angenehme Infrastruktur mit einer Mischung aus Familien und Berufstätigen.\n\nHeizkosten sind nicht in den Nebenkosten enthalten und laufen über den privaten Stromtarif.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Frisch renovierte 2-Zimmer-Wohnung  im Herzen von Wesel",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 68.5,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renovierte-2-zimmer-wohnung-im-herzen-von-wesel/3541702321-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1adcc129-8e5b-413f-b901-1aaf24d32ff8?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1adcc129-8e5b-413f-b901-1aaf24d32ff8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/924f9152-7705-4f60-9db9-ef438e93af53?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c65ffc7d-72de-4c94-b984-d870c0b8fdce?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6feef80-adda-4ea8-9486-a2f7bab0c013?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/867efd54-1370-40ed-abdb-2ae4854287b3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1adcc129-8e5b-413f-b901-1aaf24d32ff8?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/924f9152-7705-4f60-9db9-ef438e93af53?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c65ffc7d-72de-4c94-b984-d870c0b8fdce?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6feef80-adda-4ea8-9486-a2f7bab0c013?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/867efd54-1370-40ed-abdb-2ae4854287b3?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02e61415-6afd-47e2-88fb-db4b42feff70?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76818945-76c1-4e52-ac6d-c4f5c8a058b9?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Die angebotene Wohnung kann mit folgenden Merkmalen aufweisen:\n\n•ca. 68,5 m2 Wohnfläche\n•1 Schlafzimmer\n•gemütliche Wohnküche mit Zugang zum Balkon\n•neue Böden, neue Innentüren, frisch renoviert\n•Badezimmer mit Wanne\n•Kellerraum\n•verfügbar Anfang 2027\n•Tierhaltung nach Absprache\n•Nebenkosten: mtl. 190 € (inkl. Heizkosten bei 1-2 Personen)\n\n# Weitere Angaben\n- Objektzustand: vollständig renoviert\n\n# Lagebeschreibung\nDie angebotene Wohnung befindet sich mitten im Zentrum von Wesel. Die Kreisstadt Wesel liegt inmitten der idyllischen Kulturlandschaft Niederrhein und vereint sowohl urbane als auch ländliche Strukturen zu einer besonderen Standort- und Lebensqualität.\n\nGeprägt durch die vielseitigen Erholungs- und Freizeitmöglichkeiten, der Lage direkt an Rhein und Lippe, einem reichhaltigen Kulturangebot sowie ausgeprägten Shoppingmöglichkeiten ist Wesel attraktiver Ausflugs- und Anziehungspunkt in der Region. Mit ihren rund 62.000 Einwohnern gehört die Stadt an Rhein und Lippe der Ballungsrandzone des Ruhrgebiets an und verfügt über eine hervorragende Infrastruktur sowie eine verkehrsgünstige Lage.\n\nFlaniermeile, Prachtboulevard oder Champs-Elysées des Niederrheins: diese selbstbewussten Beinamen kursieren über Wesels neu gestaltete Fußgängerzone. Inmitten dieser befindet sich die angebotene Wohnung.\nVielseitige Geschäfte sowie Gastronomie, die Anbindung an den öffentlichen Nahverkehr sowie die ärztliche Versorgung sind fußläufig erreichbar.\n\nÜber die A3 kommt man innerhalb von 1 Stunde ins Ruhrgebiet, die niederländische Grenze (Venlo) erreichen Sie ebenfalls in nur 1 Stunde Fahrzeit über die A57.\n\n# Sonstiges\nEs liegt ein Energiebedarfsausweis vor.\nDieser ist gültig bis 15.7.2029.\nEndenergiebedarf beträgt 103.00 kwh/(m²*a).\nWesentlicher Energieträger der Heizung ist Gas.\nDas Baujahr des Objekts lt. Energieausweis ist 2007.\nDie Energieeffizienzklasse ist D.\n\nSonstiges:\nEs wird ein Mietverhältnis mit einem befristeten Kündigungsverzicht über 24 Monaten angestrebt.\n\nKaution:\nIm Falle der Anmietung ist eine Kaution in Höhe von 3 Monatskaltmieten in bar, als Bürgschaft oder in Form einer Kautionsversicherung beim Vermieter zu hinterlegen!\n\nHinweis:\nAlle Informationen wurden vom Makler mit der notwendigen Sorgfalt veröffentlicht. Da wir meist auf Informationen der Auftraggeber angewiesen sind, können wir keine Gewähr bzw. Garantie für die Richtigkeit übernehmen.\n\nAllgemeine Geschäftsbedingungen:\nUnsere bei diesem Angebot zugrundeliegenden Allgemeinen Geschäftsbedingungen können in unseren Geschäftsräumen oder auf unserer Homepage unter dem Punkt „Impressum“ eingesehen werden.\n\nEnergieausweis:\nArt: Energieverbrauchsausweis\nVerbrauch: 103 kWh/m² * a\nEnergieträger: Gas\nBaujahr: 2007\nEnergieeffizienzklasse: D\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: GAS\n- Endenergiebedarf: 103 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Gültig bis: 2029-07-15\n- Baujahr (gemäß Energieausweis): 2007\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2026-025",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-15T16:26:53.406414+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
