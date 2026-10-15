@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T16:26:53.409175+00:00",
-  "count": 109,
+  "generated_at": "2026-10-15T21:01:03.375386+00:00",
+  "count": 110,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-15T16:26:53.409175+00:00",
+      "last_updated": "2026-10-15T21:01:03.375386+00:00",
       "interval_hours": 3
     }
   },
@@ -925,7 +925,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d36a51e0-b522-4dce-b2c9-c63862a5e323?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/336cd0e9-6920-4868-bf20-4b2ee1150729?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72b69a4a-c011-40b5-9f7a-55d4725c7026?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7eabc64-8b2f-4f71-8d76-29b82e5a380a?rule=$_59.AUTO",
@@ -958,7 +958,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/gepflegte-2-zimmer-wohnung-im-erdgeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3482988307-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/888c2b09-0726-4ad0-b918-c1ceb05953dc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88b592e8-fa9e-4556-833a-b67249ecb965?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/888c2b09-0726-4ad0-b918-c1ceb05953dc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c943d742-dfe0-44ee-a886-c32b1c9f8f77?rule=$_59.AUTO",
@@ -980,6 +980,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Schöne Dachgeschoss Wohnung Dinslaken Lohberg",
+      "Cena (€)": 350.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 40.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": 47.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-dachgeschoss-wohnung-dinslaken-lohberg/3541956881-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b104fd1e-1a37-43bb-8cc0-8ee8ee4ce98c?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b104fd1e-1a37-43bb-8cc0-8ee8ee4ce98c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a26d3f4c-22fc-493c-9751-075f1649f899?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afeb3992-5a11-4a8a-8dbd-83494f2a33d3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c8547010-e331-4c3e-91dc-e4cc2b10ed40?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/204828de-bdad-4ac0-b0dd-d3b597634e8a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f16f4397-05d3-4fd7-9ef5-69e009241e25?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22cdae18-4011-4788-87d7-8ce12f8cc899?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c01cf87e-9188-4897-bbc1-d0834effb26b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c97e103-61ec-474a-a45c-ccc8d812d862?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/698a0e85-c8fb-4a5d-95a5-b778b198e792?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ea70ccb-89ab-4308-b383-d5c8c15fab6a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/482637e8-bcaa-4332-9b78-a6ab7da95212?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 550.0,
+      "Opis": "Biete hier eine schöne, helle Wohnung in Dinslaken Lohberg\nDiese gut geschnittene Wohnung befindet sich in einem freundlichen\nMehrfamilienhaus.\nWir Bieten eine Schöne 2\nZimmer Dachgeschoss Wohnung dritte Etage in Dinslaken Lohberg\n\nAusgestattet ist die Wohnung mit Laminat- Beheizt werden die Räume mit einer Zentralheizung ( Fernwerme\nGas ).\n\nWeitere Angaben\nObjektzustand: gepflegt Bodenbelag: Fliesen, Lominot\nTermin nach Absprache",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-15T21:01:03.372554+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Frisch renoviert. Frisch verliebt. / Freshly renovated. Falling in love all over again.",
       "Cena (€)": 355.0,
       "Pokoje": 2.0,
@@ -991,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/ddb036f0-df2f-4202-bcfc-40d7be7f705f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff34ede3-d28f-4a8e-9e1f-8422bbe024af?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1090,7 +1123,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-3-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3471855237-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fcd23525-e4bb-4ccd-8533-a28734bc7cec?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/837c2080-b2fa-4dae-abcb-368c6f9d6a54?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05703c32-5598-4a8d-9503-38cfe059bacd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49d48ca6-4958-462a-9e77-a3f217e70486?rule=$_59.AUTO",
@@ -1221,7 +1254,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b98d0507-1f37-4f2d-8306-48af0ec04fca?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0dc8cd7-7204-4b55-9636-94864e1df011?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1320,7 +1353,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-1-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453791-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/326d14b1-646b-47be-b39f-ad62476a418a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3d625eb-7d8b-42dc-a315-df11d2d49ec4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f81f9e-b7a0-4596-a85d-4620cf44d6b9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/4168403d-08a7-492d-9237-0a8eee835bab?rule=$_59.AUTO",
@@ -1353,7 +1386,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e88f1130-c0ff-4bd4-9918-7fb7491e59cc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31ff1312-938e-4f50-8d82-61502c912aa3?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1569,7 +1602,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/bezugsfertig-helle-2-zimmer-wohnung-in-marxloh-300-als-willkommensgeschenk-/3528728350-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/059c8125-db9b-4868-b851-7e59228bf2b5?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68032913-ad70-4894-9875-12f79607d255?rule=$_1.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2221cdba-eeeb-4447-afef-6957867d4ad7?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79fc4ccc-3aa2-48cb-ab86-32a30620d708?rule=$_59.AUTO",
@@ -2297,6 +2330,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt – 48 m², 1. Etage",
+      "Cena (€)": 559.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-etagenwohnung-in-bocholt-48-m-1-etage/3409417539-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16d5691f-8dd0-41fe-95ef-900ca3da580e?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16d5691f-8dd0-41fe-95ef-900ca3da580e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db1ab1d5-8aa5-431c-8dfc-bccdc20a3006?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89bc22a1-7f74-49f3-a405-6eab4c56d0eb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0931e603-2d63-48d2-b38a-22213bc0e3ae?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb93b8a9-6ce9-4c7d-8888-130b53fe67f2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9ae489e5-a8f9-4874-b865-7061e0de8112?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac2884ab-4182-42c5-b978-45f4068c28db?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcb7d03a-e4ce-4bcd-8a9b-50601c8174f3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9cf238e-d867-4991-9587-ce2252348dc5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1caf0d32-009e-40ad-b9dc-0d4655fb32ee?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a750372-0574-426d-848c-09005bda7dd0?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 733.0,
+      "Opis": "Keller • Garage/Stellplatz\n\nDiese charmante 2-Zimmer-Wohnung in Bocholt bietet auf 48 m² eine gemütliche Atmosphäre. Das 1937 erbaute Gebäude beherbergt die Wohnung im 1. Stock. Das Bad ist mit Fenster und ausgestattet, die Küche ist ohne Einrichtung und bietet Ihnen die Möglichkeit zur individuellen Gestaltung. Laminatboden sorgt für eine warme und einladende Wohnatmosphäre. Beheizt wird die Wohnung komfortabel mit einer Kombitherme. Ideal für alle, die eine behagliche Wohnung in zentraler Lage suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-116-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Gasetagenheizung\n• Fahrradkeller\n• Mieterkeller\n• Wasch- und Trockenkeller\n• Bad mit Dusche und Fenster\n• Isolierverglasung\n• Mediaanschluss\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer attraktiven Lage, die besonders durch ihre Nähe zu verschiedenen Bildungseinrichtungen besticht, darunter die Clemens-Dülmer-Schule sowie die Overberg-Schule. Für Familien mit Kindern ist der Kubaai-Spielplatz in bequemer Gehweite ein idealer Ort zum Spielen und Verweilen. Einkaufsmöglichkeiten sind ebenfalls gut erreichbar: Die Supermärkte ALDI Süd und REWE bieten eine breite Auswahl für den täglichen Bedarf. Erholsame Stunden im Grünen verspricht der nahegelegene Museumsgarten, der zu Spaziergängen und Freizeitaktivitäten im Freien einlädt. Medizinische Versorgung ist durch mehrere Arztpraxen in der Umgebung gewährleistet, darunter die Praxen von M.D. Omar Dakik, Dr. med. Ulrich Holtkamp und Dr. Peter E. van de Velde. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 14 Bushaltestellen, beispielsweise an der Schwartzstraße, sind schnell erreichbar, und auch zwei Bahnhöfe, unter anderem Bocholt, liegen in akzeptabler Entfernung.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\nDie in den Nebenkosten enthaltenen TV-Gebühren in Höhe von derzeit 12,50 EUR dienen ausschließlich der transparenten Kostendarstellung.\nDiese stellen weder Kaltmiete noch umlagefähige Betriebskosten im klassischen Sinne dar, sondern eine zusätzliche vertragliche Leistung des Vermieters, die im Rahmen des Mietvertrages geregelt wird.\nAusführliche Informationen finden Sie auf www.leg-wohnen.de.Dort stehen Ihnen außerdem die Produktinformationsblätter sowie die Vertragszusammenfassungen zu den jeweiligen Angeboten und Leistungen zur Verfügung.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-116-M",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-15T21:01:03.372554+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "2-Zimmer Wohnung inkl. Stellplatz in Voerde Friedrichsfeld",
       "Cena (€)": 560.0,
       "Pokoje": 2.0,
@@ -2327,39 +2393,6 @@
       "Opis": "Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung\n1. OG\nMit Einbauküche\nGas-Zentralheizung\nTreppenhaus- und Gartenpflege und Winterdienst extern vergeben\nDemnächst frisch renoviert",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2,5 Zimmer Wohnung in ruhiger Lage / Duisburg Neumühl",
-      "Cena (€)": 560.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 62.0,
-      "Lokalizacja": "47167 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-5-zimmer-wohnung-in-ruhiger-lage-duisburg-neumuehl/3514514735-203-2145",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c72348-1c6e-4bd7-b8a1-e9e72fa13a77?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c72348-1c6e-4bd7-b8a1-e9e72fa13a77?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eea40e55-e236-402d-b3d0-17584c160f26?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/074253b4-9715-459a-b98f-10c2e14ac71d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/5257cf51-3d0a-4997-b23a-cd38d279902e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92df4c64-9b12-439d-b19f-f5119a71497e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/8660d301-043d-45bb-b0c8-2560c52c97c2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7afb5396-4d1a-4b86-93cf-e7cc1b4e4f32?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4127f13-a64c-42f1-8e67-27554d1cc544?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad2a800-2914-4fe6-904b-c0256cb0ed23?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2200da10-3615-4a6b-ba4c-c78682be2f58?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4497682-6783-49f6-ab2a-b9297238e69b?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e0ef063-d413-4e14-b9df-14a00e539f94?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 740.0,
-      "Opis": "Diese gepflegte und modern ausgestattete Wohnung befindet sich in einer ruhigen Wohnlage in Duisburg-Neumühl und überzeugt durch ihren sehr guten Zustand sowie eine praktische Raumaufteilung.\n\nDie ca. 62 m² große Wohnung ist sofort bezugsfertig – Renovierung arbeiten sind nicht erforderlich. Böden, Wände und Ausstattung sind in einem gepflegten Zustand, sodass ein unkomplizierter Einzug möglich ist.\n\nAusstattung:\n\nca. 62 m² Wohnfläche\ngut geschnittener Grundriss\ngepflegter Zustand (kein Renovierungsbedarf)\nhelle Räume\nruhige Wohnlage\n\nLage:\nDie Wohnung befindet sich in Duisburg-Neumühl in einer ruhigen und angenehmen Wohngegend. Einkaufsmöglichkeiten für den täglichen Bedarf, Supermärkte, Bäckereien und weitere Geschäfte sind schnell erreichbar.\n\nAuch die Anbindung an den öffentlichen Nahverkehr ist gut, sodass umliegende Stadtteile sowie die Duisburger Innenstadt bequem erreichbar sind. Schulen, Kindergärten und Ärzte befinden sich ebenfalls in der näheren Umgebung.\n\nDie Lage bietet eine gute Kombination aus ruhigem Wohnen und praktischer Infrastruktur.\n\nMiete:\nKaltmiete: 560,00 €\nNebenkosten: 180,00 €\nWarmmiete: 740,00 €\n\nKaution: 1050,00 €\n\nSonstiges:\nIdeal geeignet für Singles oder Paare, die eine gepflegte Wohnung in ruhiger Lage suchen.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
