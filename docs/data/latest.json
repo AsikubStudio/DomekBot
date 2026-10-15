@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-15T03:28:26.236455+00:00",
-  "count": 110,
+  "generated_at": "2026-10-15T10:58:38.688800+00:00",
+  "count": 109,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-15T03:28:26.236455+00:00",
+      "last_updated": "2026-10-15T10:58:38.688800+00:00",
       "interval_hours": 3
     }
   },
@@ -925,7 +925,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72b69a4a-c011-40b5-9f7a-55d4725c7026?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e35fbbf-6803-4142-bcfd-1ecf33174cb5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72b69a4a-c011-40b5-9f7a-55d4725c7026?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7eabc64-8b2f-4f71-8d76-29b82e5a380a?rule=$_59.AUTO",
@@ -991,7 +991,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/oeffentlich-gefoerderte-2-zimmer-wohnung-fuer-2-personen-in-krechting/3514157777-203-1381",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7c4d5b-3db7-4582-b5fd-11e0ccda7599?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7c4d5b-3db7-4582-b5fd-11e0ccda7599?rule=$_59.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b7c4d5b-3db7-4582-b5fd-11e0ccda7599?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-user/images/c3/c3c23c16-8e2c-4360-bb72-eba5de3cc636?rule=$_12.JPG",
@@ -1016,7 +1016,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/8758cbe1-c643-4486-9ce3-d96d22fc1aee?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd3cfc6e-bee8-45ea-8c76-40f499d176f8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1246,7 +1246,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f13147a9-1c94-4fb4-9b39-ff0ee9b089ed?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2ea949cb-1462-432b-bba6-ef00533e7c4e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1301,7 +1301,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer Dachgeschosswohnung in Kleve-Materborn",
+      "Tytuł": "Anfragestopp - 2-Zimmer Dachgeschosswohnung in Kleve-Materborn",
       "Cena (€)": 430.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 52.0,
@@ -1311,7 +1311,7 @@
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-dachgeschosswohnung-in-kleve-materborn/3541186332-203-1125",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/anfragestopp-2-zimmer-dachgeschosswohnung-in-kleve-materborn/3541186332-203-1125",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/448ef214-a225-4982-8ce3-2a21e0f33979?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/448ef214-a225-4982-8ce3-2a21e0f33979?rule=$_59.AUTO",
@@ -1327,10 +1327,10 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/723a8e17-cc38-473c-9f34-12d67958eacc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/bed031b9-5756-40c9-9828-eac19c397d31?rule=$_59.AUTO"
       ],
-      "Czynsz z mediami (€)": 580.0,
-      "Opis": "Einbauküche • Keller • Garten/-mitnutzung\n\nWir suchen einen passenden Nachmieter für unsere Wohnung schöne und gepflegte Dachgeschosswohnung im beliebten Stadtteil Kleve-Materborn (nahe Rewe).\n\nBei der Wohnung handelt es sich um eine Dachgeschosswohnung in Kleve-Materborn Nähe des Rewe.\nDie Wohnung ist 52qm2 groß und verfügt über 2 Räume (einem Wohn- und einem Schlafzimmer), einem Badezimmer mit Dusche und einer Küche. Das Wohnzimmer und die Küche sind durch einen harmonischen Türbogen offen miteinander verbunden, was ein modernes und freundliches Raumgefühl schafft.\n\nIn der Wohnung befindet sich eine passgenau angefertigte Einbauküche von Alma Küchen, welche gegen einen fairen Abschlag übernommen werden kann.\nBei Bedarf können nach Absprache auch weitere Möbelstücke sowie die Lampen und Gardinen im Schlafzimmer gegen ein Entgelt übernommen werden.\n\nZu der Wohnung gehört ein eigener Kellerraum sowie einen Gemeinschaftskellerraum zum sicheren Abstellen von Fahrrädern.\n\nDie Kaltmiete liegt bei 430€ / Monat.\nDie Nebenkosten liegen\n- bei Belegung mit einer Person bei 150€ / Monat,\n- ⁠bei Belegung mit zwei Personen bei 180€ / Monat.\nHieraus ergibt sich eine Gesamtmiete von 580€ / Monat\n\nDie Vermieterin legt Wert auf ein langfristiges Mietverhältnis. Es sollte auf eine ordentliche Kündigung für die Dauer von 2 Jahren verzichtet werden. Zudem muss ein festes Arbeitverhältniss seit mindestens einem Jahr nachgewiesen werden.\n\nBei Interesse senden Sie uns gerne Ihre persönlichen Daten zu (Name, Alter, Berufssituation und Angaben zu einziehenden Personen).",
+      "Czynsz z mediami (€)": null,
+      "Opis": "Wir suchen einen passenden Nachmieter für unsere Wohnung schöne und gepflegte Dachgeschosswohnung im beliebten Stadtteil Kleve-Materborn (nahe Rewe).\n\nBei der Wohnung handelt es sich um eine Dachgeschosswohnung in Kleve-Materborn Nähe des Rewe.\nDie Wohnung ist 52qm2 groß und verfügt über 2 Räume (einem Wohn- und einem Schlafzimmer), einem Badezimmer mit Dusche und einer Küche. Das Wohnzimmer und die Küche sind durch einen harmonischen Türbogen offen miteinander verbunden, was ein modernes und freundliches Raumgefühl schafft.\n\nIn der Wohnung befindet sich eine passgenau angefertigte Einbauküche von Alma Küchen, welche gegen einen fairen Abschlag übernommen werden kann.\nBei Bedarf können nach Absprache auch weitere Möbelstücke sowie die Lampen und Gardinen im Schlafzimmer gegen ein Entgelt übernommen werden.\n\nZu der Wohnung gehört ein eigener Kellerraum sowie einen Gemeinschaftskellerraum zum sicheren Abstellen von Fahrrädern.\n\nDie Kaltmiete liegt bei 430€ / Monat.\nDie Nebenkosten liegen\n- bei Belegung mit einer Person bei 150€ / Monat,\n- ⁠bei Belegung mit zwei Personen bei 180€ / Monat.\nHieraus ergibt sich eine Gesamtmiete von 580€ / Monat\n\nDie Vermieterin legt Wert auf ein langfristiges Mietverhältnis. Es sollte auf eine ordentliche Kündigung für die Dauer von 2 Jahren verzichtet werden. Zudem muss ein festes Arbeitverhältniss seit mindestens einem Jahr nachgewiesen werden.\n\nBei Interesse senden Sie uns gerne Ihre persönlichen Daten zu (Name, Alter, Berufssituation und Angaben zu einziehenden Personen).",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-14T23:45:44.567926+00:00"
+      "PierwszyRaz": "2026-10-15T10:58:38.686787+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1411,7 +1411,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/6062ee65-27c4-4c75-91aa-11662f60bba8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f36f4d4-d674-4b1c-9279-d5fa362b1d5c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2027,36 +2027,6 @@
       "Opis": "Diese hübsche DG-Wohnung sucht 1-2 neue Bewohner. Komplett neu saniert in 2017, ruhige & idyllische Wohnlage. Bad mit Badewanne, Duschmöglichkeit und Fenster. Abstellraum und Keller vorhanden. Küche kann gegen ein kleines Entgelt vom Vormieter übernommen werden.\nBei Interesse kontaktieren Sie uns gern telefonisch Montags-Freitags zwischen 8.30h - 16.00h (ggf. bitten wir um Hinterlassen einer Nachricht auf unserem AB). Büro WEISS 02852 - 88 900 97",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-11T12:14:13.822035+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung zu vermieten ca.",
-      "Cena (€)": 540.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 45.0,
-      "Lokalizacja": "46562 Voerde (Niederrhein)",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 37,
-      "Odległość od 's-Heerenberg (km)": 41.5,
-      "Łazienka": "tak",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-zu-vermieten-ca-/3535937043-203-1384",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2c/2c0f3c0b-7802-4881-9f9d-1a6978d5904c?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7f7bb347-13f3-4ed3-b825-b08a1e34fe27?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/514293b5-4676-4ad5-be9e-4dadd36a6cc6?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/326d14b1-646b-47be-b39f-ad62476a418a?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b976d31b-a539-4699-9b50-3c7d5111800a?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1316910c-2821-4983-b0fd-6c070cd2164f?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f9df77d-9ad9-4694-a84f-f8c788f6b658?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Ca.45m2 in 2fam.haus ,neues Bad eingene Eingang und ruhige Lage",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-10T00:32:16.784561+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
