@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-14T23:45:44.569769+00:00",
-  "count": 111,
+  "generated_at": "2026-10-15T03:28:26.236455+00:00",
+  "count": 110,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-14T23:45:44.569769+00:00",
+      "last_updated": "2026-10-15T03:28:26.236455+00:00",
       "interval_hours": 3
     }
   },
@@ -2448,39 +2448,6 @@
       "Opis": "Balkon • Badewanne • Aufzug • Keller\n\nZur Vermietung steht eine Wohnung im 1. OG mitte in der Wiesenstraße 56, 46535 Dinslaken.\n\nGepflegtes Wohn- und Geschäftshaus direkt an der Neutor Galerie in Dinslaken. Das Haus hat einen Aufzug und wird mit Fernwärme beheizt. Zu jeder Wohnung gehören ein Balkon und ein Kellerraum. Auf der Parkpalette am Haus können Stellplätze dazu gemietet werden.\n\nEckdaten:\nWohnfläche: ca. 53 m²\nZimmer: 2\nRaumaufteilung: Wohnen/Essen, Schlafzimmer, Küche, Bad mit WC, Balkon, Keller\nEtage: 1. Obergeschoss\nKaltmiete: 567,10 €\nNebenkostenvorauszahlung: 155,00 €\nGesamtmiete: 722,10 €\nKaution: 1.701,30 €\nVerfügbar ab: 01.02.2027\n\nAusstattung:\n• Balkon\n• Aufzug im Haus\n• Kellerraum\n• Fernwärme\n• Stellplatz auf der Parkpalette anmietbar\n\nProvisionsfrei, direkt vom Eigentümer.\n\nSo geht es weiter:\nBitte füllen Sie unseren kurzen Bewerbungsbogen aus. Dort sehen Sie alle Fotos und können direkt einen Besichtigungstermin buchen:\nhttps://neu-vermietet.de/wohnung/wiesenstrasse-56-1-og-mitte-b6cea4\n\nGerne können Sie uns auch hier eine Nachricht schreiben. Sie erhalten umgehend eine Antwort mit dem Link.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-13T18:58:39.237924+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt – 54,87 m²",
-      "Cena (€)": 569.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.87,
-      "Lokalizacja": "46395 Bocholt",
-      "Odległość (km)": 24.0,
-      "Czas dojazdu (min)": 24,
-      "Odległość od 's-Heerenberg (km)": 23.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-etagenwohnung-in-bocholt-54-87-m-/3526398738-203-1849",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df647fd1-6bb9-452c-9fdc-80078b252330?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/447953df-8338-4c72-91f0-796211b7d7ac?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83ff707a-1031-4019-8a96-b50dc6ec042e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5b79911-47b8-4ec6-88b3-c9110e6b2d85?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/cc92b000-88e0-44cd-aa02-3ae7ca2f83d9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e1687f0-eb6e-46d6-b7fd-e9f3cf94e043?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a865b977-760d-4eec-b23c-70d2a7ccaae3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48ff4439-3066-4cce-aadf-837a18b7bb2a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/638b58db-851a-4b94-8c27-ba43c9295ec1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba155ffe-b769-4dc9-8d15-65f6db101977?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/94763b0f-dd04-4dea-878d-26c029712a8a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97032745-35e0-4b02-9477-979b980223b5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/447953df-8338-4c72-91f0-796211b7d7ac?rule=$_1.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Diese charmante 2-Zimmer-Wohnung befindet sich im ersten Obergeschoss (links) eines im Jahr 1998 erbauten Mehrfamilienhauses in Bocholt. Auf 54,87 m² bietet die Wohnung eine gemütliche Atmosphäre mit Laminatboden in den Wohnräumen. Das Badezimmer ist mit einem Fenster ausgestattet und verfügt über eine Badewanne. Die Küche ist ohne Einrichtung, sodass Sie Ihren eigenen Stil verwirklichen können. Die Wohnung wird beheizt mit einer modernen Heizungsanlage. Ideal für Singles oder Paare, die eine angenehme und ruhige Wohnatmosphäre suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 416-33-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Balkon\n• Tageslichtbad mit Badewanne\n• Laminatboden\n• Isolierverglasung mit Rollladen\n• gepflegt\n• Abstellraum\n• Mediaanschluss\n• Aussenstellplatz\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDer Arnikaweg befindet sich süd-westlich vom Stadtkern und besticht durch ihre zentrale Lage. Geschäfte des alltäglichen Bedarfs und Supermärkte sind fußläufig erreichbar. In kürzester Zeit ist man zudem mit dem Auto auf der Bundesstraße 67 oder 473.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 99.3 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Ausstellungsdatum: 20.11.2018\n- Baujahr (gemäß Energieausweis): 1998\n- Heizungsart: Fernwärme\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 416-33-M",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-29T12:28:29.067214+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
