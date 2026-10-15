@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T21:01:03.375386+00:00",
+  "generated_at": "2026-10-15T23:40:44.077811+00:00",
   "count": 110,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-15T21:01:03.375386+00:00",
+      "last_updated": "2026-10-15T23:40:44.077811+00:00",
       "interval_hours": 3
     }
   },
@@ -1309,39 +1309,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Anfragestopp - 2-Zimmer Dachgeschosswohnung in Kleve-Materborn",
-      "Cena (€)": 430.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 11.0,
-      "Czas dojazdu (min)": 19,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/anfragestopp-2-zimmer-dachgeschosswohnung-in-kleve-materborn/3541186332-203-1125",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/448ef214-a225-4982-8ce3-2a21e0f33979?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/448ef214-a225-4982-8ce3-2a21e0f33979?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26308f9a-09d8-4dcd-b72e-8a94f36cee49?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33bf9fd9-2a3c-4900-ad7a-33348c742ced?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e204ebea-7e89-4cf9-aabb-1fb2c4e71733?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ecc9939-f53e-4135-8436-ffda0d627ceb?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b8e8c5a-8499-4bba-ad47-3b64643de200?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a240cb86-933c-43d1-90e6-51c25acf78ac?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/070e8407-cbaa-46a8-9d0e-b8ae4077c5d9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0b6e3f6-37ec-4319-b9c1-3e5197d5be82?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/50bcf042-0b72-4e3c-b080-cde60f1c23b3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/723a8e17-cc38-473c-9f34-12d67958eacc?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/bed031b9-5756-40c9-9828-eac19c397d31?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Wir suchen einen passenden Nachmieter für unsere Wohnung schöne und gepflegte Dachgeschosswohnung im beliebten Stadtteil Kleve-Materborn (nahe Rewe).\n\nBei der Wohnung handelt es sich um eine Dachgeschosswohnung in Kleve-Materborn Nähe des Rewe.\nDie Wohnung ist 52qm2 groß und verfügt über 2 Räume (einem Wohn- und einem Schlafzimmer), einem Badezimmer mit Dusche und einer Küche. Das Wohnzimmer und die Küche sind durch einen harmonischen Türbogen offen miteinander verbunden, was ein modernes und freundliches Raumgefühl schafft.\n\nIn der Wohnung befindet sich eine passgenau angefertigte Einbauküche von Alma Küchen, welche gegen einen fairen Abschlag übernommen werden kann.\nBei Bedarf können nach Absprache auch weitere Möbelstücke sowie die Lampen und Gardinen im Schlafzimmer gegen ein Entgelt übernommen werden.\n\nZu der Wohnung gehört ein eigener Kellerraum sowie einen Gemeinschaftskellerraum zum sicheren Abstellen von Fahrrädern.\n\nDie Kaltmiete liegt bei 430€ / Monat.\nDie Nebenkosten liegen\n- bei Belegung mit einer Person bei 150€ / Monat,\n- ⁠bei Belegung mit zwei Personen bei 180€ / Monat.\nHieraus ergibt sich eine Gesamtmiete von 580€ / Monat\n\nDie Vermieterin legt Wert auf ein langfristiges Mietverhältnis. Es sollte auf eine ordentliche Kündigung für die Dauer von 2 Jahren verzichtet werden. Zudem muss ein festes Arbeitverhältniss seit mindestens einem Jahr nachgewiesen werden.\n\nBei Interesse senden Sie uns gerne Ihre persönlichen Daten zu (Name, Alter, Berufssituation und Angaben zu einziehenden Personen).",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-15T10:58:38.686787+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Renovierte 2-Zimmer-Wohnung im 1. Obergeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
       "Cena (€)": 430.0,
       "Pokoje": 2.0,
@@ -2393,6 +2360,39 @@
       "Opis": "Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung\n1. OG\nMit Einbauküche\nGas-Zentralheizung\nTreppenhaus- und Gartenpflege und Winterdienst extern vergeben\nDemnächst frisch renoviert",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2,5 Zimmer Wohnung in ruhiger Lage / Duisburg Neumühl",
+      "Cena (€)": 560.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 62.0,
+      "Lokalizacja": "47167 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 56.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-5-zimmer-wohnung-in-ruhiger-lage-duisburg-neumuehl/3514514735-203-2145",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c72348-1c6e-4bd7-b8a1-e9e72fa13a77?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c72348-1c6e-4bd7-b8a1-e9e72fa13a77?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eea40e55-e236-402d-b3d0-17584c160f26?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/074253b4-9715-459a-b98f-10c2e14ac71d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/5257cf51-3d0a-4997-b23a-cd38d279902e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92df4c64-9b12-439d-b19f-f5119a71497e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/8660d301-043d-45bb-b0c8-2560c52c97c2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7afb5396-4d1a-4b86-93cf-e7cc1b4e4f32?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b843ea33-996b-48c8-a056-f699f5938a01?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31ff1312-938e-4f50-8d82-61502c912aa3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc38a6f-8e0e-4a28-999b-b5cc2bf8404b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad2a800-2914-4fe6-904b-c0256cb0ed23?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2200da10-3615-4a6b-ba4c-c78682be2f58?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 740.0,
+      "Opis": "Diese gepflegte und modern ausgestattete Wohnung befindet sich in einer ruhigen Wohnlage in Duisburg-Neumühl und überzeugt durch ihren sehr guten Zustand sowie eine praktische Raumaufteilung.\n\nDie ca. 62 m² große Wohnung ist sofort bezugsfertig – Renovierung arbeiten sind nicht erforderlich. Böden, Wände und Ausstattung sind in einem gepflegten Zustand, sodass ein unkomplizierter Einzug möglich ist.\n\nAusstattung:\n\nca. 62 m² Wohnfläche\ngut geschnittener Grundriss\ngepflegter Zustand (kein Renovierungsbedarf)\nhelle Räume\nruhige Wohnlage\n\nLage:\nDie Wohnung befindet sich in Duisburg-Neumühl in einer ruhigen und angenehmen Wohngegend. Einkaufsmöglichkeiten für den täglichen Bedarf, Supermärkte, Bäckereien und weitere Geschäfte sind schnell erreichbar.\n\nAuch die Anbindung an den öffentlichen Nahverkehr ist gut, sodass umliegende Stadtteile sowie die Duisburger Innenstadt bequem erreichbar sind. Schulen, Kindergärten und Ärzte befinden sich ebenfalls in der näheren Umgebung.\n\nDie Lage bietet eine gute Kombination aus ruhigem Wohnen und praktischer Infrastruktur.\n\nMiete:\nKaltmiete: 560,00 €\nNebenkosten: 180,00 €\nWarmmiete: 740,00 €\n\nKaution: 1050,00 €\n\nSonstiges:\nIdeal geeignet für Singles oder Paare, die eine gepflegte Wohnung in ruhiger Lage suchen.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
