@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T16:12:13.562620+00:00",
+  "generated_at": "2026-10-16T20:36:27.771829+00:00",
   "count": 110,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-16T16:12:13.562620+00:00",
+      "last_updated": "2026-10-16T20:36:27.771829+00:00",
       "interval_hours": 3
     }
   },
@@ -991,7 +991,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0153bbd-135a-44c0-918a-af980f2c70dc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36fe20bb-1027-4e7a-94d9-29a59d5f6d80?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1189,7 +1189,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36ff4aa1-3a65-4181-9cd2-79acce2eee1a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac209f03-c5c7-4988-89f7-f395ef5133a6?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1321,7 +1321,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/400753aa-c6ef-4501-9470-20f54e6c3937?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd2a40c3-9f27-4830-91f2-12b2b2d7fb73?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1537,7 +1537,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/bezugsfertig-helle-2-zimmer-wohnung-in-marxloh-300-als-willkommensgeschenk-/3528728350-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68032913-ad70-4894-9875-12f79607d255?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43f03e12-46d7-41d3-8a2a-f73ac703bf5d?rule=$_1.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2221cdba-eeeb-4447-afef-6957867d4ad7?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79fc4ccc-3aa2-48cb-ab86-32a30620d708?rule=$_59.AUTO",
@@ -1578,6 +1578,35 @@
       "Opis": "Einbauküche • Haustiere erlaubt\n\n**Eckdaten:**\n\n* Wohnfläche: ca. 52 m²\n* Kaution: 1.404,00 € (3 Kaltmieten)\n* Badezimmer mit Dusche\n* Einbauküche vorhanden\n\n**Monatliche Gesamtmiete:**\n\n* Kaltmiete: 468,00 €\n* Küche: 50,00 €\n* Nebenkosten: 200,00 €\n* Gesamt: 718,00 € (zzgl. Strom)\n\nBei Interesse freuen wir uns über Ihre Nachricht. Bitte stellen Sie sich kurz vor und fügen Sie nach Möglichkeit bereits Angaben zu Ihrer Person sowie Ihrem Beschäftigungsverhältnis bei.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung Wesel Feldmark zu vermieten",
+      "Cena (€)": 490.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-wesel-feldmark-zu-vermieten/3542849558-203-1867",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be45fc2d-9393-4fa5-8545-39ff9dfdb999?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9fbb85d-0f6d-4e13-8bbf-337b2089d69a?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7450ac45-9869-432a-b955-a9658d9b608d?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4c5efaf-86db-41c1-b710-5b771ddd80e4?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1cf4f42f-b72b-481a-a3d3-09f341ec4ebd?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d670affe-def7-44ba-8e22-7add1b6b55a7?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Bezugsfrei ab sofort! Komfortable 2-Zi.-Erdgeschosswohnung mit Balkon & Stellplatz in Wesel-Feldmark\nObjektbeschreibung:\nAb sofort steht diese attraktive und gut aufgeteilte Erdgeschosswohnung mit ca. 55 m² Wohnfläche an der Hamminkelner Landstraße 46 zur Vermietung bereit. Die Wohnung besticht durch ihre bequeme, barrierearme Erreichbarkeit im Erdgeschoss und eignet sich ideal für Singles oder Paare. Für ein hohes Maß an Sicherheit und hervorragenden Schallschutz sorgt eine frisch eingebaute, moderne Wohnungseingangstür.\nAusstattung & Details:\n• Wohnfläche: ca. 55 m² | 2 Zimmer (Wohnzimmer, Schlafzimmer, Küche, Diele, Bad)\n• Etage: Erdgeschoss (bequem und barrierearm erreichbar)\n• Außenbereich: Gemütlicher Balkon zum Entspannen\n• Sicherheit: Neue, hochwertige Wohnungseingangstür für optimalen Schall- und Einbruchschutz\n• Parken: Eigener Pkw-Stellplatz direkt am Haus\n• Heizungsart: Effiziente Gas-Heizung\nLage:\nDie Wohnung befindet sich im beliebten und infrastrukturell bestens angebundenen Stadtteil Wesel-Feldmark. Geschäfte des täglichen Bedarfs, Supermärkte, Ärzte und Haltestellen des öffentlichen Nahverkehrs sind fußläufig in wenigen Minuten erreichbar. Auch das Naherholungsgebiet rund um den Auesee liegt für Freizeitaktivitäten praktisch vor der Tür.\nKostenübersicht:\n• Kaltmiete: 490,00 €\n• Stellplatz: 35,00 €\n• Nebenkosten (Vorauszahlung): 130,00 €\n• Gesamtmiete (Warm): 655,00 €\n• Kaution: 980,00 € (entspricht exakt 2 Kaltmieten)\nSonstiges:\nDie Wohnung ist ab sofort bezugsfrei. Besichtigungstermine sind nach Absprache zeitnah möglich. Bitte bringen Sie zur Besichtigung eine aktuelle Schufa-Auskunft und die letzten drei Gehaltsnachweise mit.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-16T20:36:27.770181+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -3147,39 +3176,6 @@
       "Opis": "**OBJEKTBESCHREIBUNG**\n\n2-Zimmer-Wohnung in Kleve Unterstadt ab dem 01.12.2026 zu vermieten. Der Mietpreis setzt sich wie folgt zusammen:\n\nKaltmiete: 650 €\n\nNebenkosten: 70,00 €\n\nHeizkosten: 150,00 €\n\nGarage: 30,00 €\n\nKüche: 35,00 €\n\nGesamtmiete: 935 €\n\nSONSTIGES\n\nBitte online Anfragen!\n\nBEACHTEN SIE:\n\nDer Eigentümer erwartet einen festen Arbeitsvertrag und eine positive Schufa-Auskunft. Aufgrund der großen Nachfrage haben wir eine automatisierte Antwort für Anfragen der Mietobjekte eingeschaltet. Bitte klicken Sie hier auf \"Interesse an diesem Objekt\" und teilen Sie uns bitte bereits hier schon folgendes mit:\n\n* Mit wie vielen Personen möchten, Sie einziehen?\n\n* Ihr Alter\n\n* Sind Haustiere vorhanden, wenn ja, welche?\n\n* Was machen Sie beruflich?\n* Rauchen Sie?\nNach vollständiger Beantwortung der Fragen stehen Sie automatisch auf der Warteliste, diese arbeiten wir nach chronologischer Reihenfolge ab. Wir werden Sie nur erneut kontaktieren, wenn Sie zu einem Besichtigungstermin eingeladen werden. Melden wir uns nicht mehr bei Ihnen, ist die Wohnung bereits vermietet. Auf eine Kündigung innerhalb der nächsten 2 Jahre sollte verzichtet werden, danach gelten die gesetzlichen Kündigungsfristen.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-21T15:12:48.222369+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Vollmöblierte Erdgeschoss Wohnung mit Balkon in Oberhausen",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/vollmoeblierte-erdgeschoss-wohnung-mit-balkon-in-oberhausen/3538853108-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26059c1b-bb31-468a-b7bb-e170c9653733?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d47e15e-b80a-4611-bcd0-3d824edb2c0f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/18f6d70b-5dc1-4653-bacb-9413ea76d01d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebebb1ca-905a-4154-9320-9791ccc42ae4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3566f4e-bc04-4c83-ac23-0e1cd5836d1b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/adb27022-3bfd-47a6-a6de-1dd104878f22?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16780514-717b-4313-ad75-9080fe85a4c6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/501e86b5-1fcd-4ba1-93ec-268919003617?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/540acea1-3b0b-4d07-b75c-028d6b713b40?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/66e0e75b-9978-4b79-9717-6354e4049fd5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/129d72db-38c1-4d8d-8ee6-37413fdca8c6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a636d57-f027-4d41-a8df-0737bfd5d84b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b45c5c4c-4b32-48fa-ba84-7e2a963edd28?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 800.0,
-      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\nWohnen ohne Renovierungsstress – diese wunderschöne Wohnung ist bereits liebevoll und geschmackvoll eingerichtet und ab sofort verfügbar\n\nIn einem gepflegten 6-Familienhaus am Stadtrand von Oberhausen-Buschhausen, an der Grenze zu Neumühl, vermieten wir eine charmante Wohnung, die mit ihrer wohnlichen Atmosphäre und einer praktischen, hochwertigen Ausstattung überzeugt.\n\nWohnzimmer – gemütlich und stilvoll\nEine moderne Schrankwand, eine gemütliche Couchecke und eine Essgruppe sorgen für ein harmonisches Wohnambiente (ohne Deko und Fernseher)\n\nKüche – bestens ausgestattet\nDie moderne Einbauküche ist mit den wichtigsten Elektrogeräten ausgestattet. Herd, Backofen, Spülmaschine und Dunstabzugshaube sind bereits vorhanden\n\nSchlafzimmer – Komfort für erholsame Nächte\nDas Schlafzimmer bietet eine komfortable Einrichtung mit einem vollelektrischen Boxspringbett, einem geräumigen Spiegel - Schwebetüren - Kleiderschrank und einer großen Kommode\n\nBadezimmer – hell und freundlich\nDas Badezimmer verfügt über eine Badewanne und ein Fenster, das für angenehmes Tageslicht und eine gute Lüftungsmöglichkeit sorgt.\n\nFlur – praktisch, einladend und gut organisiert\nSchon beim Betreten der Wohnung empfängt Sie ein freundlich gestalteter Flur, der mit praktischen Möbeln ausgestattet ist. Eine Kommode, eine Garderobe, ein Spiegel und ein Schuhschrank sorgen für Ordnung und bieten nützlichen Stauraum.\n\nGarage\nAuf Wunsch können Sie auf unserem direkt hinter dem Haus befindlichen Garagenhof eine Garage anmieten\n\nLage\nDie Wohnung befindet sich am Stadtrand von Oberhausen-Buschhausen, an der Grenze zu Duisburg-Neumühl.\n\nIhre Vorteile auf einen Blick\no\tWunderschöne, vollmöblierte Erdgeschosswohnung\no\tBalkon für entspannte Stunden im Freien\no\tGepflegtes 6-Familienhaus\no\tGesamte Wohnung mit neuwertigem Laminat\no\tKeine Renovierung notwendig\no\tModern und wohnlich eingerichtetes Wohnzimmer\no\tKüche inklusive Elektrogeräten\no\tKomfortables Schlafzimmer mit vollelektrischem Boxspringbett\no\tBadezimmer mit Badewanne und Fenster\no\tAttraktive Lage in Oberhausen-Buschhausen, an der Grenze zu Neumühl\no Keller vorhanden\no Garage optional anzumieten\n\nUnser Angebot richtet sich ausschließlich an Nichtraucher.\nHaustiere sind leider nicht gestattet\nEnergieausweis gültig bis zum 26.07.2031 - Energieverbrauch 111,2 kWh/(m².a)",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-12T21:00:15.339122+00:00"
     }
   ]
 }
