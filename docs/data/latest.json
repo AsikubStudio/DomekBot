@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:05:01.324168+00:00",
+  "generated_at": "2026-10-17T20:14:34.801099+00:00",
   "count": 109,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-17T15:05:01.324168+00:00",
+      "last_updated": "2026-10-17T20:14:34.801099+00:00",
       "interval_hours": 3
     }
   },
@@ -925,7 +925,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb0f75fa-2b3e-45e1-9bc1-e1b408fa9a71?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8fe1f7e-6160-4923-ab5d-b479759dafc2?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1024,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/056d540a-60b6-4482-a3bc-79d5aed0f88c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05f98348-41b8-4549-b90b-d5e9d9b19d68?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1222,7 +1222,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9d6be54-6dcd-4b9f-a352-ad8fd9350183?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7fa6038f-5ffb-48fc-8c69-c555e1a6388a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1354,7 +1354,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9bf5f234-496f-45f0-8c32-f5a8c5f22079?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e624422-8726-4b74-b850-bc2330497297?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1461,6 +1461,39 @@
       "Opis": "Balkon • Stufenloser Zugang • Neubau • Aufzug\n\nDie Wohnung befindet sich im Staffelgeschoss des Laurentius-Hauses in Uedem und ist daher hervorragend für Senioren geeignet. Es handelt sich um eine barrierefreie, gepflegte Neubauwohnung mit schönen Dachterrassen. Die Wohnung verfügt über eine Küche, ein Wohn- und ein Schlafzimmer. Im Bad befindet sich eine bodentiefe Dusche neben Waschbecken und WC. In selbigem kann auch die Waschmaschine stehen. Über den Aufzug können die verschiedenen Etagen des Hauses problemlos erreicht werden.\nDie Fotos sind Beispielbilder.\n\nEine Besichtigung der Wohnung können Interessenten gern unter 02831-9395-88 zu den üblichen Telefonzeiten (9:00 – 15:00 Uhr) mit uns abstimmen. Bei Nichterreichbarkeit kann ein Rückrufwunsch in der Zentrale Caritasverbandes Geldern Kevelaer e.V. hinterlegt werden.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-15T16:26:53.406414+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer-Wohnung im Grünen – ab sofort verfügbar",
+      "Cena (€)": 450.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "46569 Hünxe",
+      "Odległość (km)": 25.0,
+      "Czas dojazdu (min)": 28,
+      "Odległość od 's-Heerenberg (km)": 44.2,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-im-gruenen-ab-sofort-verfuegbar/3518150339-203-1383",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/058089a0-c3ed-4c16-8f05-3761af1dde74?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/058089a0-c3ed-4c16-8f05-3761af1dde74?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/549114aa-951b-4d09-b2a1-69753604c2a6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9ef6434-7184-4893-bd22-b2f136a4d84a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/064b5418-4562-4f39-b7a8-d9055f09dabd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49c48ef3-85ce-481c-a21b-dd23562a20a7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0358ad6-148c-4262-be9b-e5fa40ab1065?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1817846d-1d40-4a8a-b762-2a041a30421c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcc2a68c-9eba-4fd3-b88d-23ff363973a5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab055079-17ad-4283-b20b-2a050fc31dc3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/0069c3b9-ed71-41a9-8881-cde98d9baef2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/601df3dd-5bfb-460a-8bf4-1a2490c279c9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/aec30627-8542-4186-bc0a-1a20bcc86359?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 700.0,
+      "Opis": "Gemütliche 2-Zimmer-Wohnung frisch renoviert – ab sofort verfügbar\n\nAb sofort zu vermieten: schöne und gemütliche 2-Zimmer-Wohnung mit ca. 60 m² frisch renoviert in ruhiger ländlicher Lage.\n\nDie Wohnung befindet sich in einer idyllischen Umgebung, umgeben von Feldern und Wäldern. Hier haben Sie zahlreiche Möglichkeiten für Spaziergänge und Erholung in der Natur.\n\nDie Wohnung verfügt über:\n\nca. 60 m² Wohnfläche\n\nWohnzimmer mit Küche\n\nSchlafzimmer\n\nBadezimmer\n\nAbstellraum\n\nFlur\n\nMietkosten\n\nGesamtmiete: 700 € monatlich\n\nIn der Gesamtmiete sind bereits Strom, Heizung, Wasser und sonstige Nebenkosten enthalten.\n\nKaution: 1.500 €\n\nRuhige Lage mitten im Grünen\nViele Möglichkeiten für Spaziergänge in der Natur\nAngenehme und entspannte Wohnatmosphäre\n\nDie Wohnung ist ab sofort verfügbar.\n\nBei Interesse können Sie mich gerne per WhatsApp unter 0157 30830819 kontaktieren.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1709,39 +1742,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Schöne EG-Wohnung mit Balkon",
-      "Cena (€)": 494.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "46147 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 37,
-      "Odległość od 's-Heerenberg (km)": 53.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-eg-wohnung-mit-balkon/3516100878-203-1291",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7e947e9-3f49-4efd-812d-1f2345f08989?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7e947e9-3f49-4efd-812d-1f2345f08989?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/757aee28-cf4d-45e5-a173-7aaa48a45968?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/196ed5a9-d132-478b-9dec-4b58e487639d?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87988a50-fbc1-4640-892b-936f77b3af75?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e64549c1-ba9b-499a-a361-a0a284858a5f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fec9b0ce-de06-4f27-8abc-b4d3ce50d2f9?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e87a557-8788-4ec8-9d5c-8539d6a233ce?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17163af5-8563-44ec-82b6-2f5d2de0da81?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/916bc58e-7d94-446b-bd6a-de3a66a2410a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5f6f89fd-78f4-48d3-8756-e21869a304db?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11fb2196-6ed2-41bc-ab54-605f80c2e6be?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1454318-3400-4bd5-9c4e-1cfa939c15fc?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 614.0,
-      "Opis": "Balkon • Keller\n\nEs handelt sich bei der Liegenschaft um ein ruhiges 5 Parteienhaus. In wenigen Minuten haben sie alle Einkaufsmöglichkeiten von Holten erreicht.\nGerne vereinbaren wir einen individuellen Besichtigungstermin !",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Gemütliche 2-Zimmer-Wohnung in Bocholt – Freundliche Atmosphäre auf 48 m²",
       "Cena (€)": 499.0,
       "Pokoje": 2.0,
@@ -1903,39 +1903,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer-Wohnung im Grünen – ab sofort verfügbar",
-      "Cena (€)": 500.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "46569 Hünxe",
-      "Odległość (km)": 24.0,
-      "Czas dojazdu (min)": 28,
-      "Odległość od 's-Heerenberg (km)": 44.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-im-gruenen-ab-sofort-verfuegbar/3518150339-203-1383",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/058089a0-c3ed-4c16-8f05-3761af1dde74?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/058089a0-c3ed-4c16-8f05-3761af1dde74?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/549114aa-951b-4d09-b2a1-69753604c2a6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9ef6434-7184-4893-bd22-b2f136a4d84a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/064b5418-4562-4f39-b7a8-d9055f09dabd?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49c48ef3-85ce-481c-a21b-dd23562a20a7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0358ad6-148c-4262-be9b-e5fa40ab1065?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1817846d-1d40-4a8a-b762-2a041a30421c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcc2a68c-9eba-4fd3-b88d-23ff363973a5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab055079-17ad-4283-b20b-2a050fc31dc3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/0069c3b9-ed71-41a9-8881-cde98d9baef2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/601df3dd-5bfb-460a-8bf4-1a2490c279c9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/aec30627-8542-4186-bc0a-1a20bcc86359?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 700.0,
-      "Opis": "Gemütliche 2-Zimmer-Wohnung frisch renoviert – ab sofort verfügbar\n\nAb sofort zu vermieten: schöne und gemütliche 2-Zimmer-Wohnung mit ca. 60 m² frisch renoviert in ruhiger ländlicher Lage.\n\nDie Wohnung befindet sich in einer idyllischen Umgebung, umgeben von Feldern und Wäldern. Hier haben Sie zahlreiche Möglichkeiten für Spaziergänge und Erholung in der Natur.\n\nDie Wohnung verfügt über:\n\nca. 60 m² Wohnfläche\n\nWohnzimmer mit Küche\n\nSchlafzimmer\n\nBadezimmer\n\nAbstellraum\n\nFlur\n\nMietkosten\n\nGesamtmiete: 700 € monatlich\n\nIn der Gesamtmiete sind bereits Strom, Heizung, Wasser und sonstige Nebenkosten enthalten.\n\nKaution: 1.500 €\n\nRuhige Lage mitten im Grünen\nViele Möglichkeiten für Spaziergänge in der Natur\nAngenehme und entspannte Wohnatmosphäre\n\nDie Wohnung ist ab sofort verfügbar.\n\nBei Interesse können Sie mich gerne per WhatsApp unter 0157 30830819 kontaktieren.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Charmante 2 Zimmer Wohnung mit WBS",
       "Cena (€)": 504.0,
       "Pokoje": 2.0,
@@ -1999,6 +1966,39 @@
       "Opis": "**Zentrale 2-Zimmer-Wohnung im Herzen Bocholts – nahe dem alten Rathaus!**\n\nUmgeben von reichlich Bocholter Kultur befindet sich die gemütliche 2-Zimmer-Wohnung in zentraler Lage auf der Königstraße in Bocholt – mit Blickweite zum historischen Bocholter Rathaus. Beim Betreten der Wohnung gelangt man zunächst in die Diele, von der aus alle weiteren Räume bequem erreichbar sind. Die Wohnung verfügt über ein Badezimmer mit Badewanne sowie ein separates WC. Darüber hinaus stehen ein eigener Raum für die Küche und zwei weitere Zimmer zur individuellen Nutzung zur Verfügung, die sich ideal als Wohn- und Schlafzimmer eignen. Insgesamt überzeugt die Wohnung durch ihre übersichtliche und praktische Raumaufteilung sowie den einheitlichen, hellen Parkettboden, der den Räumen eine freundliche und wohnliche Atmosphäre verleiht.\n\n**Lage:**\n\n* sehr zentral und stadtnah gelegen\n* wenige Meter Fußweg zur Bocholts Stadtmitte\n* optimale Gastronomie- und Shoppingmöglichkeiten schnell erreichbar\n* gute Busanbindung\n\n**Eckdaten auf einen Blick:**\n\n* Wohnfläche: 55 m²\n* Kaltmiete: 510,00 €\n* Nebenkosten: 95,00 €\n* Kaution: 1.530,00 €\n\nEin Energieverbrauchsausweis liegt vor. Der Endenergieverbrauch des Gebäudes liegt bei 210,60 kWh/(m²\\*a).\n\n* Wesentlicher Energieträger: Gas\n* Baujahr Wärmeerzeuger: 2009",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-08T12:18:25.330254+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer Wohnung saniert 2026",
+      "Cena (€)": 522.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 58.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 28.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-saniert-2026/3543726644-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4c92e3d-05fb-405f-bb29-36607de4c1b6?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4c92e3d-05fb-405f-bb29-36607de4c1b6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41e3e2d0-a934-4215-a432-15bd793d4f9c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/815f2761-379d-4a36-a3d9-d9d2af34bffe?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82a20103-09d6-42bf-b461-3a6a11a1442c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b0588079-19f7-4198-b161-35674eefc004?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11733dbf-bcf4-4bd3-acfc-4c3721841ac5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79efeb37-4c5b-47ad-9da5-80d648e6e6b6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5cde81c-e413-4fb5-a5a1-c267067b7b00?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/9009b66c-ee3d-4cba-8466-e408771040f5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99c025a0-e81c-4b47-8f81-51c047ccae14?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12802a7f-4f1b-4d85-8345-7bcc3c76986d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/459cf8c6-a480-4ebb-a3df-ef36911bf340?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Die 2-Zimmer Wohnung wurde im Jahr 2026 saniert und verfügt über einen Balkon, einen Abstellraum im Keller und einem Verschlag im Dachboden.\nDas Mehrfamilienhaus ist aus dem Jahr 1971.\nZur Wohnung gehört eine Garage auf dem großzügig bemessenen Garagenhof.\nZum Abstellen eines Fahrrades ist ebenfalls ein ebenerdiger Raum vorhanden.\n\n# Ausstattung\nBalkon, Keller, Duschbad, Fliesen\n\nBemerkungen:\nDie Wohnung wurde im Jahr 2026 saniert.\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: saniert\n- Bodenbelag: Fliesen, Kunststoff\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDas Objekt befindet sich im östlichen Stadtgebiet von Bocholt. Eine Bushaltestelle befindet sich in direkter Nähe.\nInfrastruktur (im Umkreis von 5 km):\nApotheke, Lebensmittel-Discount, Allgemeinmediziner, Kindergarten, Grundschule, Hauptschule, Realschule, Gymnasium, Gesamtschule, Öffentliche Verkehrsmittel\n\n# Sonstiges\nHeizungsart: Zentralheizung\nEnergieträger: Öl\n\nHausverwaltung Meyer GmbH\nIm Königsesch 8, 46395 Bocholt\nAmtsgericht Coesfeld, HRB 9983\nGeFü:Dipl. Ing. (FH) Martin Meyer\nUSt-ldNr.:DE247184600\n\nGrundrisse:\n- https://www.ohne-makler.net/immobilie/file/1643511.pdf (Grundriss)\n\nSonstige Unterlagen:\n- https://www.ohne-makler.net/immobilie/file/1643512.pdf (Energieausweis)\n\nohne-makler (OM) ist weder Anbieter noch Vermittler der Immobilie. OM betreibt eine Plattform für Immobilieneigentümer, die unter anderem die gleichzeitige Veröffentlichung einzelner Inserate auf mehreren Immobilienportalen ermöglicht. Die Inhalte dieser Inserate werden ausschließlich von Dritten verantwortet. Für die Richtigkeit, Vollständigkeit oder Rechtmäßigkeit der Angaben übernimmt OM keine Haftung. Hinweise auf mögliche Rechtsverstöße können jederzeit gemeldet werden und werden nach Prüfung umgehend bearbeitet.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 75 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Baujahr: 1971\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Öl\n\nAnbieter-Objekt-ID: 506352",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-17T20:14:34.798486+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
