@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-17T10:15:55.672859+00:00",
-  "count": 111,
+  "generated_at": "2026-10-17T15:05:01.324168+00:00",
+  "count": 109,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-17T10:15:55.672859+00:00",
+      "last_updated": "2026-10-17T15:05:01.324168+00:00",
       "interval_hours": 3
     }
   },
@@ -925,7 +925,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb0f75fa-2b3e-45e1-9bc1-e1b408fa9a71?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1024,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/074c3c89-cfae-4762-889a-0f53fe40ec31?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/056d540a-60b6-4482-a3bc-79d5aed0f88c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1222,7 +1222,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31f1a26a-707e-4dbb-b149-e9c5b71c5a21?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9d6be54-6dcd-4b9f-a352-ad8fd9350183?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1354,7 +1354,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e037887-87f2-470c-a750-082d527227ca?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9bf5f234-496f-45f0-8c32-f5a8c5f22079?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1461,38 +1461,6 @@
       "Opis": "Balkon • Stufenloser Zugang • Neubau • Aufzug\n\nDie Wohnung befindet sich im Staffelgeschoss des Laurentius-Hauses in Uedem und ist daher hervorragend für Senioren geeignet. Es handelt sich um eine barrierefreie, gepflegte Neubauwohnung mit schönen Dachterrassen. Die Wohnung verfügt über eine Küche, ein Wohn- und ein Schlafzimmer. Im Bad befindet sich eine bodentiefe Dusche neben Waschbecken und WC. In selbigem kann auch die Waschmaschine stehen. Über den Aufzug können die verschiedenen Etagen des Hauses problemlos erreicht werden.\nDie Fotos sind Beispielbilder.\n\nEine Besichtigung der Wohnung können Interessenten gern unter 02831-9395-88 zu den üblichen Telefonzeiten (9:00 – 15:00 Uhr) mit uns abstimmen. Bei Nichterreichbarkeit kann ein Rückrufwunsch in der Zentrale Caritasverbandes Geldern Kevelaer e.V. hinterlegt werden.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-15T16:26:53.406414+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnhaus gegen Mithilfe",
-      "Cena (€)": 450.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 75.0,
-      "Lokalizacja": "46485 Wesel",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 30,
-      "Odległość od 's-Heerenberg (km)": 36.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnhaus-gegen-mithilfe/3541672860-203-1866",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0895eea-2ae3-4283-87b0-e980a00c661d?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0895eea-2ae3-4283-87b0-e980a00c661d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0895eea-2ae3-4283-87b0-e980a00c661d?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83bea1aa-74ae-4b79-92e3-1a5f67b075ac?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/6967184a-6cc3-4e93-bd97-0f06acbaeb32?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97eb9514-e9d8-4a6a-a73a-2d26f8d460dc?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/058089a0-c3ed-4c16-8f05-3761af1dde74?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1eccfd54-f374-4893-a297-c8d58c4e1ca6?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a7355cb-b44d-4298-817f-871a1e2e834e?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02974afd-d401-4d21-8527-19a3bb980ca8?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f1035c6-ac7d-4d52-86ae-d3d248d1e10d?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a53fb01f-ff2f-4138-8b37-d2a4a63c37cf?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Biete ein kleines Wohnhaus gegen Einsperrdienst und evtl mal einen Spaziergang oder etwas Blumenpflege im Tierhotel. Bei Interesse gerne melden.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-17T10:15:55.669852+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2588,7 +2556,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2- Zimmer Wohnung zu Vermieten in Wesel Stadtnah 1OG",
+      "Tytuł": "Schöne 2- Zimmer Wohnung in Wesel Stadtnah zu vermieten",
       "Cena (€)": 580.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 45.0,
@@ -2598,59 +2566,26 @@
       "Odległość od 's-Heerenberg (km)": 34.8,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-zu-vermieten-in-wesel-stadtnah-1og/3501433417-203-1867",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_2.AUTO",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-in-wesel-stadtnah-zu-vermieten/3543509504-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b7c8c63-5186-48de-9ca2-a8e822b38fe3?rule=$_2.AUTO",
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54e17934-58bd-4f31-99c4-110bdc92bdd5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f372ec24-0d7f-4706-b3e6-b3c9fc5ae928?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fed63835-b7d0-4228-a3fc-2f0e426477bf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/1949cf45-5f22-4c57-a4c2-0c80942fbac8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9e07a21-2ac9-452e-abea-4ee220aa4892?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f2e5913-db00-4ef6-b7ec-192f1462e50c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/906e619b-145e-4e54-8e09-9323cb2d0320?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0b44c11-e74f-48c0-b98f-813f81f8fef8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79db23d4-cdac-49f2-bf0f-c9a8a5a1f938?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec133a2a-b82c-4298-ad68-a8451877b53f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d44d4f7-6a0f-4a65-9678-da4596750608?rule=$_59.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b7c8c63-5186-48de-9ca2-a8e822b38fe3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4693598-3623-4649-aebc-89309f54647a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6634d0e0-b51a-4398-aef7-afbbd5177e48?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce1819de-d1d3-4598-8bb3-dea320536f38?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a91a8359-315a-49fb-af90-1122bd2f0bbd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7ae9e03-3c7f-4c92-8436-879ed9393650?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/038a3d9e-d04d-41ae-836e-d1bb5310e34f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9feed1b0-b474-4b8b-aa4b-52913fdbe247?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7fc8931b-0dbd-40f8-ad2d-9975318d576b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa66d00a-0f21-4c42-bed7-378f8d12e4b7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc6aa0fc-9b6e-45e4-943b-c0f7f21487a3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d4fb0d8-1305-4202-9057-7f6f722d77bd?rule=$_59.AUTO"
       ],
       "Czynsz z mediami (€)": null,
       "Opis": "Schöne helle 2-Zimmerwohnung in Wesel zu vermieten ab dem 1.11.2026\nHaustierhaltung ist leider nicht erlaubt.\nAktuelle Schufa Auskunft und Gehaltsnachweise, müssen vor dem Besichtigungstermin vorgelegt werden.\n\nKaltmiete 580€\nNeben u. Betriebskosten 100€\nHeizkosten 125€\nStromkosten 50€\nGesamt Monatlich 855€\n\nDie Wohnung befindet sich in einem 9 Familien Haus im 1 OG\nStadtnah, der Bahnhof, Ärzte, sämtliche Einkaufsmöglichkeiten sind zu Fuß zu erreichen.\nDie Wohnung hat ein großes Badezimmer, ein Schlafzimmer, ein Wohnzimmer mit Küchenbereich.\n1 Kellerraum.",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-15T21:12:27.388477+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "schöne Wohnung mit Balkon Wesel Stadtnah zu vermieten 2. OG",
-      "Cena (€)": 580.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 46.0,
-      "Lokalizacja": "46483 Wesel",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 32,
-      "Odległość od 's-Heerenberg (km)": 34.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-wohnung-mit-balkon-wesel-stadtnah-zu-vermieten-2-og/3476816680-203-1867",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed29c3f8-d339-4c10-a61a-ccad1083193c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92e35c2e-5c12-41ee-8605-cf4194651778?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2ae5ef3-9caf-478e-a1e3-7056d984971e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac3da17f-cc70-4df2-991f-1b1852b57f67?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e5bfb69-9d82-4a3b-a36f-8be7a900ce04?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/205bd236-20b2-4ab2-8863-031b86af2737?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe40c736-0c5d-49a6-9caa-40b20bae516c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/8491844b-9aa0-489f-b8d5-fe075c4cc840?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/260d5671-a74a-427d-a6e8-e707d56447e7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb0fd207-2acd-4b7c-aaef-f7e4014e36ce?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8870746-a36d-4f3b-b0f1-e212f759025d?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Kalt Miete 580,00€\nBetriebs und Nebenkosten 100,00€\nHeizkosten 125,00€\nStromkosten 50,00€\nGesamt pro Monat: 855,00€\n\nGehaltsnachweise und eine Positive Schufa Auskunft sind vor der Besichtigung erforderlich.\n\nDiese helle 2-Zimmer Wohnung mit ca. 46 m² Wohnfläche befindet sich im 2. Obergeschoss eines Mehrfamilienhauses in Wesel. Die Wohnung verfügt über ein Badezimmer.\nEin besonderes Highlight ist der Balkon, der zum Entspannen einlädt. Ein Keller bietet zusätzlichen Stauraum. Die Wohnung wird ab dem 01.11.2026 verfügbar sein. Haustiere sind nicht gestattet.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-15T06:15:08.477201+00:00"
+      "PierwszyRaz": "2026-10-17T15:05:01.322173+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
