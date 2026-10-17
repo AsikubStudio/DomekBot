@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-17T03:14:27.899893+00:00",
-  "count": 110,
+  "generated_at": "2026-10-17T10:15:55.672859+00:00",
+  "count": 111,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-17T03:14:27.899893+00:00",
+      "last_updated": "2026-10-17T10:15:55.672859+00:00",
       "interval_hours": 3
     }
   },
@@ -914,6 +914,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Platz für Lieblingsmenschen. / Room for the people you love.",
+      "Cena (€)": 330.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 46.78,
+      "Lokalizacja": "47166 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": 55.3,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41ca0812-e1b8-4dc8-abbc-ac3636a417b4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/133d3c6d-d360-4a2e-946a-c4db908e2556?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5cece0cd-f4d4-4778-b575-c068412d315b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27ab1d1b-b74b-4f34-a53e-e64f17baec3d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/1928b139-527a-47ca-a7f6-49e435d01a3c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91291026-25db-40f9-bbe3-f290547d7150?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf8793b3-16b9-453b-96dc-12ed1e02e3e9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8984910-a441-4bf0-8755-949bc86da3eb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8f6bc5da-8c1c-4afd-a994-83630cda8968?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5ba375f4-553d-422b-a8a9-cb0136ef91c9?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 495.0,
+      "Opis": "Badewanne • Keller\n\nDie Bremenstraße bilden einen zusammenhängenden Abschnitt der historischen Josef-Kolonie im Duisburger Stadtteil Alt-Hamborn. Die Siedlung, im Volksmund „Jupp-Kolonie' genannt, wurde im frühen 20. Jahrhundert als Werkswohnungsbau errichtet und ist bis heute als geschlossenes, ruhiges Wohnquartier erhalten. Die Gebäude fügen sich in ein einheitliches städtebauliches Bild ein und bieten ein Wohnumfeld mit eigenem, gewachsenem Charakter in unmittelbarer Nähe zur Abtei Hamborn.\n\nKaltmiete: 330,00 EUR\nBetriebskosten: 165,00 EUR\nHeizkosten: 90,00 EUR\nWarmmiete: 585,00 EUR\n\nACHTUNG!\nAnmietung über das Jobcenter für einen Ein-Personenhaushalt ist NICHT möglich. Die Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n__________________________________________________\n\nThe Bremenstraße form a cohesive section of the historic Josef-Kolonie in the Duisburg district of Alt-Hamborn. The settlement, known locally as the 'Jupp-Kolonie', was built in the early 20th century as workers' housing and remains intact today as a self-contained, quiet residential quarter. The buildings fit into a uniform urban streetscape and offer a residential environment with its own distinct, organically grown character in immediate proximity to Hamborn Abbey.\n\nBase rent (net): 330.00 EUR Service charges (operating costs): 165.00 EUR Heating costs: 90.00 EUR Total rent (including utilities): 585.00 EUR\n\nATTENTION! Renting through the Jobcenter for a single-person household is NOT possible. The gross base rent exceeds the maximum amount set by the authority.\n\n# Ausstattung\n- alle Räume sind von der Diele aus begehbar\n- trotz Dachschrägen gute Stellmöglichkeiten\n- geweißte Wände mit Raufasertapete\n- Küche mit weißem Fliesenspiegel und Vinylboden\n- Laminatboden in den Räumen\n- Wannenbad mit Fenster, Weiß gefliest mit Sprossenheizung\n- Gegensprechanlage\n- eigenes Kellerabteil\n- Hausmeisterservice\n- Treppenhausreinigung\n\n______________________________________________\n\nAll rooms are accessible from the hallway\nGood furniture placement options despite sloped ceilings\nWhitewashed walls with woodchip wallpaper (lining paper)\nKitchen with white tile splashback and vinyl flooring\nLaminate flooring in the rooms\nBathroom with bathtub and window, white tiles, column radiator (Sprossenheizung)\nIntercom system\nPrivate basement storage room\nCaretaker service\nStairwell cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nAlt-Hamborn ist ein Stadtteil, der hält, was er verspricht. Die Abteischule und die Abtei-Grundschule an der Jägerstraße – gerade neu gedacht und erweitert – geben Kindern im Quartier einen guten Start. Das Abtei-Gymnasium und das Leibniz-Gymnasium begleiten sie weiter. Kitas sind da, das Helios Klinikum und das Katholische Klinikum St. Johannes ebenfalls. Abends lädt das Abteizentrum ein, der Botanische Garten Hamborn gibt Raum zum Durchatmen. Und wer morgens in Bus oder Bahn steigt, ist schnell dort, wo er hin muss. Ein Viertel, das funktioniert – und in dem die Jupp-Kolonie seit über hundert Jahren ihren Platz hat.\n\n__________________________________________________\n\nAlt-Hamborn is a district that delivers on its promises. The Abteischule and the Abtei-Grundschule on Jägerstraße – currently reimagined and expanded – give children in the neighbourhood a strong start. The Abtei-Gymnasium and Leibniz-Gymnasium accompany them further. Childcare is available, as are the Helios Klinikum and the Katholisches Klinikum St. Johannes. In the evenings, the Abteizentrum invites, and the Hamborn Botanical Garden offers space to breathe. And those who board a bus or tram in the morning quickly reach wherever they need to be. A neighbourhood that works – and in which the Jupp-Kolonie has held its place for over a hundred years.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n___________________________________\n\nAre you interested in this apartment and would like to view it? Then don't waste any time and get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we will get back to you.\n\nThis offer is non-binding, subject to errors and changes.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 825-118-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 128 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1900\n- Wesentliche Energieträger: Fernwärme, Gas\n\nAnbieter-Objekt-ID: 825-118-M",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-14T23:45:44.567926+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Gepflegte 2-Zimmer-Wohnung im Erdgeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
       "Cena (€)": 332.0,
       "Pokoje": 2.0,
@@ -991,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36fe20bb-1027-4e7a-94d9-29a59d5f6d80?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/074c3c89-cfae-4762-889a-0f53fe40ec31?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1189,7 +1222,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac209f03-c5c7-4988-89f7-f395ef5133a6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31f1a26a-707e-4dbb-b149-e9c5b71c5a21?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1321,7 +1354,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd2a40c3-9f27-4830-91f2-12b2b2d7fb73?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e037887-87f2-470c-a750-082d527227ca?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1428,6 +1461,38 @@
       "Opis": "Balkon • Stufenloser Zugang • Neubau • Aufzug\n\nDie Wohnung befindet sich im Staffelgeschoss des Laurentius-Hauses in Uedem und ist daher hervorragend für Senioren geeignet. Es handelt sich um eine barrierefreie, gepflegte Neubauwohnung mit schönen Dachterrassen. Die Wohnung verfügt über eine Küche, ein Wohn- und ein Schlafzimmer. Im Bad befindet sich eine bodentiefe Dusche neben Waschbecken und WC. In selbigem kann auch die Waschmaschine stehen. Über den Aufzug können die verschiedenen Etagen des Hauses problemlos erreicht werden.\nDie Fotos sind Beispielbilder.\n\nEine Besichtigung der Wohnung können Interessenten gern unter 02831-9395-88 zu den üblichen Telefonzeiten (9:00 – 15:00 Uhr) mit uns abstimmen. Bei Nichterreichbarkeit kann ein Rückrufwunsch in der Zentrale Caritasverbandes Geldern Kevelaer e.V. hinterlegt werden.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-15T16:26:53.406414+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnhaus gegen Mithilfe",
+      "Cena (€)": 450.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 75.0,
+      "Lokalizacja": "46485 Wesel",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 30,
+      "Odległość od 's-Heerenberg (km)": 36.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnhaus-gegen-mithilfe/3541672860-203-1866",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0895eea-2ae3-4283-87b0-e980a00c661d?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0895eea-2ae3-4283-87b0-e980a00c661d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0895eea-2ae3-4283-87b0-e980a00c661d?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83bea1aa-74ae-4b79-92e3-1a5f67b075ac?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/6967184a-6cc3-4e93-bd97-0f06acbaeb32?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97eb9514-e9d8-4a6a-a73a-2d26f8d460dc?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/058089a0-c3ed-4c16-8f05-3761af1dde74?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1eccfd54-f374-4893-a297-c8d58c4e1ca6?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a7355cb-b44d-4298-817f-871a1e2e834e?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02974afd-d401-4d21-8527-19a3bb980ca8?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2f1035c6-ac7d-4d52-86ae-d3d248d1e10d?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a53fb01f-ff2f-4138-8b37-d2a4a63c37cf?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Biete ein kleines Wohnhaus gegen Einsperrdienst und evtl mal einen Spaziergang oder etwas Blumenpflege im Tierhotel. Bei Interesse gerne melden.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-17T10:15:55.669852+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2390,39 +2455,6 @@
       "Opis": "Balkon • Einbauküche • Badewanne • Keller • Garage/Stellplatz\n\n2 Zimmer Wohnung\n1. OG\nMit Einbauküche\nGas-Zentralheizung\nTreppenhaus- und Gartenpflege und Winterdienst extern vergeben\nDemnächst frisch renoviert",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2,5 Zimmer Wohnung in ruhiger Lage / Duisburg Neumühl",
-      "Cena (€)": 560.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 62.0,
-      "Lokalizacja": "47167 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-5-zimmer-wohnung-in-ruhiger-lage-duisburg-neumuehl/3514514735-203-2145",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c72348-1c6e-4bd7-b8a1-e9e72fa13a77?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c72348-1c6e-4bd7-b8a1-e9e72fa13a77?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eea40e55-e236-402d-b3d0-17584c160f26?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/074253b4-9715-459a-b98f-10c2e14ac71d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/5257cf51-3d0a-4997-b23a-cd38d279902e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92df4c64-9b12-439d-b19f-f5119a71497e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/8660d301-043d-45bb-b0c8-2560c52c97c2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7afb5396-4d1a-4b86-93cf-e7cc1b4e4f32?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b843ea33-996b-48c8-a056-f699f5938a01?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31ff1312-938e-4f50-8d82-61502c912aa3?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdc38a6f-8e0e-4a28-999b-b5cc2bf8404b?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8ad2a800-2914-4fe6-904b-c0256cb0ed23?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2200da10-3615-4a6b-ba4c-c78682be2f58?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 740.0,
-      "Opis": "Diese gepflegte und modern ausgestattete Wohnung befindet sich in einer ruhigen Wohnlage in Duisburg-Neumühl und überzeugt durch ihren sehr guten Zustand sowie eine praktische Raumaufteilung.\n\nDie ca. 62 m² große Wohnung ist sofort bezugsfertig – Renovierung arbeiten sind nicht erforderlich. Böden, Wände und Ausstattung sind in einem gepflegten Zustand, sodass ein unkomplizierter Einzug möglich ist.\n\nAusstattung:\n\nca. 62 m² Wohnfläche\ngut geschnittener Grundriss\ngepflegter Zustand (kein Renovierungsbedarf)\nhelle Räume\nruhige Wohnlage\n\nLage:\nDie Wohnung befindet sich in Duisburg-Neumühl in einer ruhigen und angenehmen Wohngegend. Einkaufsmöglichkeiten für den täglichen Bedarf, Supermärkte, Bäckereien und weitere Geschäfte sind schnell erreichbar.\n\nAuch die Anbindung an den öffentlichen Nahverkehr ist gut, sodass umliegende Stadtteile sowie die Duisburger Innenstadt bequem erreichbar sind. Schulen, Kindergärten und Ärzte befinden sich ebenfalls in der näheren Umgebung.\n\nDie Lage bietet eine gute Kombination aus ruhigem Wohnen und praktischer Infrastruktur.\n\nMiete:\nKaltmiete: 560,00 €\nNebenkosten: 180,00 €\nWarmmiete: 740,00 €\n\nKaution: 1050,00 €\n\nSonstiges:\nIdeal geeignet für Singles oder Paare, die eine gepflegte Wohnung in ruhiger Lage suchen.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
