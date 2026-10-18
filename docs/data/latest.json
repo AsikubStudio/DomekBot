@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-18T10:31:19.978533+00:00",
-  "count": 110,
+  "generated_at": "2026-10-18T15:29:12.860585+00:00",
+  "count": 109,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-18T10:31:19.978533+00:00",
+      "last_updated": "2026-10-18T15:29:12.860585+00:00",
       "interval_hours": 3
     }
   },
@@ -925,7 +925,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5cdc1076-fd26-4900-880c-2505f6ee4405?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/589e7edb-647c-4565-9174-1d30425eb7ae?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1024,7 +1024,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renoviert-frisch-verliebt-freshly-renovated-falling-in-love-all-over-again-/3493305796-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0ee21872-d2f0-454f-8f62-8cf6803bc1cc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b5ccb85-40e8-47d5-aae9-4d418da322ee?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4ba1c40-c771-477d-832f-70d37d41e58e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce78fc7b-b671-4a24-892a-781eaa81a282?rule=$_59.AUTO",
@@ -1222,7 +1222,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d889772-9cb4-4464-8011-8eed6f3f9a7a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da02876e-6cb6-49e9-b803-7faa8edb2502?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1354,7 +1354,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/2482be2c-f19e-41da-81d0-9e72ca24350f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a748d6bb-0c77-49ff-8f46-3dc7564d27a3?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1644,35 +1644,6 @@
       "Opis": "Einbauküche • Haustiere erlaubt\n\n**Eckdaten:**\n\n* Wohnfläche: ca. 52 m²\n* Kaution: 1.404,00 € (3 Kaltmieten)\n* Badezimmer mit Dusche\n* Einbauküche vorhanden\n\n**Monatliche Gesamtmiete:**\n\n* Kaltmiete: 468,00 €\n* Küche: 50,00 €\n* Nebenkosten: 200,00 €\n* Gesamt: 718,00 € (zzgl. Strom)\n\nBei Interesse freuen wir uns über Ihre Nachricht. Bitte stellen Sie sich kurz vor und fügen Sie nach Möglichkeit bereits Angaben zu Ihrer Person sowie Ihrem Beschäftigungsverhältnis bei.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung Wesel Feldmark zu vermieten",
-      "Cena (€)": 490.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "46483 Wesel",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 32,
-      "Odległość od 's-Heerenberg (km)": 34.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-wesel-feldmark-zu-vermieten/3542849558-203-1867",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be45fc2d-9393-4fa5-8545-39ff9dfdb999?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9fbb85d-0f6d-4e13-8bbf-337b2089d69a?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7450ac45-9869-432a-b955-a9658d9b608d?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4c5efaf-86db-41c1-b710-5b771ddd80e4?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1cf4f42f-b72b-481a-a3d3-09f341ec4ebd?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c964c664-e67a-4015-a892-8378f876733f?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d670affe-def7-44ba-8e22-7add1b6b55a7?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21836332-900c-4331-a54e-6b5fc06295b0?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Bezugsfrei ab sofort! Komfortable 2-Zi.-Erdgeschosswohnung mit Balkon & Stellplatz in Wesel-Feldmark\nObjektbeschreibung:\nAb sofort steht diese attraktive und gut aufgeteilte Erdgeschosswohnung mit ca. 55 m² Wohnfläche an der Hamminkelner Landstraße 46 zur Vermietung bereit. Die Wohnung besticht durch ihre bequeme, barrierearme Erreichbarkeit im Erdgeschoss und eignet sich ideal für Singles oder Paare. Für ein hohes Maß an Sicherheit und hervorragenden Schallschutz sorgt eine frisch eingebaute, moderne Wohnungseingangstür.\nAusstattung & Details:\n• Wohnfläche: ca. 55 m² | 2 Zimmer (Wohnzimmer, Schlafzimmer, Küche, Diele, Bad)\n• Etage: Erdgeschoss (bequem und barrierearm erreichbar)\n• Außenbereich: Gemütlicher Balkon zum Entspannen\n• Sicherheit: Neue, hochwertige Wohnungseingangstür für optimalen Schall- und Einbruchschutz\n• Parken: Eigener Pkw-Stellplatz direkt am Haus\n• Heizungsart: Effiziente Gas-Heizung\nLage:\nDie Wohnung befindet sich im beliebten und infrastrukturell bestens angebundenen Stadtteil Wesel-Feldmark. Geschäfte des täglichen Bedarfs, Supermärkte, Ärzte und Haltestellen des öffentlichen Nahverkehrs sind fußläufig in wenigen Minuten erreichbar. Auch das Naherholungsgebiet rund um den Auesee liegt für Freizeitaktivitäten praktisch vor der Tür.\nKostenübersicht:\n• Kaltmiete: 490,00 €\n• Stellplatz: 35,00 €\n• Nebenkosten (Vorauszahlung): 130,00 €\n• Gesamtmiete (Warm): 655,00 €\n• Kaution: 980,00 € (entspricht exakt 2 Kaltmieten)\nSonstiges:\nDie Wohnung ist ab sofort bezugsfrei. Besichtigungstermine sind nach Absprache zeitnah möglich. Bitte bringen Sie zur Besichtigung eine aktuelle Schufa-Auskunft und die letzten drei Gehaltsnachweise mit.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-16T20:36:27.770181+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2272,7 +2243,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/grosszuegige-2-zimmer-wohnung-mit-balkon-in-bester-lage-/3487114613-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/9603f8b7-8720-41db-b6e9-49bca04e9e10?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3dd35bf7-1dd8-445c-91fd-e314de61acf9?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/9603f8b7-8720-41db-b6e9-49bca04e9e10?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5fe2e31d-5a7d-47b3-8211-4b93e984ecb4?rule=$_59.AUTO",
@@ -2884,7 +2855,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "ANFRAGENSTOP  Helle EG Wohnung mit großer Terrasse",
+      "Tytuł": "Helle EG Wohnung mit großer Terrasse",
       "Cena (€)": 600.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 62.0,
@@ -2894,7 +2865,7 @@
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/anfragenstop-helle-eg-wohnung-mit-grosser-terrasse/3533677671-203-1125",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-eg-wohnung-mit-grosser-terrasse/3533677671-203-1125",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebbef02e-af9b-42aa-beff-f080edc127bc?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebbef02e-af9b-42aa-beff-f080edc127bc?rule=$_59.AUTO",
@@ -2902,18 +2873,18 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb024d53-cb8a-4d39-b2b2-cb3ba43fe6ac?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d84d823-a037-4726-93af-7e811b6db2b4?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3ba2867c-376d-458e-b449-563ed326cbc1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebbef02e-af9b-42aa-beff-f080edc127bc?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/548f7475-6e82-4ab1-a1b0-db918e085a8b?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb024d53-cb8a-4d39-b2b2-cb3ba43fe6ac?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d84d823-a037-4726-93af-7e811b6db2b4?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3ba2867c-376d-458e-b449-563ed326cbc1?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67194d01-7459-43c0-b3d1-f30f0dc1bc44?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7080252-4e71-49ed-980e-5c92be510234?rule=$_2.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9eacee09-5997-4905-8884-4a8e53196704?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/eee7275c-ca84-45f6-9980-77b53815c78f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13178f4b-db1d-43ad-90cc-b0f29786afc2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/8480b995-8ae8-411a-a033-f0614556bb71?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf951b36-fb51-409f-93a0-074aac9e7de0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba980e0c-9061-454c-88d7-becca9a515c6?rule=$_0.AUTO"
       ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "ANFRAGEN STOP !!! NACH DEM WE WIRD DIE ANZEIGE GGF. WIEDER FREIGEGEBEN\n\nHi,\nIch suche für meine schöne EG Wohnung am Forstgarten eine/n NachmieterIn zum 1.11 oder 15.11.26.\nNeben dem großen Schlafzimmer gibt es einen großen Wohnbereich mit offener Küche und Zugang zur Terrasse und einem Gemeinschaftsgarten. Helle warme Atmosphäre durch die bodentiefen Fenster. Großer Kellerraum mit stromanschluss und einem Fahrradzugang. Die Einbauküche (ohne Kühlschrank) soll gegen einen fairen geringen Betrag übernommen werden.\nDie Eigentümerin wünscht sich 1-2 berufstätige Personen. Besichtigungstermine finden in den nächsten Tagen vormittags oder kommendes Wochenende statt.\nSchreibt mir einfach ☀️",
+      "Czynsz z mediami (€)": 800.0,
+      "Opis": "Terrasse • Einbauküche • Aufzug • Keller • Garten/-mitnutzung\n\nHi,\nIch suche für meine schöne EG Wohnung am Forstgarten eine/n NachmieterIn zum 15.11 oder 1.12.26.\nNeben dem großen Schlafzimmer gibt es einen großen Wohnbereich mit offener Küche und Zugang zur Terrasse und einem Gemeinschaftsgarten. Helle warme Atmosphäre durch die bodentiefen Fenster. Großer Kellerraum mit stromanschluss und einem Fahrradzugang. Die Einbauküche (ohne Kühlschrank) soll gegen einen fairen geringen Betrag übernommen werden.\nDie Eigentümerin wünscht sich 1-2 berufstätige Personen. Es gibt nur ein Schlafzimmer, deswegen keine WG oder mehrere Kinder.\nSchreibt mir einfach ☀️",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-08T21:14:58.689272+00:00"
+      "PierwszyRaz": "2026-10-07T12:19:12.422246+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
