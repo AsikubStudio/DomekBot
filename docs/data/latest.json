@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-20T00:09:21.420604+00:00",
-  "count": 103,
+  "generated_at": "2026-10-20T08:15:49.913520+00:00",
+  "count": 104,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-20T00:09:21.420604+00:00",
+      "last_updated": "2026-10-20T08:15:49.913520+00:00",
       "interval_hours": 3
     }
   },
@@ -925,7 +925,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0bea3505-1e76-4d4d-bf36-2a3bd6d9345c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7808b77e-169f-4dab-9026-85e1caf7ce39?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1112,6 +1112,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Wohnung 1. Obergeschoss",
+      "Cena (€)": 388.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 65.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 11.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-1-obergeschoss/3546377698-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88afc58f-a432-4a49-89c1-ab344b7fe758?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88afc58f-a432-4a49-89c1-ab344b7fe758?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4739c38-1911-48a4-be8e-0f38eb679d19?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb341a6d-515c-486e-ba82-a6dff379dd78?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70c2cedd-4f5d-42c2-981c-41f5b896b19b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed3d305b-b3a4-475b-8918-f1e7b5ea9387?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fc6fb6b-ad2e-44f0-9f38-7d1bffc35b47?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04b87b61-f44e-43db-b92b-10dccbf13eb2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88afc58f-a432-4a49-89c1-ab344b7fe758?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4739c38-1911-48a4-be8e-0f38eb679d19?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb341a6d-515c-486e-ba82-a6dff379dd78?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70c2cedd-4f5d-42c2-981c-41f5b896b19b?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed3d305b-b3a4-475b-8918-f1e7b5ea9387?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Ab dem 01.01.2027 wird eine schöne 2-Zimmer-Wohnung mit ca. 65 m² im 1. Obergeschoss vermietet.\n\nDie Wohnung befindet sich in ruhiger und dennoch zentraler Lage in Materborn. Sie verfügt über einen Balkon, eine Fußbodenheizung und einen praktischen Hauswirtschaftsraum.\n\nca. 65 m² Wohnfläche\n2 Zimmer\nObergeschoss\nBadezimmer mit Dusche\nOffener Küchenbereich\nHauswirtschaftsraum\nBalkon\nFußbodenheizung\nein Stellplatz\nKein Keller vorhanden\n\nMietkosten:\n\nKaltmiete: 388,00 €\nNebenkosten: 100,00 €\nHeizkosten: 85,00 €\nStellplatz: 25,00 €\nWarmmiete inklusive Stellplatz: 598,00€\nKaution: 776,00 €\n\nEs handelt sich um eine Staffelmiete.\n\nWichtige Hinweise:\n\nDie Wohnung wird ohne Küche vermietet.\nNur an zwei Personen.\nHaustiere sind nicht erlaubt.\nDie Vermietung ist ausschließlich an Personen mit einem gültigen Wohnberechtigungsschein (WBS) möglich. Dieser muss vorgelegt werden.\n\nEinzug ab dem 01.01.2027 möglich.\n\nBei ernsthaftem Interesse und vorhandenem WBS freuen wir uns über eine Nachricht mit einer kurzen Vorstellung Ihrer Person.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-20T08:15:49.910296+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Hier zieht dein Leben ein – du kommst einfach hinterher.",
       "Cena (€)": 390.0,
       "Pokoje": 2.0,
@@ -1123,7 +1156,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6fef7d15-694a-4ad3-bdca-2186bfa8a392?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b353492d-9c3b-43f1-bc71-95cb6651618a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1252,7 +1285,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e6ccb16-0eac-464a-9087-64c1fb4ef5e5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d72f9a9-9d54-4971-a1b6-2968639d56cf?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
