@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-20T18:59:05.162379+00:00",
-  "count": 104,
+  "generated_at": "2026-10-20T23:40:37.962245+00:00",
+  "count": 101,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-20T18:59:05.162379+00:00",
+      "last_updated": "2026-10-20T23:40:37.962245+00:00",
       "interval_hours": 3
     }
   },
@@ -866,29 +866,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "3 Zimmer Wohnung nähe Saturn.  Zum Vermieten.",
-      "Cena (€)": 1.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "47533 Kleve",
-      "Odległość (km)": 10.0,
-      "Czas dojazdu (min)": 19,
-      "Odległość od 's-Heerenberg (km)": 11.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/3-zimmer-wohnung-naehe-saturn-zum-vermieten-/3515723666-203-1125",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8eda6dac-89a1-4151-a02d-4f1e0e759816?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1ed0d1b-ae25-4499-979b-013b6a50e967?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 151.0,
-      "Opis": "Balkon • Terrasse • Altbau • Keller • Garage/Stellplatz • Garten/-mitnutzung\n\nzum vermieten\n\nEs gibt noch EG Wohnungen welcher mit Garten u. Garage hat.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-18T00:15:57.963902+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Schöne 2-Zimmer- Wohnung in Emmerich mit WBS",
       "Cena (€)": 282.0,
       "Pokoje": 2.0,
@@ -1676,39 +1653,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung 55qm zu vermieten",
-      "Cena (€)": 498.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 55.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-55qm-zu-vermieten/3510346758-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11fb2196-6ed2-41bc-ab54-605f80c2e6be?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11fb2196-6ed2-41bc-ab54-605f80c2e6be?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba04d20f-feec-4a84-b7f4-06d66a7e9912?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ceb0418e-3eca-4ade-b259-def907c5e880?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca65177e-3ed7-454b-8132-f4971eedb663?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f8bfe26-ce65-44a9-92d7-785c40869c5a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b98f556-83bd-432f-93ff-a784d57ca602?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7912444b-c83c-4c92-95bd-847013dbbb88?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a703b0fe-6c1d-4c0b-9d22-6be6fc4e3d3f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4961ca0d-fc80-4a28-b64f-8810cf24d662?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8eb62a79-c754-45d8-bd78-78a1dcf24519?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d3dc5e6-2ff8-4ef5-a909-d344152d3583?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/757d8585-43d0-434f-be1a-ab3a2d878812?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 668.0,
-      "Opis": "Keller\n\nschöne 2 Zimmer KDB Wohnung zu vermieten an max. 2 Personen. Außerdem gibt es einen eigenen Kellerraum und die Mitnutzung der Waschküche. Sehr Zentrale Lage. In einem 2 Familienhaus mit Appartement. Die Erdgeschosswohnung und das Appartement sind seit über 10Jahren an ruhige Mieter Einzelpersonen vermietet. Alles ist in der Nähe. 1.Etage 55qm. In den letzten Jahren modernisiert (Dusch-Bad, Boden, Wände etc.). Sehr guter Zustand. Grundmiete 498€ und Gesamt Nebenkosten Vorauszahlung je Monat 170€. Die hochwertige am Raum angepasste neuwertige Küche mit allen exklusiven Elektrogeräten (Spülmaschine, Backoffen, großes Ceranfeld, Dunstabzugshaube großer Kühlschrank), Einbauten Möbel im Flur und Bad verbeiben für zuzüglich VB € im Monat in der Wohnung. Die Wohnung wird gereinigt und im guten Zustand mit geräumten Schlaf und Wohnraum übergeben. Das spart neuen Mietern erheblich Geld und Stress.\nBei Interesse geben Sie mir Informationen von Ihnen und Ihren Vorstellungen und Telefonkontakt.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Gemütliche 2-Zimmer-Wohnung in Bocholt – Freundliche Atmosphäre auf 48 m²",
       "Cena (€)": 499.0,
       "Pokoje": 2.0,
@@ -2457,26 +2401,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Erstbezug in Duisburg maxlohr 576€",
-      "Cena (€)": 570.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 80.0,
-      "Lokalizacja": "47169 Marxloh",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": 54.5,
-      "Łazienka": "tak",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/erstbezug-in-duisburg-maxlohr-576-/3523826259-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39ebab8c-3ada-4a88-acd2-48803850b561?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-30T15:47:48.848825+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Schöne 2- Zimmer Wohnung in Wesel Stadtnah zu vermieten",
       "Cena (€)": 580.0,
       "Pokoje": 2.0,
@@ -2654,9 +2578,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/wir-suchen-nachmieter-fuer-01-11-2026-bitte-kein-jobcenter/3522850217-203-2144",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0af5d3a4-59e0-446b-8d0a-32c1ea63872c?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0af5d3a4-59e0-446b-8d0a-32c1ea63872c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/dbbc30d1-047d-40ed-beb9-c6fa2bda04b9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43135aec-8a21-46ea-938f-5a645d800afc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/216a2006-477b-4ec2-8ae4-5b0873881294?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06d606ef-4d9d-4548-a187-f47dca70a7dd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6aeb0ea1-3782-4d67-9488-957b852567b2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/351f7c1e-7c92-4c18-aca3-f218563bf54f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55aacf0c-786b-42f5-afdf-b717d773cd3c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e886daf-f3ee-4262-a77e-d7de918baa25?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5d21675-b335-4a2f-bdc3-f364a6d0719f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3ebba47c-09fc-4d79-95ac-0e1b45919c08?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b843ea33-996b-48c8-a056-f699f5938a01?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 593.0,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Badewanne • Altbau • Aufzug • Keller\n\nRenovierung: Die Wohnung wird wie sie ist übergeben. Das Streichen der Wände sowie eventuelle Renovierungsarbeiten werden vom neuen Mieter übernommen.\n​Möbel & Geräte: Alle vorhandenen Möbel sowie die Einbauküche samt E-Geräten (inklusive des neu angeschafften Kühlschranks) müssen für einen Festpreis von 0€ übernommen werden.\n​Die Wohnung kann nach vorheriger Terminabsprache besichtigt werden. Bei ernsthaftem Interesse melden Sie sich bitte direkt bei mir.\nMit freundlichen Grüßen\nErdal Duran\n015568833052\nBitte kein jobcenter",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-26T21:23:35.690391+00:00"
     },
