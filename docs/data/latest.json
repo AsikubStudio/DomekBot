@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-22T03:32:57.599949+00:00",
-  "count": 103,
+  "generated_at": "2026-10-22T11:28:24.976846+00:00",
+  "count": 100,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-22T03:32:57.599949+00:00",
+      "last_updated": "2026-10-22T11:28:24.976846+00:00",
       "interval_hours": 3
     }
   },
@@ -901,7 +901,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d47504dd-e34a-4b7b-9263-90f8995cc0fc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4d4e20ad-1913-4593-830d-9b06355e51b7?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1128,7 +1128,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29525e32-696c-42b3-92b8-18fc447c93f7?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/7717db45-3972-4084-8c92-e5935cab0575?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1257,7 +1257,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4adabec8-7c41-4a1d-b7cc-98b879217b9b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/7015eaaa-cf73-4e52-96ab-8ee7d0ccb8ca?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1992,7 +1992,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/grosszuegige-2-zimmer-wohnung-mit-balkon-in-bester-lage-/3487114613-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/8287ace7-38e7-4241-ba62-9456aa790d1a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/864da77b-53ab-4800-8994-8f0e57ae5f0c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/9603f8b7-8720-41db-b6e9-49bca04e9e10?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5fe2e31d-5a7d-47b3-8211-4b93e984ecb4?rule=$_59.AUTO",
@@ -2080,39 +2080,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Gemütliche 2-Zimmer-Wohnung in Bocholt – Freundliche Atmosphäre auf 48 m²",
-      "Cena (€)": 559.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 48.0,
-      "Lokalizacja": "46397 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": 28.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-wohnung-in-bocholt-freundliche-atmosphaere-auf-48-m-/3540627373-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1ad87425-cd6b-4ab2-8731-c612c98261da?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce44675e-ea02-4c80-b5ab-0c83dfa6a579?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/709a19ba-d61c-40ba-a2ca-90d21ce1a5e7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48c60eec-5364-4ced-8a42-39b81e63dea7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/ee2a1423-356d-4e20-aee0-d6a85766f917?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/422b5854-466f-4a0a-a519-0351adb0533e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/654f8abf-b216-4c6a-9e99-ca86687fd3e9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/749d41c5-55f9-4dbd-a329-857ced94c799?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f2e7123-7d47-4820-b629-e43760868cff?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b618592-12bb-412d-8fd9-2321ec115875?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0abe136-f811-4ac6-ac7e-78df6bf015b6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df647fd1-6bb9-452c-9fdc-80078b252330?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 627.0,
-      "Opis": "Keller • Garage/Stellplatz\n\nDiese freundliche 2-Zimmer-Etagenwohnung in Bocholt bietet auf 48 m² Wohnfläche eine angenehme Wohnatmosphäre. Die Wohnung befindet sich im 1. Obergeschoss links eines 1937 erbauten Hauses. Das Badezimmer ist mit einem Badfenster ausgestattet und sorgt für helle, frische Luft. Die Küche ist ohne Einrichtung und bietet Ihnen die Möglichkeit zur individuellen Gestaltung. Geheizt wird die Wohnung mit einer effizienten Kombitherme. Ideal für Singles oder Paare, die eine freundliche und gepflegte Wohnung suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-143-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Tageslichtbad mit Dusche\n• Isolierverglasung\n• unrenoviert\n• Waschküche und Fahrradkeller\n• Etage\n• Kombitherme\n• Mediaanschluss\n• Aussenstellplatz\n• Denkmalschutz\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\nDie in den Nebenkosten enthaltenen TV-Gebühren in Höhe von derzeit 12,50 EUR dienen ausschließlich der transparenten Kostendarstellung.\nDiese stellen weder Kaltmiete noch umlagefähige Betriebskosten im klassischen Sinne dar, sondern eine zusätzliche vertragliche Leistung des Vermieters, die im Rahmen des Mietvertrages geregelt wird.\nAusführliche Informationen finden Sie auf www.leg-wohnen.de.Dort stehen Ihnen außerdem die Produktinformationsblätter sowie die Vertragszusammenfassungen zu den jeweiligen Angeboten und Leistungen zur Verfügung.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 253.7 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 20.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-143-M",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-14T14:24:19.259820+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt zu vermieten",
       "Cena (€)": 559.0,
       "Pokoje": 2.0,
@@ -2143,72 +2110,6 @@
       "Opis": "Keller • Garage/Stellplatz\n\nIn einem gepflegten Gebäude aus dem Jahr 1937 erwartet Sie diese charmante 48 m² große 2-Zimmer-Etagenwohnung im Erdgeschoss. Die Wohnung besticht durch eine gemütliche Atmosphäre und verfügt über ein Bad mit Dusche und Badfenster, das für angenehme Lichtverhältnisse sorgt. Die Küche ist ohne Einrichtung, sodass Sie sie ganz nach Ihren Wünschen gestalten können. Der Bodenbelag ist pflegeleicht, und die Beheizung erfolgt komfortabel über Gas. Ideal für Singles oder Paare, die eine ruhige und behagliche Wohnatmosphäre in Bocholt suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-167-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n- Mieterkeller\n- Fahrradkeller\n- Waschkeller\n- Tageslichtbad mit Dusche\n- Dielenboden\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer hervorragend angebundenen Lage, die insbesondere Familien und Berufstätigen entgegenkommt. Bildungseinrichtungen wie die Clemens-Dülmer-Schule und die Overberg-Schule sind bequem zu Fuß erreichbar. Für Freizeit und Erholung bietet sich der nahegelegene Kubaai-Spielplatz an, ideal für Kinder und Familienaktivitäten. Einkaufsmöglichkeiten sind durch die nahe gelegenen Supermärkte ALDI Süd und REWE schnell zugänglich. Wer gerne Zeit im Grünen verbringt, findet im Museumsgarten eine attraktive Möglichkeit, um entspannte Stunden im Freien zu genießen. Medizinische Versorgung ist durch mehrere Arztpraxen in unmittelbarer Umgebung gewährleistet. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 13 Bushaltestellen, darunter die Haltestelle Schwartzstraße, sind schnell erreichbar. Zudem sind zwei Bahnhöfe, darunter Bocholt, in etwa 15 Minuten zu Fuß zu erreichen, was die Mobilität zusätzlich erleichtert.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 264.8 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 18.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-167-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-24T15:29:09.093076+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Gemütliche 2-Zimmer-Erdgeschosswohnung in Bocholt – ideal für Singles oder Paare",
-      "Cena (€)": 559.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 48.0,
-      "Lokalizacja": "46397 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": 28.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-erdgeschosswohnung-in-bocholt-ideal-fuer-singles-oder-paare/3525951041-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d08fb4f-205f-46a4-936e-a2c1393c79f7?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61f6509e-4363-4461-b29f-de2c62e92134?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81082d40-50ef-4f77-a9c3-2085969736e7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/6791291b-17f5-483b-a5e5-89d0fd381781?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bdc5ee96-fe39-4727-9dfc-09a831a4f7a0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/668d12e4-6337-455b-bd26-bcca2ff50a53?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a846a18c-3a22-43b4-8415-aebc0a16eb54?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882a95f9-37f9-46fc-adbb-e5479961642f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce7bf99c-535f-4b66-b971-dd72057fa382?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/266fa30b-6d90-4ff8-9a4f-4b9f517caddd?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c486b59d-261c-4174-8aa4-c6f0f6726fa9?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/5735ec99-c0a6-431f-84d9-a5ec2560fcf2?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 689.0,
-      "Opis": "Badewanne • Keller • Garage/Stellplatz\n\nZur Vermietung steht eine charmante 2-Zimmer-Etagenwohnung mit 48 m² Wohnfläche in Bocholt. Die Wohnung befindet sich im Erdgeschoss eines im Jahr 1937 erbauten Mehrfamilienhauses. Das Badezimmer ist mit einem Fenster ausgestattet und bietet angenehme Lichtverhältnisse. Die Küche ist ohne Einrichtung, sodass Sie Ihren persönlichen Stil verwirklichen können. Geheizt wird die Wohnung mit Gas. Der gemütliche Wohnraum lädt zum Wohlfühlen ein. Besondere Merkmale: Bad mit Fenster.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-50-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\nDie Wohnung ist wie folgt ausgestattet:\n\n• Tageslichtbad mit Wanne\n• Neuer Küchenfliesenspiegel\n• Waschküche\n• Mieterkeller\n• Gasetagenheizung\n• Isolierverglasung\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 233.3 kWh/(m²*a)\n- Energieeffizienzklasse: G\n- Ausstellungsdatum: 19.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-50-M",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-28T18:27:52.914915+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt – 48 m², 1. Etage",
-      "Cena (€)": 559.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 48.0,
-      "Lokalizacja": "46397 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": 28.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-etagenwohnung-in-bocholt-48-m-1-etage/3409417539-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9b9c786-60c3-4634-a049-1d7b58ef3717?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7ecc9b76-151e-4070-83ad-925e47bae798?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3a7092f-87ff-49d5-8899-e7c113518eec?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c89c5aba-d7ae-49a1-be90-a6807b91b107?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db00ce90-fe65-468c-9ec1-162777e0a0e1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c783c8a6-06e3-4824-bf69-abae8328829f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0946a02b-6566-4fce-b2cb-0c75d6586081?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd276939-9566-49d7-ba8d-2b2600c01631?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c2713a3-e4b0-4b2e-a3a7-fe09d7205bac?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a109a295-0ccd-43ad-bf27-1aa7704fe79c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/851d2922-2eca-43f5-8cae-b6d34882bab9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d67b6850-ec3c-4568-8fdd-5f74cc269c17?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 673.0,
-      "Opis": "Keller • Garage/Stellplatz\n\nDiese charmante 2-Zimmer-Wohnung in Bocholt bietet auf 48 m² eine gemütliche Atmosphäre. Das 1937 erbaute Gebäude beherbergt die Wohnung im 1. Stock. Das Bad ist mit Fenster und ausgestattet, die Küche ist ohne Einrichtung und bietet Ihnen die Möglichkeit zur individuellen Gestaltung. Laminatboden sorgt für eine warme und einladende Wohnatmosphäre. Beheizt wird die Wohnung komfortabel mit einer Kombitherme. Ideal für alle, die eine behagliche Wohnung in zentraler Lage suchen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-116-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n• Gasetagenheizung\n• Fahrradkeller\n• Mieterkeller\n• Wasch- und Trockenkeller\n• Bad mit Dusche und Fenster\n• Isolierverglasung\n• Mediaanschluss\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer attraktiven Lage, die besonders durch ihre Nähe zu verschiedenen Bildungseinrichtungen besticht, darunter die Clemens-Dülmer-Schule sowie die Overberg-Schule. Für Familien mit Kindern ist der Kubaai-Spielplatz in bequemer Gehweite ein idealer Ort zum Spielen und Verweilen. Einkaufsmöglichkeiten sind ebenfalls gut erreichbar: Die Supermärkte ALDI Süd und REWE bieten eine breite Auswahl für den täglichen Bedarf. Erholsame Stunden im Grünen verspricht der nahegelegene Museumsgarten, der zu Spaziergängen und Freizeitaktivitäten im Freien einlädt. Medizinische Versorgung ist durch mehrere Arztpraxen in der Umgebung gewährleistet, darunter die Praxen von M.D. Omar Dakik, Dr. med. Ulrich Holtkamp und Dr. Peter E. van de Velde. Die Anbindung an den öffentlichen Nahverkehr ist hervorragend: Insgesamt 14 Bushaltestellen, beispielsweise an der Schwartzstraße, sind schnell erreichbar, und auch zwei Bahnhöfe, unter anderem Bocholt, liegen in akzeptabler Entfernung.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\nDie in den Nebenkosten enthaltenen TV-Gebühren in Höhe von derzeit 12,50 EUR dienen ausschließlich der transparenten Kostendarstellung.\nDiese stellen weder Kaltmiete noch umlagefähige Betriebskosten im klassischen Sinne dar, sondern eine zusätzliche vertragliche Leistung des Vermieters, die im Rahmen des Mietvertrages geregelt wird.\nAusführliche Informationen finden Sie auf www.leg-wohnen.de.Dort stehen Ihnen außerdem die Produktinformationsblätter sowie die Vertragszusammenfassungen zu den jeweiligen Angeboten und Leistungen zur Verfügung.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 261 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 27.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-116-M",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-15T21:01:03.372554+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2322,7 +2223,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-balkon-und-keller-in-isselburg-anholt/3532878653-203-1848",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/681e75e4-b57a-4086-a0b4-f18c5a2885d0?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ec8d3b3-7485-452a-85ba-a3e458c4049d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/681e75e4-b57a-4086-a0b4-f18c5a2885d0?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fae87715-5a66-4e55-a19c-4d8cf491a133?rule=$_59.AUTO",
