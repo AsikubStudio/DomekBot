@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:08:32.616591+00:00",
+  "generated_at": "2026-10-23T16:35:36.549704+00:00",
   "count": 100,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-23T11:08:32.616591+00:00",
+      "last_updated": "2026-10-23T16:35:36.549704+00:00",
       "interval_hours": 3
     }
   },
@@ -901,7 +901,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5aa25870-e1f7-4b0f-a865-66b390a2fd5a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92671537-5b25-4ac1-acb1-8d4bcc467f07?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -953,39 +953,6 @@
       "Opis": "Ich suche eine Nachmieterin (weiblich) für meine ca. 34 m² große Wohnung in Bocholt, die ab dem 01.01.2027 verfügbar ist.\n\nDie Wohnung besteht aus einem Wohnzimmer, einem separaten Schlafzimmer, einer Küche, einem Badezimmer, einem Flur und einem Balkon. Sie eignet sich gut für eine Person, die eine gemütliche Wohnung mit guter Anbindung sucht.\n\nDie Wohnung liegt in der Nähe des Aasees. Eine Bushaltestelle befindet sich direkt vor der Tür. Von dort aus gibt es Verbindungen mit dem Stadtbus Bocholt sowie unter anderem nach Borken, Münster und Coesfeld.\n\nMit dem Fahrrad ist die Innenstadt in weniger als 10 Minuten erreichbar. Einkaufsmöglichkeiten wie Penny, Edeka und Netto befinden sich in der Nähe. Eine Bäckerei befindet sich direkt neben des Objekts.\n\nDie Wohnung wird teilmöbliert übergeben. Dazu gehören unter anderem eine relativ neue Miele-Waschmaschine und ein Miele-Trockner (ca. 2 Jahre alt). Welche weiteren Möbel übernommen werden sollen, können wir gerne persönlich besprechen. Eine Einbauküche ist vorhanden.\n\nBitte beachtet, dass Strom, Wasser und Heizkosten direkt mit dem jeweiligen Anbieter abgerechnet werden, beispielsweise mit der BEW.\n\nWenn du Interesse an der Wohnung hast, würde ich mich über eine kurze Vorstellung freuen. Schreib bitte ein paar Zeilen über dich, zum Beispiel zu deinem Alter, deinem Beruf und deiner persönlichen Situation.\n\nEine Schufa-Auskunft und Einkommensnachweise wären ebenfalls wünschenswert.\n\nIch werde die Anfragen chronologisch beantworten und bitte daher um etwas Geduld, falls die Rückmeldung nicht sofort kommt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-20T14:10:10.771607+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Schöne Dachgeschoss Wohnung Dinslaken Lohberg",
-      "Cena (€)": 350.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 40.0,
-      "Lokalizacja": "46537 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 35,
-      "Odległość od 's-Heerenberg (km)": 47.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-dachgeschoss-wohnung-dinslaken-lohberg/3541956881-203-1854",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b104fd1e-1a37-43bb-8cc0-8ee8ee4ce98c?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b104fd1e-1a37-43bb-8cc0-8ee8ee4ce98c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a26d3f4c-22fc-493c-9751-075f1649f899?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afeb3992-5a11-4a8a-8dbd-83494f2a33d3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c8547010-e331-4c3e-91dc-e4cc2b10ed40?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/204828de-bdad-4ac0-b0dd-d3b597634e8a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f16f4397-05d3-4fd7-9ef5-69e009241e25?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22cdae18-4011-4788-87d7-8ce12f8cc899?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c01cf87e-9188-4897-bbc1-d0834effb26b?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c97e103-61ec-474a-a45c-ccc8d812d862?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/698a0e85-c8fb-4a5d-95a5-b778b198e792?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ea70ccb-89ab-4308-b383-d5c8c15fab6a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/482637e8-bcaa-4332-9b78-a6ab7da95212?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 550.0,
-      "Opis": "Biete hier eine schöne, helle Wohnung in Dinslaken Lohberg\nDiese gut geschnittene Wohnung befindet sich in einem freundlichen\nMehrfamilienhaus.\nWir Bieten eine Schöne 2\nZimmer Dachgeschoss Wohnung dritte Etage in Dinslaken Lohberg\n\nAusgestattet ist die Wohnung mit Laminat- Beheizt werden die Räume mit einer Zentralheizung ( Fernwerme\nGas ).\n\nWeitere Angaben\nObjektzustand: gepflegt Bodenbelag: Fliesen, Lominot\nTermin nach Absprache",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-15T21:01:03.372554+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1066,7 +1033,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/677e28cd-1221-484b-86cf-46142f66419e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14dc6ff3-952a-44bc-8a90-3111351468bb?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1128,7 +1095,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3195627-4e6f-48c3-8cbf-019630369e4f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d70c9086-cf8c-48bf-bc07-9b7cbc6b70eb?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1323,7 +1290,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/409644ac-56fa-4470-9a03-b44fb8df3f1f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfc4dfe7-aca8-4811-b1c9-ae76ac15d0e8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1558,6 +1525,38 @@
       "Opis": "Einbauküche • Haustiere erlaubt\n\n**Eckdaten:**\n\n* Wohnfläche: ca. 52 m²\n* Kaution: 1.404,00 € (3 Kaltmieten)\n* Badezimmer mit Dusche\n* Einbauküche vorhanden\n\n**Monatliche Gesamtmiete:**\n\n* Kaltmiete: 468,00 €\n* Küche: 50,00 €\n* Nebenkosten: 200,00 €\n* Gesamt: 718,00 € (zzgl. Strom)\n\nBei Interesse freuen wir uns über Ihre Nachricht. Bitte stellen Sie sich kurz vor und fügen Sie nach Möglichkeit bereits Angaben zu Ihrer Person sowie Ihrem Beschäftigungsverhältnis bei.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Helle Dachgeschosswohnung in Hünxe – 2 Zimmer, 54 m²",
+      "Cena (€)": 480.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 54.0,
+      "Lokalizacja": "46569 Hünxe",
+      "Odległość (km)": 29.0,
+      "Czas dojazdu (min)": 28,
+      "Odległość od 's-Heerenberg (km)": 44.2,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-dachgeschosswohnung-in-huenxe-2-zimmer-54-m-/3549577131-203-1383",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1cbb401-3abe-480d-b6e5-b89c22bfef41?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1cbb401-3abe-480d-b6e5-b89c22bfef41?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8bd3a9bd-7a30-4b4e-b7ad-b8259cca0220?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/864da77b-53ab-4800-8994-8f0e57ae5f0c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb68fb5a-1f80-41d2-92b4-8980bea394a0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5b5ea2f-2e3c-4fcd-9eac-8b9ce7295ea6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6423382-062b-4234-95f4-c6e8b6d25f47?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d30adbad-75a7-4537-9c61-2fb4ae40ee1a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0c0da37-b3c1-404f-9b77-c0cf560280a6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9907565-5adf-4eaf-93c7-ee10d4f8447f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/eceba79d-2e77-4baf-be6c-957599038421?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/058089a0-c3ed-4c16-8f05-3761af1dde74?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Ab dem 01.02.2027 wird eine Dachgeschosswohnung in Hünxe frei.\n\nWohnungsdetails:\n\nWohnfläche: ca. 54 m²\n\nLage: 2. Obergeschoss (Dachgeschoss)\n\n-2 Zimmer\n-Wohnküche inklusive Küchenzeile\n-Badezimmer\n-Flur\n-Zusätzlicher Raum gegenüberliegend der Wohnung\n-Kein Keller vorhanden\n-Stellplatz\n\nMietkosten pro Monat:\nKaltmiete: 350 €\nStellplatz: 30 €\nNebenkostenvorauszahlung: 100 €\n\nGesamtmiete: 480 € monatlich inklusive Stellplatz und Nebenkosten.\n\nKaution: 2 Monatskaltmieten = 700 €\n\nDie Wohnung eignet sich ideal für Singles oder Paare, die eine gemütliche Wohnung in Hünxe suchen.\n\nBei Interesse oder weiteren Fragen gerne melden.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-23T16:35:36.547913+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1882,39 +1881,6 @@
       "Opis": "Balkon • Keller\n\nDiese ansprechende 2-Zimmer-Wohnung in Duisburg präsentiert sich nach einer umfassenden Modernisierung im Jahr 2026 als Erstbezug. Die 62 m² Wohnfläche verteilen sich auf zwei helle Zimmer sowie ein Badezimmer und befinden sich in der zweiten Etage eines gepflegten Mehrfamilienhauses aus dem Jahr 1970. Ein besonderes Highlight ist der Balkon, der zum Verweilen einlädt. Zusätzlich sorgt ein eigener Kellerraum für praktischen Stauraum. Die Beheizung erfolgt über eine Etagenheizung (moderne Infrarotheizung). Das Objekt ist ab sofort verfügbar und bietet eine flexible Regelung bezüglich der Tierhaltung.\n\n\\- neues Bad\n\n\\- moderne Infrarotheizungen\n\nDie Holtener Straße liegt im Duisburger Stadtteil Obermarxloh, der durch eine gute Anbindung an den öffentlichen Nahverkehr überzeugt. Buslinien und die U-Bahn-Linie U79 ermöglichen eine schnelle Verbindung zum Stadtzentrum. Das lebendige Viertel bietet eine angenehme Infrastruktur mit einer Mischung aus Familien und Berufstätigen.\n\nHeizkosten sind nicht in den Nebenkosten enthalten und laufen über den privaten Stromtarif.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Renovierte Dachgeschosswohnung in ruhiger Lage zu vermieten",
-      "Cena (€)": 550.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 55.0,
-      "Lokalizacja": "46397 Bocholt",
-      "Odległość (km)": 27.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": 28.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-dachgeschosswohnung-in-ruhiger-lage-zu-vermieten/3540513419-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/161546ec-676f-4820-b306-50729e742d4a?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/161546ec-676f-4820-b306-50729e742d4a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/961beaff-2cc1-43be-a96d-1c025c96b855?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a13b0ee5-3cdf-4339-9cc3-60ac50620ff1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ad6bc1c-f43c-46ba-89b5-a5cd6e9b9396?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/9274dd33-1f00-4f23-a472-6d73384cfc6e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb7da8f3-fb0f-4f85-85c0-de5220161353?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb1e4c9f-56e5-4e26-8cf4-0b7ccad551ca?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/94feb69b-5157-4d48-b242-ce4f68043a22?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83d3c2fe-37df-440c-a34e-00c94124d56c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1abbcd5-95ac-4c84-80da-5e8c4426f5cf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/175725df-a0e3-4b54-abb4-686450555066?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/2345d41c-260d-4ac8-bde7-5d936b12b585?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 670.0,
-      "Opis": "Renovierte Dachgeschosswohnung in ruhiger Lage zu vermieten\n\nDetails zur Wohnung:\n\t•\t2 helle Zimmer\n\t•\tCa. 55 m² Wohnfläche\n\t•\tDachgeschoss (2. Obergeschoss)\n\t•\tCa. 10 m² eigener Kellerraum\n\t•\tGemeinschaftlicher Waschraum im Keller\n\t•\tKaltmiete: 550 €\n\t•\tNebenkosten: 120 € (inkl. Wasser und sonstiger Betriebskosten)\n\t•\tStrom und Gas separat\n\nLage:\nDie Wohnung befindet sich in einer verkehrsberuhigten Sackgasse. Öffentliche Parkplätze sind direkt vor dem Haus verfügbar.\n\nRenovierungen (2025):\n\t•\tNeues Badezimmer\n\t•\tNeue Küche\n\t•\tNeuer Fußboden\n\t•\tNeue Türen\n\t•\tNeue Heizkörper\n\t•\tFrisch gestrichene Wände\n\nIdeal für Singles oder Paare, die ruhig, aber dennoch zentral wohnen möchten.\n\nDie Kaution beträgt 1650€.\nEin früherer Einzug wäre ggf. auch möglich.\nBesichtigung nach Absprache!\n\nBei Interesse schicken Sie uns bitte Ihren Namen, Alter, Beruf und Einkommensinformationen zu. Wir melden uns bei Ihnen für einen Besichtigungstermin.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-14T14:24:19.259820+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2862,6 +2828,26 @@
       "Opis": "Möbliert/Teilmöbliert • Einbauküche • Altbau • Keller • Garten/-mitnutzung • WG-geeignet\n\nGemütliches Wohnen im Dreifamilienhaus in OB-Buschhausen, teilmöbliert\n\n●\tPrivatsphäre & Eingang:\nJede Partei verfügt über einen eigenen, separaten Eingang.\n\n●\tGarten auf Anfrage und Mitbeteiligung bei Pflege:\nGemeinschaftliche Gartennutzung – ideal für nette Stunden im Grünen und gemeinsames Anpacken.\n\nUnser Zusammenleben\n●\tHausgemeinschaft:\nAktuell wohnen 2 Parteien in dem Haus\n\n●\tPhilosophie:\nWir schätzen ein harmonisches, hilfsbereites Miteinander ohne Anonymität (z. B. für kleine Gespräche im Garten oder gegenseitige Unterstützung im Alltag).\n\nWen wir suchen:\n\n●\tEine zuverlässige, empathische Person (oder ein Paar), die/das Freude an gutem Nachbarschaftsklima, Gartenarbeit, Respekt und gegenseitiger Hilfsbereitschaft hat.\nEckdaten zur Wohnung\n\n●\tWohnfläche: ca. 55 m² (auf Anfrage 1 Zimmer mehr und gegen Aufpreis und Selbstausbau)\n●\tZimmer: 2\n●\tMiete: Möbliert 650,- € zuzüglich 150,- € für Heiz- und Wasserkosten sowie Hausgeld\nzuzüglich Strom nach Verbrauch\n●\tFrei ab: sofort\n●\tKontakt: über ebay",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-21T11:18:04.801314+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "(bez tytułu)",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 80.0,
+      "Lokalizacja": "47169 Marxloh",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 42,
+      "Odległość od 's-Heerenberg (km)": 54.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung/3505582025-203-23949",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0de9f78d-3814-4044-b2b8-298b56c32333?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     }
   ]
 }
