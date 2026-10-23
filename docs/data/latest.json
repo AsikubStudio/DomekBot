@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T03:43:43.657964+00:00",
-  "count": 102,
+  "generated_at": "2026-10-23T11:08:32.616591+00:00",
+  "count": 100,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-23T03:43:43.657964+00:00",
+      "last_updated": "2026-10-23T11:08:32.616591+00:00",
       "interval_hours": 3
     }
   },
@@ -866,39 +866,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "gemütliche 2-Zimmer-DG-Wohnung mit WBS in Kalkar-Stadtmitte",
-      "Cena (€)": 205.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 41.0,
-      "Lokalizacja": "47546 Kalkar",
-      "Odległość (km)": 11.0,
-      "Czas dojazdu (min)": 21,
-      "Odległość od 's-Heerenberg (km)": 14.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-dg-wohnung-mit-wbs-in-kalkar-stadtmitte/3548587741-203-1388",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/092c5354-7fcb-4054-8848-0122e829fcdc?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/092c5354-7fcb-4054-8848-0122e829fcdc?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9373087-98e3-4e83-9a68-2fcf243b7a0d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c80403f-0cfe-4067-b16d-58f1ee191692?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec53c27e-8cae-48be-aad1-a17b71862ee0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13124c69-bc34-4f72-b240-ec9df7fe228e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca45b13c-0dd3-442f-b723-430b3d6de1f7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a7b20b9-83e2-45b3-925d-eb6e12558e56?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b02ab40c-1f60-49b8-ba5c-f4b9a26daef7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/32babdad-07e1-475f-9b14-02f921c2c3d6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b6b5ffc-0403-4470-98e5-88cfedae6aac?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/aa/aa2d9717-06a6-4026-8cc4-1dca499a28fb?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/092c5354-7fcb-4054-8848-0122e829fcdc?rule=$_1.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Die gemütliche 2-Zimmer-Dachgeschosswohnung befindet sich in einem Dreifamilienhaus (Baujahr 1985) im historischen Stadtkern von Kalkar. Sie hat eine Gasetagenheizung (Baujahr 2021) und ist mit einer Einbauküche sowie modernem Fußbodenbelag ausgestattet. Das Bad hat eine Dusche. Hier befindet sich auch der Waschmaschinenanschluss. Es gibt einen separaten Wasserzähler. Zur Wohnung gehört ein Kellerraum. Heizkosten sind in den Vorauszahlungen nicht enthalten, da Etagenheizung.\n\nDie Wohnung kann nur an Personen (bevorzugt Einzelperson) mit einem gültigen Wohnberechtigungsschein vermietet werden.\n\nEnergieverbrauchsausweis vorhanden, Endenergieverbrauch 132,1 kWh/m²/a\n\nAnfragen bitte nur per Email.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-22T16:46:24.726198+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Schöne 2-Zimmer- Wohnung in Emmerich mit WBS",
       "Cena (€)": 282.0,
       "Pokoje": 2.0,
@@ -934,7 +901,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/dfa390ae-1921-480c-aca1-6e554736a954?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5aa25870-e1f7-4b0f-a865-66b390a2fd5a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1099,7 +1066,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/596a0c23-596c-431e-b57c-b482d4d7f3ca?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/677e28cd-1221-484b-86cf-46142f66419e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1161,7 +1128,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/319f9a72-1d31-4d86-ad6f-30e973cf1fe3?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3195627-4e6f-48c3-8cbf-019630369e4f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1356,7 +1323,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/956e0690-303d-46a7-ac0b-98d387c2ba8b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/409644ac-56fa-4470-9a03-b44fb8df3f1f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1408,39 +1375,6 @@
       "Opis": "Balkon • Badewanne\n\nDiese charmante Etagenwohnung zur Miete in Duisburg bietet ein komfortables und modernes Wohnambiente. Die Wohnung befindet sich in einem gepflegten Mehrfamilienhaus und besticht durch ihre hellen und freundlichen Räumlichkeiten. Für die Anmietung ist ein entsprechender Wohnberechtigungsschein notwendig.\n\nDie Wohnung verfügt über:\n- drei geräumige Zimmer, die ausreichend Platz für Ruhe und Entspannung bieten\n- schöner Balkon mit ordentlich Platz\n\nDie Wohnung ist mit modernen Bodenbelägen und einer ansprechenden Farbgestaltung versehen, die eine warme und einladende Atmosphäre schaffen. Die großzügigen Fenster sorgen für eine optimale Belichtung aller Räume und lassen natürliches Licht in die Wohnung eindringen.\n\nZusätzliche Highlights dieser Immobilie:\n- Ruhige Wohngegend mit guter Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten\n\nDiese Etagenwohnung in Duisburg bietet alles, was Sie für ein komfortables und stilvolles Wohnen benötigen. Vereinbaren Sie noch heute einen Besichtigungstermin und überzeugen Sie sich selbst von den Vorzügen dieser Immobilie.\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: modernisiert\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen, Laminat, Kunststoff\n\n- Hinweis zur Kaution: 1.324,02 €\n\n- Nutzfläche: ca. 72,35 m²\n\n# Lagebeschreibung\nEntdecken Sie Ihr neues Zuhause in der charmanten Stadt Duisburg, einer lebendigen Metropole am Rhein. Diese Mietwohnung befindet sich in einer der begehrtesten Wohnlagen, die sowohl Ruhe als auch urbanes Flair vereint.\n\n- Zentrale Lage: Nur wenige Gehminuten vom Stadtzentrum entfernt, genießen Sie die Nähe zu Einkaufsmöglichkeiten, Restaurants und kulturellen Einrichtungen.\n- Ausgezeichnete Verkehrsanbindung: Die Wohnung liegt verkehrsgünstig mit direkter Anbindung an öffentliche Verkehrsmittel. Die Autobahnen A40 und A59 sind nur wenige Minuten entfernt, sodass Pendler von optimalen Verbindungsmöglichkeiten profitieren.\n- Grüne Oasen: In direkter Umgebung finden Sie zahlreiche Parks und Erholungsgebiete. Der beliebte Duisburger Stadtpark und der Kaiserberg mit seinem Zoo laden zu entspannten Spaziergängen ein.\n- Bildungseinrichtungen: In der Nähe befinden sich renommierte Schulen und Kindergärten, ideal für Familien.\n- Gesundheitswesen: Profitieren Sie von der Nähe zu Krankenhäusern und medizinischen Einrichtungen, die eine hervorragende gesundheitliche Versorgung gewährleisten.\n\nErleben Sie das Beste aus beiden Welten – Stadtleben und Natur – in dieser hervorragenden Lage in Duisburg.Entfernungen:\nFlughafen 24,5 km\nFernbahnhof 1,4 km\nBus 0 km\n\nAnbieter-Objekt-ID: Beecker Straße 182, 2.OG links",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Seniorengerechte Wohnung im Laurentius-Haus Uedem",
-      "Cena (€)": 446.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.41,
-      "Lokalizacja": "47589 Uedem",
-      "Odległość (km)": 18.0,
-      "Czas dojazdu (min)": 34,
-      "Odległość od 's-Heerenberg (km)": 22.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/seniorengerechte-wohnung-im-laurentius-haus-uedem/3541576448-203-1148",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebc3d60b-8f91-4c12-864a-e70f9792d500?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebc3d60b-8f91-4c12-864a-e70f9792d500?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76719744-3104-4f07-b7fa-f1ca62ed95c4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b1b890a-a4a3-41db-a6d0-42f802f489d1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d17de708-ef6f-4dc5-aafd-9323d9def83d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1aa47743-9587-4450-8804-132dd53d95f1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5d748c4-4241-4c63-96b2-1af5d651966e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d759185a-1fc2-4d27-a363-dc9fd686c137?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f956bea1-6722-4f46-b655-5c08a5f695e8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39a3c48f-d51f-4556-b088-d5af37402c6d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/521c73ba-5b9d-4f49-ad00-516eb732f497?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76ad6e7b-0e88-414a-bea3-7cbb1620f913?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 641.0,
-      "Opis": "Balkon • Stufenloser Zugang • Neubau • Aufzug\n\nDie Wohnung befindet sich im Staffelgeschoss des Laurentius-Hauses in Uedem und ist daher hervorragend für Senioren geeignet. Es handelt sich um eine barrierefreie, gepflegte Neubauwohnung mit schönen Dachterrassen. Die Wohnung verfügt über eine Küche, ein Wohn- und ein Schlafzimmer. Im Bad befindet sich eine bodentiefe Dusche neben Waschbecken und WC. In selbigem kann auch die Waschmaschine stehen. Über den Aufzug können die verschiedenen Etagen des Hauses problemlos erreicht werden.\nDie Fotos sind Beispielbilder.\n\nEine Besichtigung der Wohnung können Interessenten gern unter 02831-9395-88 zu den üblichen Telefonzeiten (9:00 – 15:00 Uhr) mit uns abstimmen. Bei Nichterreichbarkeit kann ein Rückrufwunsch in der Zentrale Caritasverbandes Geldern Kevelaer e.V. hinterlegt werden.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-15T16:26:53.406414+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
