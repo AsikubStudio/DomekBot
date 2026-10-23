@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T16:35:36.549704+00:00",
+  "generated_at": "2026-10-23T21:05:27.509467+00:00",
   "count": 100,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-23T16:35:36.549704+00:00",
+      "last_updated": "2026-10-23T21:05:27.509467+00:00",
       "interval_hours": 3
     }
   },
@@ -901,7 +901,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92671537-5b25-4ac1-acb1-8d4bcc467f07?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/deaf151b-78ae-45cf-a4ca-165387500c0d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -967,7 +967,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-3-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3471855237-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26b34902-cd27-442a-ab67-908c91d59b10?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e2eca46-1014-4c8f-8531-3b45f2d4d6c9?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05703c32-5598-4a8d-9503-38cfe059bacd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49d48ca6-4958-462a-9e77-a3f217e70486?rule=$_59.AUTO",
@@ -1033,7 +1033,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14dc6ff3-952a-44bc-8a90-3111351468bb?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf569d6f-8fc2-4adc-870b-c7332e9d5822?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1095,7 +1095,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d70c9086-cf8c-48bf-bc07-9b7cbc6b70eb?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe63789-c1c9-4cdf-8fff-90728dcfebcd?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1224,7 +1224,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-1-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453791-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09dcd39c-5f30-4670-b095-8333b91997fb?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/75fb74a3-e385-469a-bf9a-658e52e07af4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f81f9e-b7a0-4596-a85d-4620cf44d6b9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/4168403d-08a7-492d-9237-0a8eee835bab?rule=$_59.AUTO",
@@ -1290,7 +1290,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfc4dfe7-aca8-4811-b1c9-ae76ac15d0e8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c49ce8e9-a8f1-4c2f-963e-562747b4ae7e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1484,7 +1484,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/bezugsfertig-helle-2-zimmer-wohnung-in-marxloh-300-als-willkommensgeschenk-/3528728350-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/438a05b4-0f0b-4e73-b7b5-8596d74a1fd1?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd738e0-438e-4cce-a365-e05a3205153c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/2221cdba-eeeb-4447-afef-6957867d4ad7?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79fc4ccc-3aa2-48cb-ab86-32a30620d708?rule=$_59.AUTO",
@@ -1718,6 +1718,26 @@
       "Opis": "Balkon • Badewanne • Keller • Garten/-mitnutzung • Haustiere erlaubt\n\nDie Wohnung befindet sich im 2. Obergeschoss eines Mehrfamilienhauses aus dem Baujahr 1972 und verfügt über eine Wohnfläche von ca. 60,3 m². Die Wohnung wurde 2026 renoviert und verfügt über ein Badezimmer, einen Balkon sowie einen separaten Kellerraum.\n\nRenovierte Wohnung (2026)\nLaminatboden in den Wohn- und Schlafräumen\nFliesenboden in Küche und Badezimmer\nBadezimmer mit weißen Wandfliesen und Badewanne\nWarmwasser im Badezimmer über Durchlauferhitzer\nWarmwasser in der Küche über Untertischgerät\nKunststofffenster mit Isolierverglasung\nHeizkörper in den Wohnräumen\nBalkon mit Zugang vom Wohnzimmer\nSeparater Kellerraum",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-14T14:24:19.259820+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Z.Wohnung in Duisburg",
+      "Cena (€)": 500.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 61.0,
+      "Lokalizacja": "47169 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": 53.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-z-wohnung-in-duisburg/3504257120-203-2146",
+      "Zdjęcie": null,
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1958,7 +1978,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/grosszuegige-2-zimmer-wohnung-mit-balkon-in-bester-lage-/3487114613-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/864da77b-53ab-4800-8994-8f0e57ae5f0c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/318e0aed-7f96-4655-a459-5044d8d9edf2?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/9603f8b7-8720-41db-b6e9-49bca04e9e10?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5fe2e31d-5a7d-47b3-8211-4b93e984ecb4?rule=$_59.AUTO",
@@ -2602,39 +2622,6 @@
       "Opis": "Balkon • Badewanne • Keller\n\nVermietet wird eine schöhe helle 2,5 Zimmerwohnung in der City von Goch.\n\ngeheizt wird mit einer eigenen Gastherme (muss mit den jeweiligen Betreiber direkt abgerechnet werden.\n\n1 Wohnraum mit Kochnische und Zugang zum Balkon\n\n1 Schlafzimmer\n\n1 Flur\n\n1 Bad mit Wanne + Dusche\n\n1 Kellerraum\n\nGesamt ca. 54 m²\n\nKosten:\n\nKaltmiete 600,00 €\n\nNK- Vorauszahlung für 1 Person 80,00 €\n\nKauiton 1.800,00 € (3 Kaltmieten)\n\nGas und Strom müssen direkt mit dem jeweiligen Betreiber abgerechnet werden.\n\nEnergieausweis wird zurzeit neu erstellt.\n\nVerdientsnachweise und eine Mieterselbsauskunft sowie eine positive Schufa werden vorausgesetzt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-12T10:20:21.493470+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Schöne, gepflegte 2-Zimmer-Wohnung mit Balkon – Bezugsfrei!",
-      "Cena (€)": 600.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 65.0,
-      "Lokalizacja": "46414 Rhede",
-      "Odległość (km)": 23.0,
-      "Czas dojazdu (min)": 33,
-      "Odległość od 's-Heerenberg (km)": 32.1,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-gepflegte-2-zimmer-wohnung-mit-balkon-bezugsfrei-/3547707637-203-1381",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7a882a7-445e-446d-9dd0-6be435890f53?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7a882a7-445e-446d-9dd0-6be435890f53?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/52725f8a-f7f6-4665-b116-e582301ef99b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a229f7e-2566-4f53-837d-715731d65d47?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9944f6a-3064-47a3-a8d7-8504f95540c5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79e04398-b29c-48bf-80a5-97989f662b1c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab6b2149-84c6-41be-a643-f19ba9480164?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4c92e3d-05fb-405f-bb29-36607de4c1b6?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/944d5458-a723-49cb-801f-33854a398e1a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20e750df-f791-4b93-801d-91844766c26a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5a790fd-ebe1-403a-9e06-12bd847c7ea7?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd61fd90-b454-4c6c-877c-1280be909dec?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9b9c786-60c3-4634-a049-1d7b58ef3717?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 750.0,
-      "Opis": "Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nWillkommen in Ihrem neuen Zuhause!\nDiese helle und gut geschnittene 2-Zimmer-Wohnung von Baujahr 2000 mit ca. 65 m² Wohnfläche bietet die perfekte Kombination aus ruhiger Lage und optimaler Stadtnähe.\nDie durchdachte Raumaufteilung eignet sich ideal für Singles oder Paare, die auf der Suche nach einem gemütlichen und praktischen Eigenheim sind.\n\nEin besonderes Plus: Zur Wohnung gehört ein eigener, zusätzlicher Kellerraum, der Ihnen wertvollen Stauraum bietet. Zudem stehen Ihnen zwei eigene Pkw-Stellplätze direkt am Haus zur Verfügung.\n\nAusstattung & Details auf einen Blick:\nWohnfläche: ca. 65 m²\nAufteilung: 2 Zimmer\nBaujahr: 2000\nZusatzraum: Eigener Kellerraum\nParken: 2 Pkw-Stellplätze inklusive / vorhanden\nEnergie: Energieausweis liegt vor\n\nKonditionen:\nKaltmiete: 600 €\nNebenkosten: 150 €\nWarmmiete (Gesamt): 750 €\nKaution: 1.000 €\nSonstiges / Kontakt:\nHaben wir Ihr Interesse geweckt? Bitte stellen Sie sich bei Ihrer Kontaktaufnahme kurz vor (Name, Personenzahl, berufliche Situation). Wir freuen uns auf Ihre Nachricht zur Vereinbarung eines Besichtigungstermins!",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-21T16:44:37.486363+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
