@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-23T21:05:27.509467+00:00",
-  "count": 100,
+  "generated_at": "2026-10-24T03:32:00.848765+00:00",
+  "count": 99,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-23T21:05:27.509467+00:00",
+      "last_updated": "2026-10-24T03:32:00.848765+00:00",
       "interval_hours": 3
     }
   },
@@ -1180,36 +1180,6 @@
       "Opis": "Balkon\n\nDie charmante Wohnung im EG (Zugang mit wenigen Stufen) verfügt über drei geräumige Zimmer, die viel Platz für gemütliches Wohnen bieten. Auf dem sonnigen Balkon kann man entspannen und die frische Luft genießen.\n\nDie verkehrsgünstige Lage ist optimal, um Geschäfte des täglichen Lebens zu erreichen.\n\nZu der Wohnung gehört selbstverständlich ein Kellerraum.\n\nEnergieausweis ist beantragt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-06T15:16:30.836295+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "(bez tytułu)",
-      "Cena (€)": 420.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 45.0,
-      "Lokalizacja": "46539 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 28,
-      "Odległość od 's-Heerenberg (km)": 50.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-in-dinslaken-hiesfeld-zu-vermieten/3545311673-203-1855",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38bf1a91-94d0-43ae-8495-f0cc2821211c?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/1736816a-d8e0-41e4-be44-487c78943640?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be45fc2d-9393-4fa5-8545-39ff9dfdb999?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4259ea7-bb34-4a92-88ab-0c585fe9bb3f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb66716e-86b9-4cdb-924a-40715006cdd5?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a2461ae-26c6-482d-ae56-95f1fc58f8de?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/884eeaee-9f2a-4e1c-b24a-caa89efd47e1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/046e0a72-a7e9-4e50-b967-cc41ddd01c15?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2207b11-c8b7-45fe-bc50-a68d031ce0d6?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 520.0,
-      "Opis": "Garten/-mitnutzung • Haustiere erlaubt\n\nWohnung 45qm zu vermieten in Dinslaken Hiesfeld.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-18T22:50:30.486698+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
