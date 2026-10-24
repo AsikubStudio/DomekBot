@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-24T15:30:04.845873+00:00",
-  "count": 100,
+  "generated_at": "2026-10-24T20:21:21.914668+00:00",
+  "count": 99,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-24T15:30:04.845873+00:00",
+      "last_updated": "2026-10-24T20:21:21.914668+00:00",
       "interval_hours": 3
     }
   },
@@ -901,7 +901,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/476d7c94-9f5d-47b7-afbf-a85a112a2c60?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6f74aa3-0e02-4d87-9a00-e221c55fb91a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1033,7 +1033,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf732622-f010-4c30-af64-debf9d71ad39?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5feccf3-54ab-4042-96ff-fbe49a215a2e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1095,7 +1095,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6cded6f-4832-4710-8473-d32264f5471a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2c06243-53ef-4e0e-b6e4-1493a2b85ed9?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1147,39 +1147,6 @@
       "Opis": "Die Wohnung befindet sich in der Stadtmitte von Dinslaken. Sowohl die Dinslakener Innenstadt als auch der Bahnhof sind fußläufig in etwa 5 Minuten zu erreichen. Die Autobahn A3 und die A59 sind mit dem Auto schnell erreichbar.\n\nDie Wohnung befindet sich im DG eines 3-Familienhauses. Ein Einzelkeller und ein Gemeinschaftswaschraum stehen zur Verfügung. Die Beheizung erfolgt über Fernwärme.\n\nDie Wohnung steht zurzeit leer und kann sofort bezogen werden.\nDie Kaltmiete beträgt 392 Euro und die Nebenkosten incl. Vorauszahlung für die Fernwärme betragen 160 Euro.\n\nIch wohne selbst mit im Haus und wünsche mir eine ruhige, seriöse Nachbarschaft. Gesucht wird eine zuverlässige Einzelperson mit geregeltem Einkommen und ordentlichem Umgang mit der Wohnung.\n\nBesichtigungen können nach Rücksprache erfolgen.\n\nBedarfsorientierter Energiepass liegt vor.\n\nBei Interesse an der Wohnung wird vor Vermietung eine freiwillige Mieterselbstauskunft und eine Schufa-Auskunft erwartet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-16T16:12:13.561123+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Wohnung Wesel Fusternberg Nachmieter",
-      "Cena (€)": 395.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 58.0,
-      "Lokalizacja": "46485 Wesel",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 30,
-      "Odległość od 's-Heerenberg (km)": 36.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-wesel-fusternberg-nachmieter/3550365512-203-1866",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b67521d-7077-48fc-a2ce-15d5ebc061c6?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b67521d-7077-48fc-a2ce-15d5ebc061c6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e3d8169-7a35-4fba-b48f-bc180a05ac1b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80d06471-b089-46fd-9581-2c3e41008baa?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a40f9dfc-869b-46ff-8dba-2cb0dc829619?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/085fe0b4-f705-4e34-aeac-b3d6e1e153b0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c073493-d418-4fff-b5f8-76010fb43164?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9fbb85d-0f6d-4e13-8bbf-337b2089d69a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3c612f5-1c57-4a05-8e7d-dcbbb378c2a3?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44e75395-ee45-48bd-835f-b601966e8424?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90c3493a-7de6-4bd3-b7cb-cae847575220?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/edef72ca-59eb-4738-849e-001c5d4dfda3?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/685d9837-f409-4ff5-a09a-34e59866c223?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 540.0,
-      "Opis": "Balkon • Einbauküche • Fußbodenheizung • Keller • Garage/Stellplatz • Garten/-mitnutzung\n\nNachmieter für 2-Zimmer-Wohnung in Wesel-Fusternberg gesucht – ab sofort\n\nTeilen Sie uns bitte Ihre Personenanzahl, berufliche Situation und frühstes Einzugsdatum mit.\n\nFür eine 2-Zimmer-Wohnung in Wesel-Fusternberg wird ab sofort ein Nachmieter gesucht. Die Wohnung verfügt über einen Balkon, einen eigenen Stellplatz sowie einen Kellerraum. Im Keller befinden sich außerdem Stellplätze für Waschmaschine und Trockner.\n\nDie Kaltmiete beträgt 395 € monatlich, hinzu kommen 145 € Nebenkosten. Die Gesamtmiete liegt somit bei 540 € zuzüglich Gas.\n\nDie vorhandene Küche inklusive Elektrogeräten sowie das Waschbecken mit Unterschrank im Badezimmer sollen für insgesamt 1.300 € übernommen werden. Weitere Möbel und Einrichtungsgegenstände, beispielsweise Sofa, Waschmaschine, Wohnzimmerwand oder Balkonsichtschutz, können bei Interesse ebenfalls übernommen werden.\n\nEin Einzug ist kurzfristig nach Absprache möglich. Bei Interesse freue ich mich über eine Nachricht mit einer kurzen Vorstellung und dem gewünschten Einzugstermin. Besichtigungstermine können zeitnah vereinbart werden. Die Anmietung erfolgt vorbehaltlich der Zustimmung des Vermieters.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-24T15:30:04.843118+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1293,7 +1260,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ea3b1f1-45df-40f6-b12a-d4f48ae21059?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/334c74d1-8ed2-47b8-a9dc-adae4b89fd58?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1941,39 +1908,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Großzügige 2-Zimmer Wohnung mit Balkon in bester Lage!",
-      "Cena (€)": 550.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 69.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/grosszuegige-2-zimmer-wohnung-mit-balkon-in-bester-lage-/3487114613-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/318e0aed-7f96-4655-a459-5044d8d9edf2?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/9603f8b7-8720-41db-b6e9-49bca04e9e10?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5fe2e31d-5a7d-47b3-8211-4b93e984ecb4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d1f1e07-9cf4-4e19-8861-c6b228945ab3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be663e37-fda8-4f4f-a002-9986b30bda55?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c6b19ffc-8878-425b-a62c-f3aa68aca1ee?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b883d45-406d-43a3-8c10-87914746d500?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c93e55-177b-4865-a215-6137fbf96a93?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2507960-6ced-48ed-b5d2-468fa72e1612?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92b3fbb7-7701-4698-ac11-05b6a12ccbc3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d109a5d-c842-42ad-806c-49cf8d665584?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/8c/8c74a426-eb75-4001-88c1-6cbc52fc1d34?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2cb6515-32be-434e-81de-c6e55d681b07?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 740.0,
-      "Opis": "Balkon • Badewanne • Keller\n\nWillkommen in dieser charmanten Dachgeschosswohnung im 3. Obergeschoss eines gepflegten Mehrfamilienhauses mit insgesamt drei Etagen. Auf einer Wohnfläche von ca. 69 m² erwartet Sie eine gemütliche 2-Zimmer-Wohnung, die sich ideal für Singles oder Paare eignet.\n\nDas großzügige Wohnzimmer bildet das Herzstück der Wohnung und bietet reichlich Platz zum Entspannen und Wohlfühlen. Das separate Schlafzimmer sorgt für die nötige Privatsphäre und Ruhe. Ein vollständiges Badezimmer rundet das Raumkonzept ab und erfüllt alle Anforderungen des täglichen Komforts.\n\nAls Dachgeschosswohnung profitieren Sie von einer ruhigen Lage innerhalb des Hauses sowie einer angenehmen Atmosphäre. Die solide Grundausstattung bietet eine gute Basis, der Wohnung mit eigenen Möbeln und persönlichem Geschmack Ihren individuellen Stempel aufzudrücken.\n\nEin zusätzlicher Kellerabteil steht Ihnen zur Verfügung und bietet wertvollen Stauraum für Fahrräder, Sportausrüstung oder saisonale Gegenstände.\n\nDer gepflegte Gesamtzustand des Hauses unterstreicht das angenehme Wohnambiente und lässt Sie von Beginn an sorgenfrei einziehen.\n\n# Ausstattung\n- Es handelt sich um überarbeitete Wohnungsbilder, aufgrund von Privatsphäre der aktuellen Mieter\n\n- Kellerraum\n\n- gemütlicher Balkon\n\n- großer Wohn-und-Essbereich\n\n# Weitere Angaben\n- Verfügbar ab: ab 01.09.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.560\n\n# Lagebeschreibung\nDie Biefangstraße 71 befindet sich in einer gewachsenen und gut erschlossenen Wohnlage im Herzen von Oberhausen. Die Adresse punktet mit einer ausgezeichneten Infrastruktur, die den Alltag angenehm und unkompliziert gestaltet. Supermärkte, Discounter sowie weitere Einkaufsmöglichkeiten des täglichen Bedarfs sind bequem zu Fuß oder mit dem Fahrrad erreichbar.\n\nDie Anbindung an den öffentlichen Nahverkehr ist hervorragend – Bus- und Straßenbahnhaltestellen in unmittelbarer Nähe verbinden Sie schnell und zuverlässig mit dem Oberhausener Stadtzentrum sowie den umliegenden Stadtteilen und Nachbarstädten. Auch für Autofahrer ist die Lage ideal: Die nahegelegenen Auffahrten zur A42 und A516 ermöglichen eine schnelle Verbindung ins gesamte Ruhrgebiet.\n\nFür Familien bietet das Umfeld eine gute Auswahl an Kindertagesstätten, Grund- und weiterführenden Schulen, die alle in kurzer Entfernung liegen. Ärzte, Apotheken und weitere Einrichtungen der gesundheitlichen Versorgung sind ebenfalls gut erreichbar und runden das Angebot der Nahversorgung ab.\n\nKleine Parks und Grünflächen in der Umgebung laden zum Spazierengehen und Erholen ein und sorgen für eine angenehme Wohnatmosphäre mitten in der Stadt. Diese Lage verbindet urbanes Leben mit einer ruhigen, nachbarschaftlichen Wohnatmosphäre – ideal für Singles, Paare und Familien gleichermaßen.\n\n# Sonstiges\nIrrtum, Auslassung und Zwischenverwertung sind uns vorbehalten. Alle Angaben beruhen auf Daten des Vermieters\n\n# Energie\n- Wesentliche Energieträger: Gas\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5793552",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-16T16:12:13.561123+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Modernes Wohnen! Sanierte 2-Zimmer-Wohnung in DU-Walsum",
       "Cena (€)": 550.0,
       "Pokoje": 2.0,
@@ -2004,6 +1938,39 @@
       "Opis": "Bei der angebotene Immobilie handelt es sich um eine moderne 2-Zimmer-Wohnung im 3. Obergeschoss eines gepflegten Mehrfamilienhauses in Duisburg-Walsum. Besonders hervorzuheben ist die moderne Ausstattung, die ein angenehmes Wohnambiente schafft. Die Diele bildet das Herz der Einheit und gewährt Ihnen Zugang zu allen Räumlichkeiten. Das lichtdurchflutete Wohnzimmer überzeugt mit viel Platz für eine gemütliche Fernsehecke sowie einen Essbereich. Die offene Küche ergänzt das Raumkonzept und schafft eine angenehme Verbindung von Wohnen und Kochen. Das Tageslichtbad ist mit großen Fliesen in weiß und anthrazit gestaltet und verfügt über eine Dusche. Zudem befindet sich hier der Anschluss für eine Waschmaschine. Abgerundet wird die Wohnung durch dem Schlafzimmer.\nInsgesamt die ideale Immobilie für Singles oder Paare!\n\n# Ausstattung\n- ruhige Lage\n- saniert\n- gepflegtes Mehrfamilienhaus\n- Tageslichtbad mit Dusche\n- offenes Wohn-Koch-Konzept\n- viel Tageslicht\n- Dachgeschoss ohne Aufzug\n\n# Weitere Angaben\n- Verfügbar ab: 2026-08-01\n\n- Hinweis zur Kaution: 3 Kaltmieten Kaution\n\n# Lagebeschreibung\nDuisburg ist die westlichste Großstadt des Ruhrgebietes und mit knapp 496.000 Einwohnern die 15-größte Stadt. Die Stadt liegt im Knotenpunkt eines dichten überregionalen Autobahn-, Schienen- und\nWasserwegenetzes, die sie an das Ruhrgebiet, den größten industriellen Ballungsraum Europas, anbindet. Der Stadtteil Walsum grenzt an den Rhein und die Nachbarbezirke Altenrade und Hamborn. Das Objekt befindet sich in einem ruhigen Wohngebiet. Supermärkte, Banken, Cafés usw. sind im Umfeld bequem zu erreichen.\n\n# Sonstiges\nAnsprechpartner: Frau Denise Wolniczak\nE-Mail Kontakt: vertrieb@dahlheim-immobiliengruppe.de\nTelefonnummer: 0211 3679799999\n\n# Energie\n- Letzte Modernisierung: 2026\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: W8-WE8",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-24T18:30:33.347270+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Großzügige 2-Zimmer Wohnung mit Balkon in bester Lage!",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 69.0,
+      "Lokalizacja": "46149 Oberhausen",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 56.2,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/grosszuegige-2-zimmer-wohnung-mit-balkon-in-bester-lage-/3487114613-203-1290",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/318e0aed-7f96-4655-a459-5044d8d9edf2?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/9603f8b7-8720-41db-b6e9-49bca04e9e10?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5fe2e31d-5a7d-47b3-8211-4b93e984ecb4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d1f1e07-9cf4-4e19-8861-c6b228945ab3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be663e37-fda8-4f4f-a002-9986b30bda55?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c6b19ffc-8878-425b-a62c-f3aa68aca1ee?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b883d45-406d-43a3-8c10-87914746d500?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c93e55-177b-4865-a215-6137fbf96a93?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2507960-6ced-48ed-b5d2-468fa72e1612?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92b3fbb7-7701-4698-ac11-05b6a12ccbc3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d109a5d-c842-42ad-806c-49cf8d665584?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/8c/8c74a426-eb75-4001-88c1-6cbc52fc1d34?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2cb6515-32be-434e-81de-c6e55d681b07?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 740.0,
+      "Opis": "Balkon • Badewanne • Keller\n\nWillkommen in dieser charmanten Dachgeschosswohnung im 3. Obergeschoss eines gepflegten Mehrfamilienhauses mit insgesamt drei Etagen. Auf einer Wohnfläche von ca. 69 m² erwartet Sie eine gemütliche 2-Zimmer-Wohnung, die sich ideal für Singles oder Paare eignet.\n\nDas großzügige Wohnzimmer bildet das Herzstück der Wohnung und bietet reichlich Platz zum Entspannen und Wohlfühlen. Das separate Schlafzimmer sorgt für die nötige Privatsphäre und Ruhe. Ein vollständiges Badezimmer rundet das Raumkonzept ab und erfüllt alle Anforderungen des täglichen Komforts.\n\nAls Dachgeschosswohnung profitieren Sie von einer ruhigen Lage innerhalb des Hauses sowie einer angenehmen Atmosphäre. Die solide Grundausstattung bietet eine gute Basis, der Wohnung mit eigenen Möbeln und persönlichem Geschmack Ihren individuellen Stempel aufzudrücken.\n\nEin zusätzlicher Kellerabteil steht Ihnen zur Verfügung und bietet wertvollen Stauraum für Fahrräder, Sportausrüstung oder saisonale Gegenstände.\n\nDer gepflegte Gesamtzustand des Hauses unterstreicht das angenehme Wohnambiente und lässt Sie von Beginn an sorgenfrei einziehen.\n\n# Ausstattung\n- Es handelt sich um überarbeitete Wohnungsbilder, aufgrund von Privatsphäre der aktuellen Mieter\n\n- Kellerraum\n\n- gemütlicher Balkon\n\n- großer Wohn-und-Essbereich\n\n# Weitere Angaben\n- Verfügbar ab: ab 01.09.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.560\n\n# Lagebeschreibung\nDie Biefangstraße 71 befindet sich in einer gewachsenen und gut erschlossenen Wohnlage im Herzen von Oberhausen. Die Adresse punktet mit einer ausgezeichneten Infrastruktur, die den Alltag angenehm und unkompliziert gestaltet. Supermärkte, Discounter sowie weitere Einkaufsmöglichkeiten des täglichen Bedarfs sind bequem zu Fuß oder mit dem Fahrrad erreichbar.\n\nDie Anbindung an den öffentlichen Nahverkehr ist hervorragend – Bus- und Straßenbahnhaltestellen in unmittelbarer Nähe verbinden Sie schnell und zuverlässig mit dem Oberhausener Stadtzentrum sowie den umliegenden Stadtteilen und Nachbarstädten. Auch für Autofahrer ist die Lage ideal: Die nahegelegenen Auffahrten zur A42 und A516 ermöglichen eine schnelle Verbindung ins gesamte Ruhrgebiet.\n\nFür Familien bietet das Umfeld eine gute Auswahl an Kindertagesstätten, Grund- und weiterführenden Schulen, die alle in kurzer Entfernung liegen. Ärzte, Apotheken und weitere Einrichtungen der gesundheitlichen Versorgung sind ebenfalls gut erreichbar und runden das Angebot der Nahversorgung ab.\n\nKleine Parks und Grünflächen in der Umgebung laden zum Spazierengehen und Erholen ein und sorgen für eine angenehme Wohnatmosphäre mitten in der Stadt. Diese Lage verbindet urbanes Leben mit einer ruhigen, nachbarschaftlichen Wohnatmosphäre – ideal für Singles, Paare und Familien gleichermaßen.\n\n# Sonstiges\nIrrtum, Auslassung und Zwischenverwertung sind uns vorbehalten. Alle Angaben beruhen auf Daten des Vermieters\n\n# Energie\n- Wesentliche Energieträger: Gas\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5793552",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-16T16:12:13.561123+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
