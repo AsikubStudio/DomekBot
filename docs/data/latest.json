@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-24T10:24:44.621706+00:00",
-  "count": 98,
+  "generated_at": "2026-10-24T15:30:04.845873+00:00",
+  "count": 100,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-24T10:24:44.621706+00:00",
+      "last_updated": "2026-10-24T15:30:04.845873+00:00",
       "interval_hours": 3
     }
   },
@@ -901,7 +901,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/4001fe6e-1404-4f3d-822b-672c87011c93?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/476d7c94-9f5d-47b7-afbf-a85a112a2c60?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1033,7 +1033,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ec7a758-8043-43b5-b0e2-54d316369a15?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf732622-f010-4c30-af64-debf9d71ad39?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1095,7 +1095,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a9206d2-196a-4fdf-9676-4fdd7ca070c6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6cded6f-4832-4710-8473-d32264f5471a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1147,6 +1147,39 @@
       "Opis": "Die Wohnung befindet sich in der Stadtmitte von Dinslaken. Sowohl die Dinslakener Innenstadt als auch der Bahnhof sind fußläufig in etwa 5 Minuten zu erreichen. Die Autobahn A3 und die A59 sind mit dem Auto schnell erreichbar.\n\nDie Wohnung befindet sich im DG eines 3-Familienhauses. Ein Einzelkeller und ein Gemeinschaftswaschraum stehen zur Verfügung. Die Beheizung erfolgt über Fernwärme.\n\nDie Wohnung steht zurzeit leer und kann sofort bezogen werden.\nDie Kaltmiete beträgt 392 Euro und die Nebenkosten incl. Vorauszahlung für die Fernwärme betragen 160 Euro.\n\nIch wohne selbst mit im Haus und wünsche mir eine ruhige, seriöse Nachbarschaft. Gesucht wird eine zuverlässige Einzelperson mit geregeltem Einkommen und ordentlichem Umgang mit der Wohnung.\n\nBesichtigungen können nach Rücksprache erfolgen.\n\nBedarfsorientierter Energiepass liegt vor.\n\nBei Interesse an der Wohnung wird vor Vermietung eine freiwillige Mieterselbstauskunft und eine Schufa-Auskunft erwartet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-16T16:12:13.561123+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Wohnung Wesel Fusternberg Nachmieter",
+      "Cena (€)": 395.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 58.0,
+      "Lokalizacja": "46485 Wesel",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 30,
+      "Odległość od 's-Heerenberg (km)": 36.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-wesel-fusternberg-nachmieter/3550365512-203-1866",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b67521d-7077-48fc-a2ce-15d5ebc061c6?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b67521d-7077-48fc-a2ce-15d5ebc061c6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e3d8169-7a35-4fba-b48f-bc180a05ac1b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80d06471-b089-46fd-9581-2c3e41008baa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a40f9dfc-869b-46ff-8dba-2cb0dc829619?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/085fe0b4-f705-4e34-aeac-b3d6e1e153b0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c073493-d418-4fff-b5f8-76010fb43164?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9fbb85d-0f6d-4e13-8bbf-337b2089d69a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3c612f5-1c57-4a05-8e7d-dcbbb378c2a3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44e75395-ee45-48bd-835f-b601966e8424?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/90c3493a-7de6-4bd3-b7cb-cae847575220?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/edef72ca-59eb-4738-849e-001c5d4dfda3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/685d9837-f409-4ff5-a09a-34e59866c223?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 540.0,
+      "Opis": "Balkon • Einbauküche • Fußbodenheizung • Keller • Garage/Stellplatz • Garten/-mitnutzung\n\nNachmieter für 2-Zimmer-Wohnung in Wesel-Fusternberg gesucht – ab sofort\n\nTeilen Sie uns bitte Ihre Personenanzahl, berufliche Situation und frühstes Einzugsdatum mit.\n\nFür eine 2-Zimmer-Wohnung in Wesel-Fusternberg wird ab sofort ein Nachmieter gesucht. Die Wohnung verfügt über einen Balkon, einen eigenen Stellplatz sowie einen Kellerraum. Im Keller befinden sich außerdem Stellplätze für Waschmaschine und Trockner.\n\nDie Kaltmiete beträgt 395 € monatlich, hinzu kommen 145 € Nebenkosten. Die Gesamtmiete liegt somit bei 540 € zuzüglich Gas.\n\nDie vorhandene Küche inklusive Elektrogeräten sowie das Waschbecken mit Unterschrank im Badezimmer sollen für insgesamt 1.300 € übernommen werden. Weitere Möbel und Einrichtungsgegenstände, beispielsweise Sofa, Waschmaschine, Wohnzimmerwand oder Balkonsichtschutz, können bei Interesse ebenfalls übernommen werden.\n\nEin Einzug ist kurzfristig nach Absprache möglich. Bei Interesse freue ich mich über eine Nachricht mit einer kurzen Vorstellung und dem gewünschten Einzugstermin. Besichtigungstermine können zeitnah vereinbart werden. Die Anmietung erfolgt vorbehaltlich der Zustimmung des Vermieters.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-24T15:30:04.843118+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1260,7 +1293,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/783b3bba-7e89-4eea-ac2b-cd9e192c3926?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ea3b1f1-45df-40f6-b12a-d4f48ae21059?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2136,6 +2169,39 @@
       "Opis": "Balkon • Badewanne • Aufzug • Keller\n\nZur Vermietung steht eine Wohnung im 1. OG mitte in der Wiesenstraße 56, 46535 Dinslaken.\n\nGepflegtes Wohn- und Geschäftshaus direkt an der Neutor Galerie in Dinslaken. Das Haus hat einen Aufzug und wird mit Fernwärme beheizt. Zu jeder Wohnung gehören ein Balkon und ein Kellerraum. Auf der Parkpalette am Haus können Stellplätze dazu gemietet werden.\n\nEckdaten:\nWohnfläche: ca. 53 m²\nZimmer: 2\nRaumaufteilung: Wohnen/Essen, Schlafzimmer, Küche, Bad mit WC, Balkon, Keller\nEtage: 1. Obergeschoss\nKaltmiete: 567,10 €\nNebenkostenvorauszahlung: 155,00 €\nGesamtmiete: 722,10 €\nKaution: 1.701,30 €\nVerfügbar ab: 01.02.2027\n\nAusstattung:\n• Balkon\n• Aufzug im Haus\n• Kellerraum\n• Fernwärme\n• Stellplatz auf der Parkpalette anmietbar\n\nProvisionsfrei, direkt vom Eigentümer.\n\nSo geht es weiter:\nBitte füllen Sie unseren kurzen Bewerbungsbogen aus. Dort sehen Sie alle Fotos und können direkt einen Besichtigungstermin buchen:\nhttps://neu-vermietet.de/wohnung/wiesenstrasse-56-1-og-mitte-b6cea4\n\nGerne können Sie uns auch hier eine Nachricht schreiben. Sie erhalten umgehend eine Antwort mit dem Link.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-13T18:58:39.237924+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer Wohnung im 2.OG ab 1.11 in Wesel Stadtnah",
+      "Cena (€)": 570.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 43.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-im-2-og-ab-1-11-in-wesel-stadtnah/3550750263-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/704a5850-2b62-42f0-b752-40038243e7e9?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/704a5850-2b62-42f0-b752-40038243e7e9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2664ed2d-61f3-43ca-a244-096908f6e5bc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70ff2d22-3800-419d-aefd-5ae95e82625b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/378afeaf-edbf-4a98-91bf-292ae74fe3e8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f420c47f-379f-4a42-80f9-a4ebb0080af5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/ccfdac1c-2fee-4a5d-8b8a-c9aba358ef2d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fbc94715-b973-4851-9586-362b1be77ba0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c89a671a-6d0b-4c80-94b0-17d3805ae9ef?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58219b16-7a6d-4ca4-9e0a-7f90508405a9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/765a5878-b158-42bb-a1a6-4e24a3829013?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7dd5693-335b-4a23-b1f2-a3f467374588?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7d42dbb-1a78-44b0-ac86-abf6232df81b?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Die Zwei-Zimmer Wohnung befindet sich im 2.OG vorne (ohne Balkon) Sie liegt zentral in Wesel, fußläufig ist der Bahnhof und die Innenstadt erreichbar. Ein Kellerraum steht zur Verfügung, Haustiere sind nicht erlaubt.\nSchufa Auskunft und Gehaltsnachweise sind vor dem Besichtigungstermin vorzuzeigen.\n\nNetto Kaltmiete 570€\nNeben u. Betriebskosten 100€\nHeizkosten 125€\nStromkosten 50€\nGesamt im Monat 845€",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-24T15:30:04.843118+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
