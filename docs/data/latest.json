@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-25T23:04:07.722278+00:00",
-  "count": 99,
+  "generated_at": "2026-10-26T03:30:48.359229+00:00",
+  "count": 98,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-25T23:04:07.722278+00:00",
+      "last_updated": "2026-10-26T03:30:48.359229+00:00",
       "interval_hours": 3
     }
   },
@@ -2351,26 +2351,6 @@
       "Opis": "Möbliert/Teilmöbliert • Einbauküche • Badewanne • Gäste WC\n\nWir bieten eine DG-Wohnung in Duisburg-Fahrn an. Die Wohnung ist möbliert und befindet sich in einem Dreifamilienhaus, gelegen in einer ruhigen Sackgasse.\nSie beinhaltet eine Einbauküche mit E-Geräten, viel Küchenzubehör, ein Bett, ein Kleiderschrank, Deckenlampen, Badschränke, ein Sofa 2-Sitzer, ein Küchentisch, Stühle, ein Couchtisch, ein Fernseherunterschrank, Stauraumregale vor der Wohnungstür.\n\nDie jetzigen Mieter geben ihre 1,5 Jahre alte Waschmaschine, ihren Kühlschrank und ihren Fernseher für einen angemessen Preis ab.\n\nAb Oktober frei.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-19T12:19:18.991822+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Erstbezug in Duisburg maxlohr 576€",
-      "Cena (€)": 570.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 80.0,
-      "Lokalizacja": "47169 Marxloh",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": 54.5,
-      "Łazienka": "tak",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/erstbezug-in-duisburg-maxlohr-576-/3523826259-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39ebab8c-3ada-4a88-acd2-48803850b561?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-30T15:47:48.848825+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
