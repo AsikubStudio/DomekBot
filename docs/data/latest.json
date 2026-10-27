@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-27T08:43:34.223374+00:00",
-  "count": 100,
+  "generated_at": "2026-10-27T15:11:35.065187+00:00",
+  "count": 98,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-27T08:43:34.223374+00:00",
+      "last_updated": "2026-10-27T15:11:35.065187+00:00",
       "interval_hours": 3
     }
   },
@@ -866,6 +866,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "(bez tytułu)",
+      "Cena (€)": 328.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 41.0,
+      "Lokalizacja": "46419 Isselburg",
+      "Odległość (km)": 15.0,
+      "Czas dojazdu (min)": 17,
+      "Odległość od 's-Heerenberg (km)": 15.1,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/single-wohnung/3553796142-203-1848",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c398ee51-b1a6-4f96-b3f5-15a25aca5587?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c398ee51-b1a6-4f96-b3f5-15a25aca5587?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61991c11-69ad-44e1-936d-3473cb2b0f4b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5cc51ca9-b3ec-4069-aed3-6c92649e6baa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb20bc44-7521-4284-8797-a83409ab5a93?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/eadef630-38a6-4829-8566-fe1653b16dba?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/464d73f9-b61e-41d9-a61a-f8802ba725d0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59e8e5db-0e09-4272-a3d2-faf4e21c65bf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7e4d67d-4a91-4016-96b1-267ca59ad687?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6dcf2bf-0627-4f6b-964e-6001bec36ee0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5b87402d-8efa-4ba8-96c6-a8ab04d3cc80?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f5c3f66-0e2c-4857-854d-c38ea83391b7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c398ee51-b1a6-4f96-b3f5-15a25aca5587?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Kleine helle Erdgeschosswohnung",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-27T15:11:35.062428+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Platz für Lieblingsmenschen. / Room for the people you love.",
       "Cena (€)": 330.0,
       "Pokoje": 2.0,
@@ -877,7 +910,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/edf7abf4-e580-4f37-90a5-dbba4cc0d052?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24e580ad-3ef5-47e4-be32-ba020d386f88?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -976,7 +1009,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5e38157-add7-43d8-82e2-2b336b0122f8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/53745d6f-d4c5-405f-83af-68e08006e1c0?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1038,7 +1071,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b44123a0-94b3-456b-9439-9151dad48742?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c2dbba1-a172-4197-8aee-0f8ff8c1ab84?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1093,39 +1126,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Hans-Georg",
-      "Cena (€)": 425.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 55.87,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/hans-georg/3553631818-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/003b652b-af0e-4e7a-8b4b-9ce97aa1be80?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/003b652b-af0e-4e7a-8b4b-9ce97aa1be80?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8c93ba1-17d7-41af-bc5d-21941fdfb5c2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f2/f25d0dab-2111-4d21-b713-87c3a2f9fda8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9e12adc-18af-4e3a-b2b9-0e744643fd3f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e1c1c4d-e823-4d4f-9195-a6e4113a1379?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42f7b5b2-e0e7-40f4-b3d6-af7ed56cd532?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9f93880-3ad7-4e96-a7a4-32a200e01343?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d50e25c3-1631-435d-8573-197a9553af4a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/32f85926-f517-495f-b863-96500985e6a0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46937c81-27e0-4b3e-b71e-4d0c4d71e8bb?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fcfdd765-0f9c-4e76-8aac-39f9bf4ddfd8?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/91c15f1f-0ec4-4a1c-98e2-7e0a6f90d9ad?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 425.0,
-      "Opis": "Sehr ruhige Wohnung in\nGelsenkirchen Bulmke – Hüllen zu vermieten\nGerne an Senioren, Wohnung über nur vier Stufen erreichbach\nNähe Grenze Wanne – Eickel\n55,87 qm Erdgeschoß\n€ 425,00 Kaltmiete\n(inklusive Nebenkosten)\n2 Zimmer, Küche, Diele, Bad\nHeizung Nachtspeicher\nAb sofort zu vermieten\nKaution 3 Monatsmieten € 1.275,00\nBulmker Park ca. 10 Gehminuten entfernt\nDie Erzbahntrasse ist mit dem Rad in ca. 10 Minuten erreichbar.\nBushaltestellen der Linie 340 und 382 sind in ca. 5 Gehminuten zu erreichen.\nSparkasse, Ärzte, REWE, LIDL, ALDI, DM bzw. Apotheken sind ca. 1 Kilometer entfernt.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-27T08:43:34.221846+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Renovierte 2-Zimmer-Wohnung im 1. Obergeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
       "Cena (€)": 430.0,
       "Pokoje": 2.0,
@@ -1170,7 +1170,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7b351ae-77df-41ed-8107-aa92c3c0a41d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a49249c7-b80a-461e-b80b-682fbe53612b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1255,39 +1255,6 @@
       "Opis": "Balkon • Badewanne\n\nDiese charmante Etagenwohnung zur Miete in Duisburg bietet ein komfortables und modernes Wohnambiente. Die Wohnung befindet sich in einem gepflegten Mehrfamilienhaus und besticht durch ihre hellen und freundlichen Räumlichkeiten. Für die Anmietung ist ein entsprechender Wohnberechtigungsschein notwendig.\n\nDie Wohnung verfügt über:\n- drei geräumige Zimmer, die ausreichend Platz für Ruhe und Entspannung bieten\n- schöner Balkon mit ordentlich Platz\n\nDie Wohnung ist mit modernen Bodenbelägen und einer ansprechenden Farbgestaltung versehen, die eine warme und einladende Atmosphäre schaffen. Die großzügigen Fenster sorgen für eine optimale Belichtung aller Räume und lassen natürliches Licht in die Wohnung eindringen.\n\nZusätzliche Highlights dieser Immobilie:\n- Ruhige Wohngegend mit guter Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten\n\nDiese Etagenwohnung in Duisburg bietet alles, was Sie für ein komfortables und stilvolles Wohnen benötigen. Vereinbaren Sie noch heute einen Besichtigungstermin und überzeugen Sie sich selbst von den Vorzügen dieser Immobilie.\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: modernisiert\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen, Laminat, Kunststoff\n\n- Hinweis zur Kaution: 1.324,02 €\n\n- Nutzfläche: ca. 72,35 m²\n\n# Lagebeschreibung\nEntdecken Sie Ihr neues Zuhause in der charmanten Stadt Duisburg, einer lebendigen Metropole am Rhein. Diese Mietwohnung befindet sich in einer der begehrtesten Wohnlagen, die sowohl Ruhe als auch urbanes Flair vereint.\n\n- Zentrale Lage: Nur wenige Gehminuten vom Stadtzentrum entfernt, genießen Sie die Nähe zu Einkaufsmöglichkeiten, Restaurants und kulturellen Einrichtungen.\n- Ausgezeichnete Verkehrsanbindung: Die Wohnung liegt verkehrsgünstig mit direkter Anbindung an öffentliche Verkehrsmittel. Die Autobahnen A40 und A59 sind nur wenige Minuten entfernt, sodass Pendler von optimalen Verbindungsmöglichkeiten profitieren.\n- Grüne Oasen: In direkter Umgebung finden Sie zahlreiche Parks und Erholungsgebiete. Der beliebte Duisburger Stadtpark und der Kaiserberg mit seinem Zoo laden zu entspannten Spaziergängen ein.\n- Bildungseinrichtungen: In der Nähe befinden sich renommierte Schulen und Kindergärten, ideal für Familien.\n- Gesundheitswesen: Profitieren Sie von der Nähe zu Krankenhäusern und medizinischen Einrichtungen, die eine hervorragende gesundheitliche Versorgung gewährleisten.\n\nErleben Sie das Beste aus beiden Welten – Stadtleben und Natur – in dieser hervorragenden Lage in Duisburg.Entfernungen:\nFlughafen 24,5 km\nFernbahnhof 1,4 km\nBus 0 km\n\nAnbieter-Objekt-ID: Beecker Straße 182, 2.OG links",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Wohnung in Rees-Haldern",
-      "Cena (€)": 450.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.0,
-      "Lokalizacja": "46459 Rees",
-      "Odległość (km)": 16.0,
-      "Czas dojazdu (min)": 19,
-      "Odległość od 's-Heerenberg (km)": 16.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-rees-haldern/3553438292-203-1389",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa90ca61-5e0a-4a6e-9e34-0b7bf10e7362?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa90ca61-5e0a-4a6e-9e34-0b7bf10e7362?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5ad5797-e140-4633-86a0-008a7b541743?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab235882-b2d5-456b-90e8-6b536b773527?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4bc2bc9a-5dcf-4516-ab7a-1377132326f8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6832628-f07b-4564-9f4f-30fe8e41353e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/10ec71eb-63b2-46c9-834f-5b615138d039?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/425472cc-1243-45cf-9021-3faec09c4dc5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61b0e29c-af46-44c1-a028-dec9d858f2c3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40832dff-4a14-426e-a087-23586e64d840?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/3706ebd7-be6c-4033-b44b-d238f517cae6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/853cd74a-53ab-43a6-9f3c-298b0dea0f67?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a1fa1b6-4fa0-4cdb-97f8-7623ed9f45b9?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Hallo\nEine sehr schöne 2 Zimmerwohnung in Rees-Haldern zu vermieten.\nIm ruhigen und gehobenen Viertel nahe Drostendick.\n\nEinfach schreiben, am besten mit Telefonnummer, dann kann ich die Nachrichten direkt weiterleiten.\n\nTiere generell erlaubt, bedarf aber eine Anfrage an den Vermieter.\n\nMit freundlichen Grüßen\nJ.R.\n\nAchtung ‼️\nMöbel sollten gegen kleine Übernahme Gebühr übernommen werden.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-26T20:21:29.237633+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1831,39 +1798,6 @@
       "Opis": "Die 2-Zimmer Wohnung wurde im Jahr 2026 saniert und verfügt über einen Balkon, einen Abstellraum im Keller und einem Verschlag im Dachboden.\nDas Mehrfamilienhaus ist aus dem Jahr 1971.\nZur Wohnung gehört eine Garage auf dem großzügig bemessenen Garagenhof.\nZum Abstellen eines Fahrrades ist ebenfalls ein ebenerdiger Raum vorhanden.\n\n# Ausstattung\nBalkon, Keller, Duschbad, Fliesen\n\nBemerkungen:\nDie Wohnung wurde im Jahr 2026 saniert.\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: saniert\n- Bodenbelag: Fliesen, Kunststoff\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDas Objekt befindet sich im östlichen Stadtgebiet von Bocholt. Eine Bushaltestelle befindet sich in direkter Nähe.\nInfrastruktur (im Umkreis von 5 km):\nApotheke, Lebensmittel-Discount, Allgemeinmediziner, Kindergarten, Grundschule, Hauptschule, Realschule, Gymnasium, Gesamtschule, Öffentliche Verkehrsmittel\n\n# Sonstiges\nHeizungsart: Zentralheizung\nEnergieträger: Öl\n\nHausverwaltung Meyer GmbH\nIm Königsesch 8, 46395 Bocholt\nAmtsgericht Coesfeld, HRB 9983\nGeFü:Dipl. Ing. (FH) Martin Meyer\nUSt-ldNr.:DE247184600\n\nGrundrisse:\n- https://www.ohne-makler.net/immobilie/file/1643511.pdf (Grundriss)\n\nSonstige Unterlagen:\n- https://www.ohne-makler.net/immobilie/file/1643512.pdf (Energieausweis)\n\nohne-makler (OM) ist weder Anbieter noch Vermittler der Immobilie. OM betreibt eine Plattform für Immobilieneigentümer, die unter anderem die gleichzeitige Veröffentlichung einzelner Inserate auf mehreren Immobilienportalen ermöglicht. Die Inhalte dieser Inserate werden ausschließlich von Dritten verantwortet. Für die Richtigkeit, Vollständigkeit oder Rechtmäßigkeit der Angaben übernimmt OM keine Haftung. Hinweise auf mögliche Rechtsverstöße können jederzeit gemeldet werden und werden nach Prüfung umgehend bearbeitet.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 75 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Baujahr: 1971\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Öl\n\nAnbieter-Objekt-ID: 506352",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-17T20:14:34.798486+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Sanierte 2 Zimmer Wohnung im Zentrum von Dinslaken",
-      "Cena (€)": 530.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 49.0,
-      "Lokalizacja": "46535 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 41,
-      "Odległość od 's-Heerenberg (km)": 48.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/sanierte-2-zimmer-wohnung-im-zentrum-von-dinslaken/3530000660-203-1853",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c8347a0-84a7-48d0-9e2f-7ab5f08cca00?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c8347a0-84a7-48d0-9e2f-7ab5f08cca00?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a9edf32-e5d1-4c03-b982-8ed1d4c062aa?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f9f626f-3ccb-47ac-a92f-e7fa423cb96b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/abcb0bca-591f-4139-890e-3741d044f518?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6789dba-974f-436a-a766-517c4dfd2d21?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d6d57af-0821-434e-a2eb-35ab8a6e0543?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c634aa0-f5e9-4be8-a1a7-296daff76917?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4259ea7-bb34-4a92-88ab-0c585fe9bb3f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/6559d959-0257-4e65-b19c-c34d35eb43c6?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5272c21-7b6a-4a97-825d-2f43049c2f62?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c130645e-4534-439e-91ef-b586ac676371?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b055acf2-200e-451e-b2a4-889086f2f126?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 680.0,
-      "Opis": "Die Wohnung wurde komplett saniert und präsentiert sich in einem modernen und gepflegten Zustand. Die hellen, freundlichen Räume sowie die großen Fenster sorgen für eine angenehme und lichtdurchflutete Wohnatmosphäre.\n\nDie Wohnung befindet sich im 4. Obergeschoss eines gepflegten Mehrfamilienhauses. Ein Aufzug ist vorhanden und ermöglicht einen komfortablen Zugang zur Wohnung.\n\nDas moderne Badezimmer rundet das zeitgemäße Wohnangebot ab.\n\nDank der zentralen Lage in der Innenstadt von Dinslaken befinden sich Einkaufsmöglichkeiten, Restaurants, Geschäfte und Einrichtungen des täglichen Bedarfs in unmittelbarer Nähe.\n\nNach Absprache sind Besichtigungen jederzeit möglich.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-03T14:59:20.158782+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
