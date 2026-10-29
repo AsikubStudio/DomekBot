@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T09:28:33.043241+00:00",
+  "generated_at": "2026-10-29T18:07:29.771279+00:00",
   "count": 101,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-29T09:28:33.043241+00:00",
+      "last_updated": "2026-10-29T18:07:29.771279+00:00",
       "interval_hours": 3
     }
   },
@@ -877,7 +877,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67176b21-a8fc-4c0f-82ad-9e50c2a50648?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7ce990de-1eb5-413e-8248-b30919611710?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -929,6 +929,34 @@
       "Opis": "Emmerich, ruhige Lage Nähe Zentrum, 2-Zimmer-Wohnung, davon ein Zimmer mit Wohnküche, Diele und Badezimmer, 46 qm, Erdgeschoss, teilweise möbliert, Balkon, Kellerraum, Mietbeginn ab sofort oder auch später möglich, Kaltmiete 345 €, Kaution 3 Kaltmieten. Nebenkosten 80 € pro Person. Gas + Strom separat.\n\nBei Interesse schreiben Sie mir bitte. Dabei bitte angeben:\nVorname und Nachname\nAlter\nTelefon-Nr.\nE-Mail-Adresse\nSuchen Sie für sich selbst oder für jemand anderen?\nWann soll ein Mietvertrag beginnen?\nWie viele Personen sollen einziehen?\nBeruflicher Status (bspw. Arbeitnehmer, Rentner)\nBei Arbeitnehmern: Befristeter oder unbefristeter Arbeitsvertrag? Seit wann dort beschäftigt? Ist der Arbeitsvertrag ungekündigt?",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T20:08:04.572950+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Wohnung OB-Buschhausen 52 qm bezugsfertig",
+      "Cena (€)": 360.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 52.0,
+      "Lokalizacja": "46149 Oberhausen",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 56.2,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-ob-buschhausen-52-qm-bezugsfertig/3555722206-203-1290",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2969a079-c9d4-45cb-8490-a82acf8f8a61?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2969a079-c9d4-45cb-8490-a82acf8f8a61?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09c721c7-b2ed-424b-94ef-80179e798a5d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f801c927-3eb2-408e-b630-0f6b243430c9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d10e9bb1-d15d-40ef-ad7c-2d5add148030?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e2ad234-581d-4e27-ba74-f73415f1353c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce979e72-99b3-4730-8eca-f970e0878675?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5ba1037-c871-42bf-afd0-edd6c1a058f6?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 540.0,
+      "Opis": "Helle, freundliche 2,5 Raum Wohnung ab dem 01.12.2026 zu vermieten.\n\nDie Wohnung wird vor Bezug vollständig renoviert, alle Wand- und Deckenflächen weiß getrichen.\n\nDas Badezimmer ist weiß gefliest und verfügt über eine Badewanne.\n\nBitte nur schriftliche Bewerbungen über Kleinanzeigen, mit vollständigem Namen, Personenzahl und Angaben zur Berufstätigkeit.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-29T18:07:29.769486+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1009,7 +1037,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/156c62dd-92aa-4c57-b31b-df7917e44f40?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a2c7292-5a98-49df-a596-b13f5f80005a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1074,7 +1102,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7f1014e-9f34-4c79-ae3b-5f0e7ac91511?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3ec595f-10ce-42d4-9280-832ed6a03316?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1173,7 +1201,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f24c3d1-487e-4755-bc73-d69b8d8c859f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/4733ed39-cbfe-49f5-8926-fbdde375ab8a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1386,28 +1414,6 @@
       "Opis": "Einbauküche • Badewanne • Keller\n\nZu vermieten ist eine 2-Zimmer-Wohnung im Hochparterre eines sanierten 3-Parteien-Altbaus in einer ruhigen Seitenstraße in bevorzugter Wohnlage. Die Wohnfläche beträgt ca. 42 m². Zur Ausstattung gehören eine Einbauküche aus dem Jahr 2024, steuerbare elektrische Rollos sowie eine Videotürsprechanlage. Das Gebäude wird über eine effiziente Wärmepumpe beheizt. Ein eigener, abschließbarer Kellerraum und zwei überdachte Fahrradstellplätze sind ebenfalls vorhanden. Im Waschkeller gibt es einen eigenen Wohnungsanschluss für Waschmaschine und Trockner sowie Platz zum Wäscheaufhängen.\n\nDie Wohnung befindet sich in einer zentralen und gehobenen Wohnlage von Bocholt.\n\nKosten:\n\nKaltmiete: 460€\nNebenkosten: 60€\nHeizkosten: nicht in den Nebenkosten enthalten\nGesamtmiete: 520€ (zzgl. Heizkosten)\nKaution: 1380€\n\nBausubstanz & Energieausweis\n\nObjektzustand: Saniert\nHeizungsart: Wärmepumpe\nWesentliche Energieträger: Strom\nEnergie­ausweistyp: Bedarfsausweis\nEndenergie­bedarf: 69,1 kWh/(m²*a)\nEnergie­effizienz­klasse: B\nBaujahr laut Energieausweis: 1899",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-14T23:45:44.567926+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer-Wohnung mit Einbauküche in Wesel zu vermieten",
-      "Cena (€)": 468.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "46483 Wesel",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 32,
-      "Odległość od 's-Heerenberg (km)": 34.8,
-      "Łazienka": "tak",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-einbaukueche-in-wesel-zu-vermieten/3476751401-203-1867",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/e0/e092597b-15d0-4149-b2b8-cbb1fbda998a?rule=$_12.JPG"
-      ],
-      "Czynsz z mediami (€)": 718.0,
-      "Opis": "Einbauküche • Haustiere erlaubt\n\n**Eckdaten:**\n\n* Wohnfläche: ca. 52 m²\n* Kaution: 1.404,00 € (3 Kaltmieten)\n* Badezimmer mit Dusche\n* Einbauküche vorhanden\n\n**Monatliche Gesamtmiete:**\n\n* Kaltmiete: 468,00 €\n* Küche: 50,00 €\n* Nebenkosten: 200,00 €\n* Gesamt: 718,00 € (zzgl. Strom)\n\nBei Interesse freuen wir uns über Ihre Nachricht. Bitte stellen Sie sich kurz vor und fügen Sie nach Möglichkeit bereits Angaben zu Ihrer Person sowie Ihrem Beschäftigungsverhältnis bei.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-15T00:12:16.962999+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1776,7 +1782,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-saniert-2026/3543726644-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4c92e3d-05fb-405f-bb29-36607de4c1b6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f68e14c1-66d6-496f-b801-c7e93cdd6621?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4c92e3d-05fb-405f-bb29-36607de4c1b6?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41e3e2d0-a934-4215-a432-15bd793d4f9c?rule=$_59.AUTO",
@@ -2056,37 +2062,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung zu mieten",
-      "Cena (€)": 559.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 48.0,
-      "Lokalizacja": "46397 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": 28.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-zu-mieten/3554747760-203-1850",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6a7a6db-5c5e-4584-ad91-ed38a928fde2?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a9bb386-010e-4eb9-a10c-4ad6e20baed3?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13a3e772-6573-4fea-8bdf-8ff736188425?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d186417a-2a1f-4744-b001-5fe0f1d63c48?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ab47377-1a67-42ad-b71d-2206f5ac71c1?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/859becbe-8bc9-4aaa-acde-4bad97910c9e?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/658c1840-1133-4e07-b62d-c8b7e47b882a?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d67b6850-ec3c-4568-8fdd-5f74cc269c17?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42b236e2-d919-4da1-9c5b-715add0c5b0d?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8ba9cb0-e47d-40ba-aadd-4d99cfec57ad?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Hiermit möchte ich meine wohnung zum 1.1 Abgeben bei intresse einfach melden muss alles übernommen werden küche alles was drin ist danke",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt zu vermieten",
       "Cena (€)": 559.0,
       "Pokoje": 2.0,
@@ -2249,6 +2224,39 @@
       "Opis": "Balkon • Badewanne • Aufzug • Keller\n\nZur Vermietung steht eine Wohnung im 1. OG mitte in der Wiesenstraße 56, 46535 Dinslaken.\n\nGepflegtes Wohn- und Geschäftshaus direkt an der Neutor Galerie in Dinslaken. Das Haus hat einen Aufzug und wird mit Fernwärme beheizt. Zu jeder Wohnung gehören ein Balkon und ein Kellerraum. Auf der Parkpalette am Haus können Stellplätze dazu gemietet werden.\n\nEckdaten:\nWohnfläche: ca. 53 m²\nZimmer: 2\nRaumaufteilung: Wohnen/Essen, Schlafzimmer, Küche, Bad mit WC, Balkon, Keller\nEtage: 1. Obergeschoss\nKaltmiete: 567,10 €\nNebenkostenvorauszahlung: 155,00 €\nGesamtmiete: 722,10 €\nKaution: 1.701,30 €\nVerfügbar ab: 01.02.2027\n\nAusstattung:\n• Balkon\n• Aufzug im Haus\n• Kellerraum\n• Fernwärme\n• Stellplatz auf der Parkpalette anmietbar\n\nProvisionsfrei, direkt vom Eigentümer.\n\nSo geht es weiter:\nBitte füllen Sie unseren kurzen Bewerbungsbogen aus. Dort sehen Sie alle Fotos und können direkt einen Besichtigungstermin buchen:\nhttps://neu-vermietet.de/wohnung/wiesenstrasse-56-1-og-mitte-b6cea4\n\nGerne können Sie uns auch hier eine Nachricht schreiben. Sie erhalten umgehend eine Antwort mit dem Link.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-13T18:58:39.237924+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Dachgeschosswohnung",
+      "Cena (€)": 570.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 73.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": 34.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-dachgeschosswohnung/3552285459-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3dc8eb8-6515-4b23-9563-c9fd994ef3f0?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3dc8eb8-6515-4b23-9563-c9fd994ef3f0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b066232-7275-408e-b4a0-8b233bd5eca6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/216f5c98-3914-4bbe-9523-6d28c899c1c0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db2f914b-51cd-457d-9efe-0dd36d52c84e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86c20a39-c408-499f-a341-9157cdff9e87?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4b899d16-267d-42a3-990f-37602f658c11?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97d2a852-c3f4-49a2-bc09-c9bccd33d70f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/373c7b8b-6fb3-45a2-a443-287da6467375?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf51f368-3bf7-4455-a627-6573f0cdec5f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55410a6a-ebc6-4e49-9575-e92f186d7535?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9ce085f1-d6eb-4e44-8fdc-1954f886df30?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01724ded-fe24-4aaa-8e6e-e04784158823?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 750.0,
+      "Opis": "Balkon • Einbauküche • Badewanne • Altbau\n\n2 Zimmer 73m2 Dachgeschosswohnung mit Balkon\nWohnen/Essen 39m2 mit Giebelfenster zum Balkon\nKüche 6m2 mit Einbauküche\nSchlafen 13m2\nBad 9m2 mit Fenster, Wanne und Dusche\nAbstellraum 6m2 mit Dachfenster und Waschmaschinenanschluss\nPKW Stellplatz vor dem Haus\nGas Zentralheizung\nWarmwasser über Elektro Durchlauferhitzer\nInteressenten möchte ich bitten sich kurz vorzustellen\nAnzahl der Personen\nAlter und Berufstätigkeit",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-25T20:28:53.977263+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2845,7 +2853,7 @@
       "Tytuł": "2Zimmer Wohnung in Rees zu vermieten!",
       "Cena (€)": null,
       "Pokoje": 2.0,
-      "Powierzchnia (m²)": 48.0,
+      "Powierzchnia (m²)": 47.0,
       "Lokalizacja": "46459 Rees",
       "Odległość (km)": 13.0,
       "Czas dojazdu (min)": 19,
