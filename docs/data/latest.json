@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-29T00:39:43.267743+00:00",
-  "count": 98,
+  "generated_at": "2026-10-29T09:28:33.043241+00:00",
+  "count": 101,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-29T00:39:43.267743+00:00",
+      "last_updated": "2026-10-29T09:28:33.043241+00:00",
       "interval_hours": 3
     }
   },
@@ -877,7 +877,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a6902f6-4db9-47b7-b410-f3c04d6ab8bc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67176b21-a8fc-4c0f-82ad-9e50c2a50648?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1009,7 +1009,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/0805bbb4-e32e-480b-8aa1-859a77773072?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/156c62dd-92aa-4c57-b31b-df7917e44f40?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1074,7 +1074,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f670494-6ec9-4838-814c-60e424bc9a23?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7f1014e-9f34-4c79-ae3b-5f0e7ac91511?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1173,7 +1173,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/9038c6af-513d-4294-9d2b-220c137cc743?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f24c3d1-487e-4755-bc73-d69b8d8c859f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2534,6 +2534,26 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Moderne 2,5-Zimmer-DG-Wohnung am Waldrand: Einbauküche, Keller,",
+      "Cena (€)": 595.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 63.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": 47.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-5-zimmer-dg-wohnung-am-waldrand-einbaukueche-keller-/3553828809-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c1f1931-f1b2-45a6-8515-bd9b1d569b58?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Ansprechende 2-Zimmer-Wohnung mit Balkon in Wesel",
       "Cena (€)": 599.0,
       "Pokoje": 2.0,
@@ -2593,6 +2613,39 @@
       "Opis": "Ich biete Meine Wohnung ab 1/2027 bis 15/52027\n1 Schlafzimmer\nWohnzimmer\nKüche\nBadezimmer\n70 qm",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Etagenwohnung mit Balkon ab sofort zu vermieten",
+      "Cena (€)": 600.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 54.0,
+      "Lokalizacja": "47574 Goch",
+      "Odległość (km)": 16.0,
+      "Czas dojazdu (min)": 33,
+      "Odległość od 's-Heerenberg (km)": 21.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/etagenwohnung-mit-balkon-ab-sofort-zu-vermieten/3470485583-203-1147",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7abdfb4e-ebcc-4ce4-a14b-52235d6b2820?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2393da9-c665-49c9-9a04-82785abcb1f7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fe3add0-3453-40e7-a473-4d3f7d582b33?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ee206eb-71f5-413c-a1ff-43a6a9c68553?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1aa945e3-ad82-4509-90c8-678e27ee5425?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/0957965e-9fcf-4f3b-af03-2f202bf5be89?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38814eb0-0b63-4616-9fe9-3641f44bde2f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63446d49-04b4-4f1a-adb5-b47a2dadfa1c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/245cb124-dffd-4ea8-b1d4-fcdc0c2a150a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1462b9d-3a4d-421a-ba3a-f203661b895f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df444b07-2d76-45a6-8922-c708a833ab92?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/eb/eb7c93a7-2590-4b29-b01b-ac994c4bb50b?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 680.0,
+      "Opis": "Balkon • Badewanne • Keller\n\nVermietet wird eine schöhe helle 2,5 Zimmerwohnung in der City von Goch.\n\ngeheizt wird mit einer eigenen Gastherme (muss mit den jeweiligen Betreiber direkt abgerechnet werden.\n\n1 Wohnraum mit Kochnische und Zugang zum Balkon\n\n1 Schlafzimmer\n\n1 Flur\n\n1 Bad mit Wanne + Dusche\n\n1 Kellerraum\n\nGesamt ca. 54 m²\n\nKosten:\n\nKaltmiete 600,00 €\n\nNK- Vorauszahlung für 1 Person 80,00 €\n\nKauiton 1.800,00 € (3 Kaltmieten)\n\nGas und Strom müssen direkt mit dem jeweiligen Betreiber abgerechnet werden.\n\nEnergieausweis wird zurzeit neu erstellt.\n\nVerdientsnachweise und eine Mieterselbsauskunft sowie eine positive Schufa werden vorausgesetzt.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-12T10:20:21.493470+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2786,6 +2839,39 @@
       "Opis": "Altbau • Keller • Haustiere erlaubt\n\nVermietet wird eine Dachgeschoss Wohnung in der Rohleerstr.18 in Wesel. Die Wohnung ist komplett renoviert/ kernsaniert. Bei Interesse zwecks Besichtigungstermin können Sie gerne nach 17 Uhr anrufen.\n\nTel: 0178/7301298\n\nMit freundlichen Grüßen",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-20T18:59:05.160912+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2Zimmer Wohnung in Rees zu vermieten!",
+      "Cena (€)": null,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46459 Rees",
+      "Odległość (km)": 13.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2zimmer-wohnung-in-rees-zu-vermieten-/3555450503-203-1389",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/143df880-b63c-4b77-b233-ec2b892ed884?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/143df880-b63c-4b77-b233-ec2b892ed884?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/143df880-b63c-4b77-b233-ec2b892ed884?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68d386d7-e3d4-497e-9f84-488b2532aacb?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab7bf282-7fe2-48c0-970f-10df2d231f76?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cb36bb8-4b71-4f1d-8abd-e0723f4d277c?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f44771-c990-4143-9849-faaa8963795a?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40231e78-13d8-4572-a662-152265ae95e6?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ec8d3b3-7485-452a-85ba-a3e458c4049d?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5be5392e-2224-41ea-9d26-76fd0b353e97?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6ff7ccd4-e242-4d3b-b2cf-5adcac677f68?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/913471fd-d91a-41b1-a0d3-15ba18898a10?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Hallo,\nIch suche Nachmieter für meine 2 Zimmer Wohnung in rees.\nBilder folgen in Kürze.\nStraße und Hausnummer ist nur symbolisch, da ich etwas angeben muss.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-29T09:28:33.041661+00:00"
     }
   ]
 }
