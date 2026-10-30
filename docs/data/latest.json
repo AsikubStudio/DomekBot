@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T17:47:34.220235+00:00",
-  "count": 102,
+  "generated_at": "2026-10-30T22:00:22.022820+00:00",
+  "count": 99,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-30T17:47:34.220235+00:00",
+      "last_updated": "2026-10-30T22:00:22.022820+00:00",
       "interval_hours": 3
     }
   },
@@ -877,7 +877,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0c0bd07-573f-4e6c-8363-7561618ca6ac?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36b44066-2bba-4bc2-9dd8-a4a261a01405?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -971,7 +971,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-3-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3471855237-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7defa7b5-46d2-45bf-b9ab-d35dcc83a632?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/489001d2-be4d-40df-9663-0c154c047651?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05703c32-5598-4a8d-9503-38cfe059bacd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49d48ca6-4958-462a-9e77-a3f217e70486?rule=$_59.AUTO",
@@ -1037,7 +1037,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3eadda37-b8c8-46c5-a0b6-0e1cf7149fba?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc75058f-95f2-4383-ae5e-79e8a3feae35?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1070,7 +1070,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/fuer-heimwerker-gemuetliche-2-zimmer-wohnung-mit-renovierungsgutschein/3556237074-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b31482a-9316-4d1f-b035-e85ff43fd201?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/7366ad60-fc22-44ae-b4cd-eb0e33350fbd?rule=$_1.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b31482a-9316-4d1f-b035-e85ff43fd201?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc3b2e7d-fca8-432f-bd97-06690af9ab7a?rule=$_59.AUTO",
@@ -1135,7 +1135,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9cbbd999-147b-4d17-b244-a8b676a7d1f6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b0ba59a-3d82-4ebd-b351-1e952e792146?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1201,7 +1201,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-1-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453791-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/8332a30c-1e8c-4236-bbe8-a7fff297e2c9?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69bb7265-3b2e-4072-ba09-7430dc717dd1?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f81f9e-b7a0-4596-a85d-4620cf44d6b9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/4168403d-08a7-492d-9237-0a8eee835bab?rule=$_59.AUTO",
@@ -1234,7 +1234,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab033573-ef2b-4335-9e75-be9c39b4b6c2?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81fb3c89-f767-466c-ac50-0e88db7989b9?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2298,6 +2298,26 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Erstbezug in Duisburg maxlohr 576€",
+      "Cena (€)": 570.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 80.0,
+      "Lokalizacja": "47169 Marxloh",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 42,
+      "Odległość od 's-Heerenberg (km)": 54.5,
+      "Łazienka": "tak",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/erstbezug-in-duisburg-maxlohr-576-/3523826259-203-23949",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39ebab8c-3ada-4a88-acd2-48803850b561?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-09-30T15:47:48.848825+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Schöne 2- Zimmer Wohnung in Wesel Stadtnah zu vermieten",
       "Cena (€)": 580.0,
       "Pokoje": 2.0,
@@ -2397,26 +2417,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Schöne helle 3 Zimmer K/D/B Wohnung",
-      "Cena (€)": 590.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 84.0,
-      "Lokalizacja": "47167 Röttgersbach",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 54.4,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-helle-3-zimmer-k-d-b-wohnung/3553970703-203-26973",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b0ec597c-a526-4673-98cb-6561a5d8d78b?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-30T09:41:53.350312+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Nachmieter gesucht- Duisburg Hamborn",
       "Cena (€)": 593.0,
       "Pokoje": 2.0,
@@ -2480,26 +2480,6 @@
       "Opis": "Keller • Garage/Stellplatz\n\nDiese gepflegte 2-Zimmer-Etagenwohnung in Bocholt bietet auf ca. 59 m² Wohnfläche ein gut nutzbares Raumangebot für Singles oder Paare. Die Wohnung überzeugt durch eine angenehme Aufteilung und eignet sich ideal für Mieter, die eine überschaubare Wohnfläche in einem gepflegten Objekt suchen.\n\nDie monatliche Kaltmiete beträgt 595,00 €. Hinzu kommen Nebenkosten in Höhe von 80,00 €. Die Kaution beläuft sich auf 1.785,00 €.\n\nEin gemeinschaftlicher Kellerraum ist vorhanden und bietet neben dem Abstellraum in der Wohnung zusätzlichen Stauraum. Die Wohnung befindet sich in einem gepflegten Zustand und stellt eine attraktive Mietoption in Bocholt dar.\n\n# Ausstattung\n- moderner Vinylboden\n- Wohn-Esszimmer\n- 1 Außenstellplatz (40,00 €/mtl.)\n- Balkon\n- gemeinschaftlicher Kellerraum\n- separater Abstellraum in der Wohnung\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Objektzustand: gepflegt\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDie Wohnung befindet sich in Bocholt im beliebten Stadtgebiet und überzeugt durch eine ruhige Wohnlage mit guter Anbindung an das städtische Umfeld. Einkaufsmöglichkeiten, Einrichtungen des täglichen Bedarfs sowie weitere Versorgungsangebote sind in kurzer Distanz erreichbar. Auch das Zentrum von Bocholt ist gut angebunden und bietet eine vielseitige Infrastruktur mit Gastronomie, Einzelhandel und Dienstleistungen.\n\nDie Lage eignet sich sowohl für Berufspendler als auch für alle, die eine angenehme Kombination aus Wohnruhe und urbaner Erreichbarkeit schätzen. Durch die gute Verkehrsanbindung sind die umliegenden Stadtbereiche sowie die regionalen Ziele komfortabel erreichbar.\n\n# Sonstiges\nHaftungsausschluss für inhaltliche Richtigkeit übermittelter Daten: Der Makler weist darauf hin, dass für die inhaltliche Richtigkeit der übermittelten Daten des oben genannten Objektes nicht gehaftet werden kann, da er diese vom Eigentümer lediglich zur Verfügung gestellt bekommen hat.\n\nUnsere Angebote sind freibleibend. Zwischenverkauf oder -vermietung, Irrtum und Auslassungen bleiben vorbehalten. Mit dieser Immobilienanfrage erklärt sich der Interessent einverstanden, dass die Butzke & Schroer Real Invest GmbH ihn bzgl. dieses und weiterer Angebote telefonisch, schriftlich oder per E-Mail-Kontakt erfasst und informiert.\n\nBitte richten Sie Ihre Anfrage an:\n\ninfo@bs-realinvest.de\n\nWir bitten um Ihr Verständnis, dass wir die vollständigen Angaben zur Immobilie nur übermitteln können, wenn uns alle Kontaktdaten des Interessenten (Postanschrift, Telefon, E-Mail-Adresse) vorliegen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: GAS\n- Endenergiebedarf: 138 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 2027-09-08\n- Baujahr (gemäß Energieausweis): 1980\n\nAnbieter-Objekt-ID: 2026-1257",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-08T09:15:51.261000+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Moderne 2,5-Zimmer-DG-Wohnung am Waldrand: Einbauküche, Keller,",
-      "Cena (€)": 595.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.0,
-      "Lokalizacja": "46537 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 35,
-      "Odległość od 's-Heerenberg (km)": 47.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-5-zimmer-dg-wohnung-am-waldrand-einbaukueche-keller-/3553828809-203-1854",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c1f1931-f1b2-45a6-8515-bd9b1d569b58?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2642,7 +2622,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-im-erdgeschoss-mit-terasse-und-stellplatz/3556419089-203-1855",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6ce91761-353c-4ef8-82ad-bbb83cf698f8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d01a8704-e9c6-4e83-810e-1f26e7244cc6?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6ce91761-353c-4ef8-82ad-bbb83cf698f8?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/650fcf8e-b501-46e3-8e54-dfe2222f72a0?rule=$_59.AUTO",
@@ -2661,59 +2641,6 @@
       "Opis": "Terrasse • Einbauküche • Keller • Garage/Stellplatz\n\nDiese 2-Zimmer-Wohnung im Erdgeschoss wurde 2026 komplett saniert und wird als Erstbezug nach Sanierung vermietet. Auf rund 50 m² gibt es ein helles Wohnzimmer mit Zugang zur Terrasse, ein separates Schlafzimmer, eine Küche mit Frühstückstheke, ein neues Bad und einen Flur mit großem Einbauschrank.\n\nWas erneuert wurde:\n– neue Böden: Fliesen in Küche und Flur, Laminat in Wohn- und Schlafzimmer\n– neue weiße Innentüren\n– Bad komplett neu mit ebenerdiger Dusche, Wand-WC, Spiegelschrank und Handtuchheizkörper\n\nEinbauküche mit allen Geräten:\nDie Einbauküche wird mit allen Geräten mitvermietet: Kochfeld, Dunstabzugshaube, Backofen, Kühl-Gefrier-Kombination und eine neue Siemens-Spülmaschine. Die Küchenmiete beträgt 90 € im Monat, eine Ablöse fällt nicht an.\n\nZur Wohnung gehören ein eigener Kellerraum und ein eigener Außenstellplatz direkt am Haus, der für 50 € im Monat mitvermietet wird. Trocken- und Fahrradkeller können mitgenutzt werden.\n\nDas gepflegte Sechs-Parteien-Haus wurde 1997 gebaut, wird mit Fernwärme beheizt und hat die Energieeffizienzklasse B. Die Heizkosten sind in den Nebenkosten enthalten.\n\nMiete im Überblick:\nKaltmiete: 610 €\nEinbauküche: 90 €\nAußenstellplatz: 50 €\nNebenkosten inkl. Heizkosten: 160 €\nGesamtmiete: 910 €\nKaution: 1.830 €\n\nDie Wohnung ist ab sofort frei. Haustiere sind leider nicht erlaubt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-30T17:47:34.219212+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Nachmieter in Duisburg Wehofen zum 01.02.2027 gesucht",
-      "Cena (€)": 625.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "47179 Walsum",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": 51.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-in-duisburg-wehofen-zum-01-02-2027-gesucht/3555003203-203-2143",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/8983ae4a-f270-4ada-acf3-f74cc61dfe9c?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/8983ae4a-f270-4ada-acf3-f74cc61dfe9c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/231f964d-1867-46d7-91ec-d3571f4105e9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80cc320c-f796-4905-b98b-946b185baf47?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c3556b9e-53a4-415f-bc6b-1bac293b8ded?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e50afd5-dc32-473a-9ddf-353e86203f50?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/44/44ce9260-337d-412c-8398-79fed5905b77?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce5b67a1-4c8d-4d0a-9169-1ff149a8ac2a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e97c772-9a08-46ac-abe1-9023d9ce06df?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40a7c5fe-b9dc-4bc0-9e85-0b1472a4588e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e967c5d3-4dcd-4df8-98e5-15de572d8338?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/45cafb11-2cf9-4a6b-8089-6e1f17bd3c02?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8301333-486c-45da-acb0-bc15e247769f?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 625.0,
-      "Opis": "Möbliert/Teilmöbliert\n\nIch suche einen Nachmieter oder eine Nachmieterin für meine Wohnung in Duisburg Wehofen zum 01.02.2027.\nDie Küche sollte übernommen werden. Über weitere Möbel, die übernommen werden wollen, kann man sich sicherlich einig werden.\nBilder werden demnächst aktualisiert. Sind teilweise Bilder von der Vormieterin und teilweise von mir. Ich habe auch noch ein Video der Vormieterin, dieses kann ich per Nachricht zukommen lassen.\n\nBei Fragen einfach melden.\nDa die Wohnung über eine Hausverwaltung vermietet wird müsste man sich da melden, aber das hat bei meiner Übernahme problemlos funktioniert. Ob sich die Miete noch etwas erhöht, kann ich nicht sagen. Für 50€ im Monat habe ich noch eine Garage angemietet.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-28T20:08:04.572950+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Individuelles Wohnen im Grünen mit guter Infrastruktur",
-      "Cena (€)": 625.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 74.0,
-      "Lokalizacja": "46325 Borken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 41,
-      "Odległość od 's-Heerenberg (km)": 40.3,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/individuelles-wohnen-im-gruenen-mit-guter-infrastruktur/3554069816-203-1324",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db7b9f58-40dc-4cc0-b213-5779ff1d0107?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
