@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-10-30T22:00:22.022820+00:00",
-  "count": 99,
+  "generated_at": "2026-10-31T04:22:06.233908+00:00",
+  "count": 100,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-30T22:00:22.022820+00:00",
+      "last_updated": "2026-10-31T04:22:06.233908+00:00",
       "interval_hours": 3
     }
   },
@@ -2298,26 +2298,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Erstbezug in Duisburg maxlohr 576€",
-      "Cena (€)": 570.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 80.0,
-      "Lokalizacja": "47169 Marxloh",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": 54.5,
-      "Łazienka": "tak",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/erstbezug-in-duisburg-maxlohr-576-/3523826259-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39ebab8c-3ada-4a88-acd2-48803850b561?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-30T15:47:48.848825+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Schöne 2- Zimmer Wohnung in Wesel Stadtnah zu vermieten",
       "Cena (€)": 580.0,
       "Pokoje": 2.0,
@@ -2480,6 +2460,26 @@
       "Opis": "Keller • Garage/Stellplatz\n\nDiese gepflegte 2-Zimmer-Etagenwohnung in Bocholt bietet auf ca. 59 m² Wohnfläche ein gut nutzbares Raumangebot für Singles oder Paare. Die Wohnung überzeugt durch eine angenehme Aufteilung und eignet sich ideal für Mieter, die eine überschaubare Wohnfläche in einem gepflegten Objekt suchen.\n\nDie monatliche Kaltmiete beträgt 595,00 €. Hinzu kommen Nebenkosten in Höhe von 80,00 €. Die Kaution beläuft sich auf 1.785,00 €.\n\nEin gemeinschaftlicher Kellerraum ist vorhanden und bietet neben dem Abstellraum in der Wohnung zusätzlichen Stauraum. Die Wohnung befindet sich in einem gepflegten Zustand und stellt eine attraktive Mietoption in Bocholt dar.\n\n# Ausstattung\n- moderner Vinylboden\n- Wohn-Esszimmer\n- 1 Außenstellplatz (40,00 €/mtl.)\n- Balkon\n- gemeinschaftlicher Kellerraum\n- separater Abstellraum in der Wohnung\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Objektzustand: gepflegt\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDie Wohnung befindet sich in Bocholt im beliebten Stadtgebiet und überzeugt durch eine ruhige Wohnlage mit guter Anbindung an das städtische Umfeld. Einkaufsmöglichkeiten, Einrichtungen des täglichen Bedarfs sowie weitere Versorgungsangebote sind in kurzer Distanz erreichbar. Auch das Zentrum von Bocholt ist gut angebunden und bietet eine vielseitige Infrastruktur mit Gastronomie, Einzelhandel und Dienstleistungen.\n\nDie Lage eignet sich sowohl für Berufspendler als auch für alle, die eine angenehme Kombination aus Wohnruhe und urbaner Erreichbarkeit schätzen. Durch die gute Verkehrsanbindung sind die umliegenden Stadtbereiche sowie die regionalen Ziele komfortabel erreichbar.\n\n# Sonstiges\nHaftungsausschluss für inhaltliche Richtigkeit übermittelter Daten: Der Makler weist darauf hin, dass für die inhaltliche Richtigkeit der übermittelten Daten des oben genannten Objektes nicht gehaftet werden kann, da er diese vom Eigentümer lediglich zur Verfügung gestellt bekommen hat.\n\nUnsere Angebote sind freibleibend. Zwischenverkauf oder -vermietung, Irrtum und Auslassungen bleiben vorbehalten. Mit dieser Immobilienanfrage erklärt sich der Interessent einverstanden, dass die Butzke & Schroer Real Invest GmbH ihn bzgl. dieses und weiterer Angebote telefonisch, schriftlich oder per E-Mail-Kontakt erfasst und informiert.\n\nBitte richten Sie Ihre Anfrage an:\n\ninfo@bs-realinvest.de\n\nWir bitten um Ihr Verständnis, dass wir die vollständigen Angaben zur Immobilie nur übermitteln können, wenn uns alle Kontaktdaten des Interessenten (Postanschrift, Telefon, E-Mail-Adresse) vorliegen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: GAS\n- Endenergiebedarf: 138 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 2027-09-08\n- Baujahr (gemäß Energieausweis): 1980\n\nAnbieter-Objekt-ID: 2026-1257",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-08T09:15:51.261000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Moderne 2,5-Zimmer-DG-Wohnung am Waldrand: Einbauküche, Keller,",
+      "Cena (€)": 595.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 63.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": 47.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-5-zimmer-dg-wohnung-am-waldrand-einbaukueche-keller-/3553828809-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c1f1931-f1b2-45a6-8515-bd9b1d569b58?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2707,6 +2707,39 @@
       "Opis": "Keller • Garage/Stellplatz\n\nDiese gepflegte Souterrainwohnung in Hamminkeln bietet auf ca. 57 m² Wohnfläche eine gut durchdachte Raumaufteilung und eignet sich ideal für Singles oder Paare, die eine solide Mietwohnung in angenehmer Wohnlage suchen.\n\nDie Wohnung befindet sich in einem im Jahr 1990 erbauten, unterkellerten Mehrfamilienhaus mit insgesamt drei Etagen. Sie verfügt über zwei Zimmer, darunter ein Schlafzimmer, ein Badezimmer sowie einen Wohnbereich mit angenehmer Größe. Ergänzt wird das Raumangebot durch einen praktischen Abstellraum innerhalb der Wohnung sowie einen separaten Kellerraum, der zusätzlichen Stauraum bietet. Die Ausstattung ist zweckmäßig und entspricht einer normalen Ausstattungsqualität.\n\nIm Jahr 2023 wurde die Wohnung renoviert und umgebaut. Dadurch präsentiert sie sich heute in einem zeitgemäßen, gepflegten Zustand und bietet ein ansprechendes Wohnumfeld für Mieter, die Wert auf eine praktische und zugleich wohnliche Gestaltung legen.\n\nEin Stellplatz gehört ebenfalls zur Wohnung und rundet das Angebot komfortabel ab. Die Immobilie ist ab dem 01.12.2026 verfügbar und stellt eine attraktive Mietmöglichkeit für alle dar, die eine gut aufgeteilte Wohnung in Hamminkeln suchen.\n\n# Ausstattung\n- 2 Zimmer\n-> 1 Wohn-/Essbereich mit offener Küche\n-> 1 Schlafzimmer\n- Abstellraum\n- Kellerraum\n- 1 Badezimmer\n- 1 Stellplatz\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.12.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Garagen/Stellplatzmiete: 25,00 €\n\n# Lagebeschreibung\nDie angebotene Souterrainwohnung befindet sich in einer ruhigen, gewachsenen Wohnlage von Hamminkeln-Dingden. Das Umfeld ist geprägt von gepflegter Wohnbebauung und einer angenehmen Nachbarschaft, wodurch sich ein entspanntes und zugleich alltagstaugliches Wohnumfeld ergibt.\n\nEinkaufsmöglichkeiten für den täglichen Bedarf, ärztliche Versorgung sowie weitere Dienstleister sind in der näheren Umgebung erreichbar. Darüber hinaus bietet Hamminkeln ein familienfreundliches Angebot an Kindergärten und Schulen sowie vielfältige Freizeitmöglichkeiten im Grünen, die zu Spaziergängen, Radtouren und Erholung einladen.\n\nDie Verkehrsanbindung ist als vorteilhaft zu bewerten: Über die regionalen Straßenverbindungen lassen sich umliegende Ortsteile und benachbarte Städte zügig erreichen. Auch der öffentliche Nahverkehr steht in der Umgebung zur Verfügung und ermöglicht eine flexible Mobilität im Alltag.\n\n# Sonstiges\nHaftungsausschluss für inhaltliche Richtigkeit übermittelter Daten: Der Makler weist darauf hin, dass für die inhaltliche Richtigkeit der übermittelten Daten des oben genannten Objektes nicht gehaftet werden kann, da er diese vom Eigentümer lediglich zur Verfügung gestellt bekommen hat.\n\nUnsere Angebote sind freibleibend. Zwischenverkauf oder -vermietung, Irrtum und Auslassungen bleiben vorbehalten. Mit dieser Immobilienanfrage erklärt sich der Interessent einverstanden, dass die Butzke & Schroer Real Invest GmbH Ihn bzgl. dieses und weiterer Angebote telefonisch, schriftlich oder per E-Mail-Kontakt erfasst und informiert.\n\nBitte richten Sie Ihre Anfrage an:\n\ninfo@bs-realinvest.de\n\nWir bitten um Ihr Verständnis, dass wir die vollständigen Angaben zur Immobilie nur übermitteln können, wenn uns alle Kontaktdaten des Interessenten (Postanschrift, Telefon, E-Mail-Adresse) vorliegen.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: GAS\n- Energieverbrauch: 83.2 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Gültig bis: 2036-07-26\n- Baujahr (gemäß Energieausweis): 1990\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2026-1245",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-15T09:14:10.844317+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2,5 Zimmer Wohnung 1.OG möbliert Dinslaken Bruch",
+      "Cena (€)": 630.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 52.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": 47.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-5-zimmer-wohnung-1-og-moebliert-dinslaken-bruch/3557007860-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54de5874-7dce-45f9-bdea-c558e2b9faaa?rule=$_1.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54de5874-7dce-45f9-bdea-c558e2b9faaa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3616177-4850-440c-9edf-de08c4bee60a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d6ff59d-bac9-45e1-b98c-d312e3a57730?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d70ae3e-bb56-467e-b2bb-af1b86170e29?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5da4ef5e-c559-473c-91bb-4b8bc54064ef?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a99d163-0215-4ece-bc27-1febcc98cd89?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92b3bacf-72b1-45ef-b971-59a7b0cb3364?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8f57e485-353c-4477-80ee-c876279ed46d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/524de3dd-5acf-4b0e-a812-b178e50e295e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/523e465a-47d4-4897-8fe5-283d25b4af7c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e4ca217-874e-4ce0-a592-9bfcd42aa1a1?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/ee6446b1-e732-4308-8628-deff70ebf11f?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 620.0,
+      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Garage/Stellplatz\n\nMöblierte 2,5-Zimmer-Wohnung in Dinslaken-Bruch – kurzfristig verfügbar\n\nKaltmiete: 470,00 € / Monat\nBetriebskostenvorauszahlung: 150,00 € / Monat\nOptionaler PKW-Stellplatz: 60,00 € / Monat\n\nObjektbeschreibung\n\nDiese gepflegte und vollständig möblierte 2,5-Zimmer-Wohnung befindet sich im 1. Obergeschoss eines ruhigen Dreiparteienhauses in Dinslaken-Bruch.\n\nAuf ca. 52 m² Wohnfläche verteilen sich ein Wohnbereich, ein Schlafzimmer, ein weiteres Zimmer, eine Küche, eine Diele sowie ein Tageslicht-Duschbad. Die Wohnung wird komplett möbliert vermietet und eignet sich ideal für Einzelpersonen oder Paare, die eine kurzfristig verfügbare und bezugsfertige Wohnung suchen.\n\nEin PKW-Stellplatz kann bei Bedarf für 60,00 € monatlich zusätzlich angemietet werden.\n\nAusstattungsmerkmale\n\n* Ca. 52 m² Wohnfläche\n* 2,5 Zimmer\n* Möblierte Vermietung\n* Küche\n* Tageslicht-Duschbad\n* 1.\tObergeschoss\n* Ruhiges Dreiparteienhaus\n* Fernwärme\n* Kurzfristig verfügbar\n* Optionaler PKW-Stellplatz\n\nMietkonditionen\n\n* Kaltmiete: 470,00 € / Monat\n* Betriebskostenvorauszahlung: 150,00 € / Monat\n* PKW-Stellplatz (optional): 60,00 € / Monat\n* Mietsicherheit: 3 Monatskaltmieten\n\nEnergieausweis\n\n* Baujahr: 1914\n* Heizungsart: Fernwärme\n* Energieausweis: Bedarfsausweis\n* Endenergiebedarf: 218,7 kWh/(m²·a)\n* Ausstellungsdatum: 16.02.2025\n* Gültig bis: 15.02.2035\n\nInteresse?\n\nBei ernsthaftem Interesse senden Sie uns bitte zunächst einen kurzen Steckbrief mit folgenden Angaben:\n\n* kurze Vorstellung Ihrer Person\n* berufliche Tätigkeit\n* Anzahl und kurze Angaben zu den weiteren einziehenden Personen\n* Ihre E-Mail-Adresse\n\nIm Anschluss übersenden wir Ihnen unsere Mieterselbstauskunft. Diese finden Sie auch auf unserer Homepage unter: www.vertrautimmobilienverwaltung.de unter der Rubrik: aktuelle Objekte. Nach Prüfung der Angaben stimmen wir gerne einen Besichtigungstermin mit Ihnen ab.\n\nverTraut Immobilienverwaltung",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-31T04:22:06.232527+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
