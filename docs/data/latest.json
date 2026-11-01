@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T21:05:34.304087+00:00",
+  "generated_at": "2026-11-01T04:41:37.262341+00:00",
   "count": 99,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-10-31T21:05:34.304087+00:00",
+      "last_updated": "2026-11-01T04:41:37.262341+00:00",
       "interval_hours": 3
     }
   },
@@ -877,7 +877,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6fb632a-c58c-4741-a73e-1469b695136d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5abd7af3-d757-4c04-b81a-82bb753bafc0?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1004,7 +1004,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/57be3ec6-7ce7-4de6-a488-1d41affdaf26?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69382c50-9017-4270-bd3d-9b877e7d43ce?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1102,7 +1102,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40a78ca1-f48e-4bc2-93ac-7477ef7d7a10?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af68e812-ee95-4ccc-b153-3c91815dc453?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1201,7 +1201,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60b1ba0b-7aff-4d39-8354-2867e73e60c5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2bf1efbf-b5d3-416f-a8a8-43b1d7be19f4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
