@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-02T00:19:54.812798+00:00",
-  "count": 99,
+  "generated_at": "2026-11-02T10:39:47.209915+00:00",
+  "count": 101,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-02T00:19:54.812798+00:00",
+      "last_updated": "2026-11-02T10:39:47.209915+00:00",
       "interval_hours": 3
     }
   },
@@ -877,7 +877,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cac6f57c-edfe-4655-8509-70ea244fce8a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7252e48-107a-488e-89c2-ede503f3073a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1004,7 +1004,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/5787a2a6-0c45-4b06-8d46-d4bee16f7198?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3db3d87-9d74-4e49-ab5d-a3904282ee23?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1102,7 +1102,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb7e077e-0559-49fc-a08d-55a4737aabc6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b89b984-ffe2-4e59-9efc-6209ae124398?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1289,6 +1289,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Nicht lange zögern – anfragen!  / Don't hesitate – get in touch!",
+      "Cena (€)": 440.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.3,
+      "Lokalizacja": "47166 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": 55.3,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48365698-8f68-4ab8-9600-b58abdd28dc7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67b2753b-7196-4d49-91ba-961b9eb55731?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29b0ae07-d6d3-4396-86c1-931db1a8d1cb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/64b61e51-abc4-4b20-8c1f-5275f5d22c76?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b36c7479-e6c7-43bc-bb3e-3d335c785743?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/374381de-e00c-4881-b599-c869d7d397c3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/2317d720-ea31-4164-90e3-9b999d51592c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9dd6e746-19d8-4bc0-b3c7-0ad2c66a9176?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a7575ff-7aa3-4d12-bc71-1012cceedf05?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/341eefaa-fdc2-49d7-a401-2d672e246568?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 620.0,
+      "Opis": "Badewanne\n\nDas weitläufige Ensemble aus An der Abtei 46–58, Bremenstraße 10–18, Glücksaufstraße 5 und 11 sowie Steigerstraße 1, 7a und 11a in Duisburg bildet ein vielseitiges Wohnquartier, das durch seine Größe und Vielfalt verschiedenste Wohnbedürfnisse abdeckt. Die Häuser fügen sich in ein gewachsenes, lebendiges Wohnumfeld ein und bieten solide, alltagstaugliche Wohnqualität für unterschiedliche Lebenslagen. Das Ensemble steht für Wohnen mit Substanz – verlässlich, übersichtlich trotz seiner Breite, und mit dem Charakter eines Quartiers, das weiß, was es seinen Bewohnern schuldet.\n\nKaltmiete: 440,00 EUR\nBetriebskosten: 180,00 EUR\nHeizkosten: 110 EUR\nWarmmiete: 730,00 EUR\n\nWICHTIG!\nDie Bruttokaltmiete in Höhe von 620 Euro übersteigt die vom Amt festgesetzte Bemessungsgrenze für einen Ein- und Zwei-Personenhaushalt. Anmietung in dem Fall nicht möglich.\n__________________________________________________\n\nThe extensive ensemble comprising An der Abtei 46–58, Bremenstraße 10–18, Glücksaufstraße 5 and 11, and Steigerstraße 1, 7a, and 11a in Duisburg forms a versatile residential quarter that, through its scale and variety, caters to a wide range of living needs. The buildings are embedded in an established, lively neighbourhood and offer solid, practical residential quality for different stages of life. The ensemble stands for housing with substance – dependable, manageable despite its breadth, and with the character of a neighbourhood that knows what it owes its residents.\n\nBase rent: EUR440.00 Service charges (Betriebskosten): EUR180.00 Heating costs: EUR110.00 Total rent including heating (Warmmiete): EUR730.00\n\nIMPORTANT! The gross base rent (Bruttokaltmiete) of EUR620 exceeds the maximum rent limit (Bemessungsgrenze) set by the authority for a one- or two-person household. Renting is not possible in this case.\n\nThe figures add up: EUR440 + EUR180 = EUR620 gross base rent, and EUR620 + EUR110 = EUR730 total.\n\n# Ausstattung\n- vollständig renoviert\n- zwei Zimmer, Küche, Diele, Bad\n- Zugang zum Schlafzimmer über das Wohnzimmer\n- Laminatboden im Wohn- und Schlafzimmer und Diele\n- geweißte Wände mit Raufasertapete\n- große Küche mit weißem Fliesenspiegel und Vinylboden in Holzoptik\n- großes Wannenbad mit Fenster, weißgefliest, Vinylboden\n- Waschmaschinenanschluss im Badezimmer\n- Außenrollos an den Fenstern\n- Gegensprechanlage\n- Treppenhausreinigung\n- Hausmeisterservice\n\n_________________________________________________\n\nFully renovated\nTwo rooms, kitchen, hallway, bathroom\nAccess to the bedroom through the living room\nLaminate flooring in the living room, bedroom, and hallway\nWhitewashed walls with woodchip wallpaper\nLarge kitchen with white tile splashback and wood-look vinyl flooring\nLarge bathroom with bathtub and window, white tiles, vinyl flooring\nWashing machine connection in the bathroom\nExternal roller shutters on the windows\nIntercom system\nStaircase cleaning\nCaretaker service\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Objekte liegen im Stadtteil Alt-Hamborn im Duisburger Norden – dem historischen Kern des Stadtbezirks Hamborn. Alt-Hamborn ist ein gewachsenes Wohnviertel mit einer Mischung aus historischer und neuerer Bebauung sowie einer internationalem Gemeinschaft. Das Viertel verfügt über eine etablierte Infrastruktur: Die Jägerstraße als Hauptgeschäftsstraße, der Hamborner Altmarkt mit dreimal wöchentlichem Markt sowie das St. Johannes-Hospital prägen das Alltagsleben. Kulturell ist das Quartier durch die Prämonstratenser-Abtei Hamborn – gegründet 1136, geweiht 1170 – und das Abteizentrum mit regelmäßigem Kulturprogramm bereichert. Der Botanische Garten Hamborn und der Stadtpark bieten grüne Erholungsflächen im direkten Umfeld. Der Landschaftspark Duisburg-Nord ist als überregionales Freizeitziel gut erreichbar.\n\n__________________________________________________\n\nThe properties are situated in the Alt-Hamborn district in northern Duisburg – the historic core of the Hamborn borough. Alt-Hamborn is an established residential neighbourhood with a mix of historic and more recent architecture and an international community. The district has a well-developed infrastructure: Jägerstraße as the main shopping street, the Hamborner Altmarkt with its market three times a week, and St. Johannes Hospital all shape everyday life. Culturally, the neighbourhood is enriched by the Premonstratensian Hamborn Abbey – founded in 1136 and consecrated in 1170 – and the Abteizentrum, which hosts a regular programme of classical music, cabaret, and the arts. The Hamborn Botanical Garden and city park offer green recreational spaces in the immediate vicinity. The Landschaftspark Duisburg-Nord is easily accessible as a major regional leisure destination.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n_______________________________\n\nInterested in this apartment and would like to arrange a viewing?\nThen don't waste any time – get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us a request with your full contact details and we will get in touch with you.\n\nThis offer is non-binding – errors and omissions excepted.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 440-2600117-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 251.7 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 14.08.2025\n- Baujahr (gemäß Energieausweis): 1900\n- Wesentliche Energieträger: Fernwärme, Gas\n\nAnbieter-Objekt-ID: 440-2600117-M",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-02T10:39:47.208262+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Modern. Hell. Sofort verfügbar./Modern. Bright. Available immediately.",
       "Cena (€)": 440.0,
       "Pokoje": 2.0,
@@ -1300,7 +1333,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3ba7acf1-266a-4636-b18b-e85ea3f2b3f1?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93bdbedc-64f8-4638-87bd-d82ad85fe4e1?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2298,6 +2331,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Möblierte Pendler-Wohnung für 1 Person, zentral, PKW-Stellplatz",
+      "Cena (€)": 590.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 42.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 10.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-pendler-wohnung-fuer-1-person-zentral-pkw-stellplatz/3559397327-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d100555f-8ef1-4d34-8a85-a70e3a96ae1e?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d100555f-8ef1-4d34-8a85-a70e3a96ae1e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa64121d-39e1-441d-93c7-ea4c95dbccb0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/12e78f96-653f-47db-bc0f-4f297fed6e15?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6bd516d8-7d40-4da7-a92c-c4210997451f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b386cee1-3327-43fe-b7e9-5fc81cc212b0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8046018-22a5-4a1f-8d98-efaffde730de?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e77c81f6-499a-4de5-8554-4329f0d05438?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a1d18a2-ecca-4b82-83f4-309a0424553a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db8b21be-2d14-46c9-8c5d-df9d57c652fa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b208585-3075-42cc-8669-338749b1941e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26cb08fc-c81d-49ac-9107-f83d8fc75dc2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d100555f-8ef1-4d34-8a85-a70e3a96ae1e?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Die möblierte Mietwohnung in Kleve Oberstadt ist eine Etagenwohnung mit 42 qm, 2 Zimmern und 1 Schlafzimmer.\nSie wurde 2025 modernisiert, mit neuen Fenstern, Fassadendämmung und Klimaanlage.\n\nAusstattung: Fußbodenheizung, elektrische Rollläden, kleine Küche, Klimaanlage, PKW-Stellplatz und Bad mit Dusche (neu November 2026).\n\nDie Warmmiete beinhaltet Heizung, Wasser und Strom.\n\nNichtraucherwohnung, keine Haustiere.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-02T10:39:47.208262+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "2 Zimmer Wohnung Sonsbeck 1. OG",
       "Cena (€)": 590.0,
       "Pokoje": 2.0,
@@ -2778,36 +2844,23 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2Zimmer Wohnung in Rees zu vermieten!",
-      "Cena (€)": null,
+      "Tytuł": "Mietwohnung",
+      "Cena (€)": 650.0,
       "Pokoje": 2.0,
-      "Powierzchnia (m²)": 47.0,
-      "Lokalizacja": "46459 Rees",
-      "Odległość (km)": 13.0,
-      "Czas dojazdu (min)": 19,
-      "Odległość od 's-Heerenberg (km)": 16.6,
+      "Powierzchnia (m²)": 70.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": 47.5,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2zimmer-wohnung-in-rees-zu-vermieten-/3555450503-203-1389",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/143df880-b63c-4b77-b233-ec2b892ed884?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/143df880-b63c-4b77-b233-ec2b892ed884?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/143df880-b63c-4b77-b233-ec2b892ed884?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68d386d7-e3d4-497e-9f84-488b2532aacb?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab7bf282-7fe2-48c0-970f-10df2d231f76?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cb36bb8-4b71-4f1d-8abd-e0723f4d277c?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f44771-c990-4143-9849-faaa8963795a?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40231e78-13d8-4572-a662-152265ae95e6?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ec8d3b3-7485-452a-85ba-a3e458c4049d?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5be5392e-2224-41ea-9d26-76fd0b353e97?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6ff7ccd4-e242-4d3b-b2cf-5adcac677f68?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/913471fd-d91a-41b1-a0d3-15ba18898a10?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO"
-      ],
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung/3556097938-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/814d14dc-4bd5-442b-a566-add66071baf5?rule=$_2.AUTO",
+      "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
-      "Opis": "Hallo,\nIch suche Nachmieter für meine 2 Zimmer Wohnung in rees.\nBilder folgen in Kürze.\nStraße und Hausnummer ist nur symbolisch, da ich etwas angeben muss.",
+      "Opis": "",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-29T09:28:33.041661+00:00"
+      "PierwszyRaz": "2026-11-01T19:25:38.453519+00:00"
     }
   ]
 }
