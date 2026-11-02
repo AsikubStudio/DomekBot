@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-01T19:25:38.454922+00:00",
-  "count": 101,
+  "generated_at": "2026-11-02T00:19:54.812798+00:00",
+  "count": 99,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-01T19:25:38.454922+00:00",
+      "last_updated": "2026-11-02T00:19:54.812798+00:00",
       "interval_hours": 3
     }
   },
@@ -877,7 +877,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da6e6f07-0e52-4ff8-ab65-9987c1974067?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cac6f57c-edfe-4655-8509-70ea244fce8a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1004,7 +1004,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bb6f4879-0f54-45a8-926d-03041ec6a72c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/5787a2a6-0c45-4b06-8d46-d4bee16f7198?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1102,7 +1102,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d683ad97-68b9-4b9a-b020-3ac1bb81a34f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb7e077e-0559-49fc-a08d-55a4737aabc6?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1300,7 +1300,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4df3ef35-98ed-4614-b2a0-449f00365714?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3ba7acf1-266a-4636-b18b-e85ea3f2b3f1?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2351,39 +2351,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Nachmieter gesucht- Duisburg Hamborn",
-      "Cena (€)": 593.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 53.0,
-      "Lokalizacja": "47166 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": 55.3,
-      "Łazienka": "?",
-      "Kuchnia": "tak",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-duisburg-hamborn/3528039695-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d87df25b-10fd-4218-935c-c9d03bce54b2?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d87df25b-10fd-4218-935c-c9d03bce54b2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54b98504-c2aa-4452-9a81-829e7cc5f614?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29fa4936-3bb2-42a0-b6e0-3c4c2331eb9b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3296f10-d847-4dc1-a0e1-09fc1ad803b9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c2a6b8f-8acc-4d17-8ce9-a966ca70206e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/127732ca-dc17-4c40-9647-d4bd32f948c7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42358c40-5b0b-49e7-8f05-096767d8697f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db2a0fed-23d1-4f38-b381-d41ce99c4088?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4d6141f2-38d6-49f5-b668-ec48394f1292?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0af5d3a4-59e0-446b-8d0a-32c1ea63872c?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c4/c4127f13-a64c-42f1-8e67-27554d1cc544?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e00d896-174a-4f5d-9a43-44f3d30e5595?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 593.0,
-      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Badewanne • Altbau • Aufzug • Keller\n\nAdresse: Am Zinkhüttenplatz 19,\n47166 Duisburg\nWohnung: 2 Zimmer, eingerichtete\nKüche.\nRenovierung: Der Nachmieter\nübernimmt Wande und Böden (so\nwie sie sind).\nMöbelübernahme (2.000 €): Bett.\nKühlschrank, Waschmaschine+\neinige Möbel kostenlos.\nO\nVoraussetzungen:\nKein Jobcenter (nur Berufstätige)\nDie letzten 3 Gehaltsnachweise\ne\nPositive Schufa (keine\nSchufa-Einträge)\nBei Interesse bitte Nachricht schrelben für\nBesichtigung!\nMit freundlichen Grüßen\nDuran",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-01T13:16:35.050905+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Zentrale 2 Zimmer Wohnung in Bocholt zu vermieten.",
       "Cena (€)": 595.0,
       "Pokoje": 2.0,
@@ -2806,26 +2773,6 @@
       ],
       "Czynsz z mediami (€)": 650.0,
       "Opis": "Einbauküche • Altbau\n\nDachgeschosswohnung – 2 Zimmer, 48 m²\n\nAb dem 01.10.2026 ist eine gemütliche Dachgeschosswohnung im 2. Obergeschoss zu vermieten.\n\n* 2 Zimmer\n* ca. 48 m² Wohnfläche\n* Dusche\n* Single-Küche\n* frei ab 01.10.2026\n\nBei Interesse oder für weitere Informationen gerne melden.\n\nWeitere Angaben:\nKaltmiete: 650€\nNebenkosten: 75€\nWarmmiete: 75€\nKaution: 1000€\nAdresse/Ort: Emmerich am Rhein",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-01T19:25:38.453519+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Mietwohnung",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 70.0,
-      "Lokalizacja": "46537 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 35,
-      "Odległość od 's-Heerenberg (km)": 47.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung/3556097938-203-1854",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/814d14dc-4bd5-442b-a566-add66071baf5?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-01T19:25:38.453519+00:00"
     },
