@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-02T10:39:47.209915+00:00",
-  "count": 101,
+  "generated_at": "2026-11-02T21:28:46.681773+00:00",
+  "count": 102,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-02T10:39:47.209915+00:00",
+      "last_updated": "2026-11-02T21:28:46.681773+00:00",
       "interval_hours": 3
     }
   },
@@ -877,7 +877,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7252e48-107a-488e-89c2-ede503f3073a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22198374-2cd8-4fe0-ab03-e2d292ebe7c3?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1004,7 +1004,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3db3d87-9d74-4e49-ab5d-a3904282ee23?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfc48e95-455b-45e2-bdf1-33adfeedc240?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1026,7 +1026,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Für Heimwerker - Gemütliche 2 Zimmer Wohnung mit Renovierungsgutschein",
+      "Tytuł": "Für Heimwerker inkl. 500 € Gutschein - Gemütliche 2 Zimmer Wohnung mit Renovierungsgutschein",
       "Cena (€)": 382.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 56.22,
@@ -1036,26 +1036,26 @@
       "Odległość od 's-Heerenberg (km)": 54.5,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/fuer-heimwerker-gemuetliche-2-zimmer-wohnung-mit-renovierungsgutschein/3556237074-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/7366ad60-fc22-44ae-b4cd-eb0e33350fbd?rule=$_1.AUTO",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/fuer-heimwerker-inkl-500-gutschein-gemuetliche-2-zimmer-wohnung-mit-renovierungsgutschein/3556237074-203-23949",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9c7dc0f-206e-44fc-ad06-d35c7ee231c1?rule=$_1.AUTO",
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b31482a-9316-4d1f-b035-e85ff43fd201?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc3b2e7d-fca8-432f-bd97-06690af9ab7a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4d4561f4-81b8-4ed9-9189-e6e15a805598?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f5bd284-e162-4d04-8cfb-9b55061de8fb?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd3fda6c-2baf-44b6-9a2b-8f1a2178afb7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/390d5c07-e294-4325-9053-05f4cb1977f6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/569620f0-1f6b-473a-a725-5255b2bb5484?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9c7dc0f-206e-44fc-ad06-d35c7ee231c1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0db75340-bf3a-41a0-a734-02a7da5e16ea?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81ffefec-f31e-4e51-81f7-ba430fb64a44?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e095e302-a8e5-4dbe-add9-21d03e811974?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba55364a-e848-4e8a-95c5-441a1cbd5f4b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a887a7c-d801-4185-baab-b9eae89aa096?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d69ed3e1-e54f-44f8-9e4a-7da9f6740939?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-user/images/10/106dbb0c-12b7-47e3-b289-a0b544032c3a?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98811e8b-9ef6-420c-b092-e83df8cea089?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5dd4b435-4fa4-4589-bcb6-8571fcf3336e?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83f06f09-a1a7-4c45-b4ea-2fc5819131f4?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/961cd94c-3661-4f92-95ae-ecf018d0ccff?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69bb7265-3b2e-4072-ba09-7430dc717dd1?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/489001d2-be4d-40df-9663-0c154c047651?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d354b312-8416-48ad-9b50-702e1e9b6597?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cf0bf6-1498-4e32-b7f5-be9faa5853e6?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 646.0,
       "Opis": "Badewanne\n\nDas 2-stöckige Wohnhaus wurde 1916 erbaut - In der 2. Etage liegt Ihre neue Wohnung.\n\nLebendige Nachbarschaften und Service vor Ort: Unsere Mitarbeiter:innen begrüßen Sie in der regelmäßigen Mietersprechstunde im Mieterservicebüro ganz in der Nähe. Um die optimale Pflege der Anlage kümmert sich unser Hausmeisterservice.\n\nSichern Sie sich Ihren privaten Parkplatz!\nIn vielen unserer Objekte bieten wir Ihnen die Möglichkeit, private Parkplätze anzumieten.\nJetzt anfragen und bequem parken – schnell, einfach und stressfrei! Sprechen Sie uns an!\n\n# Ausstattung\nDie 2-Zimmer-Wohnung verteilt sich auf ca. 56 m²\n\n- Laminat/PVC- Bodenbelag und Raufasertapete in den Wohnräumen\n- Anthrazite Boden- und Wandfliesen in der Küche\n- Weiße Boden- und Wandfliesen im Bad\n- Tageslichtbad mit Badewanne und Dusche\n- Haustiere nach Vereinbarung\n- Gemeinschaftlicher Wasch-/ Trockenraum & Fahrradkeller\n- Hausmeisterservice\n- 24/7 Mieterservice & Mietersprechstunde\n\n# Weitere Angaben\n- Verfügbar ab: 16.11.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.146,00 €\n\n- Nutzfläche: ca. 56,22 m²\n\n# Lagebeschreibung\nWillkommen in Duisburg - im Stadtteil Marxloh.\nIn einer ruhigen Nebenstraße liegt die gepflegte Wohnanlage.\nIm Umkreis von wenigen hunderten Metern befinden sich Supermärkte und Einkaufsmöglichkeiten des täglichen Bedarfs. Für die Kleinen gibt es Schulen und Kindergärten, die zu Fuß gut erreichbar sind.\nNahegelegene Haltestellen des öffentlichen Nahverkehrs gewährleisten eine gute Anbindung.\nFür die Freizeitgestaltung dienen Parks und Grünanlagen in der Nähe, sowie Sportvereine in der Umgebung.\n\n# Sonstiges\nAlle Informationen zur Datennutzung und Datenschutzrechten durch Grand City Property Ltd – Zweigniederlassung Deutschland finden Sie unter: grandcityproperty.de/datenschutz.\n\nWichtige Hinweise:\n•\tBitte senden Sie uns keine vertraulichen personenbezogenen Dokumente (z. B. Gehaltsabrechnungen) vor der Besichtigung zu. Sollten Sie dies dennoch tun, werden diese Dateien umgehend gelöscht.\n•\tDer Energieausweis kann bei der Besichtigung vorgelegt werden (ausgenommen Stellplätze/Garagen).\n•\tDie in der Anzeige verwendeten Fotos können Beispielfotos oder KI-generierte Visualisierungen (Kennzeichnung mit „virtually staged“) sein, die der besseren Veranschaulichung der Immobilie dienen und von den tatsächlichen Gegebenheiten abweichen können.\n•\tSämtliche Daten in diesem Exposé, einschließlich Bilder, Grundrisse und sonstige Beschreibungen wie auch Grundrissgrafiken mit Maßangaben oder Einrichtungen, dienen ausschließlich der allgemeinen Information und stellen keine verbindlichen Zusicherungen dar. Die Daten sind so gründlich wie möglich angegeben, dennoch lassen sich Fehler nicht ausschließen. Alle Angaben im Exposé sind daher unverbindlich und etwaige Änderungen vorbehalten. Wir übernehmen daher keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen. Maßgeblich sind allein die Vereinbarungen des zu schließenden Mietvertrages. Eine Haftung für fahrlässige Fehler oder Abweichungen der Angaben wird – soweit gesetzlich zulässig – ausgeschlossen.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 250 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Baujahr: 1912\n- Letzte Modernisierung: 2022\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5071/01114/001/0006",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-30T09:41:53.350312+00:00"
+      "PierwszyRaz": "2026-11-02T21:28:46.679075+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1102,7 +1102,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b89b984-ffe2-4e59-9efc-6209ae124398?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/955931fe-cfad-4445-aa7b-5adbdc71504a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1300,7 +1300,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc2633ea-cbe2-4f6c-b13f-844471e5bf72?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1333,7 +1333,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93bdbedc-64f8-4638-87bd-d82ad85fe4e1?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16c45855-f166-44a1-8064-f484fef99ee0?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1418,6 +1418,39 @@
       "Opis": "Balkon • Badewanne\n\nDiese charmante Etagenwohnung zur Miete in Duisburg bietet ein komfortables und modernes Wohnambiente. Die Wohnung befindet sich in einem gepflegten Mehrfamilienhaus und besticht durch ihre hellen und freundlichen Räumlichkeiten. Für die Anmietung ist ein entsprechender Wohnberechtigungsschein notwendig.\n\nDie Wohnung verfügt über:\n- drei geräumige Zimmer, die ausreichend Platz für Ruhe und Entspannung bieten\n- schöner Balkon mit ordentlich Platz\n\nDie Wohnung ist mit modernen Bodenbelägen und einer ansprechenden Farbgestaltung versehen, die eine warme und einladende Atmosphäre schaffen. Die großzügigen Fenster sorgen für eine optimale Belichtung aller Räume und lassen natürliches Licht in die Wohnung eindringen.\n\nZusätzliche Highlights dieser Immobilie:\n- Ruhige Wohngegend mit guter Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten\n\nDiese Etagenwohnung in Duisburg bietet alles, was Sie für ein komfortables und stilvolles Wohnen benötigen. Vereinbaren Sie noch heute einen Besichtigungstermin und überzeugen Sie sich selbst von den Vorzügen dieser Immobilie.\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: modernisiert\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen, Laminat, Kunststoff\n\n- Hinweis zur Kaution: 1.324,02 €\n\n- Nutzfläche: ca. 72,35 m²\n\n# Lagebeschreibung\nEntdecken Sie Ihr neues Zuhause in der charmanten Stadt Duisburg, einer lebendigen Metropole am Rhein. Diese Mietwohnung befindet sich in einer der begehrtesten Wohnlagen, die sowohl Ruhe als auch urbanes Flair vereint.\n\n- Zentrale Lage: Nur wenige Gehminuten vom Stadtzentrum entfernt, genießen Sie die Nähe zu Einkaufsmöglichkeiten, Restaurants und kulturellen Einrichtungen.\n- Ausgezeichnete Verkehrsanbindung: Die Wohnung liegt verkehrsgünstig mit direkter Anbindung an öffentliche Verkehrsmittel. Die Autobahnen A40 und A59 sind nur wenige Minuten entfernt, sodass Pendler von optimalen Verbindungsmöglichkeiten profitieren.\n- Grüne Oasen: In direkter Umgebung finden Sie zahlreiche Parks und Erholungsgebiete. Der beliebte Duisburger Stadtpark und der Kaiserberg mit seinem Zoo laden zu entspannten Spaziergängen ein.\n- Bildungseinrichtungen: In der Nähe befinden sich renommierte Schulen und Kindergärten, ideal für Familien.\n- Gesundheitswesen: Profitieren Sie von der Nähe zu Krankenhäusern und medizinischen Einrichtungen, die eine hervorragende gesundheitliche Versorgung gewährleisten.\n\nErleben Sie das Beste aus beiden Welten – Stadtleben und Natur – in dieser hervorragenden Lage in Duisburg.Entfernungen:\nFlughafen 24,5 km\nFernbahnhof 1,4 km\nBus 0 km\n\nAnbieter-Objekt-ID: Beecker Straße 182, 2.OG links",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Frisch renovierte 2-Zimmer-Dachgeschosswohnung in Duisburg-Walsum – ab 01.12. frei",
+      "Cena (€)": 445.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 51.0,
+      "Lokalizacja": "47179 Walsum",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 42,
+      "Odległość od 's-Heerenberg (km)": 51.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-renovierte-2-zimmer-dachgeschosswohnung-in-duisburg-walsum-ab-01-12-frei/3559632197-203-2143",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/816c9508-6ce7-45a8-9127-5dfb275483ed?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/816c9508-6ce7-45a8-9127-5dfb275483ed?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51345c1d-6823-4073-a35e-8f24330033cc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/511df5c4-f431-4410-b69b-6ef6e6dbd3eb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/1765e025-33bd-423b-84a3-ea7e3c0fd9e0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6f4b762-81c2-41bd-83d3-607ef32d57a9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c2bfdd8-1621-4392-a786-be1a215a1047?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b5e1fda-7ee0-4f83-82c2-ed6974de6ced?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b400395c-0062-42e7-ad0b-dff55a36066f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/036a2684-90fe-478a-a363-251c2617ce70?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47b2d153-846d-467e-9a96-918f31f21eb1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/62/624f28a5-0da4-4d9d-acbe-a767afb4ca2d?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fbf2a131-b615-4ded-a070-dd7cb4ee84b5?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 540.0,
+      "Opis": "Keller\n\nDiese gemütliche 2-Zimmer-Wohnung mit ca. 51 m² Wohnfläche liegt im Dachgeschoss eines kleinen, gepflegten Dreifamilienhauses in Duisburg-Walsum. Die Wohnung wird aktuell renoviert und zum 01.12.2026 bezugsfertig übergeben.\n\nÜber die Diele erreichen Sie alle Räume: ein helles Wohnzimmer mit Dachgaube, ein separates Schlafzimmer, eine großzügige Küche mit Fenster sowie das Tageslichtbad mit Dusche und Dachfenster. Die Dachschrägen geben der Wohnung ihren besonderen, wohnlichen Charakter.\n\nIm Zuge der Renovierung werden sämtliche Wände frisch weiß gestrichen und ein neuer Vinylboden in heller Holzoptik verlegt. Die Küche ist nicht möbliert und bietet Platz für Ihre eigene Einbauküche.\n\nBeheizt wird die Wohnung über Elektroheizungen. Heiz- und Stromkosten rechnen Sie direkt mit einem Stromversorger Ihrer Wahl ab – so haben Sie Ihren Verbrauch selbst in der Hand.\n\nIdeal für Singles oder Paare, die eine ruhige, bezahlbare Wohnung im Duisburger Norden suchen.\n\n# Ausstattung\n++ Frisch renoviert – Bezug ab 01.12.2026\n++ 2 Zimmer, Küche, Diele und Bad auf ca. 51 m²\n++ Neuer Vinylboden in heller Holzoptik\n++ Alle Wände frisch weiß gestrichen\n++ Tageslichtbad mit Dusche und Dachfenster\n++ Separate Küche mit Fenster – Platz für Ihre eigene Küche\n++ Elektroheizung – Abrechnung direkt mit dem Versorger Ihrer Wahl\n++ Ruhiges Dreifamilienhaus in Duisburg-Walsum\n\n# Weitere Angaben\n- Verfügbar ab: 01.12.2026\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen, Kunststoff\n\n- Hinweis zur Kaution: 1335\n\n# Lagebeschreibung\nDie Wohnung befindet sich im Duisburger Stadtteil Walsum im Norden der Stadt. Das Umfeld ist durch eine ruhige Wohnbebauung mit viel Grün geprägt.\n\nEinkaufsmöglichkeiten für den täglichen Bedarf, Schulen und Kindergärten befinden sich in der näheren Umgebung. Der Rhein mit seinen Rad- und Spazierwegen liegt ganz in der Nähe und lädt zur Erholung ein.\n\nÜber Buslinien sind Sie an das Duisburger Nahverkehrsnetz angebunden, mit dem Auto erreichen Sie die umliegenden Autobahnen und die Nachbarstädte im Ruhrgebiet und am Niederrhein schnell.\n\n# Sonstiges\nDie angegebene Nebenkostenvorauszahlung gilt für eine Person. Bei Einzug von zwei oder drei Personen wird die Vorauszahlung entsprechend angepasst.\n\nDie Heizung erfolgt über Elektroheizungen; die Heiz- und Stromkosten rechnet der Mieter direkt mit einem Stromversorger seiner Wahl ab, sie sind nicht in der Nebenkostenvorauszahlung enthalten.\n\nDie Bilder sind Visualisierungen des Zustands nach Abschluss der Renovierung.\n\nDie Kaution beträgt drei Nettokaltmieten. Die Vermietung ist für Sie provisionsfrei.\n\nHaben wir Ihr Interesse geweckt? Gerne vereinbaren wir einen individuellen Besichtigungstermin mit Ihnen.\n\nFreundliche Grüße\n\nIhr Team von ORCA Real Estate\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: Strom\n- Endenergiebedarf: 183.2 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Ausstellungsdatum: 10.03.2021\n- Gültig bis: 2031-03-09\n- Baujahr: 1933\n- Letzte Modernisierung: 2026\n- Wesentliche Energieträger: Elektrisch\n\nAnbieter-Objekt-ID: 100",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-02T21:28:46.679075+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
