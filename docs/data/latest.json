@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-02T21:28:46.681773+00:00",
-  "count": 102,
+  "generated_at": "2026-11-03T05:34:00.305285+00:00",
+  "count": 101,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-02T21:28:46.681773+00:00",
+      "last_updated": "2026-11-03T05:34:00.305285+00:00",
       "interval_hours": 3
     }
   },
@@ -877,7 +877,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22198374-2cd8-4fe0-ab03-e2d292ebe7c3?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b12bc2e-b004-41e2-95e6-ce10f74a93b5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1004,7 +1004,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bfc48e95-455b-45e2-bdf1-33adfeedc240?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc404b14-0822-4114-b507-bc231d167f04?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1102,7 +1102,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/955931fe-cfad-4445-aa7b-5adbdc71504a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e922a0ce-9db4-46ee-bc1d-5200d996d75e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1300,7 +1300,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc2633ea-cbe2-4f6c-b13f-844471e5bf72?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a7b1882-2b89-4bcd-b62e-0c6f98e34990?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1333,7 +1333,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16c45855-f166-44a1-8064-f484fef99ee0?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/879bb14a-d332-4bda-a7ba-8e05b910914e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2872,26 +2872,6 @@
       ],
       "Czynsz z mediami (€)": 650.0,
       "Opis": "Einbauküche • Altbau\n\nDachgeschosswohnung – 2 Zimmer, 48 m²\n\nAb dem 01.10.2026 ist eine gemütliche Dachgeschosswohnung im 2. Obergeschoss zu vermieten.\n\n* 2 Zimmer\n* ca. 48 m² Wohnfläche\n* Dusche\n* Single-Küche\n* frei ab 01.10.2026\n\nBei Interesse oder für weitere Informationen gerne melden.\n\nWeitere Angaben:\nKaltmiete: 650€\nNebenkosten: 75€\nWarmmiete: 75€\nKaution: 1000€\nAdresse/Ort: Emmerich am Rhein",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-01T19:25:38.453519+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Mietwohnung",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 70.0,
-      "Lokalizacja": "46537 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 35,
-      "Odległość od 's-Heerenberg (km)": 47.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung/3556097938-203-1854",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/814d14dc-4bd5-442b-a566-add66071baf5?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-01T19:25:38.453519+00:00"
     }
