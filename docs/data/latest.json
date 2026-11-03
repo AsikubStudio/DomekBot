@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-03T05:34:00.305285+00:00",
-  "count": 101,
+  "generated_at": "2026-11-03T13:44:24.751637+00:00",
+  "count": 102,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-03T05:34:00.305285+00:00",
+      "last_updated": "2026-11-03T13:44:24.751637+00:00",
       "interval_hours": 3
     }
   },
@@ -877,7 +877,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b12bc2e-b004-41e2-95e6-ce10f74a93b5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/53239970-4b6b-4429-a48b-60c7d05aeaf7?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1004,7 +1004,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc404b14-0822-4114-b507-bc231d167f04?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a05f01c4-dd1a-429c-b41a-298b0f15f4d9?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1091,6 +1091,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zi.-Maisonette-Wohnung mit 40 m² Wohnfläche in Bocholt zu vermieten!",
+      "Cena (€)": 390.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 40.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 27.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": 28.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zi-maisonette-wohnung-mit-40-m-wohnflaeche-in-bocholt-zu-vermieten-/3555531703-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/671a1c73-f0a9-432a-9cc5-5affb356825c?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/671a1c73-f0a9-432a-9cc5-5affb356825c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/2128ef68-70c6-49ee-bdf1-28bb01ced59a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0cd6e9f-058b-4a5a-8da1-3a29714e271e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46cb069a-8e8c-455e-9d86-6878f7744674?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/3099a724-e775-495b-8341-74de3a1a2aa7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65023962-caea-405f-b5d6-e0ab83ba8a03?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1bab7686-0580-42ec-850e-14a70e5c366a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/4138c14a-d2fe-4ba1-9822-ab39fdc68ca5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/690494db-e3c3-4021-9e79-57ae179fed95?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a352dd81-b6ba-425d-abe8-165f383a3389?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7176a2-2d2c-4f61-896c-d94ec17485c4?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/912c0e1c-0838-4cd9-8890-ac41ea4166f6?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 460.0,
+      "Opis": "Garage/Stellplatz\n\nDiese 2-Zimmer-Maisonette-Wohnung befindet sich im 3. Obergeschoss in Bocholt. Auf insgesamt 40 m² Wohnfläche erwarten Sie ein helles Wohnzimmer, eine Küche, ein Schlafzimmer. Ein besonderes Highlight ist die weiße Treppe, die in den oberen Bereich führt und den Grundriss auf zwei Ebenen strukturiert.\n\n# Ausstattung\nZusätzlich steht ein Außenstellplatz zur Verfügung, sodass Sie Ihr Fahrzeug unkompliziert abstellen können.\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.02.2027\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Garagen/Stellplatzmiete: 30,00 €\n\n# Lagebeschreibung\nDie Wohnung liegt in Bocholt in der Uhlandstr. (46397). In der Umgebung finden sich typische Alltagsmöglichkeiten, die sich gut zu Fuß oder mit kurzen Wegen erledigen lassen. Damit Sie flexibel unterwegs sind, profitieren Sie von der städtischen Infrastruktur in Bocholt; für Fahrten in die Region bieten sich zudem die üblichen Anschlussmöglichkeiten über den öffentlichen Nahverkehr an. Parks und Einkaufsmöglichkeiten sind in der näheren Umgebung gut erreichbar, sodass der Alltag nicht nur bequem, sondern auch abwechslungsreich bleibt.\n\n# Sonstiges\nDie Wohnung ist ab dem 01.02.2027 verfügbar. Ein früherer Einzug ist nach Absprache gegebenenfalls möglich. Die Kaltmiete beträgt 390 EUR, die Nebenkosten belaufen sich auf 40 EUR, sodass sich eine Gesamtmiete von 460 EUR pro Monat ergibt. Ein Außenstellplatz ist im Angebot enthalten. Insgesamt bietet die Maisonette eine kompakte Wohnfläche mit klarer Raumaufteilung über zwei Ebenen und vielen Lichtelementen – ideal, wenn Sie eine praktische Wohnung mit Charakter und gut nutzbarem Grundriss suchen. Voraussetzung für die Anmietung ist eine Mindestmietdauer von 24 Monaten.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: Gas\n- Energieverbrauch: 121 kWh/(m²*a)\n- Baujahr (gemäß Energieausweis): 1968\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 219857",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-03T13:44:24.750471+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Hier zieht dein Leben ein – du kommst einfach hinterher.",
       "Cena (€)": 390.0,
       "Pokoje": 2.0,
@@ -1102,7 +1135,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e922a0ce-9db4-46ee-bc1d-5200d996d75e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d71d0200-e71f-4f60-b7b3-e9f4b4c72dc1?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1256,39 +1289,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Renovierte 2-Zimmer-Wohnung im 1. Obergeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
-      "Cena (€)": 430.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 66.14,
-      "Lokalizacja": "47169 Marxloh",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": 54.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-1-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453791-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69bb7265-3b2e-4072-ba09-7430dc717dd1?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f81f9e-b7a0-4596-a85d-4620cf44d6b9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/4168403d-08a7-492d-9237-0a8eee835bab?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81d1f815-5fd2-4288-9f66-7a4c8a3afc7a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a6ee5d1-fd08-4cfc-ab35-fe4e4fd7a271?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/9414371e-93c5-411a-9d09-ab593011e21b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e75726b1-f054-4a28-a778-084a879d7461?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/880e0734-23ad-4105-bbf0-65f2ad84fb66?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/10/106dbb0c-12b7-47e3-b289-a0b544032c3a?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05703c32-5598-4a8d-9503-38cfe059bacd?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9144fab-7f85-4d8a-bfa2-b1682d6d6fb2?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/2867be08-6bbd-4b2d-80d6-2389e1a7910b?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/1645f074-6168-4e86-bf56-96bc19e5075c?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 720.0,
-      "Opis": "Balkon • Badewanne\n\nDas 2-stöckige Wohnhaus wurde 1956 erbaut - In der 1. Etage liegt Ihre neue Wohnung.\n\nLebendige Nachbarschaften und Service vor Ort: Um die optimale Pflege der Anlage kümmert sich unser Hausmeisterservice.\n\nSichern Sie sich Ihren privaten Parkplatz!\nIn vielen unserer Objekte bieten wir Ihnen die Möglichkeit, private Parkplätze anzumieten.\nJetzt anfragen und bequem parken – schnell, einfach und stressfrei! Sprechen Sie uns an!\n\n*Erhalten Sie bis zum 31.10.2026 in Duisburg beim Abschluss eines Mietvertrages für eine ausgewählte Aktionswohnung einen 500 € Gutschein für Amazon/Wunschgutschein.\nBitte beachten Sie die Teilnahmebedingungen: https://www.grandcityproperty.de/datenschutz/gutschein-aktionen\n\n# Ausstattung\nDie 2-Zimmer-Wohnung verteilt sich auf ca. 66 m²\n\n- Balkon\n- Laminat/PVC- Bodenbelag und Raufasertapete in den Wohnräumen\n- Anthrazite Boden- und weiße Wandfliesen in der Küche\n- Anthrazite Boden- und weiße Wandfliesen im Bad\n- Tageslichtbad mit Badewanne\n- Haustiere nach Vereinbarung\n- Hausmeisterservice\n- 24/7 für Sie erreichbar - auch im Notfall\n- Moderner Mieterservice über WhatsApp, Telefon, E-Mail und die GCP App: Kontakte, Unterlagen und Anliegen bequem online verwalten\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.290,00 EUR\n\n# Lagebeschreibung\nWillkommen in Duisburg - im Stadtteil Marxloh.\nIn einer ruhigen Nebenstraße liegt die gepflegte Wohnanlage.\nIm Umkreis von wenigen hunderten Metern befinden sich Supermärkte und Einkaufsmöglichkeiten des täglichen Bedarfs. Für die Kleinen gibt es Schulen und Kindergärten, die zu Fuß gut erreichbar sind.\nNahegelegene Haltestellen des öffentlichen Nahverkehrs gewährleisten eine gute Anbindung.\nFür die Freizeitgestaltung dienen Parks und Grünanlagen in der Nähe, sowie Sportvereine in der Umgebung.\n\n# Sonstiges\nAlle Informationen zur Datennutzung und Datenschutzrechten durch Grand City Property Ltd – Zweigniederlassung Deutschland finden Sie unter: grandcityproperty.de/datenschutz\n\nWichtige Hinweise:\n•\tBitte senden Sie uns keine vertraulichen personenbezogenen Dokumente (z. B. Gehaltsabrechnungen) vor der Besichtigung zu. Sollten Sie dies dennoch tun, werden diese Dateien umgehend gelöscht.\n•\tDer Energieausweis kann bei der Besichtigung vorgelegt werden (ausgenommen Stellplätze/Garagen).\n•\tDie in der Anzeige verwendeten Fotos können Beispielfotos oder KI-generierte Visualisierungen (Kennzeichnung mit „virtually staged“) sein, die der besseren Veranschaulichung der Immobilie dienen und von den tatsächlichen Gegebenheiten abweichen können.\nSämtliche Daten in diesem Exposé, einschließlich Bilder, Grundrisse und sonstige Beschreibungen wie auch Grundrissgrafiken mit Maßangaben oder Einrichtungen, dienen ausschließlich der allgemeinen Information und stellen keine verbindlichen Zusicherungen dar. Die Daten sind so gründlich wie möglich angegeben, dennoch lassen sich Fehler nicht ausschließen. Alle Angaben im Exposé sind daher unverbindlich und etwaige Änderungen vorbehalten. Wir übernehmen daher keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen. Maßgeblich sind allein die Vereinbarungen des zu schließenden Mietvertrages. Eine Haftung für fahrlässige Fehler oder Abweichungen der Angaben wird – soweit gesetzlich zulässig – ausgeschlossen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 194 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Baujahr: 1956\n- Letzte Modernisierung: 2025\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5071/01112/001/0002",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Nicht lange zögern – anfragen!  / Don't hesitate – get in touch!",
       "Cena (€)": 440.0,
       "Pokoje": 2.0,
@@ -1300,7 +1300,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a7b1882-2b89-4bcd-b62e-0c6f98e34990?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cf20238d-6117-45a1-a98c-612a6bee9d39?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1333,7 +1333,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/879bb14a-d332-4bda-a7ba-8e05b910914e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d41a65ab-f026-4adc-a8d8-d2b366f2ce91?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1451,6 +1451,39 @@
       "Opis": "Keller\n\nDiese gemütliche 2-Zimmer-Wohnung mit ca. 51 m² Wohnfläche liegt im Dachgeschoss eines kleinen, gepflegten Dreifamilienhauses in Duisburg-Walsum. Die Wohnung wird aktuell renoviert und zum 01.12.2026 bezugsfertig übergeben.\n\nÜber die Diele erreichen Sie alle Räume: ein helles Wohnzimmer mit Dachgaube, ein separates Schlafzimmer, eine großzügige Küche mit Fenster sowie das Tageslichtbad mit Dusche und Dachfenster. Die Dachschrägen geben der Wohnung ihren besonderen, wohnlichen Charakter.\n\nIm Zuge der Renovierung werden sämtliche Wände frisch weiß gestrichen und ein neuer Vinylboden in heller Holzoptik verlegt. Die Küche ist nicht möbliert und bietet Platz für Ihre eigene Einbauküche.\n\nBeheizt wird die Wohnung über Elektroheizungen. Heiz- und Stromkosten rechnen Sie direkt mit einem Stromversorger Ihrer Wahl ab – so haben Sie Ihren Verbrauch selbst in der Hand.\n\nIdeal für Singles oder Paare, die eine ruhige, bezahlbare Wohnung im Duisburger Norden suchen.\n\n# Ausstattung\n++ Frisch renoviert – Bezug ab 01.12.2026\n++ 2 Zimmer, Küche, Diele und Bad auf ca. 51 m²\n++ Neuer Vinylboden in heller Holzoptik\n++ Alle Wände frisch weiß gestrichen\n++ Tageslichtbad mit Dusche und Dachfenster\n++ Separate Küche mit Fenster – Platz für Ihre eigene Küche\n++ Elektroheizung – Abrechnung direkt mit dem Versorger Ihrer Wahl\n++ Ruhiges Dreifamilienhaus in Duisburg-Walsum\n\n# Weitere Angaben\n- Verfügbar ab: 01.12.2026\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen, Kunststoff\n\n- Hinweis zur Kaution: 1335\n\n# Lagebeschreibung\nDie Wohnung befindet sich im Duisburger Stadtteil Walsum im Norden der Stadt. Das Umfeld ist durch eine ruhige Wohnbebauung mit viel Grün geprägt.\n\nEinkaufsmöglichkeiten für den täglichen Bedarf, Schulen und Kindergärten befinden sich in der näheren Umgebung. Der Rhein mit seinen Rad- und Spazierwegen liegt ganz in der Nähe und lädt zur Erholung ein.\n\nÜber Buslinien sind Sie an das Duisburger Nahverkehrsnetz angebunden, mit dem Auto erreichen Sie die umliegenden Autobahnen und die Nachbarstädte im Ruhrgebiet und am Niederrhein schnell.\n\n# Sonstiges\nDie angegebene Nebenkostenvorauszahlung gilt für eine Person. Bei Einzug von zwei oder drei Personen wird die Vorauszahlung entsprechend angepasst.\n\nDie Heizung erfolgt über Elektroheizungen; die Heiz- und Stromkosten rechnet der Mieter direkt mit einem Stromversorger seiner Wahl ab, sie sind nicht in der Nebenkostenvorauszahlung enthalten.\n\nDie Bilder sind Visualisierungen des Zustands nach Abschluss der Renovierung.\n\nDie Kaution beträgt drei Nettokaltmieten. Die Vermietung ist für Sie provisionsfrei.\n\nHaben wir Ihr Interesse geweckt? Gerne vereinbaren wir einen individuellen Besichtigungstermin mit Ihnen.\n\nFreundliche Grüße\n\nIhr Team von ORCA Real Estate\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: Strom\n- Endenergiebedarf: 183.2 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Ausstellungsdatum: 10.03.2021\n- Gültig bis: 2031-03-09\n- Baujahr: 1933\n- Letzte Modernisierung: 2026\n- Wesentliche Energieträger: Elektrisch\n\nAnbieter-Objekt-ID: 100",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-02T21:28:46.679075+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Gemütliche 2-Zimmer-Erdgeschosswohnung mit Balkon in Kleve",
+      "Cena (€)": 450.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 49.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 9.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-erdgeschosswohnung-mit-balkon-in-kleve/3560555403-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/caad3af4-1dbf-4ba7-9f1b-9d0fe87f7164?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/caad3af4-1dbf-4ba7-9f1b-9d0fe87f7164?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2e144a98-f000-466f-832d-82df22e8b11c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/9705269d-0cd6-4b88-8061-4ce688bda354?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1f95f7d-a6aa-4605-82bf-863e5466cea5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7c80128-0e93-4b66-8a08-0364b65d4f12?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0bbca0f1-1977-4615-b92a-d71866d9fb73?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/955fd4e1-c6bb-4533-8842-2f11d5b0be6b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/8302c09b-6b2a-4246-9f2e-9de4d53e07b2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4efd91b9-afaf-4a5f-b7dd-acff872605fa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/dacab9f5-7292-409a-8e27-6b1fcbd06a40?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db7236ea-b766-4e5f-9b0c-c423f36cfb0d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67bc18bc-808f-4955-9e6c-53115f6927a3?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Diese attraktive Erdgeschosswohnung bietet auf ca. 49 m² Wohnfläche ein gemütliches Zuhause mit einer praktischen und durchdachten Raumaufteilung.\n\nDie Wohnung verfügt über zwei Zimmer, eine separate Küche, einen Flur sowie ein Badezimmer. Ergänzt wird das Raumangebot durch einen zusätzlichen Abstellraum innerhalb der Wohnung und einen eigenen Kellerraum, der weiteren Stauraum bietet.\n\nEin besonderes Highlight ist der Balkon, der zusätzlichen Freiraum schafft und zum Entspannen an der frischen Luft einlädt.\n\nDurch die überschaubare Wohnfläche und die funktionale Aufteilung eignet sich die Wohnung ideal für Singles oder Paare, die ein gemütliches und gut organisiertes Zuhause suchen.\n\nAusstattung und Raumaufteilung\n\n* ca. 49 m² Wohnfläche\n* 2 Zimmer\n* Separate Küche\n* 1 Badezimmer\n* Flur\n* Zusätzlicher Abstellraum\n* Balkon\n* Eigener Kellerraum\n* Erdgeschosslage\n\nLagebeschreibung\n\nDie Wohnung befindet sich in Kleve, einer attraktiven Stadt am Niederrhein, die eine angenehme Kombination aus städtischer Infrastruktur und naturnahem Wohnen bietet.\n\nKleve überzeugt durch eine gute Auswahl an Einkaufsmöglichkeiten, gastronomischen Angeboten, Ärzten und weiteren Einrichtungen des täglichen Bedarfs. Auch die Innenstadt mit ihren vielfältigen Geschäften und Freizeitmöglichkeiten ist ein attraktiver Anlaufpunkt.\n\nDie Umgebung bietet darüber hinaus zahlreiche Möglichkeiten zur Erholung und Freizeitgestaltung. Die niederrheinische Landschaft lädt zu Spaziergängen, Fahrradtouren und Aktivitäten im Grünen ein.\n\nDie Verbindung aus einer gewachsenen Stadtstruktur, einer angenehmen Wohnumgebung und vielfältigen Freizeitmöglichkeiten macht diesen Standort zu einer interessanten Wohnlage.\n\nDie Wohnung eignet sich besonders für:\n\n* Singles, die ein gemütliches Zuhause suchen\n* Paare mit überschaubarem Platzbedarf\n* Berufstätige, die eine praktische Wohnung mit Balkon schätzen\n\nFazit\n\nEine interessante Mietwohnung mit praktischer Raumaufteilung, zusätzlichem Stauraum und eigenem Balkon. Die Kombination aus ca. 49 m² Wohnfläche und der Lage in Kleve bietet eine attraktive Wohnmöglichkeit für alle, die komfortables und unkompliziertes Wohnen suchen.\n\nHaben wir Ihr Interesse geweckt?\n\nWir freuen uns auf Ihre Anfrage und darauf, Ihnen die Wohnung persönlich vorstellen zu dürfen.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-03T13:44:24.750471+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2364,7 +2397,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Möblierte Pendler-Wohnung für 1 Person, zentral, PKW-Stellplatz",
+      "Tytuł": "Wohnung für 1 Person, zentral, PKW-Stellplatz, teil-möbliert.",
       "Cena (€)": 590.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 42.0,
@@ -2374,7 +2407,7 @@
       "Odległość od 's-Heerenberg (km)": 11.6,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-pendler-wohnung-fuer-1-person-zentral-pkw-stellplatz/3559397327-203-1125",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-fuer-1-person-zentral-pkw-stellplatz-teil-moebliert-/3559397327-203-1125",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d100555f-8ef1-4d34-8a85-a70e3a96ae1e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d100555f-8ef1-4d34-8a85-a70e3a96ae1e?rule=$_59.AUTO",
@@ -2388,12 +2421,12 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db8b21be-2d14-46c9-8c5d-df9d57c652fa?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b208585-3075-42cc-8669-338749b1941e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26cb08fc-c81d-49ac-9107-f83d8fc75dc2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d100555f-8ef1-4d34-8a85-a70e3a96ae1e?rule=$_1.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67194d01-7459-43c0-b3d1-f30f0dc1bc44?rule=$_0.AUTO"
       ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Die möblierte Mietwohnung in Kleve Oberstadt ist eine Etagenwohnung mit 42 qm, 2 Zimmern und 1 Schlafzimmer.\nSie wurde 2025 modernisiert, mit neuen Fenstern, Fassadendämmung und Klimaanlage.\n\nAusstattung: Fußbodenheizung, elektrische Rollläden, kleine Küche, Klimaanlage, PKW-Stellplatz und Bad mit Dusche (neu November 2026).\n\nDie Warmmiete beinhaltet Heizung, Wasser und Strom.\n\nNichtraucherwohnung, keine Haustiere.",
+      "Czynsz z mediami (€)": 590.0,
+      "Opis": "Möbliert/Teilmöbliert • Fußbodenheizung • Garage/Stellplatz\n\nDie möblierte Mietwohnung in Kleve Oberstadt ist eine Etagenwohnung mit 42 qm, 2 Zimmern und 1 Schlafzimmer.\nSie wurde 2025 modernisiert, mit neuen Fenstern, Fassadendämmung und Klimaanlage.\n\nAusstattung: Fußbodenheizung, elektrische Rollläden, Fliegengitter, kleine Küche, Klimaanlage, PKW-Stellplatz und Bad mit Dusche (neu November 2026).\n\nIdeal für Pendler.\n\nDie Warmmiete beinhaltet Heizung, Wasser und Strom.\n\nNichtraucherwohnung, keine Haustiere.",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-02T10:39:47.208262+00:00"
+      "PierwszyRaz": "2026-11-03T13:44:24.750471+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2500,39 +2533,6 @@
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Ansprechende 2-Zimmer-Wohnung mit Balkon in Wesel",
-      "Cena (€)": 599.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 65.0,
-      "Lokalizacja": "46483 Wesel",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 32,
-      "Odległość od 's-Heerenberg (km)": 34.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/ansprechende-2-zimmer-wohnung-mit-balkon-in-wesel/3420141612-203-1867",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f62d8f1-04f2-4716-9b77-0dea6adc6d5d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a391c94-82a6-49b8-89e9-c9cf24b4c325?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8c63a7d-418f-442f-af78-0eec63fe665a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e71feba8-3c2b-4403-8373-4bed7c8832fe?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e44ed1e4-aed9-4403-bc0b-3fe81c6b0634?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/28/28f0a9a4-4d20-4382-97c2-f72437de3f2d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14dfaddd-71de-4e5c-9a07-890afb3a9be3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e11a6bfe-07c5-4453-bc65-9675b6c8e3e0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/359c1b1f-c51d-42cf-9529-396b11ce6dcf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/3165559d-9770-41be-8232-d7db2488992e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa015f36-096e-4a4c-b5ca-34e0c56212a5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/96/96650629-c3cb-448f-b7f2-7be5fbfb34cc?rule=$_12.JPG"
-      ],
-      "Czynsz z mediami (€)": 759.0,
-      "Opis": "Balkon • Einbauküche • Badewanne\n\nDie Heizkosten sind in den Nebenkosten enthalten.\n\nDiese ansprechende 2-Zimmer-Wohnung im 2. Obergeschoss\neines gepflegten 4-Parteienhauses überzeugt mit einer\ndurchdachten Raumaufteilung und hochwertiger Ausstattung.\nMit ca. 65 m² Wohnfläche bietet sie genügend Platz für Singles\noder Paare, die Wert auf Komfort und eine zentrale Lage legen.\nHunde sind nicht erlaubt.\n\nDie Wohnung besticht durch eine helle Küche mit direktem\nZugang zum Balkon, eine Einbauküche sowie ein hochwertig\nsaniertes Badezimmer. Ein eigener Kellerraum sorgt für\nzusätzlichen Stauraum.\n\nAusstattung im Detail\n\nCa. 65 m² Wohnfläche\n2 Zimmer\nEinbauküche aus 2012 – Boden gefliest\nBalkon für entspannte Stunden im Freien\nModernisiertes Badezimmer (saniert 2012) mit Fenster\nLaminat im Flur, Schlafzimmer und Wohnzimmer 2012 erneuert\nWeiße Türelente, 2012 erneuert\nEigener Kellerraum für zusätzlichen Stauraum\nZentralheizung mit Gas\nEnergieeffizienzklasse: B\nÖffentliche Parkmöglichkeiten in der Nähe\n\nLage:\nDie Wohnung liegt in 46483 Wesel, in unmittelbarer Nähe zur\nFußgängerzone. Einkaufsmöglichkeiten, Cafés, Restaurants\nsowie öffentliche Verkehrsmittel befinden sich in direkter\nUmgebung. Die Rheinpromenade ist ebenfalls nur wenige\nMinuten entfernt und lädt zu entspannten Spaziergängen ein.\n\nWeitere Angaben:\nObjektzustand: im Jahre 2012 umfangreich saniert\nBaujahr: 1953\nQualität der Ausstattung: Normal\nHeizungsart: Zentralheizung (2012 saniert)\nWesentliche Energieträger: Gas\nHaustiere: Nach Vereinbarung",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-15T00:17:37.801000+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2872,6 +2872,26 @@
       ],
       "Czynsz z mediami (€)": 650.0,
       "Opis": "Einbauküche • Altbau\n\nDachgeschosswohnung – 2 Zimmer, 48 m²\n\nAb dem 01.10.2026 ist eine gemütliche Dachgeschosswohnung im 2. Obergeschoss zu vermieten.\n\n* 2 Zimmer\n* ca. 48 m² Wohnfläche\n* Dusche\n* Single-Küche\n* frei ab 01.10.2026\n\nBei Interesse oder für weitere Informationen gerne melden.\n\nWeitere Angaben:\nKaltmiete: 650€\nNebenkosten: 75€\nWarmmiete: 75€\nKaution: 1000€\nAdresse/Ort: Emmerich am Rhein",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-01T19:25:38.453519+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Mietwohnung",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 70.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": 47.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung/3556097938-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/814d14dc-4bd5-442b-a566-add66071baf5?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-01T19:25:38.453519+00:00"
     }
