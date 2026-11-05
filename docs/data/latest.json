@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-04T19:27:41.736011+00:00",
-  "count": 101,
+  "generated_at": "2026-11-05T01:21:11.709136+00:00",
+  "count": 102,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-04T19:27:41.736011+00:00",
+      "last_updated": "2026-11-05T01:21:11.709136+00:00",
       "interval_hours": 3
     }
   },
@@ -897,7 +897,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/27196fa8-eaff-41a1-8655-99ae691e74bd?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1062d40-d6a4-4ddd-a49d-77525703df5f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a8494b9-6768-498a-8a46-a6854da6d0cc?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9b734bb-f337-487e-bae2-4a0eedc58a97?rule=$_59.AUTO",
@@ -1087,7 +1087,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a4b2db7-7bc0-453b-b22c-3c105a702018?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd165a6d-c139-4ac9-9629-27696ab94ad4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1218,7 +1218,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5b96c18-d198-4f2a-b044-e52e7a4c17f5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/26bdb09c-f477-4339-8a16-5c108f5601f4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1350,7 +1350,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58a6b788-a659-4ace-9e4b-77c2aee4cf87?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16c0acf7-a165-400e-a55c-a595643f9820?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1383,7 +1383,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/274aa769-d1d3-4ba4-ad15-3068332cb117?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b757953-2c4f-4fc7-9693-d678bfd6ec01?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2700,6 +2700,39 @@
       "Opis": "Möbliert/Teilmöbliert • Einbauküche • Garage/Stellplatz\n\nMöblierte 2,5-Zimmer-Wohnung in Dinslaken-Bruch – kurzfristig verfügbar\n\nKaltmiete: 470,00 € / Monat\nBetriebskostenvorauszahlung: 150,00 € / Monat\nOptionaler PKW-Stellplatz: 60,00 € / Monat\n\nObjektbeschreibung\n\nDiese gepflegte und vollständig möblierte 2,5-Zimmer-Wohnung befindet sich im 1. Obergeschoss eines ruhigen Dreiparteienhauses in Dinslaken-Bruch.\n\nAuf ca. 52 m² Wohnfläche verteilen sich ein Wohnbereich, ein Schlafzimmer, ein weiteres Zimmer, eine Küche, eine Diele sowie ein Tageslicht-Duschbad. Die Wohnung wird komplett möbliert vermietet und eignet sich ideal für Einzelpersonen oder Paare, die eine kurzfristig verfügbare und bezugsfertige Wohnung suchen.\n\nEin PKW-Stellplatz kann bei Bedarf für 60,00 € monatlich zusätzlich angemietet werden.\n\nAusstattungsmerkmale\n\n* Ca. 52 m² Wohnfläche\n* 2,5 Zimmer\n* Möblierte Vermietung\n* Küche\n* Tageslicht-Duschbad\n* 1.\tObergeschoss\n* Ruhiges Dreiparteienhaus\n* Fernwärme\n* Kurzfristig verfügbar\n* Optionaler PKW-Stellplatz\n\nMietkonditionen\n\n* Kaltmiete: 470,00 € / Monat\n* Betriebskostenvorauszahlung: 150,00 € / Monat\n* PKW-Stellplatz (optional): 60,00 € / Monat\n* Mietsicherheit: 3 Monatskaltmieten\n\nEnergieausweis\n\n* Baujahr: 1914\n* Heizungsart: Fernwärme\n* Energieausweis: Bedarfsausweis\n* Endenergiebedarf: 218,7 kWh/(m²·a)\n* Ausstellungsdatum: 16.02.2025\n* Gültig bis: 15.02.2035\n\nInteresse?\n\nBei ernsthaftem Interesse senden Sie uns bitte zunächst einen kurzen Steckbrief mit folgenden Angaben:\n\n* kurze Vorstellung Ihrer Person\n* berufliche Tätigkeit\n* Anzahl und kurze Angaben zu den weiteren einziehenden Personen\n* Ihre E-Mail-Adresse\n\nIm Anschluss übersenden wir Ihnen unsere Mieterselbstauskunft. Diese finden Sie auch auf unserer Homepage unter: www.vertrautimmobilienverwaltung.de unter der Rubrik: aktuelle Objekte. Nach Prüfung der Angaben stimmen wir gerne einen Besichtigungstermin mit Ihnen ab.\n\nverTraut Immobilienverwaltung",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-31T04:22:06.232527+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Moderne 2 Zimmer Mietwohnung mit Dachterrasse",
+      "Cena (€)": 635.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 53.0,
+      "Lokalizacja": "47546 Kalkar",
+      "Odległość (km)": 12.0,
+      "Czas dojazdu (min)": 21,
+      "Odległość od 's-Heerenberg (km)": 14.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-zimmer-mietwohnung-mit-dachterrasse/3561192847-203-1388",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b22251d0-978c-43b7-9207-2f725961ae57?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b22251d0-978c-43b7-9207-2f725961ae57?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/542c090d-817e-4afa-84a3-2ddbea4de1b8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9797e24-2655-4b87-af9e-3bf3063e31e2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e7a041b8-251d-44ac-b6a9-73ad6308426e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/229c8420-44dc-4623-be42-370a1cf275b3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4e9e1c3-26c0-4ea6-9599-108be604d93f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b22251d0-978c-43b7-9207-2f725961ae57?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/542c090d-817e-4afa-84a3-2ddbea4de1b8?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9797e24-2655-4b87-af9e-3bf3063e31e2?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e7a041b8-251d-44ac-b6a9-73ad6308426e?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/229c8420-44dc-4623-be42-370a1cf275b3?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4e9e1c3-26c0-4ea6-9599-108be604d93f?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Diese helle und gut geschnittene 2-Zimmer-Wohnung überzeugt durch eine moderne Raumaufteilung und eine hochwertige, energieeffiziente Ausstattung im Netto-Null-Standard.\n\nDer offene Wohn- und Essbereich schafft eine freundliche Wohnatmosphäre und bietet viel Platz zum Wohlfühlen. Ein besonderes Highlight ist die großzügige Dachterrasse, die zusätzlichen Freiraum im Außenbereich bietet.\n\nFür ein angenehmes Wohnklima sorgen die Fußbodenheizung in Kombination mit einer modernen Luftwärmepumpe. Die Warmwasserversorgung erfolgt über einen Durchlauferhitzer. Ein separater Hauswirtschaftsraum (HWR) bietet zusätzlichen praktischen Stauraum.\n\nDie Wohnung ist ab dem 01.01.2027 verfügbar.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-05T01:21:11.707616+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
