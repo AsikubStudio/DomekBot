@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-05T19:36:00.423488+00:00",
-  "count": 102,
+  "generated_at": "2026-11-06T01:25:19.117055+00:00",
+  "count": 103,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-05T19:36:00.423488+00:00",
+      "last_updated": "2026-11-06T01:25:19.117055+00:00",
       "interval_hours": 3
     }
   },
@@ -1087,7 +1087,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-3-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3471855237-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/32747856-36e2-4dc5-b9e5-068720a39c95?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5e9be5b-f7ca-426a-8deb-4bea529b7bc0?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05703c32-5598-4a8d-9503-38cfe059bacd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49d48ca6-4958-462a-9e77-a3f217e70486?rule=$_59.AUTO",
@@ -1120,7 +1120,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ecdc657-359b-44f5-92bb-9b144dc552a1?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0355fcf-1f07-4d3f-a30e-efad7a6e3db6?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1153,7 +1153,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/fuer-heimwerker-inkl-500-gutschein-gemuetliche-2-zimmer-wohnung-mit-renovierungsgutschein/3556237074-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9c7dc0f-206e-44fc-ad06-d35c7ee231c1?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/6507ae10-3196-4982-b4f8-55c5ba32b06c?rule=$_1.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9c7dc0f-206e-44fc-ad06-d35c7ee231c1?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0db75340-bf3a-41a0-a734-02a7da5e16ea?rule=$_59.AUTO",
@@ -2659,6 +2659,39 @@
       "Opis": "Wir suchen zum 01.12.2026 einen Nachmieter für unsere Dachgeschosswohnung in 47533 Kleve.\n\nDie Wohnung:\n\n\t•\tca. 74 m² Wohnfläche im 2. Obergeschoss (Dachgeschoss)\n\t•\tWohnzimmer\n\t•\tSchlafzimmer\n\t•\tKüche\n\t•\tBadezimmer mit Badewanne\n\t•\tkleines Hobby-/Kinderzimmer\n\t•\tBalkon\n\t•\tKellerraum\n\t•\tGarage (im Mietpreis enthalten)\n• Küche ist nicht vorhanden\n\nKosten:\n\n\t•\tKaltmiete inkl. Garage (50 €): 662 €\n\t•\tNebenkosten: 150 €\n\t•\tHeizkosten: 60 €\n\t•\tWarmmiete: 872 €\n\nÜbergabe:\nDie Wohnung ist ab dem 01.12.2026 verfügbar.\n\nAnfragen:\nBitte schreibt uns kurz etwas zu euch (Beruf, gewünschter Einzugstermin, Personenanzahl), damit wir passende Besichtigungstermine anbieten können. Anfragen ohne diese Angaben können wir leider nicht berücksichtigen. Die Besichtigung findet ausschließlich vor Ort statt. Wir freuen uns auf eure Nachricht!\n\nHinweise:\nEine Online-Besichtigung ist leider nicht möglich. Ein Wohnungstausch kommt nicht in Frage. Bei Interesse freuen wir uns auf Ihre Nachricht und vereinbaren gerne einen Besichtigungstermin.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-04T19:27:41.733641+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer-Wohnung mit Balkon in Kleve Oberstadt",
+      "Cena (€)": 615.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 66.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 11.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": 11.6,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-balkon-in-kleve-oberstadt/3562756260-203-1125",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96e4813a-3a0f-4b28-ba43-a646df6fe9e9?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47369e5d-e5fc-4cae-921f-11ed4e901d29?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c3d72a43-197e-43c1-bdb2-99b887f0ab06?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/8998b2e1-39cd-4da8-8c30-3709cf5af7b5?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5f5ef9d-6811-46c0-a657-7a19e1f0529d?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b98c21d-9c68-417e-80d0-f8f18fa27342?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5ed936ff-5fc2-4412-a40f-8b7482f87077?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6892410-069c-44fb-8d93-6907a01057d9?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d100555f-8ef1-4d34-8a85-a70e3a96ae1e?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68153b4a-5bce-4adc-b3b5-1a381d2b4ca2?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Wir suchen dringend einen Nachmieter für eine 2-Zimmer-Wohnung mit Übernahme der Möbel zum 1.12.2026 in Kleve-Oberstadt, in unmittelbarer Nähe zum Krankenhaus.\n\nDie Wohnung befindet sich im 1. Obergeschoss und verfügt über einen Balkon.\n\nKüchenzeile ist vorhanden.\n\nHaustiere sind erlaubt.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-06T01:25:19.115536+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
