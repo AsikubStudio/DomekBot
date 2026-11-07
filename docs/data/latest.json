@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:30:46.735872+00:00",
+  "generated_at": "2026-11-07T21:31:30.914037+00:00",
   "count": 106,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-07T17:30:46.735872+00:00",
+      "last_updated": "2026-11-07T21:31:30.914037+00:00",
       "interval_hours": 3
     }
   },
@@ -985,6 +985,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Wohnung mit Gartennutzung im Duisburg-Röttgersbach (WBS",
+      "Cena (€)": 340.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "47169 Röttgersbach",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 54.4,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-gartennutzung-im-duisburg-roettgersbach-wbs/3564762272-203-23951",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6023d4a-2017-4053-88f3-f0bb33fd231c?rule=$_1.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6023d4a-2017-4053-88f3-f0bb33fd231c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/efc3b0c8-8514-4707-ade5-60f1989882c2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c6/c6024ea4-55c4-4329-bc31-75eb1027fde0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/feac3663-f988-4872-a5f4-72db5eefec08?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/438e9988-6304-4b8d-a300-8413f1aa1e54?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5be538e3-f34f-4a3f-85c6-518af64230c9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41d5bfbb-66b3-42b2-a54b-6515a3b6b531?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/08/08e3e221-0ac5-4817-bc24-d40000506b06?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a032464-a467-4ed2-a6dc-fda538d3efeb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c32150b0-ed0e-48ad-82df-b9b002022828?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c35e2e2-ce3a-48fb-af62-4c823ec90b55?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff2312a1-8bab-4930-87de-5b4b34cf121c?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 460.0,
+      "Opis": "Balkon • Badewanne • Keller • WBS benötigt • Garten/-mitnutzung\n\nZu vermieten ist eine sehr gut geschnittene, große 2 – Zimmer Wohnung in Duisburg-Röttgersbach, zu vermieten ab sofort!\nDie Wohnung ist 60 qm groß und befindet sich im 2. OG eines gepflegten Mehrfamilienhauses. Sie ist mit einem Laminatboden ausgestattet. Die Wohnung kann an maximal 2 Personen vermietet werden.\n\nZur Ausstattung:\nZu der Wohnung gehören ein Badezimmer, eine Küche, eine Diele. Zudem besitzt das Haus einen schönen, großen Garten, welcher mitgenutzt werden kann.\n\nZur Lagebeschreibung:\nDer Stadtteil Röttgersbach ist einer der schönsten Bezirke im Duisburger Norden. Die Wohnung ist ruhig gelegen. Zudem sind ausreichend Einkaufsmöglichkeiten und auch öffentliche Verkehrsmittel in wenigen Minuten erreichbar. Schulen und Kindergärten befinden sich ebenfalls in unmittelbarer Umgebung. Die A59 mit Anschluss an A42 und A3 sind nur wenige Minuten entfernt. Bis zum Stadtteil Oberhausen – Osterfeld sind es nur 10 Minuten Autofahrt. Des Weiteren gibt es viele Freizeitmöglichkeiten, wie z.B.: Rhein-Ruhr Bad, Landschaftspark Duisburg-Nord (Natur- und Kulturlandschaft mit jährlich rund 250 Veranstaltungen), Revierpark Mattlerbusch mit Therme und Gradierwerk.\n\nDie Kaution beträgt 3 Monatskaltmieten.\n\nDie Wohnung ist ab sofort zur Miete frei und kann nach Terminabsprache gerne besichtigt werden.\nBei Interesse senden Sie bitte eine Nachricht unter Angabe Ihrer Rufnummer.\nVoraussetzungen:\n-WBS!\n-keine Haustiere\n-max. 2 Personen\n-positive Schufa",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-07T21:31:30.912294+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Ab sofort: Emmerich, 2-Zimmer-Wohnung, 345 € kalt",
       "Cena (€)": 345.0,
       "Pokoje": 2.0,
@@ -1208,39 +1241,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Mach diesen Ort zu deinem Zuhause /Make this place your home",
-      "Cena (€)": 376.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.98,
-      "Lokalizacja": "47166 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": 55.3,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf5d28ce-a963-45a6-9091-6602e388c7fb?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41579b33-e020-4a95-9f9b-1a4a41fe8b20?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eace048-dd7d-4f0f-afc1-e64b796afe8c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/1102308a-9548-409a-9248-712d12ffc27a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/194e6bb1-100f-4db1-af63-fa8d84a2ce64?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f131d5c3-e8cc-4ff3-aca0-fa48c958ddd5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ced100bf-d638-44ba-beb1-a54babf5cced?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/009f7b9b-ab72-4687-bf4d-83180a0e96ab?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5b/5bc01124-5a26-441c-87d3-0587ae4b4e26?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e66b8788-08cf-41cf-813b-716f43689b90?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/882a1e54-76bf-401f-bc9c-032973440c14?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 546.0,
-      "Opis": "Balkon • Badewanne\n\nDas Ensemble aus Buschstraße 39–45, Dr.-Heinrich-Laakmann-Straße 13–25, Steigerstraße 14–26 sowie Stollenstraße 8–18 in Duisburg umfasst eine beachtliche Anzahl von Wohnhäusern, die gemeinsam ein dichtes, zusammenhängendes Wohnquartier im Stadtgebiet bilden. Die Objekte verteilen sich auf vier Straßen mit jeweils eigenem Charakter – von der gepflasterten Anliegerstraße bis zur ruhigen Wohnstraße – und bieten dadurch eine Vielfalt an Wohnoptionen innerhalb desselben gewachsenen Umfelds. Das Ensemble steht für verlässliches, substanzstarkes Wohnen in einem Viertel mit gelebter Gemeinschaft.\n\nKaltmiete: 376,00 EUR\nBetriebskosten: 170,00 EUR\nHeizkosten: 104,00 EUR\nWarmmiete: 650,00 EUR\n\nACHTUNG!\nDie Anmietung über das Jobcenter für einen Ein-Personenhaushalt ist NICHT möglich. Die Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n_________________________________________________\n\nThe ensemble comprising Buschstraße 39–45, Dr.-Heinrich-Laakmann-Straße 13–25, Steigerstraße 14–26, and Stollenstraße 8–18 in Duisburg encompasses a substantial number of residential buildings that together form a dense, cohesive residential quarter within the city. The properties are spread across four streets, each with its own character – from cobblestone residential access road to quiet side street – offering a variety of living options within the same established environment. The ensemble stands for dependable, substance-rich living in a neighbourhood with a genuine sense of community.\n\nNet cold rent: EUR 376.00\nOperating costs: EUR 170.00\nHeating costs: EUR 104.00\nTotal rent including utilities: EUR 650.00\n\nATTENTION! Renting through the job center is NOT possible for a single-person household. The gross cold rent exceeds the maximum rent limit set by the authority.\n\n# Ausstattung\n- 2 Zimmer, Küche, Diele, Bad\n- Alle Räume von der Diele aus begehbar\n- geweißte Wände mit Raufasertapete\n- Küche mit weißem Fliesenspiegel und Vinylboden\n- Laminatboden in Diele, Schlaf- und Wohnzimmer\n- Weißgefliestes Wannenbad mit Fenster\n- Waschmaschinenanschluss im Badezimmer\n- Balkon\n- Kellerabteil\n- Gegensprechanlage\n- Hausmeisterservice\n- Treppenhausreinigung\n____________________________________\n\n2 rooms, kitchen, hallway, bathroom\nAll rooms accessible from the hallway\nWhitewashed walls with woodchip wallpaper\nKitchen with white tile splashback and vinyl flooring\nLaminate flooring in the hallway, bedroom and living room\nWhite-tiled bathroom with bathtub and window\nWashing machine connection in the bathroom\nBalcony\nBasement storage unit\nIntercom system\nCaretaker service\nStaircase cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Objekte liegen im Stadtteil Alt-Hamborn im Duisburger Norden – dem historischen Kern des Stadtbezirks Hamborn mit rund 73.000 Einwohnern. Alt-Hamborn ist ein lebendiges Wohnviertel mit einer Mischung aus historischer Bausubstanz und internationaler Gemeinschaft. Die Infrastruktur ist gut ausgebaut: Die Jägerstraße als Hauptgeschäftsstraße, der Hamborner Altmarkt mit dreimal wöchentlichem Markt, das St. Johannes-Hospital sowie Kitas und Schulen versorgen den Alltag. Kulturell prägt die Prämonstratenser-Abtei Hamborn – seit dem 12. Jahrhundert im Viertel verwurzelt – das Bild, ergänzt durch das Abteizentrum mit Konzert- und Kulturprogramm. Der Botanische Garten und der Stadtpark bieten grüne Erholungsflächen im direkten Umfeld.\n\n__________________________________________________\n\nThe properties are located in the Alt-Hamborn district in northern Duisburg – the historic core of the Hamborn borough with around 73,000 residents. Alt-Hamborn is a lively residential neighbourhood combining historic building fabric with an international community. Infrastructure is well developed: Jägerstraße as the main shopping street, the Hamborner Altmarkt with its market three times a week, St. Johannes Hospital, nurseries, and schools all support daily life. Culturally, the Premonstratensian Hamborn Abbey – rooted in the neighbourhood since the twelfth century – defines the character of the area, complemented by the Abteizentrum with its concert and cultural programme. The Botanical Garden and city park offer green recreational spaces in the immediate vicinity.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n______________________________________\n\nAre you interested in this apartment and would like to arrange a viewing? Then don't waste any time and get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we will get back to you.\n\nThis offer is non-binding and subject to errors and omissions.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 674-65-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 137.7 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1909\n- Wesentliche Energieträger: Fernwärme, Gas\n\nAnbieter-Objekt-ID: 674-65-M",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-22T16:46:24.726198+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Für Heimwerker inkl. 500 € Gutschein - Gemütliche 2 Zimmer Wohnung mit Renovierungsgutschein",
       "Cena (€)": 382.0,
       "Pokoje": 2.0,
@@ -1318,7 +1318,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e76d5799-6e54-428c-8230-ace61292885b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/346f0b65-d42a-422e-9236-32dc2144b736?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1548,7 +1548,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87601a4c-0f15-4b01-9351-ccb1f334cb6c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d82f041-de12-4a70-a1f8-aa54b3d4d361?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1581,7 +1581,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b0e1078-9080-4714-96ca-9af89727fed5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e0d8f51-18d2-4c02-9407-2db6ca90f4d2?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1860,6 +1860,39 @@
       "Opis": "Einbauküche\n\nHelle, lichtdurchflutete Dachgeschosswohnung in beliebter Wohngegend in Rhede.\nKaltmiete: 465€\nNebenkosten: 105€",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-04T19:27:41.733641+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnen in angenehmer Lage – schöne Wohnung in Duisburg-Fahrn",
+      "Cena (€)": 470.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 42.0,
+      "Lokalizacja": "47169 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": 53.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnen-in-angenehmer-lage-schoene-wohnung-in-duisburg-fahrn/3564743756-203-2146",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7869b3c9-85ba-453b-8331-fe36d0bae749?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/7869b3c9-85ba-453b-8331-fe36d0bae749?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4f49a03-d0b7-4681-88ee-6da668a7952a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20411160-cf25-4428-84c3-80dc0068375f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b1e3110-2586-42a4-8086-972065b878f4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7b2906bb-5dc3-4eab-9dfc-68eea5f24669?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f504ef4e-34bd-4dcd-ae1c-7b6d729a3131?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dc/dcb8fe63-6ceb-487b-a28b-d9b82003ffa6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d89a50e4-451b-4236-9ab3-7da4d91a5939?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/6929424a-a8ae-4201-9af8-356b1237b15e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3c612f5-1c57-4a05-8e7d-dcbbb378c2a3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/94a79dd7-c6b7-4fce-9e5c-f2e6fe2aad58?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b362cb08-6754-48e1-b08e-9935c7e93ca5?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 470.0,
+      "Opis": "Badewanne • Garage/Stellplatz\n\nCharmante 42 m² Wohnung in Duisburg-Fahrn – ruhig gelegen und sofort bezugsfrei!\n\nSie suchen eine gemütliche Wohnung in angenehmer Wohnlage? Dann könnte diese schöne 42 m² Wohnung in Duisburg-Fahrn genau das Richtige für Sie sein!\n\nDie Wohnung befindet sich in einer ruhigen und angenehmen Wohngegend und bietet eine ideale Kombination aus Wohnkomfort und guter Erreichbarkeit. Das Fahrner Krankenhaus, Schulen sowie Einkaufsmöglichkeiten und die nahegelegene Einkaufsstraße sind bequem erreichbar. Auch der Stadtteil Röttgersbach befindet sich in der näheren Umgebung.\n\nHighlights der Wohnung:\n\n* Ca. 42 m² Wohnfläche\n* Gepflegter Zustand\n* Laminatboden\n* Ruhige und angenehme Wohnlage\n* Sofort bezugsfrei\n* Individuelle Gestaltung der Wände nach eigenen Vorstellungen möglich\n* Ein eigener Stellplatz steht ebenfalls zur Verfügung.\n\nDie Wohnung bietet eine ideale Gelegenheit für Singles oder Paare, die sich ein gemütliches Zuhause in einer angenehmen Umgebung wünschen.\n\nInteresse geweckt?\nBei ernsthaftem Interesse oder weiteren Fragen freue ich mich über Ihre Nachricht. Gerne können weitere Informationen zur Wohnung mitgeteilt werden.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-07T21:31:30.912294+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2577,7 +2610,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer Wohnung im 2.OG ab 1.11 in Wesel Stadtnah",
+      "Tytuł": "2-Zimmer Wohnung im 2.OG in Wesel Stadtnah",
       "Cena (€)": 570.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 43.0,
@@ -2587,7 +2620,7 @@
       "Odległość od 's-Heerenberg (km)": 34.8,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-im-2-og-ab-1-11-in-wesel-stadtnah/3550750263-203-1867",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-im-2-og-in-wesel-stadtnah/3550750263-203-1867",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/704a5850-2b62-42f0-b752-40038243e7e9?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/704a5850-2b62-42f0-b752-40038243e7e9?rule=$_59.AUTO",
@@ -2603,43 +2636,10 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7dd5693-335b-4a23-b1f2-a3f467374588?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7d42dbb-1a78-44b0-ac86-abf6232df81b?rule=$_59.AUTO"
       ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Die Zwei-Zimmer Wohnung befindet sich im 2.OG vorne (ohne Balkon) Sie liegt zentral in Wesel, fußläufig ist der Bahnhof und die Innenstadt erreichbar. Ein Kellerraum steht zur Verfügung, Haustiere sind nicht erlaubt.\nSchufa Auskunft und Gehaltsnachweise sind vor dem Besichtigungstermin vorzuzeigen.\n\nNetto Kaltmiete 570€\nNeben u. Betriebskosten 100€\nHeizkosten 125€\nStromkosten 50€\nGesamt im Monat 845€",
+      "Czynsz z mediami (€)": 795.0,
+      "Opis": "Gäste WC • Fußbodenheizung • Altbau • Keller\n\nDie Zwei-Zimmer Wohnung befindet sich im 2.OG vorne (ohne Balkon) Sie liegt zentral in Wesel, fußläufig ist der Bahnhof und die Innenstadt erreichbar. Ein Kellerraum steht zur Verfügung, Haustiere sind nicht erlaubt.\nSchufa Auskunft und Gehaltsnachweise sind vor dem Besichtigungstermin vorzuzeigen.\n\nNetto Kaltmiete 570€\nNeben u. Betriebskosten 100€\nHeizkosten 125€\nStromkosten 50€\nGesamt im Monat 845€",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-24T15:30:04.843118+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Schöne 2- Zimmer Wohnung in Wesel Stadtnah zu vermieten",
-      "Cena (€)": 580.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 45.0,
-      "Lokalizacja": "46483 Wesel",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 32,
-      "Odległość od 's-Heerenberg (km)": 34.8,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-in-wesel-stadtnah-zu-vermieten/3543509504-203-1867",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b7c8c63-5186-48de-9ca2-a8e822b38fe3?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0b7c8c63-5186-48de-9ca2-a8e822b38fe3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4693598-3623-4649-aebc-89309f54647a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6634d0e0-b51a-4398-aef7-afbbd5177e48?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce1819de-d1d3-4598-8bb3-dea320536f38?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a91a8359-315a-49fb-af90-1122bd2f0bbd?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7ae9e03-3c7f-4c92-8436-879ed9393650?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/038a3d9e-d04d-41ae-836e-d1bb5310e34f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9feed1b0-b474-4b8b-aa4b-52913fdbe247?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7f/7fc8931b-0dbd-40f8-ad2d-9975318d576b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa66d00a-0f21-4c42-bed7-378f8d12e4b7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc6aa0fc-9b6e-45e4-943b-c0f7f21487a3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d4fb0d8-1305-4202-9057-7f6f722d77bd?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Schöne helle 2-Zimmerwohnung in Wesel zu vermieten ab dem 1.11.2026\nHaustierhaltung ist leider nicht erlaubt.\nAktuelle Schufa Auskunft und Gehaltsnachweise, müssen vor dem Besichtigungstermin vorgelegt werden.\n\nKaltmiete 580€\nNeben u. Betriebskosten 100€\nHeizkosten 125€\nStromkosten 50€\nGesamt Monatlich 855€\n\nDie Wohnung befindet sich in einem 9 Familien Haus im 1 OG\nStadtnah, der Bahnhof, Ärzte, sämtliche Einkaufsmöglichkeiten sind zu Fuß zu erreichen.\nDie Wohnung hat ein großes Badezimmer, ein Schlafzimmer, ein Wohnzimmer mit Küchenbereich.\n1 Kellerraum.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-17T15:05:01.322173+00:00"
+      "PierwszyRaz": "2026-11-07T21:31:30.912294+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
