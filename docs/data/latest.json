@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-07T00:40:46.785136+00:00",
-  "count": 107,
+  "generated_at": "2026-11-07T09:41:59.440048+00:00",
+  "count": 106,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-07T00:40:46.785136+00:00",
+      "last_updated": "2026-11-07T09:41:59.440048+00:00",
       "interval_hours": 3
     }
   },
@@ -1062,7 +1062,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04ebc403-a0ea-4ad3-8438-dbcc3af544aa?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/0292d9e8-3484-424b-a4be-d4e3fd18938e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb3e4ee6-1f5c-4ed7-bd12-f54a711da5f6?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f349dd76-0ff4-458c-90a6-76ed1d41c404?rule=$_59.AUTO",
@@ -1095,7 +1095,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/klein-aber-fein-in-marxloh-/3561259497-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/caae8d53-3be3-48b4-9c35-83be4d5f146d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/373fb6eb-227a-4b42-ad49-e5ab9f7a3a21?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7cfe4562-0b7b-464d-90a5-e4bd2052b399?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67a1888c-4569-450c-8762-63316e57ce4d?rule=$_59.AUTO",
@@ -1219,7 +1219,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/346b56bd-adff-4721-9902-81e65205c3c9?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99b6411b-8582-4d02-962c-702f104c0091?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1252,7 +1252,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/fuer-heimwerker-inkl-500-gutschein-gemuetliche-2-zimmer-wohnung-mit-renovierungsgutschein/3556237074-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36a1b3fc-76fd-4ad7-9e7c-8516cf8dc409?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36a1b3fc-76fd-4ad7-9e7c-8516cf8dc409?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9c7dc0f-206e-44fc-ad06-d35c7ee231c1?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0db75340-bf3a-41a0-a734-02a7da5e16ea?rule=$_59.AUTO",
@@ -1318,7 +1318,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca78fcca-d981-4700-8715-8f9d276b7645?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b01e81d1-fe85-47c2-b1ef-2927f13d7219?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1516,7 +1516,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4bd1f2b-f65e-45b4-bf7b-eec3f5c2dbee?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/924a2d9d-56b1-403e-a632-96700c70c520?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1549,7 +1549,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22d946ad-82e1-4185-a720-33e04b659929?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8bae02a5-e79f-4bd0-b6f6-3288e4b462ed?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2845,26 +2845,6 @@
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Frisch sanierte Wohnung mit eigenem Eingang",
-      "Cena (€)": 627.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 66.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-wohnung-mit-eigenem-eingang/3561931519-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cba08aee-3b94-48f3-9f92-c5af34e40629?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-06T18:58:35.163504+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
