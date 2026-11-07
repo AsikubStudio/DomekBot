@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T09:41:59.440048+00:00",
+  "generated_at": "2026-11-07T17:30:46.735872+00:00",
   "count": 106,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-07T09:41:59.440048+00:00",
+      "last_updated": "2026-11-07T17:30:46.735872+00:00",
       "interval_hours": 3
     }
   },
@@ -1219,7 +1219,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99b6411b-8582-4d02-962c-702f104c0091?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf5d28ce-a963-45a6-9091-6602e388c7fb?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31e9ab28-1798-4146-b49b-1fe62da9505b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d1353b2-c50a-4e9d-a3f6-63ac6f3693ce?rule=$_59.AUTO",
@@ -1318,7 +1318,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b01e81d1-fe85-47c2-b1ef-2927f13d7219?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e76d5799-6e54-428c-8230-ace61292885b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1472,6 +1472,38 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Zweizimmerwohnung für einen Single-Haushalt",
+      "Cena (€)": 430.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "47559 Kranenburg",
+      "Odległość (km)": 14.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": 18.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/zweizimmerwohnung-fuer-einen-single-haushalt/3558396064-203-1124",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4966dfb1-453d-4945-83e4-23d52589d55e?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4966dfb1-453d-4945-83e4-23d52589d55e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39a97f0a-ac1f-4ed4-9844-3bcb879b9e01?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a70fb4b9-fa24-4e2a-9e13-01686399c756?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99df8710-d6ee-4cd7-8db9-0ce746979a3e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5fb0d67-1207-4b83-a284-25801186e74a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c77011d-bc64-4634-9ffc-3c9ee552297a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ffc04764-5772-45b6-a3dc-72863f37545a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/59770876-e279-41b6-8160-2197073287a3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf951b36-fb51-409f-93a0-074aac9e7de0?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/caad3af4-1dbf-4ba7-9f1b-9d0fe87f7164?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 570.0,
+      "Opis": "Einbauküche • Badewanne • Garage/Stellplatz\n\nIch bitte erst einmal um keine weiteren Anfragen!\nHerzlichen Dank.\n\nLage\nDie Wohnung befindet sich in einer freundlichen Nachbarschaft in dem kleinen Dorf Kranenburg-Mehr. Hier können Sie die Ruhe genießen, finden viele schöne Radwege und ein intaktes und aktives Dorfleben.\n\nAusstattung\n• Wohnesszimmer: Genießen Sie den schönen Blick in den Garten, der für eine ruhige und grüne Atmosphäre sorgt. Einbauküche: Eine Küchenzeile mit kleinem Herd und Backofen\n•\tBadezimmer: Das Tageslichtbad mit Fenster und Badewanne bietet Ihnen einen Ort der Entspannung, hier ist auch ein Waschmaschinenanschluss. Alle Fugen im Bad wurden 2026 erneuert.\n•\tSchlafzimmer: Ein gemütlicher Rückzugsort mit ausreichend Platz für Bett und Schrank.\n•\tAbstellraum: Praktischer Stauraum für Utensilien, die man verstauen will. Im Nebengang steht ein Gefrierschrank mit Tiefkühlfächern und hier ist auch eine Garderobe.\n•\tStellplatz vorhanden / ggf. besteht die Möglichkeit ein Fahrrad in die Garage im Haupthaus zu stellen\n\nIn den Nebenkosten sind auch die Heizkosten enthalten, die bei den aktuellen Energiekosten immer am Ende des Jahres noch einmal nach Verbrauch nachkalkuliert werden. Nicht enthalten sind Strom und ein DSL-Anschluss.\n\nBei Interesse senden Sie mir bitte eine kurze Beschreibung ihrer Person und ihrer beruflichen Situation zu. Erste Besichtigungen finden Ende November/Anfang Dezember 2026 statt.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-01T12:47:16.663412+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Renovierte 2-Zimmer-Wohnung im 1. Obergeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
       "Cena (€)": 430.0,
       "Pokoje": 2.0,
@@ -1516,7 +1548,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/924a2d9d-56b1-403e-a632-96700c70c520?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87601a4c-0f15-4b01-9351-ccb1f334cb6c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1549,7 +1581,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8bae02a5-e79f-4bd0-b6f6-3288e4b462ed?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9b/9b0e1078-9080-4714-96ca-9af89727fed5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1732,7 +1764,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer-Wohnung mit großem Balkon und Stellplatz in Bocholt",
+      "Tytuł": "Anfragestop: 2-Zimmer-Wohnung mit großem Balkon und Stellplatz",
       "Cena (€)": 460.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 46.0,
@@ -1742,7 +1774,7 @@
       "Odległość od 's-Heerenberg (km)": 23.8,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-grossem-balkon-und-stellplatz-in-bocholt/3563326870-203-1849",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/anfragestop-2-zimmer-wohnung-mit-grossem-balkon-und-stellplatz/3563326870-203-1849",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/341b41e0-a06a-4c71-8859-880d4617851d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/341b41e0-a06a-4c71-8859-880d4617851d?rule=$_59.AUTO",
@@ -1756,12 +1788,12 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fec557d6-da2f-4481-a590-075762e32de8?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fdc1b15-0f9b-4d07-bd69-86c0af9952e5?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f07d3b7-7867-464f-8e21-8fc26c692160?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/341b41e0-a06a-4c71-8859-880d4617851d?rule=$_1.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f44771-c990-4143-9849-faaa8963795a?rule=$_0.AUTO"
       ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Die 2-Zimmer-Wohnung liegt im 1. Obergeschoss eines gepflegten Mehrfamilienhauses aus dem Jahr 1997 in 46395 Bocholt.\n\nMan betritt die Wohnung über eine kleine Diele, von der auch das Bad mit Fenster abgeht. Im Flur ist platzsparend die Küchenzeile untergebracht. Vom Flur gelangt man ins Wohnzimmer und in einen kleinen Raum mit Fenster, der sich als Schlafzimmer oder Arbeitszimmer eignet. Vom Wohnzimmer aus geht es direkt auf den großen Balkon.\n\nZur Wohnung gehört ein eigener Stellplatz. Für Waschmaschine und Trockner gibt es einen Gemeinschaftsraum im Haus. Fahrräder können in einem ebenerdigen Abstellraum untergestellt werden.\n\nDie Wohnung ist ideal für eine Person, die zentrumsnah wohnen möchte.\n\nAusstattung:\n- Bad mit Fenster\n- Küchenzeile\n- großer Balkon (Loggia)\n- teilmöbliert\n- Kunststofffenster mit Isolierverglasung\n- Gas-Zentralheizung\n- Böden: Laminat, Fliesen und PVC\n- eigener Stellplatz\n- Gemeinschaftsraum für Waschmaschine und Trockner\n- ebenerdiger Abstellraum für Fahrräder\n\nLage:\nDie Wohnung befindet sich in einer angebundenen Lage in Bocholt. Die Infrastruktur vor Ort deckt die täglichen Bedürfnisse ab und ermöglicht eine gute Erreichbarkeit der umliegenden Einrichtungen sowie eine solide Anbindung an das lokale Verkehrsnetz.\n\nEckdaten:\n- Wohnfläche: ca. 46 m²\n- Zimmer: 2\n- Etage: 1. Obergeschoss\n- Kaltmiete: 460 €\n- Nebenkosten: 110 € (ohne Heizkosten)\n- Gesamtmiete: 570 €\n- Stellplatz: 30 € zusätzlich\n- Kaution: 1.380 €\n- Frei ab: 01.02.2027\n- Haustiere: nach Vereinbarung\n\nEnergieausweis:\nVerbrauchsausweis, Endenergieverbrauch 125,03 kWh/(m²·a), Energieeffizienzklasse D, Energieträger Gas, Baujahr laut Energieausweis 1997",
+      "Czynsz z mediami (€)": 600.0,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Keller • Garage/Stellplatz • Haustiere erlaubt\n\nDie 2-Zimmer-Wohnung liegt im 1. Obergeschoss eines gepflegten Mehrfamilienhauses aus dem Jahr 1997 in 46395 Bocholt.\n\nMan betritt die Wohnung über eine kleine Diele, von der auch das Bad mit Fenster abgeht. Im Flur ist platzsparend die Küchenzeile untergebracht. Vom Flur gelangt man ins Wohnzimmer und in einen kleinen Raum mit Fenster, der sich als Schlafzimmer oder Arbeitszimmer eignet. Vom Wohnzimmer aus geht es direkt auf den großen Balkon.\n\nZur Wohnung gehört ein eigener Stellplatz. Für Waschmaschine und Trockner gibt es einen Gemeinschaftsraum im Haus. Fahrräder können in einem ebenerdigen Abstellraum untergestellt werden.\n\nDie Wohnung ist ideal für eine Person, die zentrumsnah wohnen möchte.\n\nAusstattung:\n- Bad mit Fenster\n- Küchenzeile\n- großer Balkon (Loggia)\n- teilmöbliert\n- Kunststofffenster mit Isolierverglasung\n- Gas-Zentralheizung\n- Böden: Laminat, Fliesen und PVC\n- eigener Stellplatz\n- Gemeinschaftsraum für Waschmaschine und Trockner\n- ebenerdiger Abstellraum für Fahrräder\n\nLage:\nDie Wohnung befindet sich in einer angebundenen Lage in Bocholt. Die Infrastruktur vor Ort deckt die täglichen Bedürfnisse ab und ermöglicht eine gute Erreichbarkeit der umliegenden Einrichtungen sowie eine solide Anbindung an das lokale Verkehrsnetz.\n\nEckdaten:\n- Wohnfläche: ca. 46 m²\n- Zimmer: 2\n- Etage: 1. Obergeschoss\n- Kaltmiete: 460 €\n- Nebenkosten: 110 € (ohne Heizkosten)\n- Gesamtmiete: 570 €\n- Stellplatz: 30 € zusätzlich\n- Kaution: 1.380 €\n- Frei ab: 01.02.2027\n- Haustiere: nach Vereinbarung\n\nEnergieausweis:\nVerbrauchsausweis, Endenergieverbrauch 125,03 kWh/(m²·a), Energieeffizienzklasse D, Energieträger Gas, Baujahr laut Energieausweis 1997",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-06T18:58:35.163504+00:00"
+      "PierwszyRaz": "2026-11-07T17:30:46.734483+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1798,39 +1830,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Sanierte 2-Zimmer Wohnung in bevorzugter Wohnlage",
-      "Cena (€)": 460.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 42.0,
-      "Lokalizacja": "46399 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 32,
-      "Odległość od 's-Heerenberg (km)": 23.4,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/sanierte-2-zimmer-wohnung-in-bevorzugter-wohnlage/3540992055-203-1851",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8ba9cb0-e47d-40ba-aadd-4d99cfec57ad?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8ba9cb0-e47d-40ba-aadd-4d99cfec57ad?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e1d72f31-425d-494e-8709-64d3002186fc?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/352781fb-b900-4fdf-86b7-d5f3380e3c52?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d7cb591-725a-4f29-b2fd-dbf425447b48?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/295c8a37-2d0e-46c6-a0b1-ae6a93a9b9b7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/979ecc9d-70fa-44c5-8a39-90f5005cc171?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/958e4282-f2da-4b5b-bbdf-b91d51b0aff4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/800d620d-99e1-44df-9972-ad9a816013d1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/714907e1-26cb-4680-a639-231c64d84628?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d85c2c9-8347-4ca7-916d-214832224754?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a750372-0574-426d-848c-09005bda7dd0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6ff7ccd4-e242-4d3b-b2cf-5adcac677f68?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 520.0,
-      "Opis": "Einbauküche • Badewanne • Keller\n\nZu vermieten ist eine 2-Zimmer-Wohnung im Hochparterre eines sanierten 3-Parteien-Altbaus in einer ruhigen Seitenstraße in bevorzugter Wohnlage. Die Wohnfläche beträgt ca. 42 m². Zur Ausstattung gehören eine Einbauküche aus dem Jahr 2024, steuerbare elektrische Rollos sowie eine Videotürsprechanlage. Das Gebäude wird über eine effiziente Wärmepumpe beheizt. Ein eigener, abschließbarer Kellerraum und zwei überdachte Fahrradstellplätze sind ebenfalls vorhanden. Im Waschkeller gibt es einen eigenen Wohnungsanschluss für Waschmaschine und Trockner sowie Platz zum Wäscheaufhängen.\n\nDie Wohnung befindet sich in einer zentralen und gehobenen Wohnlage von Bocholt.\n\nKosten:\n\nKaltmiete: 460€\nNebenkosten: 60€\nHeizkosten: nicht in den Nebenkosten enthalten\nGesamtmiete: 520€ (zzgl. Heizkosten)\nKaution: 1380€\n\nBausubstanz & Energieausweis\n\nObjektzustand: Saniert\nHeizungsart: Wärmepumpe\nWesentliche Energieträger: Strom\nEnergie­ausweistyp: Bedarfsausweis\nEndenergie­bedarf: 69,1 kWh/(m²*a)\nEnergie­effizienz­klasse: B\nBaujahr laut Energieausweis: 1899",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-14T23:45:44.567926+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Lichtdurchflutete Dachgeschosswohnung in beliebter Wohngegend",
       "Cena (€)": 465.0,
       "Pokoje": 2.0,
@@ -1861,39 +1860,6 @@
       "Opis": "Einbauküche\n\nHelle, lichtdurchflutete Dachgeschosswohnung in beliebter Wohngegend in Rhede.\nKaltmiete: 465€\nNebenkosten: 105€",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-04T19:27:41.733641+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "55 qm, 2,5 Zi.- Küche, Balkon, Voerde, 2. Etage, 01.01.27, privat",
-      "Cena (€)": 467.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 55.0,
-      "Lokalizacja": "46562 Voerde (Niederrhein)",
-      "Odległość (km)": 28.0,
-      "Czas dojazdu (min)": 37,
-      "Odległość od 's-Heerenberg (km)": 41.5,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/55-qm-2-5-zi-kueche-balkon-voerde-2-etage-01-01-27-privat/3548518272-203-1384",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/109c34f7-8e0d-4c75-825a-a1eff9353942?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/109c34f7-8e0d-4c75-825a-a1eff9353942?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcac9f76-8b44-4ee7-95d8-8ec2450c8752?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5469144-2cfd-4d77-b1dd-3e9b3686f3c9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/03c2a830-aac5-41d4-ae4c-8d80fd9562a8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0ff34743-20f4-47b6-9138-1984c8dac104?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6fdf3576-1142-41d1-9823-ff0cf91e07e7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d85cd45f-b020-4f2d-accb-fbae3a2fd112?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69545add-1509-421f-8b42-959f8d399e62?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/420e6c4f-f8fb-4a6f-bbf6-e0b10df438d1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e1/e17b3f36-bd35-447e-87d6-4eb575f4db09?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb590f28-5dc7-42ea-bf89-717c9caf1907?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d36498f-02d7-4fee-a510-ca81e775abd3?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 640.0,
-      "Opis": "Möbliert/Teilmöbliert • Balkon • Badewanne • Keller\n\nWohnen in einem gepflegten Wohnumfeld, ruhig und doch stadtnah.\n\n2,5 Zimmer Wohnung mit schönem Dachloggiabalkon, 55 qm, 2 Etage, in Voerde an der Dinslakener Str. ab dem 01.01.2027\nDie Wohnung verfügt über eine Küche, ein Tageslichtbad mit Wanne, ein Wohnzimmer, ein separates Schlafzimmer, einen kleinen Abstellraum sowie einen Dachloggiabalkon.\n\nKüche kann für ca. 700,00 Euro übernommen werden. Kein Muß.\n\nEs handelt sich um einen privaten Vermieter, der Ihnen als Ansprechpartner kompetent und zuverlässig zur Seite steht.\nDas Mietumfeld ist durchweg gepflegt.\n\nLage:\nDinslakener Str. 84 b\n46562 Voerde\nNahe Anbindung an das Stadtzentrum Voerde mit allen Einkaufsmöglichkeiten, Apotheken und Ärzten; Naherholungsgebiet Rheinaue und Wohnungswald Voerde befinden sich in der Nähe; Sehr gute Anbindung an die A3 und an den ÖPNV sowie Bahnhof Voerde.\n\nKosten:\n440,00 Euro Kaltmiete\n200,00 Euro Nebenkosten inl. Heizung ohne Strom\n640,00 Euro Warmmiete\n\nKaution: 900,00 Euro\n\nLeider keine Haustiere.\n\nBewerbung:\nbitte senden Sie uns bei Interesse an einem Besichtigungstermin folgende Informationen:\n1) Ihren vollständigen Namen\n2) Wieviel Personen\n3) Angaben zum Beruf\n4) Zeitangaben, wann Sie zur Besichtigung kommen können\n\nSpäter, falls Ihnen die Wohnung gefällt, benötigen wir:\n* eine ausgefüllte Mieterselbstauskunft\n* aktuelle Schufa Bonitätsauskunft, nicht älter als 3 Monate\n* letzte drei Gehaltsabrechnungen\n* Mietschuldenfreiheitsbescheinigung\n* Kopie Personalausweis Vorder und Rückseite\n\nEnergieausweis kann eingesehen werden.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-22T16:46:24.726198+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2057,6 +2023,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2 Zimmer Wohnung zu vermieten",
+      "Cena (€)": 494.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 52.0,
+      "Lokalizacja": "46485 Wesel",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 30,
+      "Odległość od 's-Heerenberg (km)": 36.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-zu-vermieten/3563996240-203-1866",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d392d5de-440f-4112-bd39-eeefb0e706c1?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d392d5de-440f-4112-bd39-eeefb0e706c1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2623f495-6158-48cd-aa4d-b1c700e8e1e0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3692e6e-9d92-4491-b8b3-0979cb976ecc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd9b8f33-ccc7-407b-bc98-14a869d38007?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21080ab2-cf52-4059-9e33-ea6d4adbeebd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5ef4ec1b-81df-4788-9dc3-71ab88616069?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7cce2afd-2f4e-40fe-99cc-929c55a15676?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6add50e-6b5c-459e-8841-0f28130490d3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cc/cc7b8ca4-99ec-4153-ab72-ba3a51436b6d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d392d5de-440f-4112-bd39-eeefb0e706c1?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2623f495-6158-48cd-aa4d-b1c700e8e1e0?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a3692e6e-9d92-4491-b8b3-0979cb976ecc?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Moderne 2-Zimmer-Wohnung mit Balkon & eigenem Garten in Wesel\n\nDie gepflegte, ca. 52 m² große Hochparterre-Wohnung befindet sich auf dem Gelände der ehemaligen Reitzensteinkaserne in Wesel. Sie ist der zweite Bezug nach einer umfassenden Renovierung und überzeugt durch einen durchdachten Grundriss sowie eine helle und freundliche Wohnatmosphäre.\n\nDie Wohnung im Überblick:\n\nDas großzügige Wohn- und Esszimmer mit offener Küche bildet das Herzstück der Wohnung. Hier finden Sie ausreichend Platz zum Wohnen, Entspannen und Wohlfühlen.\n\nDas separate Schlafzimmer bietet einen angenehmen Rückzugsort. Das Badezimmer ist mit einer Badewanne ausgestattet.\n\nEin besonderes Highlight ist der Balkon mit direktem Zugang zum eigenen Garten. Hier können Sie die Ruhe genießen, entspannen und schöne Stunden im Freien verbringen.\n\nLage und Umgebung:\n\nDie Wohnung befindet sich auf einem gepflegten Privatgelände mit viel Grün innerhalb der Anlage und einem privaten Spielplatz.\n\nDer Weseler Bahnhof sowie die Innenstadt sind in wenigen Minuten erreichbar.\n\nAusstattung:\n\n- Ca. 52 m² Wohnfläche\n- Hochparterre\n- Zweiter Bezug nach umfassender Renovierung\n- 2 Zimmer\n- Großzügiger Wohn- und Essbereich mit offener Küche\n- Separates Schlafzimmer\n- Badezimmer mit Badewanne\n- Balkon mit direktem Zugang zum eigenen Garten\n- Eigener, abgeschlossener Kellerraum\n- Außenstellplatz oder Tiefgaragenstellplatz auf Wunsch verfügbar\n- Haustiere sind willkommen\n- Gepflegtes Privatgelände mit viel Grün und Spielplatz\n- Ruhige und dennoch zentrale Lage\n- Gute Anbindung an den öffentlichen Nahverkehr\n\nIdeal für Singles und junge Paare\n\nDie Wohnung eignet sich hervorragend für Singles oder junge Paare, die auf der Suche nach ihrem ersten gemeinsamen Zuhause sind.\n\nAuch Haustiere sind herzlich willkommen!\n\nInteresse geweckt?\n\nDann freuen wir uns auf Ihre Nachricht! Gerne vereinbaren wir mit Ihnen einen persönlichen Besichtigungstermin.\n\nBesichtigungen sind nach Absprache jederzeit möglich.\n\nIn den Nebenkosten sind Heizkosten enthalten.\nDie Nebenkosten wurden auf Grundlage der letzten Mieterin erstellt.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-07T17:30:46.734483+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Wohnung in Goch nähe Bahn Hof",
       "Cena (€)": 500.0,
       "Pokoje": 2.0,
@@ -2086,38 +2085,6 @@
       "Opis": "Schöne Wohnung in Goch.\nErste Etage.\nStellplatz vor dem Haus.\nEvt Garage",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Wohnung im Dachgeschoss zu vermieten. WEG geeignet.",
-      "Cena (€)": 500.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "47169 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": 53.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-im-dachgeschoss-zu-vermieten-weg-geeignet-/3548131527-203-2146",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8b8aa527-8d6d-4c44-be51-9120e5f591d4?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/90/9037d510-44f0-4885-a3b6-4fe3abfbf586?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4decf07-bb24-4438-aeb6-5f5fb38d9478?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/261a37e5-ea29-4319-a54f-8ce93a09325a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13080232-1a4d-4df7-aaef-36e964152826?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab3787f8-32cf-4a28-8dcb-0639192a2618?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/57432d8f-24e8-48a0-a5ab-593efac12732?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ac/ac424f9e-8544-4e0f-ab03-d09826c37211?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da11fa8f-a1b1-419c-a556-a83341865ed7?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c80c0cb0-48ad-4b3f-a6b5-2b27ed6623f9?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85222bf7-2da9-4c4d-af52-cb548af84f72?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 700.0,
-      "Opis": "Badewanne • WG-geeignet\n\nBiete 2 Zimmer Wohnung im Dachgeschoss. WEG geeignet.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-25T10:52:34.090808+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2845,6 +2812,26 @@
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Frisch sanierte Wohnung mit eigenem Eingang",
+      "Cena (€)": 627.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 66.0,
+      "Lokalizacja": "46149 Oberhausen",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 56.2,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-wohnung-mit-eigenem-eingang/3561931519-203-1290",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cba08aee-3b94-48f3-9f92-c5af34e40629?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-06T18:58:35.163504+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
