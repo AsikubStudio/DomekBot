@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-07T21:31:30.914037+00:00",
-  "count": 106,
+  "generated_at": "2026-11-08T04:45:15.915238+00:00",
+  "count": 104,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-07T21:31:30.914037+00:00",
+      "last_updated": "2026-11-08T04:45:15.915238+00:00",
       "interval_hours": 3
     }
   },
@@ -1095,7 +1095,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/0292d9e8-3484-424b-a4be-d4e3fd18938e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04b1b4c9-a5b1-46b2-a29f-69c3f162d500?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cb3e4ee6-1f5c-4ed7-bd12-f54a711da5f6?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f349dd76-0ff4-458c-90a6-76ed1d41c404?rule=$_59.AUTO",
@@ -1128,7 +1128,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/klein-aber-fein-in-marxloh-/3561259497-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/373fb6eb-227a-4b42-ad49-e5ab9f7a3a21?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c39b74c-4989-45c5-bf17-062db67a64ac?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7cfe4562-0b7b-464d-90a5-e4bd2052b399?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67a1888c-4569-450c-8762-63316e57ce4d?rule=$_59.AUTO",
@@ -1318,7 +1318,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/346f0b65-d42a-422e-9236-32dc2144b736?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/145866f9-640c-4069-8d71-bb58ef3c37f5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1548,7 +1548,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d82f041-de12-4a70-a1f8-aa54b3d4d361?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/562bba80-443f-42e7-ab0f-946797ee3f4e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1581,7 +1581,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e0d8f51-18d2-4c02-9407-2db6ca90f4d2?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff9c7bc2-ab88-42a0-9065-8da11751d5a8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -2286,39 +2286,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Ein Platz zum Wohlfühlen! 2-Zimmer-Wohnung mit Gartenanteil in Bocholt",
-      "Cena (€)": 540.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 58.0,
-      "Lokalizacja": "46397 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": 28.7,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/ein-platz-zum-wohlfuehlen-2-zimmer-wohnung-mit-gartenanteil-in-bocholt/3563158702-203-1850",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bae64a24-8b79-40c6-8767-b73c41475df9?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/bae64a24-8b79-40c6-8767-b73c41475df9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/fe9b499e-8020-4c44-adc7-e9acc72b79f9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5d71b2f4-b199-462a-964a-2f48b298f99c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/160c7390-a34c-4dbb-ac58-39c52d241c8d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0b0e5bc-9e06-46ac-b7ad-ed13647daac0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82a823da-ddb1-4123-b80d-0c5a288db95e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a94110dc-4244-413b-9b70-d78d80ca4cc7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de89e19d-c3ae-4283-9429-4a45d3521850?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8fb8fce6-16b5-4a6f-8f26-f34f94910e5d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02511b8e-de7e-42e3-9f51-ffc380e874b1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/25/25fe7bc5-f6ba-4aff-8b4d-b6e0dd30616a?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/df/df4e8e37-d632-4cb8-84c0-5b1236b3b3bb?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 620.0,
-      "Opis": "Diese gepflegte 2-Zimmer-Wohnung befindet sich im 1. Obergeschoss eines soliden Mehrfamilienhauses in zentraler Wohnlage von Bocholt. Mit einer Wohnfläche von ca. 58 m² bietet sie eine durchdachte Raumaufteilung und eignet sich ideal für Singles oder Paare. Die Wohnung ist ab dem 01.02.2027 bezugsfrei.\n\nÜber den zentralen Flur gelangen Sie in alle Räume der Wohnung. Das helle Wohnzimmer überzeugt durch seine angenehme Größe und bietet ausreichend Platz für einen gemütlichen Wohnbereich. Große Fenster sorgen für eine freundliche Wohnatmosphäre.\n\nDas Schlafzimmer ist gut geschnitten und bietet genügend Raum für ein Doppelbett sowie einen Kleiderschrank. Die separate Küche bietet neben ausreichend Stellfläche auch Platz für einen Esstisch. Die vorhandene Einbauküche kann auf Wunsch vom bisherigen Mieter für 500 € übernommen werden.\n\nDas Badezimmer ist mit einer Badewanne ausgestattet und wurde vor wenigen Jahren modernisiert. Es präsentiert sich in einem gepflegten, zeitgemäßen Zustand.\n\nEin eigenes Gartenabteil gehört zur Wohnung und bietet zusätzlichen Freiraum im Grünen. Die Pflege erfolgt eigenständig durch den Mieter.\n\nDie Beheizung erfolgt über eine Gasheizung. Die Kosten für Strom und Heizung sind vom Mieter eigenständig anzumelden und direkt mit den Versorgern abzurechnen.\n\nDer Energieausweis ist in Vorbereitung und liegt zur Besichtigung vor.\n\n# Weitere Angaben\n- Verfügbar ab: nach Absprache\n\n- Hinweis zur Kaution: 2 Monatskaltmieten\n\n# Lagebeschreibung\nDie Immobilie befindet sich in zentraler und gewachsener Wohnlage von Bocholt. Einkaufsmöglichkeiten, Bäckereien, Apotheken sowie weitere Einrichtungen des täglichen Bedarfs sind in kurzer Zeit erreichbar.\n\nAuch die Innenstadt mit ihrem vielfältigen Angebot an Gastronomie, Einzelhandel und Dienstleistungen liegt nur wenige Minuten entfernt. Ergänzt wird die Lage durch nahegelegene Grünflächen, die zu Spaziergängen und Erholung im Freien einladen.\n\nEine gute Verkehrsanbindung in Richtung Rhede, Borken und in die Niederlande rundet die attraktive Lage ab.\n\n# Sonstiges\nWICHTIGER HINWEIS ZUR KONTAKTAUFNAHME:\n\nUm Ihre Anfrage schnell und effizient bearbeiten zu können, bitten wir Sie, sich ausschließlich schriftlich über das Kontaktformular mit uns in Verbindung zu setzen. Für eine vollständige Bearbeitung benötigen wir folgende Angaben:\n\n- Ihre vollständigen Kontaktdaten (Name, Anschrift, Telefonnummer).\n- Eine aktuelle Schufa-Auskunft.\n- Eine kurze Vorstellung von Ihnen, z. B. beruflicher Hintergrund und Haushaltsgröße.\n\n# Energie\n- Wesentliche Energieträger: GAS\n- Baujahr: 1932\n\nAnbieter-Objekt-ID: 7243",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-06T18:58:35.163504+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Kernsanierte 2-Zimmer-Wohnung in zentraler Lage",
       "Cena (€)": 550.0,
       "Pokoje": 2.0,
@@ -2812,26 +2779,6 @@
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Frisch sanierte Wohnung mit eigenem Eingang",
-      "Cena (€)": 627.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 66.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": 56.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-wohnung-mit-eigenem-eingang/3561931519-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cba08aee-3b94-48f3-9f92-c5af34e40629?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-06T18:58:35.163504+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
