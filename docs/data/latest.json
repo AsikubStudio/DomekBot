@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-08T04:45:15.915238+00:00",
-  "count": 104,
+  "generated_at": "2026-11-08T12:52:31.179293+00:00",
+  "count": 106,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-08T04:45:15.915238+00:00",
+      "last_updated": "2026-11-08T12:52:31.179293+00:00",
       "interval_hours": 3
     }
   },
@@ -996,7 +996,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-mit-gartennutzung-im-duisburg-roettgersbach-wbs/3564762272-203-23951",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6023d4a-2017-4053-88f3-f0bb33fd231c?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6023d4a-2017-4053-88f3-f0bb33fd231c?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6023d4a-2017-4053-88f3-f0bb33fd231c?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/efc3b0c8-8514-4707-ade5-60f1989882c2?rule=$_59.AUTO",
@@ -1048,6 +1048,33 @@
       "Opis": "Emmerich, ruhige Lage Nähe Zentrum, 2-Zimmer-Wohnung, davon ein Zimmer mit Wohnküche, Diele und Badezimmer, 46 qm, Erdgeschoss, teilweise möbliert, Balkon, Kellerraum, Mietbeginn ab sofort oder auch später möglich, Kaltmiete 345 €, Kaution 3 Kaltmieten. Nebenkosten 80 € pro Person. Gas + Strom separat.\n\nBei Interesse schreiben Sie mir bitte. Dabei bitte angeben:\nVorname und Nachname\nAlter\nTelefon-Nr.\nE-Mail-Adresse\nSuchen Sie für sich selbst oder für jemand anderen?\nWann soll ein Mietvertrag beginnen?\nWie viele Personen sollen einziehen?\nBeruflicher Status (bspw. Arbeitnehmer, Rentner)\nBei Arbeitnehmern: Befristeter oder unbefristeter Arbeitsvertrag? Seit wann dort beschäftigt? Ist der Arbeitsvertrag ungekündigt?",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T20:08:04.572950+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Charmante 2-Zimmer-Erdgeschosswohnung  im Zentrum von Uedem",
+      "Cena (€)": 350.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "47589 Uedem",
+      "Odległość (km)": 19.0,
+      "Czas dojazdu (min)": 34,
+      "Odległość od 's-Heerenberg (km)": 22.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-erdgeschosswohnung-im-zentrum-von-uedem/3553207560-203-1148",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a283e19f-48c3-4ff6-a22d-28d314d89b16?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a283e19f-48c3-4ff6-a22d-28d314d89b16?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/37635a76-664e-464d-8293-93d3c2aeafb3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f58f43f5-559d-4374-a51f-d534b399796a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c42afa9-c2a9-4800-aa3e-779eb65eb0fc?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6e865ac-7c88-49f5-aa91-85494798e6f1?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa6f86c2-2d00-4141-b982-a1facdda96b3?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 410.0,
+      "Opis": "Möbliert/Teilmöbliert\n\nCharmante 2-Zimmer-Erdgeschosswohnung im Zentrum von Uedem\n\nDiese ansprechende 2-Zimmer-Wohnung mit ca. 50 m² Wohnfläche steht ab dem 01.12.2026 zur Vermietung bereit und überzeugt durch modernen Wohnkomfort in zentraler Lage.\n\nDie Wohnung verfügt zudem über eine moderne Einbauküche sowie ein stilvoll ausgestattetes Badezimmer. Die durchdachte Raumaufteilung eignet sich hervorragend für Singles, Paare oder kleine Haushalte.\n\nDie zentrale Lage im Ortskern von Uedem ermöglicht eine hervorragende Infrastruktur – Einkaufsmöglichkeiten, Gastronomie sowie öffentliche Verkehrsanbindungen sind bequem fußläufig erreichbar.\n\nMietkonditionen:\n\nKaltmiete: 350 € / Monat\nNebenkosten: 60 € p. P. zzgl. Heizkosten (wird vom Mieter selbst übernommen)\nKaution: 700 € (2 Kaltmieten)\n\nSonstiges:\n\nPrimärer Energieträger: Gas\nEin aktueller Energieausweis befindet sich derzeit in Erstellung und wird zeitnah vorgelegt bzw. bei Besichtigung unaufgefordert zur Einsicht bereitgestellt.\n\nHinweise zum Bewerbungsverfahren:\nIm ersten Schritt werden ausschließlich schriftliche Anfragen berücksichtigt. Nach sorgfältiger Prüfung Ihrer Angaben setzen wir uns zeitnah mit Ihnen in Verbindung.\n\nIm weiteren Auswahlverfahren sind folgende Unterlagen vorzulegen:\n\nvollständig ausgefüllte Selbstauskunft\ndie letzten drei Gehaltsnachweise\neine aktuelle SCHUFA-Auskunft\n\nBitte haben Sie Verständnis, dass nur vollständige und aussagekräftige Anfragen im Auswahlprozess berücksichtigt werden können.\n\nAlle Angaben (und evtl. Anlagen) beruhen auf Informationen des Verkäufers bzw. Auftraggebers. Wir sind um Richtigkeit sowie bestmögliche Qualität bemüht, können hierfür jedoch keine Haftung übernehmen.\n\n- Hinweis zur Kaution: 700 EUR\n\n# Lagebeschreibung\nDie Immobilie befindet sich in Uedem. Dank der zentralen Wohnlage sind sämtliche Einrichtungen des täglichen Bedarfs schnell erreicht. Gleichzeitig ist Uedems grünes Umland binnen weniger Gehminuten erreichbar.\nDie kreisangehörige Gemeinde Uedem liegt mit ihren ca. 8.300 Einwohnern nahe der deutsch-niederländischen Grenze am unteren linken Niederrhein im Regierungsbezirk Düsseldorf. Auf dem Gemeindegebiet sind Bildungseinrichtungen von Ganztagskindertagesstätten und Grundschule vorhanden. Zu den zahlreichen weiterführenden Schulen in der Nachbarstadt bestehen gute Busverbindungen. Zahlreiche Einkaufs- und Freizeitangebote innerhalb von 30 Autominuten lassen kaum noch Wünsche offen.\nUmgeben ist die Gemeinde Uedem von Bedburg-Hau und Kalkar im Norden, Xanten und Sonsbeck im Osten, Kevelaer im Süden sowie Goch und Weeze im Westen.\nDer Kreis Kleve beheimatet mehr als 310.000 Einwohner und erstreckt sich von Emmerich am Rhein im Norden entlang der deutsch-niederländischen Grenze im Westen bis nach Wachtendonk im Süden. Neben den ihn durchquerenden Bundesautobahnen A3 (Arnhem/Köln), A40 (Venlo/Dortmund) und A57 (Nijmegen/Köln) verfügt der Kreis durch das Rhein-Waal-Terminal in Emmerich am Rhein sowohl über schiffs- als schienengebundene Anschlüsse an die internationalen Absatz- und Beschaffungsmärkte. Ergänzend hierzu bieten die in Emmerich passierende EC-Strecke Amsterdam-Köln sowie der Airport Niederrhein in Weeze Anbindung an viele internationale Reiseziele.\n\n# Sonstiges\nVerpassen Sie keine Immobilie mehr!\nUnser komplettes Immobilienangebot finden Sie immer zuerst auf www.remax.de/goch\nGerne helfen wir Ihnen auch beim Verkauf oder der Vermietung Ihrer Immobilie.\nKarriere bei REMAX?\nInfos: www.remax.de/karriere\n\n# Energie\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1051-362-1000-349SK",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-26T20:21:29.237633+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1318,7 +1345,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/145866f9-640c-4069-8d71-bb58ef3c37f5?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5fe24db8-7de0-47c6-90c9-6d35b6e42c3a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1384,7 +1411,7 @@
       "Łazienka": "?",
       "Kuchnia": "tak",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zi-souterrain/3559082557-203-1867",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42545fa4-9522-4f4d-9d31-c20175d5c820?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4b8e260-2a44-4256-bee2-e44f2ad4363a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42545fa4-9522-4f4d-9d31-c20175d5c820?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/7044fa46-6086-421a-82e6-299e4b074b30?rule=$_59.AUTO",
@@ -1548,7 +1575,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/562bba80-443f-42e7-ab0f-946797ee3f4e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93526328-c40c-4ef0-bef4-1a8c204998aa?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1581,7 +1608,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ff9c7bc2-ab88-42a0-9065-8da11751d5a8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/ef82bb96-31f4-43e5-a30f-ed0cf8d72359?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1959,38 +1986,6 @@
       "Opis": "Möbliert/Teilmöbliert • Balkon • Badewanne • Altbau • Keller\n\nHallo,\n\nich suche einen Nachmieter für meine Wohnung in Wesel Zentrum (siehe Bilder), der teilweise meine Einrichtung übernimmt. Die Wohnung ist frisch gestrichen und der Boden ist neu verlegt.\n\nVoraussetzung ist die Übernahme des Bodens und der Leisten.\n\nFalls Gewünscht können Sie auch andere Einrichtungsgegenstände übernehmen ( wie z.B. Lampen, Badspiegel, Schrank und die Couch)\n\nBei Interesse einfach bei mir melden.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-25T20:28:53.977263+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Helle Dachgeschosswohnung in Hünxe – 2 Zimmer, 54 m²",
-      "Cena (€)": 480.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "46569 Hünxe",
-      "Odległość (km)": 29.0,
-      "Czas dojazdu (min)": 28,
-      "Odległość od 's-Heerenberg (km)": 44.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-dachgeschosswohnung-in-huenxe-2-zimmer-54-m-/3549577131-203-1383",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1cbb401-3abe-480d-b6e5-b89c22bfef41?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1cbb401-3abe-480d-b6e5-b89c22bfef41?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8b/8bd3a9bd-7a30-4b4e-b7ad-b8259cca0220?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/864da77b-53ab-4800-8994-8f0e57ae5f0c?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb68fb5a-1f80-41d2-92b4-8980bea394a0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5b5ea2f-2e3c-4fcd-9eac-8b9ce7295ea6?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6423382-062b-4234-95f4-c6e8b6d25f47?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d30adbad-75a7-4537-9c61-2fb4ae40ee1a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0c0da37-b3c1-404f-9b77-c0cf560280a6?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b9907565-5adf-4eaf-93c7-ee10d4f8447f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/eceba79d-2e77-4baf-be6c-957599038421?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/058089a0-c3ed-4c16-8f05-3761af1dde74?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Ab dem 01.02.2027 wird eine Dachgeschosswohnung in Hünxe frei.\n\nWohnungsdetails:\n\nWohnfläche: ca. 54 m²\n\nLage: 2. Obergeschoss (Dachgeschoss)\n\n-2 Zimmer\n-Wohnküche inklusive Küchenzeile\n-Badezimmer\n-Flur\n-Zusätzlicher Raum gegenüberliegend der Wohnung\n-Kein Keller vorhanden\n-Stellplatz\n\nMietkosten pro Monat:\nKaltmiete: 350 €\nStellplatz: 30 €\nNebenkostenvorauszahlung: 100 €\n\nGesamtmiete: 480 € monatlich inklusive Stellplatz und Nebenkosten.\n\nKaution: 2 Monatskaltmieten = 700 €\n\nDie Wohnung eignet sich ideal für Singles oder Paare, die eine gemütliche Wohnung in Hünxe suchen.\n\nBei Interesse oder weiteren Fragen gerne melden.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-23T16:35:36.547913+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2782,6 +2777,26 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Frisch sanierte Wohnung mit eigenem Eingang",
+      "Cena (€)": 627.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 66.0,
+      "Lokalizacja": "46149 Oberhausen",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 56.2,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-wohnung-mit-eigenem-eingang/3561931519-203-1290",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cba08aee-3b94-48f3-9f92-c5af34e40629?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-06T18:58:35.163504+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "2,5 Zimmer Wohnung 1.OG möbliert Dinslaken Bruch",
       "Cena (€)": 630.0,
       "Pokoje": 2.0,
@@ -2972,6 +2987,39 @@
       "Opis": "Einbauküche • Altbau\n\nDachgeschosswohnung – 2 Zimmer, 48 m²\n\nAb dem 01.10.2026 ist eine gemütliche Dachgeschosswohnung im 2. Obergeschoss zu vermieten.\n\n* 2 Zimmer\n* ca. 48 m² Wohnfläche\n* Dusche\n* Single-Küche\n* frei ab 01.10.2026\n\nBei Interesse oder für weitere Informationen gerne melden.\n\nWeitere Angaben:\nKaltmiete: 650€\nNebenkosten: 75€\nWarmmiete: 75€\nKaution: 1000€\nAdresse/Ort: Emmerich am Rhein",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-01T19:25:38.453519+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Voll möblierte Wohnung im Herzen von Duisburg-Neumühl",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 35.0,
+      "Lokalizacja": "47167 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": 56.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/voll-moeblierte-wohnung-im-herzen-von-duisburg-neumuehl/3565015693-203-2145",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76c5efb7-0862-41e0-9245-61c3803f5a1b?rule=$_1.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76c5efb7-0862-41e0-9245-61c3803f5a1b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca541ce9-4e4d-4fd7-81ed-d57bb0e5ba05?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/7239e539-34c0-4861-894b-a46d10ebb372?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11ee99c0-a422-4e17-8693-9203c33fb0af?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/00317f4f-2295-4b3c-8115-5a4529bc29fb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61513ca5-1a04-4459-b675-ed616cef2619?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5ff19a78-2c63-440b-9110-0393d0c9e0ea?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ac21609-f107-443f-9492-81dff823bc1a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3f4e6052-20ea-45cb-bc95-fdf5ec49bc8b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ee0e25f-5adf-473a-ad42-ecc6eaf9b3a1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/322cc47a-d5d4-4bd4-a42e-a2400443599c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9433d69-6e50-4a75-9f1b-6df6bb17bfa5?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 650.0,
+      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Badewanne • Altbau\n\nVoll möblierte Wohnung im Herzen von Duisburg-Neumühl zu vermieten\n\nAdresse: Zentrum von Duisburg-Neumühl – direkt an der Einkaufsstraße\nHoltener Str. in 47167 Duisburg\nWohnfläche: 35m²\n2 Zimmer Küche Diele Bad\nNettomiete € 500,00 / Betriebs und Heizkostenvorrauszahlung € 150,00 Gesamtmiete € 650,00.\nStromkosten werden über einen eigenen Zähler abgerechnet.\nTelefondose zum Anschluss einer Fritz-Box ist in der Wohnung vorhanden.\nDie Wohnung ist nur für 1 Person geeignet.\n\nHighlights der Wohnung:\n\nVollständig möbliert – einziehen und wohlfühlen!\n\nModerne neue Einbauküche mit allen wichtigen Geräten\n\nNeues Schlafzimmer mit komfortablem Bett und Stauraum\n\nNeue gemütliche Couch im Wohnbereich\n\nBad mit Badewanne & Duschabtrennung\n\nWaschmaschine in der Wohnung vorhanden – kein Gang in den Waschsalon nötig!\n\nStellplatz auf Wunsch zusätzlich anmietbar (Euro 30,00)\n\nLage:\nDie Wohnung befindet sich im Zentrum von Duisburg-Neumühl, direkt an der belebten Einkaufsstraße mit allen Geschäften des täglichen Bedarfs, Cafés, Apotheken und ÖPNV-Anbindung in direkter Nähe.\n\nAlle Angaben ohne Gewähr. Irrtümer, Änderungen und Zwischenvermietung vorbehalten.\n\nDie Wohnung wird privat vermietet. Makleranfragen sind nicht erwünscht.\n\nBesichtigungstermine nur nach vorheriger Absprache.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-08T12:52:31.177799+00:00"
     }
   ]
 }
