@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-08T12:52:31.179293+00:00",
-  "count": 106,
+  "generated_at": "2026-11-08T19:23:34.593496+00:00",
+  "count": 105,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-08T12:52:31.179293+00:00",
+      "last_updated": "2026-11-08T19:23:34.593496+00:00",
       "interval_hours": 3
     }
   },
@@ -1345,7 +1345,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5f/5fe24db8-7de0-47c6-90c9-6d35b6e42c3a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9d921d3-aa8a-4699-ade4-6600e01d3435?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1564,6 +1564,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Geräumige 2 Zimmer Wohnung in Duisburg-Marxloh",
+      "Cena (€)": 440.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 67.0,
+      "Lokalizacja": "47169 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": 53.7,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/geraeumige-2-zimmer-wohnung-in-duisburg-marxloh/3565722507-203-2146",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c1c229cf-c5b6-4d64-98d9-902e383cdf52?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c1c229cf-c5b6-4d64-98d9-902e383cdf52?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be3ba3a7-ffdc-46f8-8d45-7a31ff07c954?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ef6312e-62cc-4412-9d74-53f81dd936f0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23ab2298-9c93-400d-b93c-01ab18365f12?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e96050f9-57f7-4be1-ab1c-3a6ee14ff0e5?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8af2f8a0-9d98-4097-9857-050594fabb96?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d02d4c8-f124-4dfe-84ca-cba219598d77?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d4f600c-ed1a-45d3-88d1-705922e0c224?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38bf1a91-94d0-43ae-8495-f0cc2821211c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81287964-289c-411b-8895-6806a29ac7cb?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98998413-8346-4558-9d0e-68db0fb5df39?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c35e2e2-ce3a-48fb-af62-4c823ec90b55?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 620.0,
+      "Opis": "Badewanne • Keller • Dachboden\n\nVermietet wird eine 2 Zimmerwohnung. Die Wohnung verfügt über ein Wohnzimmer, ein Schlafzimmer, Badezimmer mit Badewanne und eine Küche (Ausstattung der Küche und Wohnzimmer kann vom Vormieter übernommen werden). Ebenso gehört zur Wohnung ein abschließbares Kellerabteil.\nStrom und Gas laufen über einen externen Anbieter.\nDie angegebenen Nebenkosten sind für eine Person gültig. Bei zwei Personen wird der Wasserverbrauch entsprechend angepasst.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-08T19:23:34.590854+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Nicht lange zögern – anfragen!  / Don't hesitate – get in touch!",
       "Cena (€)": 440.0,
       "Pokoje": 2.0,
@@ -1575,7 +1608,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93526328-c40c-4ef0-bef4-1a8c204998aa?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/146ffbf1-cbf9-49f5-adc2-8404152a20d5?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1608,7 +1641,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/ef82bb96-31f4-43e5-a30f-ed0cf8d72359?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8fcd3e0-a26a-484b-a339-7ca8db957b72?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1759,35 +1792,6 @@
       "Opis": "Helle und renovierte 2-Zimmer-Wohnung mit Stellplatz in ruhiger, ländlicher Lage zu vermieten\n\nZur Vermietung steht eine großzügige und frisch renovierte 2-Zimmer-Wohnung mit ca. 60 m² Wohnfläche in ruhiger, ländlicher Umgebung.\n\nDie Wohnung befindet sich im 2. Dachgeschoss eines gepflegten Hauses und überzeugt durch eine angenehme Wohnatmosphäre sowie eine helle und freundliche Raumgestaltung.\n\nDie Wohnung verfügt über:\n\n- einen großzügigen und hellen Wohnbereich mit integrierter Küche\n- ein separates Schlafzimmer\n- ein Badezimmer\n- einen ausreichend großen, praktischen Abstellraum\n- einen eigenen Stellplatz direkt vor dem Hauseingang\n\nDie Wohnung befindet sich in einem frisch renovierten und gepflegten Zustand. Auch die Zentralheizung wurde erneuert.\n\nEin eigener Stellplatz unmittelbar vor dem Hauseingang ist bereits im Mietangebot enthalten.\n\nMietkonditionen\n\n- Kaltmiete: 450 €\n- Strompauschale: 80 €\n- Nebenkostenvorauszahlung: 50 €\n- Heizkostenvorauszahlung: 70 €\n\nMonatliche Gesamtmiete: 650 €\n\nKaution: 1.350 €\n\nMietbeginn: ab sofort\n\nInteresse an der Wohnung?\n\nWenn Sie Interesse haben, freue ich mich über eine kurze Nachricht mit folgenden Angaben:\n\n- Wie viele Personen möchten einziehen?\n- Welche berufliche Tätigkeit üben Sie aus?\n- Haben Sie Haustiere? Wenn ja, welche?\n\nNach Erhalt Ihrer Nachricht können wir gerne einen Besichtigungstermin vereinbaren.\n\nBei Interesse können Sie mich gerne per WhatsApp unter 0157 30830819 kontaktieren.\n\nIch freue mich auf Ihre Nachricht!\n\nHerzliche Grüße Halima Izcikilic\n\nHalima Izcikilic",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-07T00:40:46.784029+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Erstbezug! Moderne 2-Zimmer-Whg in DU-Walsum",
-      "Cena (€)": 450.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.33,
-      "Lokalizacja": "47179 Walsum",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": 51.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/erstbezug-moderne-2-zimmer-whg-in-du-walsum/3393305335-203-2143",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6423382-062b-4234-95f4-c6e8b6d25f47?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6423382-062b-4234-95f4-c6e8b6d25f47?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5ce9eef-fe1a-4272-b6a9-0204d603dec8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/5642d410-bd5f-40a8-a205-f752fd0f7832?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/18e27cb5-56dd-4d62-90b9-0adb116b39ad?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25b83ecc-a1da-4ab0-8a10-8cfcb02ddc62?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f10cecb0-21cb-47cf-9d25-60e55e065902?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09c0a282-c1f6-4e7c-aac4-568d0ff0632b?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/42a5032e-6c06-4dfe-88c3-5608582d788a?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 645.0,
-      "Opis": "Bei der angebotene Immobilie handelt es sich um eine moderne 2-Zimmer-Wohnung im 3. Obergeschoss eines gepflegten Mehrfamilienhauses in Duisburg-Walsum. Besonders hervorzuheben ist die moderne Ausstattung, die ein angenehmes Wohnambiente schafft. Die Diele bildet das Herz der Einheit und gewährt Ihnen Zugang zu allen Räumlichkeiten. Das großzügig geschnittene Wohnzimmer bietet Ihnen viel Platz für eine Sofaecke, sowie einen Essbereich. Angrenzend befindet sich die Küche, die mit einem weißen Fliesenspiegel ausgestattet ist. Das Tageslichtbad ist mit großen Fliesen in weiß und anthrazit gestaltet und verfügt über eine Dusche. Zudem befindet sich hier der Anschluss für eine Waschmaschine. Angerundet wird die Wohnung durch dem Schlafzimmer.\nInsgesamt die ideale Immobilie für Singles oder Paare!\n\n# Ausstattung\n- moderne Ausstattung\n- gepflegtes Mehrfamilienhaus\n- Dachgeschoss ohne Aufzug\n- helle Räumlichkeiten\n- Tageslichtbad mit Dusche\n- zeitlose Bodenbeläge\n\n# Weitere Angaben\n- Verfügbar ab: 2026-08-01\n- Objektzustand: Erstbezug\n\n- Hinweis zur Kaution: 3 Kaltmieten Kaution\n\n# Lagebeschreibung\nDuisburg ist die westlichste Großstadt des Ruhrgebietes und mit knapp 496.000 Einwohnern die 15-größte Stadt. Die Stadt liegt im Knotenpunkt eines dichten überregionalen Autobahn-, Schienen- und\nWasserwegenetzes, die sie an das Ruhrgebiet, den größten industriellen Ballungsraum Europas, anbindet. Der Stadtteil Walsum grenzt an den Rhein und die Nachbarbezirke Altenrade und Hamborn. Das Objekt befindet sich in einem ruhigen Wohngebiet. Supermärkte, Banken, Cafés usw. sind im Umfeld bequem zu erreichen.\n\n# Sonstiges\nAnsprechpartner: Frau Denise Wolniczak\nE-Mail Kontakt: vertrieb@dahlheim-immobiliengruppe.de\nTelefonnummer: 0211 3679799999\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: Gas\n- Endenergiebedarf: 148.6 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Ausstellungsdatum: 28.02.2025\n- Gültig bis: 2035-02-27\n- Baujahr (gemäß Energieausweis): 1978\n- Letzte Modernisierung: 2026\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: W10-WE8",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-24T12:30:50.794630+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2374,38 +2378,6 @@
       "Opis": "Bei der angebotene Immobilie handelt es sich um eine moderne 2-Zimmer-Wohnung im 3. Obergeschoss eines gepflegten Mehrfamilienhauses in Duisburg-Walsum. Besonders hervorzuheben ist die moderne Ausstattung, die ein angenehmes Wohnambiente schafft. Die Diele bildet das Herz der Einheit und gewährt Ihnen Zugang zu allen Räumlichkeiten. Das lichtdurchflutete Wohnzimmer überzeugt mit viel Platz für eine gemütliche Fernsehecke sowie einen Essbereich. Die offene Küche ergänzt das Raumkonzept und schafft eine angenehme Verbindung von Wohnen und Kochen. Das Tageslichtbad ist mit großen Fliesen in weiß und anthrazit gestaltet und verfügt über eine Dusche. Zudem befindet sich hier der Anschluss für eine Waschmaschine. Abgerundet wird die Wohnung durch dem Schlafzimmer.\nInsgesamt die ideale Immobilie für Singles oder Paare!\n\n# Ausstattung\n- ruhige Lage\n- saniert\n- gepflegtes Mehrfamilienhaus\n- Tageslichtbad mit Dusche\n- offenes Wohn-Koch-Konzept\n- viel Tageslicht\n- Dachgeschoss ohne Aufzug\n\n# Weitere Angaben\n- Verfügbar ab: 2026-08-01\n\n- Hinweis zur Kaution: 3 Kaltmieten Kaution\n\n# Lagebeschreibung\nDuisburg ist die westlichste Großstadt des Ruhrgebietes und mit knapp 496.000 Einwohnern die 15-größte Stadt. Die Stadt liegt im Knotenpunkt eines dichten überregionalen Autobahn-, Schienen- und\nWasserwegenetzes, die sie an das Ruhrgebiet, den größten industriellen Ballungsraum Europas, anbindet. Der Stadtteil Walsum grenzt an den Rhein und die Nachbarbezirke Altenrade und Hamborn. Das Objekt befindet sich in einem ruhigen Wohngebiet. Supermärkte, Banken, Cafés usw. sind im Umfeld bequem zu erreichen.\n\n# Sonstiges\nAnsprechpartner: Frau Denise Wolniczak\nE-Mail Kontakt: vertrieb@dahlheim-immobiliengruppe.de\nTelefonnummer: 0211 3679799999\n\n# Energie\n- Letzte Modernisierung: 2026\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: W8-WE8",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-24T18:30:33.347270+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Stadtwohnung am Geistmarkt mit 2 Balkons",
-      "Cena (€)": 554.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 66.0,
-      "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 0.4,
-      "Czas dojazdu (min)": 0,
-      "Odległość od 's-Heerenberg (km)": 2.9,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/stadtwohnung-am-geistmarkt-mit-2-balkons/3562171004-203-1396",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c15620ad-1d72-4b71-910a-d38badb23d21?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c15620ad-1d72-4b71-910a-d38badb23d21?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5ed936ff-5fc2-4412-a40f-8b7482f87077?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b98c21d-9c68-417e-80d0-f8f18fa27342?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5f5ef9d-6811-46c0-a657-7a19e1f0529d?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68153b4a-5bce-4adc-b3b5-1a381d2b4ca2?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/422aa58d-c691-40ed-b30e-77ebb25d8374?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ec8d3b3-7485-452a-85ba-a3e458c4049d?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/273f81de-182e-4cf5-a736-2f48968f99cc?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/8998b2e1-39cd-4da8-8c30-3709cf5af7b5?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6892410-069c-44fb-8d93-6907a01057d9?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 689.0,
-      "Opis": "Balkon • Badewanne • Altbau • Keller • Garage/Stellplatz\n\nschöne, moderne 2 Zimmer Etagen-Wohnung am Geistmarkt\nmit 2 Balkons",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-05T10:26:32.682864+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -3001,7 +2973,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/voll-moeblierte-wohnung-im-herzen-von-duisburg-neumuehl/3565015693-203-2145",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76c5efb7-0862-41e0-9245-61c3803f5a1b?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76c5efb7-0862-41e0-9245-61c3803f5a1b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76c5efb7-0862-41e0-9245-61c3803f5a1b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca541ce9-4e4d-4fd7-81ed-d57bb0e5ba05?rule=$_59.AUTO",
