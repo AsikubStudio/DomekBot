@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-09T22:00:36.970448+00:00",
-  "count": 104,
+  "generated_at": "2026-11-10T06:10:32.853910+00:00",
+  "count": 105,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-09T22:00:36.970448+00:00",
+      "last_updated": "2026-11-10T06:10:32.853910+00:00",
       "interval_hours": 3
     }
   },
@@ -1095,7 +1095,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/klein-aber-fein-in-marxloh-/3561259497-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f5ca87a-1fef-4110-b8c2-5294c520b34a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/73f64d32-c2c6-4c29-8ecc-1fbceacc6491?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7cfe4562-0b7b-464d-90a5-e4bd2052b399?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67a1888c-4569-450c-8762-63316e57ce4d?rule=$_59.AUTO",
@@ -1252,7 +1252,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25194cd0-10c6-48c2-bdd7-779f279b2ca3?rule=$_1.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1318,7 +1318,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce24d6b1-026a-4626-9063-1d5271655655?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/8648f36d-3e0b-4f15-97a6-2ef4248d4b17?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1403,6 +1403,34 @@
       "Opis": "Badewanne • Altbau • Keller • Garten/-mitnutzung\n\nWir vermieten eine Wohnung in Rees. Die Kündigungsfrist der Vormieterin ist der 31.01.2027, bezugsfrei wird die Wohnung bereits zum 01.12.2026.\nKaltmiete 400€\nNebenkosten 130€\nKaution 1200€\n\nHundehaltung ist vom Vermieter nicht erwünscht.\n\nBei Fragen senden Sie mir gern eine Nachricht.\n\nUm einen Besichtigungstermin zu vereinbaren, benötige ich vorab die folgenden Angaben. (Ich bitte da um Verständnis, da ich nicht 150 Besichtigungen durchführen kann und daher eine Vorauswahl treffen muss)\n\nName\nAlter\nBerufsstand (wer zahlt die Miete)\nAnzahl der Mieter\nGewünschtes Einzugsdatum\n\nDie Vorlage einer Schufaauskunft ist gern gesehen.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-05T10:26:32.682864+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Schicke 2 Zimmer mit Balkon, 3. OG, NEU RENOVIERT, OB-Holten, Holtener Marktplatz 2",
+      "Cena (€)": 400.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 64.0,
+      "Lokalizacja": "46147 Oberhausen",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 37,
+      "Odległość od 's-Heerenberg (km)": 53.9,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schicke-2-zimmer-mit-balkon-3-og-neu-renoviert-ob-holten-holtener-marktplatz-2/3567157691-203-1291",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f55fbc2-cf37-4386-b5a5-50de6b46237c?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f55fbc2-cf37-4386-b5a5-50de6b46237c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e1e3462-d6fa-4c76-b785-094342c6302a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e5a863a-d4a3-4958-9a80-c4c27fefd66a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/ab/ab0dc569-da25-4971-afed-f14d1e8c5b6c?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af3c7020-24d9-4ecd-b8f6-d7c8a9fb141c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14a44927-9c98-4437-8687-6b4076654e19?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e7a7fa4-02c1-4d41-8a4f-d45ba0d17f05?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 650.0,
+      "Opis": "Gepflegtes Mehrfamilienhaus mit netten Nacharn.\nIm Zentrum von OB-Holten, direkt am Marktplatz, öffentliche Verkehrsmittel und Einkaufmöglichkeiten in unmittelbarer Nähe. Ruhige aber zentrale Lage.\n\n# Ausstattung\nLaminat, Rf-weiss, Balkon\n\n# Weitere Angaben\n- Verfügbar ab: 25.11.2026\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.200,00 €\n\n- Nutzfläche: ca. 64 m²\n\n# Lagebeschreibung\nOberhausen ist Teil des Regierungsbezirks Düsseldorf von Nordrhein-Westfalen und gehört zum Regionalverband Ruhr. Heute bilden Einkaufs- und Freizeiteinrichtungen einen Schwerpunkt der Wirtschaft; Einkaufscenter, Freizeitpark, Museen, Theater und andere Attraktionen haben jedes Jahr Millionen Besucher.\n\n# Sonstiges\nFinden Sie Ihr neues Zuhause unter www.tag-wohnen.de und vereinbaren Sie Ihren persönlichen Besichtigungstermin. Wir freuen uns auf Ihre Anfrage.\nProfitieren Sie als TAG Wohnen-Mieter von unseren Partnerangeboten und sichern Sie sich viele Sonderrabatte und günstige Konditionen u.a. in den Bereichen Unterhaltung, Umzug, Ernährung und Mobilität.\nStrom und Gas von lekker Energie – Sichern Sie sich Ihren exklusiven TAG Wohnen-Bonus unter www.lekker.de/kunden/tag-wohnen\nSichern Sie sich zudem einen entspannten Umzug mit unserem Partner Transporo und einem 10% Rabatt über folgenden Link: www.transporo.de/tag\nAlle Angaben in diesem Exposé wurden sorgfältig getätigt. Fehlerhafte Angaben können nicht ausgeschlossen werden, daher sind die Angaben ohne Gewähr. Maßgeblich sind die im Mietvertrag geschlossenen Vereinbarungen.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 129.9 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Baujahr: 1959\n- Letzte Modernisierung: 2026\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1018/14668/1008",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-10T06:10:32.851569+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1548,7 +1576,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nicht-lange-zoegern-anfragen-don-t-hesitate-get-in-touch-/3559429325-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7d942a2-fa12-4354-a6ae-3b9bcd6b0bd8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e0498664-ce16-4f92-bedf-6c2bb7d2041b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1586d841-132e-42dd-93e1-aeb2dd08ff79?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5cf4ea0-bc6a-4f14-a8e5-6474a7b8e7be?rule=$_59.AUTO",
@@ -1581,7 +1609,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/modern-hell-sofort-verfuegbar-modern-bright-available-immediately-/3495516115-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/993785ce-8745-43c2-b816-584c89251ab8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13291a8c-764d-4681-8ea2-bf78c993433d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25e9e3ec-979e-417c-9965-22a6ffd060e9?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb09dd02-bd35-4a42-8ebd-b404b271c8a3?rule=$_59.AUTO",
@@ -1917,26 +1945,6 @@
       "Opis": "Möbliert/Teilmöbliert • Balkon • Badewanne • Altbau • Keller\n\nHallo,\n\nich suche einen Nachmieter für meine Wohnung in Wesel Zentrum (siehe Bilder), der teilweise meine Einrichtung übernimmt. Die Wohnung ist frisch gestrichen und der Boden ist neu verlegt.\n\nVoraussetzung ist die Übernahme des Bodens und der Leisten.\n\nFalls Gewünscht können Sie auch andere Einrichtungsgegenstände übernehmen ( wie z.B. Lampen, Badspiegel, Schrank und die Couch)\n\nBei Interesse einfach bei mir melden.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-25T20:28:53.977263+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Helle Dachgeschosswohnung in Hünxe – 2 Zimmer, 54 m²",
-      "Cena (€)": 480.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 54.0,
-      "Lokalizacja": "46569 Hünxe",
-      "Odległość (km)": 29.0,
-      "Czas dojazdu (min)": 28,
-      "Odległość od 's-Heerenberg (km)": 44.2,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-dachgeschosswohnung-in-huenxe-2-zimmer-54-m-/3549577131-203-1383",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a1/a1cbb401-3abe-480d-b6e5-b89c22bfef41?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-23T16:35:36.547913+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2490,6 +2498,39 @@
       "Opis": "Gäste WC • Fußbodenheizung • Altbau • Keller\n\nDie Zwei-Zimmer Wohnung befindet sich im 2.OG vorne (ohne Balkon) Sie liegt zentral in Wesel, fußläufig ist der Bahnhof und die Innenstadt erreichbar. Ein Kellerraum steht zur Verfügung, Haustiere sind nicht erlaubt.\nSchufa Auskunft und Gehaltsnachweise sind vor dem Besichtigungstermin vorzuzeigen.\n\nNetto Kaltmiete 570€\nNeben u. Betriebskosten 100€\nHeizkosten 125€\nStromkosten 50€\nGesamt im Monat 845€",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-07T21:31:30.912294+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Nachmieter gesucht Goch-Pfalzdorf!",
+      "Cena (€)": 578.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 63.0,
+      "Lokalizacja": "47574 Goch",
+      "Odległość (km)": 14.0,
+      "Czas dojazdu (min)": 33,
+      "Odległość od 's-Heerenberg (km)": 21.8,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-goch-pfalzdorf-/3567137422-203-1147",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04ccb5f7-9ecd-4a82-a8d1-56a89f9d6cd8?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/5528b868-ea94-42ed-bd7f-1c53ddbeacc1?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4f4153df-9d45-4762-b199-ef1e70f6d7bb?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b98c21d-9c68-417e-80d0-f8f18fa27342?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d100555f-8ef1-4d34-8a85-a70e3a96ae1e?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/422aa58d-c691-40ed-b30e-77ebb25d8374?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/68153b4a-5bce-4adc-b3b5-1a381d2b4ca2?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4966dfb1-453d-4945-83e4-23d52589d55e?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ec0fd78-fb20-4da5-abf7-716b23dbf35d?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8aab2ac-4e09-4d04-8df6-03da0ef6ffe6?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ffc04764-5772-45b6-a3dc-72863f37545a?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b22251d0-978c-43b7-9207-2f725961ae57?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Nachmieter gesucht – Wohnung in Goch-Pfalzdorf ab 01.01.2027\n\nDa ich ins Ausland ziehe, suche ich zum 01.01.2027 einen zuverlässigen Nachmieter für meine Wohnung in 47574 Goch-Pfalzdorf.\n\nEckdaten zur Wohnung:\n\n* Standort: 47574 Goch-Pfalzdorf\n* Verfügbar ab: 01.01.2027\n* Warmmiete: 578,24 € monatlich\n* Wohnzimmer\n* Schlafzimmer\n* Küche\n* Badezimmer\n* Flur\n* großer Balkon\n* Separater Waschraum\n\nBenötigte Bewerbungsunterlagen:\n\n* Mieterselbstauskunft\n* Aktuelle SCHUFA-Bonitätsauskunft\n* Letzte 3 Gehaltsnachweise bzw. entsprechende Einkommensnachweise\n\nInteresse?\n\nBei ernsthaftem Interesse freue ich mich über eine Nachricht mit einer kurzen Vorstellung zu deiner Person, deiner beruflichen Situation und der Anzahl der einziehenden Personen.\n\nBesichtigungstermine sind nach Absprache möglich.\n\nDie endgültige Entscheidung über die Vermietung erfolgt durch den Vermieter.\n\nIch freue mich auf eure Nachrichten!",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-10T06:10:32.851569+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
