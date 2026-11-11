@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-11T13:41:14.862630+00:00",
-  "count": 106,
+  "generated_at": "2026-11-11T21:47:30.486791+00:00",
+  "count": 107,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-11T13:41:14.862630+00:00",
+      "last_updated": "2026-11-11T21:47:30.486791+00:00",
       "interval_hours": 3
     }
   },
@@ -1062,7 +1062,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/adc00ea3-70df-40c8-811e-03a966d2bbb8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0698628-58ab-4e7e-b818-e646becb7678?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e369b59-8f19-4617-bc91-62a687ff5d3e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20bd2270-2c0b-43b8-913a-9a614396d097?rule=$_59.AUTO",
@@ -1381,7 +1381,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/778b16c5-4baa-49ee-a20f-bb59e88ac0f3?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad13107c-9ddd-4ea4-af0c-1ed33daa2fb0?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1794,39 +1794,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Wohnung in Rees-Haldern",
-      "Cena (€)": 450.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.0,
-      "Lokalizacja": "46459 Rees",
-      "Odległość (km)": 16.0,
-      "Czas dojazdu (min)": 19,
-      "Odległość od 's-Heerenberg (km)": 16.6,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-rees-haldern/3553438292-203-1389",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa90ca61-5e0a-4a6e-9e34-0b7bf10e7362?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fa/fa90ca61-5e0a-4a6e-9e34-0b7bf10e7362?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5ad5797-e140-4633-86a0-008a7b541743?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab235882-b2d5-456b-90e8-6b536b773527?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4bc2bc9a-5dcf-4516-ab7a-1377132326f8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d6832628-f07b-4564-9f4f-30fe8e41353e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/10ec71eb-63b2-46c9-834f-5b615138d039?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/425472cc-1243-45cf-9021-3faec09c4dc5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/61b0e29c-af46-44c1-a028-dec9d858f2c3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40832dff-4a14-426e-a087-23586e64d840?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/3706ebd7-be6c-4033-b44b-d238f517cae6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/853cd74a-53ab-43a6-9f3c-298b0dea0f67?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a1fa1b6-4fa0-4cdb-97f8-7623ed9f45b9?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 450.0,
-      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Gäste WC • Neubau • Garage/Stellplatz\n\nHallo\nEine sehr schöne 2 Zimmerwohnung in Rees-Haldern zu vermieten.\nIm ruhigen und gehobenen Viertel nahe Drostendick.\n\nEinfach schreiben, am besten mit Telefonnummer, dann kann ich die Nachrichten direkt weiterleiten.\n\nTiere generell erlaubt, bedarf aber eine Anfrage an den Vermieter.\n\nMit freundlichen Grüßen\nJ.R.\n\nAchtung ‼️\nMöbel sollten gegen kleine Übernahme Gebühr übernommen werden.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-26T20:21:29.237633+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Helle und renovierte 2-Zimmer-Wohnung mit Stellplatz",
       "Cena (€)": 450.0,
       "Pokoje": 2.0,
@@ -2153,6 +2120,39 @@
       "Opis": "Modernisierte 2-Zimmer-Dachgeschosswohnung mit zusätzlichem Raum – ca. 53 m² in Emmerich\n\nObjektbeschreibung\n\nZur Vermietung steht eine gepflegte, im Jahr 2021 umfassend modernisierte 2-Zimmer-Dachgeschosswohnung mit einer Wohnfläche von ca. 53 m² in der ’s-Heerenberger Straße 81, 46446 Emmerich am Rhein.\n\nDie Wohnung eignet sich ideal für eine Einzelperson oder einen Haushalt mit maximal zwei Personen.\n\nDurch die umfassende Modernisierung im Jahr 2021 präsentiert sich die Wohnung in einem gepflegten und zeitgemäßen Zustand.\n\nEin besonderes Extra ist ein zusätzlicher Raum, der sich vielseitig nutzen lässt – beispielsweise als Homeoffice, Spielzimmer, Hobbyraum oder Vorratsraum.\n\nEin eigener Balkon ist nicht vorhanden. Es besteht jedoch die Möglichkeit, einen kleinen Gemeinschaftsgarten mitzunutzen.\n\nEin separater Kellerraum gehört ebenfalls zur Wohnung. Ein PKW-Stellplatz steht für monatlich 30 € zur Verfügung.\n\nLage und Umgebung\n\nDie Wohnung befindet sich in einer zentralen Lage von Emmerich am Rhein und überzeugt durch ihre gute Infrastruktur.\n\n* Supermarkt in nur ca. 2–3 Gehminuten erreichbar\n* Schwimmbad ebenfalls nur ca. 2–3 Gehminuten entfernt\n* Weitere Einkaufsmöglichkeiten und Supermärkte in unmittelbarer Umgebung\n* Gymnasium in direkter Nähe\n* Kurze Wege zu Einrichtungen des täglichen Bedarfs\n\nMietkonditionen\n\nWohnfläche: ca. 53 m²\nZimmer: 2 zzgl. zusätzlichem Raum\nKaltmiete: 515,00 € monatlich\nPKW-Stellplatz: 30,00 € monatlich\nKaution: 1.545,00 € (3 Nettokaltmieten)\n\nNebenkostenvorauszahlung:\n\n* 1 Person: ca. 170,00 € monatlich\n* 2 Personen: ca. 195,00 € monatlich\n\nMonatliche Gesamtmiete inklusive Stellplatz:\n\n* 1 Person: ca. 715,00 €\n* 2 Personen: ca. 740,00 €\n\nWichtige Hinweise für Mietinteressenten\n\nAufgrund der erfahrungsgemäß hohen Anzahl an Wohnungsanfragen bitten wir um Verständnis, dass ausschließlich vollständige und aussagekräftige Anfragen berücksichtigt werden können.\n\nBitte teilen Sie uns bereits bei Ihrer ersten Kontaktaufnahme folgende Informationen mit:\n\n1. Vollständiger Vor- und Nachname aller einziehenden Personen\n2. Aktuelle Wohnanschrift und Wohnort\n3. Telefonnummer für eine mögliche Kontaktaufnahme\n4. Anzahl der einziehenden Personen\n5. Aktuelle berufliche Tätigkeit und Arbeitgeber\n6. Dauer des bestehenden Beschäftigungsverhältnisses\n7. Angaben zu eventuell vorhandenen Haustieren\n\nEin Beschäftigungsnachweis kann bei weitergehendem Interesse im Rahmen des Bewerbungsverfahrens angefordert werden.\n\nBitte beachten Sie: Anfragen ohne die oben genannten Informationen können aufgrund der Vielzahl an Interessenten leider nicht berücksichtigt werden.\n\nWir freuen uns auf Ihre aussagekräftige Anfrage",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-25T15:40:46.138730+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Zentral gelegene und gemütliche 2-Zimmer-Wohnung mit Balkon!",
+      "Cena (€)": 520.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 61.76,
+      "Lokalizacja": "46399 Bocholt",
+      "Odległość (km)": 25.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": 23.4,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/zentral-gelegene-und-gemuetliche-2-zimmer-wohnung-mit-balkon-/3568561871-203-1851",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4f6264a-a04e-410c-931f-840c35ad7090?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4f6264a-a04e-410c-931f-840c35ad7090?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ecfe08b8-cfbc-4ba8-a2d7-4e119e461642?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5382d30-9642-430b-8c85-0ca861f012f7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2936f6a2-c0f2-48a5-a10c-6b587776277e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77fc39a1-2042-4aa3-94c5-fb21d6300eb7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f075c7e5-73c3-404c-9371-44b35581aa8c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/350fdca0-d4f4-4f2b-8e9d-e1d72c8e7c2f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e4f6264a-a04e-410c-931f-840c35ad7090?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ecfe08b8-cfbc-4ba8-a2d7-4e119e461642?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5382d30-9642-430b-8c85-0ca861f012f7?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2936f6a2-c0f2-48a5-a10c-6b587776277e?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77fc39a1-2042-4aa3-94c5-fb21d6300eb7?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "**Zentral gelegene und gemütliche 2-Zimmer-Wohnung mit Balkon!**\n\nNur wenige Minuten von der Innenstadt entfernt und hervorragend angebunden, überzeugt diese gemütliche 2-Zimmer-Wohnung durch ihre attraktive Lage und angenehme Wohnatmosphäre. Beim Betreten der Wohnung gelangt man in den Flur, der Platz für eine kleine Garderobe bietet und von dem aus alle Räume erreichbar sind. Das Badezimmer verfügt über ein großes Fenster, dunkle Fliesen sowie Anschlüsse für Waschmaschine und Trockner. Neben einem gemütlichen Schlafzimmer mit zwei Fenstern bildet der kombinierte Wohn- und Küchenbereich das Herzstück der Wohnung. Von hier aus gelangt man direkt auf den kleinen Balkon, auf dem sich wunderbar die Morgensonne genießen lässt. Ein zusätzlicher Abstellraum sorgt für praktischen Stauraum. Mit Ausnahme des Badezimmers ist die Wohnung mit hellem Mosaikparkett ausgestattet. Große Fensterflächen sorgen in allen Räumen für viel Tageslicht und eine freundliche Wohnatmosphäre. Abgerundet wird das Angebot durch ein eigenes Kellerabteil und einen PKW-Stellplatz.\n\n**Besonderheiten:**\n\n* Waschmaschinen- und Trockneranschlüsse im Badezimmer\n* Große Fensterflächen in allen Räumen\n* Eigenes Kellerabteil und PKW-Stellplatz im Innenhof\n* Kleiner Balkon zum Genießen der Morgensonne\n\n**Lage:**\n\n* Perfekte Anbindung an den Straßenverkehr\n* Optimale Einkaufsmöglichkeiten fußläufig erreichbar\n* Wenige Minuten Fußweg zur Stadtmitte\n\n**Eckdaten auf einen Blick:**\n\n* Wohnfläche: 61,76 m²\n* mtl. Kaltmiete: 520,00 €\n* mtl. Betriebskosten: 100,00 €\n* mtl. Heizkosten: 100,00 €\n* mtl. Stellplatzkosten: 25,00 €\n* Kaution: 1.560,00\n\nEin Energieverbrauchsausweis liegt vor. Der Energieverbrauch des Gebäudes liegt bei 59,70 kWh/(m²\\*a).\n\nWesentlicher Energieträger: Gas / Gas",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-11T21:47:30.484281+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2668,6 +2668,26 @@
       "Opis": "Keller • Garage/Stellplatz\n\nDiese gepflegte 2-Zimmer-Etagenwohnung in Bocholt bietet auf ca. 59 m² Wohnfläche ein gut nutzbares Raumangebot für Singles oder Paare. Die Wohnung überzeugt durch eine angenehme Aufteilung und eignet sich ideal für Mieter, die eine überschaubare Wohnfläche in einem gepflegten Objekt suchen.\n\nDie monatliche Kaltmiete beträgt 595,00 €. Hinzu kommen Nebenkosten in Höhe von 80,00 €. Die Kaution beläuft sich auf 1.785,00 €.\n\nEin gemeinschaftlicher Kellerraum ist vorhanden und bietet neben dem Abstellraum in der Wohnung zusätzlichen Stauraum. Die Wohnung befindet sich in einem gepflegten Zustand und stellt eine attraktive Mietoption in Bocholt dar.\n\n# Ausstattung\n- moderner Vinylboden\n- Wohn-Esszimmer\n- 1 Außenstellplatz (40,00 €/mtl.)\n- Balkon\n- gemeinschaftlicher Kellerraum\n- separater Abstellraum in der Wohnung\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Objektzustand: gepflegt\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDie Wohnung befindet sich in Bocholt im beliebten Stadtgebiet und überzeugt durch eine ruhige Wohnlage mit guter Anbindung an das städtische Umfeld. Einkaufsmöglichkeiten, Einrichtungen des täglichen Bedarfs sowie weitere Versorgungsangebote sind in kurzer Distanz erreichbar. Auch das Zentrum von Bocholt ist gut angebunden und bietet eine vielseitige Infrastruktur mit Gastronomie, Einzelhandel und Dienstleistungen.\n\nDie Lage eignet sich sowohl für Berufspendler als auch für alle, die eine angenehme Kombination aus Wohnruhe und urbaner Erreichbarkeit schätzen. Durch die gute Verkehrsanbindung sind die umliegenden Stadtbereiche sowie die regionalen Ziele komfortabel erreichbar.\n\n# Sonstiges\nHaftungsausschluss für inhaltliche Richtigkeit übermittelter Daten: Der Makler weist darauf hin, dass für die inhaltliche Richtigkeit der übermittelten Daten des oben genannten Objektes nicht gehaftet werden kann, da er diese vom Eigentümer lediglich zur Verfügung gestellt bekommen hat.\n\nUnsere Angebote sind freibleibend. Zwischenverkauf oder -vermietung, Irrtum und Auslassungen bleiben vorbehalten. Mit dieser Immobilienanfrage erklärt sich der Interessent einverstanden, dass die Butzke & Schroer Real Invest GmbH ihn bzgl. dieses und weiterer Angebote telefonisch, schriftlich oder per E-Mail-Kontakt erfasst und informiert.\n\nBitte richten Sie Ihre Anfrage an:\n\ninfo@bs-realinvest.de\n\nWir bitten um Ihr Verständnis, dass wir die vollständigen Angaben zur Immobilie nur übermitteln können, wenn uns alle Kontaktdaten des Interessenten (Postanschrift, Telefon, E-Mail-Adresse) vorliegen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: GAS\n- Endenergiebedarf: 138 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 2027-09-08\n- Baujahr (gemäß Energieausweis): 1980\n\nAnbieter-Objekt-ID: 2026-1257",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-08T09:15:51.261000+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Charmante Dachgeschosswohnung mit hochwertiger Ausstattung",
+      "Cena (€)": 595.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 65.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": 47.5,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-dachgeschosswohnung-mit-hochwertiger-ausstattung/3567018089-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e820645f-8528-4125-9784-8622addf55e8?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-10T16:50:41.770514+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
