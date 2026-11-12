@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T14:54:56.323820+00:00",
+  "generated_at": "2026-11-12T21:47:06.746211+00:00",
   "count": 107,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-12T14:54:56.323820+00:00",
+      "last_updated": "2026-11-12T21:47:06.746211+00:00",
       "interval_hours": 3
     }
   },
@@ -1085,7 +1085,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae537552-7cb1-4982-9e1a-6e624fb9cc47?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d9/d9109ffd-65cc-4d8b-bcf7-05004f5f2a7d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e369b59-8f19-4617-bc91-62a687ff5d3e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20bd2270-2c0b-43b8-913a-9a614396d097?rule=$_59.AUTO",
@@ -1200,7 +1200,7 @@
       "Lokalizacja": "46149 Oberhausen",
       "Odległość (km)": 30.0,
       "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
+      "Odległość od 's-Heerenberg (km)": 56.2,
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-ob-buschhausen-52-qm-bezugsfertig/3555722206-203-1290",
@@ -1232,7 +1232,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-3-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3471855237-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/6912af54-7f8f-480c-b533-7331e40bdaa6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc926232-0efc-4c10-90da-404023ae1388?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05703c32-5598-4a8d-9503-38cfe059bacd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49d48ca6-4958-462a-9e77-a3f217e70486?rule=$_59.AUTO",
@@ -1261,7 +1261,7 @@
       "Lokalizacja": "46149 Oberhausen",
       "Odległość (km)": 30.0,
       "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
+      "Odległość od 's-Heerenberg (km)": 56.2,
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/-kleine-2-0-zimmer-wohnung-im-2-og-mit-balkon-u-aufzug-/3567527734-203-1290",
@@ -1295,7 +1295,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/fuer-heimwerker-inkl-500-gutschein-gemuetliche-2-zimmer-wohnung-mit-renovierungsgutschein/3556237074-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36a1b3fc-76fd-4ad7-9e7c-8516cf8dc409?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14e7073a-5fa8-4c10-b28c-af9143afe44e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9c7dc0f-206e-44fc-ad06-d35c7ee231c1?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0db75340-bf3a-41a0-a734-02a7da5e16ea?rule=$_59.AUTO",
@@ -1394,7 +1394,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/674fecf9-dbb8-4b66-9e57-2e0a37e8d45a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a81f8ef0-848e-4bd1-9162-f414542c2fc4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1583,7 +1583,7 @@
       "Lokalizacja": "46149 Oberhausen",
       "Odległość (km)": 30.0,
       "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
+      "Odległość od 's-Heerenberg (km)": 56.2,
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/-kleine-2-0-zimmer-wohnung-im-2-og-mit-aufzug-/3567490903-203-1290",
@@ -1653,7 +1653,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-1-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3506453791-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04a4346a-e1e3-4586-8a59-8f585c17b61d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e27098a6-6051-471c-b15f-36ed3689650d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04a4346a-e1e3-4586-8a59-8f585c17b61d?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5822ee4-3280-422a-9498-d14bcd45b3b9?rule=$_59.AUTO",
@@ -2035,38 +2035,6 @@
       "Opis": "Moderne 2-Zimmer-Wohnung mit Balkon & eigenem Garten in Wesel\n\nDie gepflegte, ca. 52 m² große Hochparterre-Wohnung befindet sich auf dem Gelände der ehemaligen Reitzensteinkaserne in Wesel. Sie ist der zweite Bezug nach einer umfassenden Renovierung und überzeugt durch einen durchdachten Grundriss sowie eine helle und freundliche Wohnatmosphäre.\n\nDie Wohnung im Überblick:\n\nDas großzügige Wohn- und Esszimmer mit offener Küche bildet das Herzstück der Wohnung. Hier finden Sie ausreichend Platz zum Wohnen, Entspannen und Wohlfühlen.\n\nDas separate Schlafzimmer bietet einen angenehmen Rückzugsort. Das Badezimmer ist mit einer Badewanne ausgestattet.\n\nEin besonderes Highlight ist der Balkon mit direktem Zugang zum eigenen Garten. Hier können Sie die Ruhe genießen, entspannen und schöne Stunden im Freien verbringen.\n\nLage und Umgebung:\n\nDie Wohnung befindet sich auf einem gepflegten Privatgelände mit viel Grün innerhalb der Anlage und einem privaten Spielplatz.\n\nDer Weseler Bahnhof sowie die Innenstadt sind in wenigen Minuten erreichbar.\n\nAusstattung:\n\n- Ca. 52 m² Wohnfläche\n- Hochparterre\n- Zweiter Bezug nach umfassender Renovierung\n- 2 Zimmer\n- Großzügiger Wohn- und Essbereich mit offener Küche\n- Separates Schlafzimmer\n- Badezimmer mit Badewanne\n- Balkon mit direktem Zugang zum eigenen Garten\n- Eigener, abgeschlossener Kellerraum\n- Außenstellplatz oder Tiefgaragenstellplatz auf Wunsch verfügbar\n- Haustiere sind willkommen\n- Gepflegtes Privatgelände mit viel Grün und Spielplatz\n- Ruhige und dennoch zentrale Lage\n- Gute Anbindung an den öffentlichen Nahverkehr\n\nIdeal für Singles und junge Paare\n\nDie Wohnung eignet sich hervorragend für Singles oder junge Paare, die auf der Suche nach ihrem ersten gemeinsamen Zuhause sind.\n\nAuch Haustiere sind herzlich willkommen!\n\nInteresse geweckt?\n\nDann freuen wir uns auf Ihre Nachricht! Gerne vereinbaren wir mit Ihnen einen persönlichen Besichtigungstermin.\n\nBesichtigungen sind nach Absprache jederzeit möglich.\n\nIn den Nebenkosten sind Heizkosten enthalten.\nDie Nebenkosten wurden auf Grundlage der letzten Mieterin erstellt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-07T17:30:46.734483+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung in Goch nähe Bahn Hof",
-      "Cena (€)": 500.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "47574 Goch",
-      "Odległość (km)": 16.0,
-      "Czas dojazdu (min)": 33,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-in-goch-naehe-bahn-hof/3554697384-203-1147",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/489fedfe-ab52-4a54-ad8c-817253da37f1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c459c03-abb4-4c6e-b1fe-2e2591953700?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/913471fd-d91a-41b1-a0d3-15ba18898a10?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf951b36-fb51-409f-93a0-074aac9e7de0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b6a34ff-6320-4afa-85d2-1068a3026851?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/67/67194d01-7459-43c0-b3d1-f30f0dc1bc44?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/7779a42a-4be9-4a67-bac7-e05b80d51574?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9eacee09-5997-4905-8884-4a8e53196704?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3b4353-6b94-4aa7-9115-1ec06ed5a713?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/1765132a-9899-4d17-8002-6db9e2aa4b8c?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 600.0,
-      "Opis": "Schöne Wohnung in Goch.\nErste Etage.\nStellplatz vor dem Haus.\nEvt Garage",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2684,7 +2652,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Zentrale 2 Zimmer Wohnung in Bocholt zu vermieten.",
+      "Tytuł": "Zentrale 2 Zimmer Wohnung in Bocholt zu vermieten",
       "Cena (€)": 595.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 58.5,
@@ -2694,26 +2662,26 @@
       "Odległość od 's-Heerenberg (km)": 23.4,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/zentrale-2-zimmer-wohnung-in-bocholt-zu-vermieten-/3534350235-203-1851",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/59/597e590c-8c4d-468c-94c7-83927ba37862?rule=$_2.AUTO",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/zentrale-2-zimmer-wohnung-in-bocholt-zu-vermieten/3534350235-203-1851",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06659123-189c-49dc-b8de-28be1e58fc97?rule=$_2.AUTO",
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20e750df-f791-4b93-801d-91844766c26a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a94b0ead-5602-44fc-80f6-e60836fdfe83?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31949314-a9be-4372-b510-93ace23d5c5c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cd6dcbc-a32a-4bae-85ba-ed5ec13ec216?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4da67e15-6eb0-42db-b032-390e1002404d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0c14dea-d4bc-44dd-9a5a-8cf456f33b3b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/604f82ea-16c8-4e89-95a8-ff2cfad82914?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3da8e2fd-ee21-426a-a8ac-3ca7cb6df8ff?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fbc5f360-b89c-4ff8-bc55-26f946c49d75?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06659123-189c-49dc-b8de-28be1e58fc97?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e500b3f-e83b-4e8b-a1e8-30f61b0eb2ef?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11cb1190-5fd6-4847-84ad-ca687557ce9b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/328cc881-4d84-4949-a72c-12b14e0ac3bf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b0ef8221-d49a-4d07-a5a3-6349ee3da2b7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54f6edb1-7b5d-45f9-b8a7-cf35bbad7237?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/1183230f-3a5c-427d-a625-87c7d84f0d86?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/1617306f-3882-445f-ac77-5c86b5b63432?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98b58597-6c73-4c3a-9b6f-921d5872c676?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-user/images/97/973ef816-0a18-4d35-bf1b-f10aa61e7b90?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d121fbb2-7694-4b98-b75d-ae800bcb102e?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/377efdb7-6a63-44c7-939c-3b0b0de69ae9?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17deeb52-f9b9-454a-9082-f1c7dfff2af5?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8526030-3276-4f72-84d4-a7ca40426969?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 675.0,
-      "Opis": "Keller • Garage/Stellplatz\n\nDiese gepflegte 2-Zimmer-Etagenwohnung in Bocholt bietet auf ca. 59 m² Wohnfläche ein gut nutzbares Raumangebot für Singles oder Paare. Die Wohnung überzeugt durch eine angenehme Aufteilung und eignet sich ideal für Mieter, die eine überschaubare Wohnfläche in einem gepflegten Objekt suchen.\n\nDie monatliche Kaltmiete beträgt 595,00 €. Hinzu kommen Nebenkosten in Höhe von 80,00 €. Die Kaution beläuft sich auf 1.785,00 €.\n\nEin gemeinschaftlicher Kellerraum ist vorhanden und bietet neben dem Abstellraum in der Wohnung zusätzlichen Stauraum. Die Wohnung befindet sich in einem gepflegten Zustand und stellt eine attraktive Mietoption in Bocholt dar.\n\n# Ausstattung\n- moderner Vinylboden\n- Wohn-Esszimmer\n- 1 Außenstellplatz (40,00 €/mtl.)\n- Balkon\n- gemeinschaftlicher Kellerraum\n- separater Abstellraum in der Wohnung\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Objektzustand: gepflegt\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDie Wohnung befindet sich in Bocholt im beliebten Stadtgebiet und überzeugt durch eine ruhige Wohnlage mit guter Anbindung an das städtische Umfeld. Einkaufsmöglichkeiten, Einrichtungen des täglichen Bedarfs sowie weitere Versorgungsangebote sind in kurzer Distanz erreichbar. Auch das Zentrum von Bocholt ist gut angebunden und bietet eine vielseitige Infrastruktur mit Gastronomie, Einzelhandel und Dienstleistungen.\n\nDie Lage eignet sich sowohl für Berufspendler als auch für alle, die eine angenehme Kombination aus Wohnruhe und urbaner Erreichbarkeit schätzen. Durch die gute Verkehrsanbindung sind die umliegenden Stadtbereiche sowie die regionalen Ziele komfortabel erreichbar.\n\n# Sonstiges\nHaftungsausschluss für inhaltliche Richtigkeit übermittelter Daten: Der Makler weist darauf hin, dass für die inhaltliche Richtigkeit der übermittelten Daten des oben genannten Objektes nicht gehaftet werden kann, da er diese vom Eigentümer lediglich zur Verfügung gestellt bekommen hat.\n\nUnsere Angebote sind freibleibend. Zwischenverkauf oder -vermietung, Irrtum und Auslassungen bleiben vorbehalten. Mit dieser Immobilienanfrage erklärt sich der Interessent einverstanden, dass die Butzke & Schroer Real Invest GmbH ihn bzgl. dieses und weiterer Angebote telefonisch, schriftlich oder per E-Mail-Kontakt erfasst und informiert.\n\nBitte richten Sie Ihre Anfrage an:\n\ninfo@bs-realinvest.de\n\nWir bitten um Ihr Verständnis, dass wir die vollständigen Angaben zur Immobilie nur übermitteln können, wenn uns alle Kontaktdaten des Interessenten (Postanschrift, Telefon, E-Mail-Adresse) vorliegen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: GAS\n- Endenergiebedarf: 138 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 2027-09-08\n- Baujahr (gemäß Energieausweis): 1980\n\nAnbieter-Objekt-ID: 2026-1257",
+      "Opis": "Keller • Garage/Stellplatz\n\nDiese gepflegte 2-Zimmer-Etagenwohnung in Bocholt bietet auf ca. 59 m² Wohnfläche ein gut nutzbares Raumangebot für Singles oder Paare. Die Wohnung überzeugt durch eine angenehme Aufteilung und eignet sich ideal für Mieter, die eine überschaubare Wohnfläche in einem gepflegten Objekt suchen.\n\nDie monatliche Kaltmiete beträgt 595,00 €. Hinzu kommen Nebenkosten in Höhe von 80,00 €. Die Kaution beläuft sich auf 1.785,00 €.\n\nEin gemeinschaftlicher Kellerraum ist vorhanden und bietet neben dem Abstellraum in der Wohnung zusätzlichen Stauraum. Die Wohnung befindet sich in einem gepflegten Zustand und stellt eine attraktive Mietoption in Bocholt dar.\n\n# Ausstattung\n- moderner Vinylboden\n- Wohn-Esszimmer\n- 1 Außenstellplatz (40,00 €/mtl.)\n- Balkon\n- gemeinschaftlicher Kellerraum\n- separater Abstellraum in der Wohnung\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.01.27\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Garagen/Stellplatzmiete: 40,00 €\n\n# Lagebeschreibung\nDie Wohnung befindet sich in Bocholt im beliebten Stadtgebiet und überzeugt durch eine ruhige Wohnlage mit guter Anbindung an das städtische Umfeld. Einkaufsmöglichkeiten, Einrichtungen des täglichen Bedarfs sowie weitere Versorgungsangebote sind in kurzer Distanz erreichbar. Auch das Zentrum von Bocholt ist gut angebunden und bietet eine vielseitige Infrastruktur mit Gastronomie, Einzelhandel und Dienstleistungen.\n\nDie Lage eignet sich sowohl für Berufspendler als auch für alle, die eine angenehme Kombination aus Wohnruhe und urbaner Erreichbarkeit schätzen. Durch die gute Verkehrsanbindung sind die umliegenden Stadtbereiche sowie die regionalen Ziele komfortabel erreichbar.\n\n# Sonstiges\nHaftungsausschluss für inhaltliche Richtigkeit übermittelter Daten: Der Makler weist darauf hin, dass für die inhaltliche Richtigkeit der übermittelten Daten des oben genannten Objektes nicht gehaftet werden kann, da er diese vom Eigentümer lediglich zur Verfügung gestellt bekommen hat.\n\nUnsere Angebote sind freibleibend. Zwischenverkauf oder -vermietung, Irrtum und Auslassungen bleiben vorbehalten. Mit dieser Immobilienanfrage erklärt sich der Interessent einverstanden, dass die Butzke & Schroer Real Invest GmbH ihn bzgl. dieses und weiterer Angebote telefonisch, schriftlich oder per E-Mail-Kontakt erfasst und informiert.\n\nBitte richten Sie Ihre Anfrage an:\n\ninfo@bs-realinvest.de\n\nWir bitten um Ihr Verständnis, dass wir die vollständigen Angaben zur Immobilie nur übermitteln können, wenn uns alle Kontaktdaten des Interessenten (Postanschrift, Telefon, E-Mail-Adresse) vorliegen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: GAS\n- Endenergiebedarf: 138 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 2027-09-08\n- Baujahr (gemäß Energieausweis): 1980\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2026-1257",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-08T09:15:51.261000+00:00"
+      "PierwszyRaz": "2026-11-12T21:47:06.744251+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2754,6 +2722,39 @@
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wunderschöne DG-Wohnung in Anholt",
+      "Cena (€)": 603.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 57.0,
+      "Lokalizacja": "46419 Isselburg",
+      "Odległość (km)": 12.0,
+      "Czas dojazdu (min)": 17,
+      "Odległość od 's-Heerenberg (km)": 15.1,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wunderschoene-dg-wohnung-in-anholt/3568989009-203-1848",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f6f5298-72f5-4cc8-a1bc-cf54da5ffeac?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f6f5298-72f5-4cc8-a1bc-cf54da5ffeac?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c82471-4ddf-4085-95a3-623d2e9c3c62?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62ad8bef-5b19-48e6-8c79-a110e5fceee7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/46eb62e7-bde3-4350-b4ce-5f5a19079816?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c797c12e-c392-4edc-85b4-444dab28f809?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a5fdf01b-21ce-495a-812f-1f9603bce386?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/6452dded-436d-4ff5-b46c-4ab5bb8d7727?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1aec858-479e-4a7a-a13a-c209eeb10632?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cd837963-5891-4157-93f7-e9ff8bfde145?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/15f5e103-a68f-4bff-bbf7-eeac35de4407?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f6f5298-72f5-4cc8-a1bc-cf54da5ffeac?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55c82471-4ddf-4085-95a3-623d2e9c3c62?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Zu vermieten ist eine ganz charmante Wohnung, 57,40 m², Baujahr 2021 in einem wunderschönen, zentral gelegenen Haus in Anholt.\n\nDie Wohnung im DG ist mit einem Aufzug erreichbar. Sie wird durch Fußbodenheizung beheizt. Die Wohnräume sind mit Vinylböden in Holzoptik ausgestattet. Das großzügige Badezimmer hat eine bodengleiche Dusche.\n\nVon der nach vorne gelegenen Loggia aus, kann man die Morgensonne genießen und auch das Stadtleben beobachten.\n\nIm Keller des Hauses befindet sich für jede Wohnung ein eigener Abstellraum sowie der gemeinsame Waschmaschinenraum mit Stellplätzen für Waschmaschinen und Trockner. Hierzu gehört auch ein kleiner Schrank je Wohnung für Wäschepflegeutensilien.\n\nIm Erdgeschoss des Hauses sind Geschäftseinheiten (Blumenladen, Fußpflege, Frisör).\n\nEin Stellplatz kann für 25,00 € monatlich zugemietet werden.\n\nDie Küche und auch einige Möbel können vom Vormieter übernommen werden.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-12T21:47:06.744251+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2883,7 +2884,7 @@
       "Lokalizacja": "46149 Oberhausen",
       "Odległość (km)": 30.0,
       "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
+      "Odległość od 's-Heerenberg (km)": 56.2,
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/frisch-sanierte-wohnung-mit-eigenem-eingang/3561931519-203-1290",
