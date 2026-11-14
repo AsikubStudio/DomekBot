@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:04:25.013022+00:00",
+  "generated_at": "2026-11-14T19:46:47.461744+00:00",
   "count": 111,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-14T13:04:25.013022+00:00",
+      "last_updated": "2026-11-14T19:46:47.461744+00:00",
       "interval_hours": 3
     }
   },
@@ -866,6 +866,36 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2,5 Zimmer im Erdgeschoss mit Balkon und Garten",
+      "Cena (€)": 1.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 56.0,
+      "Lokalizacja": "47179 Walsum",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 42,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-5-zimmer-im-erdgeschoss-mit-balkon-und-garten/3571413120-203-2143",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36fbe43d-7376-4aa4-98b4-2718238bc45b?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36fbe43d-7376-4aa4-98b4-2718238bc45b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3c89a6a-8fd4-4e16-88e7-4440a17dc770?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4de010b6-c93c-44aa-b567-08a8b799827e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a91321e1-e523-4d31-a184-696d135d6c58?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/1610681c-a53c-4a64-a1a7-49daab87c3a7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d7af095-6352-4c2e-81ea-eb318ca2ea4e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bd/bd348f58-4cf8-453d-8835-f747d76430f3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e9614326-1b88-4459-ba99-f78b0fae8648?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d2ee15ca-f423-41ed-975a-d988c857f51d?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 664.0,
+      "Opis": "Nachmieter gesucht: Komplett renovierte 2,5-Zimmer-Erdgeschosswohnung mit Balkon und Garten\n\n​Für unsere gepflegte und frisch renovierte 2,5-Zimmer-Wohnung im Erdgeschoss suchen wir ab dem nächstmöglichen Zeitraum einen zuverlässigen Nachmieter.\n\n​Highlights der Wohnung:\n\n​Raumaufteilung: Großzügige 2,5 Zimmer auf ca. 56m² im Erdgeschoss.\n\n​Außenbereich: Eigener Balkon mit direktem Blick ins Grüne sowie Zugang zum Garten.\n\n​Ausstattung: Die Wohnung wurde von uns komplett renoviert (frisch gestrichene Wände und Decken) und im gesamten Wohnbereich mit einem hochwertigen, neuen Vinylboden in Holzoptik ausgestattet.\n\n​Konditionen & Ablösevereinbarung:\n\nDa wir viel Arbeit und Material in die Modernisierung investiert haben, suchen wir einen Nachmieter, der den neu verlegten Vinylboden sowie die durchgeführten Renovierungsarbeiten gehen eine faire Ablösesumme übernimmt.\n\nInteresse?\n\nBei ernsthaftem Interesse und Einverständnis mit der Ablösevereinbarung freuen wir uns über eine kurze Nachricht mit ein paar Informationen zu Ihrer Person (Anzahl der einziehenden Personen, Berufstätigkeit, gewünschtes Einzugsdatum). Besichtigungstermine sind nach Vereinbarung kurzfristig möglich.\n\nBitte Schufanachweis\n3 Gehaltsabrechnungen\nmit dazufügen.\n\nTelefonummer: 015731649723",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-14T19:46:47.460650+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Duisburg|Monteurwohnung|Monteurzimmer",
       "Cena (€)": 100.0,
       "Pokoje": 2.0,
@@ -963,7 +993,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/46/461758d1-c654-475d-9a1d-1ea2dd9eede3?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6ba415a5-09ab-4282-bcd3-083a03584a3f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941f70e5-1e6f-45a7-bf71-63fbdaba4549?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d106e7-d1a4-4d71-af58-9d3ca6a8207c?rule=$_59.AUTO",
@@ -1062,7 +1092,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ef/efe909cc-125e-40b7-9f32-c11ae164197a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/00f6e856-539b-4ac3-8534-ec58c7079da6?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e369b59-8f19-4617-bc91-62a687ff5d3e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20bd2270-2c0b-43b8-913a-9a614396d097?rule=$_59.AUTO",
@@ -1200,34 +1230,6 @@
       "Opis": "Anfragen ohne Name oder Kontaktangaben werden nicht beantwortet.\n\n==================================\n\nNur mit Wohnberechtigungsschein!\n\nDie Miete der Wohnung setzt sich wie folgt zusammen.\n\nKaltmiete: 357,89 €\nTG-Stellplatz: 44,20 €\nBK-VZ: 150,00 €\nHK-VZ: 100,00 €\nSumme: 652,09 €\n\nEs handelt sich um Beispielfotos aus einer anderen Wohnung im Haus. Die Ausstattung der Wohnung ist gleichwertig.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-05T19:36:00.422023+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Wohnung OB-Buschhausen 52 qm bezugsfertig",
-      "Cena (€)": 360.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-ob-buschhausen-52-qm-bezugsfertig/3555722206-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2969a079-c9d4-45cb-8490-a82acf8f8a61?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2969a079-c9d4-45cb-8490-a82acf8f8a61?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09c721c7-b2ed-424b-94ef-80179e798a5d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f801c927-3eb2-408e-b630-0f6b243430c9?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d10e9bb1-d15d-40ef-ad7c-2d5add148030?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e2ad234-581d-4e27-ba74-f73415f1353c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce979e72-99b3-4730-8eca-f970e0878675?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e5ba1037-c871-42bf-afd0-edd6c1a058f6?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 540.0,
-      "Opis": "Helle, freundliche 2,5 Raum Wohnung ab dem 01.12.2026 zu vermieten.\n\nDie Wohnung wird vor Bezug vollständig renoviert, alle Wand- und Deckenflächen weiß getrichen.\n\nDas Badezimmer ist weiß gefliest und verfügt über eine Badewanne.\n\nBitte nur schriftliche Bewerbungen über Kleinanzeigen, mit vollständigem Namen, Personenzahl und Angaben zur Berufstätigkeit.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-29T18:07:29.769486+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1404,7 +1406,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f571f447-e518-4db9-bf43-3ed5a5c93004?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/3092575e-fd94-4b20-a91b-1b2e23cce185?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1489,34 +1491,6 @@
       "Opis": "Badewanne • Altbau • Keller • Garten/-mitnutzung\n\nWir vermieten eine Wohnung in Rees. Die Kündigungsfrist der Vormieterin ist der 31.01.2027, bezugsfrei wird die Wohnung bereits zum 01.12.2026.\nKaltmiete 400€\nNebenkosten 130€\nKaution 1200€\n\nHundehaltung ist vom Vermieter nicht erwünscht.\n\nBei Fragen senden Sie mir gern eine Nachricht.\n\nUm einen Besichtigungstermin zu vereinbaren, benötige ich vorab die folgenden Angaben. (Ich bitte da um Verständnis, da ich nicht 150 Besichtigungen durchführen kann und daher eine Vorauswahl treffen muss)\n\nName\nAlter\nBerufsstand (wer zahlt die Miete)\nAnzahl der Mieter\nGewünschtes Einzugsdatum\n\nDie Vorlage einer Schufaauskunft ist gern gesehen.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-05T10:26:32.682864+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Schicke 2 Zimmer mit Balkon, 3. OG, NEU RENOVIERT, OB-Holten, Holtener Marktplatz 2",
-      "Cena (€)": 400.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 64.0,
-      "Lokalizacja": "46147 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 37,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schicke-2-zimmer-mit-balkon-3-og-neu-renoviert-ob-holten-holtener-marktplatz-2/3567157691-203-1291",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f55fbc2-cf37-4386-b5a5-50de6b46237c?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f55fbc2-cf37-4386-b5a5-50de6b46237c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e1e3462-d6fa-4c76-b785-094342c6302a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0e/0e5a863a-d4a3-4958-9a80-c4c27fefd66a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/ab/ab0dc569-da25-4971-afed-f14d1e8c5b6c?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af3c7020-24d9-4ecd-b8f6-d7c8a9fb141c?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14a44927-9c98-4437-8687-6b4076654e19?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1e7a7fa4-02c1-4d41-8a4f-d45ba0d17f05?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 650.0,
-      "Opis": "Gepflegtes Mehrfamilienhaus mit netten Nacharn.\nIm Zentrum von OB-Holten, direkt am Marktplatz, öffentliche Verkehrsmittel und Einkaufmöglichkeiten in unmittelbarer Nähe. Ruhige aber zentrale Lage.\n\n# Ausstattung\nLaminat, Rf-weiss, Balkon\n\n# Weitere Angaben\n- Verfügbar ab: 25.11.2026\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.200,00 €\n\n- Nutzfläche: ca. 64 m²\n\n# Lagebeschreibung\nOberhausen ist Teil des Regierungsbezirks Düsseldorf von Nordrhein-Westfalen und gehört zum Regionalverband Ruhr. Heute bilden Einkaufs- und Freizeiteinrichtungen einen Schwerpunkt der Wirtschaft; Einkaufscenter, Freizeitpark, Museen, Theater und andere Attraktionen haben jedes Jahr Millionen Besucher.\n\n# Sonstiges\nFinden Sie Ihr neues Zuhause unter www.tag-wohnen.de und vereinbaren Sie Ihren persönlichen Besichtigungstermin. Wir freuen uns auf Ihre Anfrage.\nProfitieren Sie als TAG Wohnen-Mieter von unseren Partnerangeboten und sichern Sie sich viele Sonderrabatte und günstige Konditionen u.a. in den Bereichen Unterhaltung, Umzug, Ernährung und Mobilität.\nStrom und Gas von lekker Energie – Sichern Sie sich Ihren exklusiven TAG Wohnen-Bonus unter www.lekker.de/kunden/tag-wohnen\nSichern Sie sich zudem einen entspannten Umzug mit unserem Partner Transporo und einem 10% Rabatt über folgenden Link: www.transporo.de/tag\nAlle Angaben in diesem Exposé wurden sorgfältig getätigt. Fehlerhafte Angaben können nicht ausgeschlossen werden, daher sind die Angaben ohne Gewähr. Maßgeblich sind die im Mietvertrag geschlossenen Vereinbarungen.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 129.9 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Baujahr: 1959\n- Letzte Modernisierung: 2026\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1018/14668/1008",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-10T06:10:32.851569+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1650,7 +1624,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7b199d3-7ccf-4d06-8fd4-61be2e6fb038?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23aedab0-79f6-4f7b-b660-cedf25defe36?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -2094,6 +2068,37 @@
       "Opis": "Badewanne • Altbau • Keller • Garten/-mitnutzung\n\nTolle 2,5 Zimmer-Wohnung in der I. Etage in 46483 Wesel, Lipperheystraße 10. Die Wohnung wird zum 01.02.2027 frei.\nDie Wohnung verfügt über 2 Zimmer, eine Küche, ein Flur und ein Badezimmer mit einer Badewanne. Ein Kellerraum ist ebenfalls vorhanden.\nBeheizt wird die Wohnung über eine GAS-Etagenheizung. Die Versorgung des warmen Wassers erfolgt über einen Durchlauferhitzer.\nSollten Sie Interesse haben, senden Sie mir bitte eine Mail mit Angabe Ihrer e-Mail-Adresse.\nEine Haustierhaltung (Hund und Katze) ist leider ausgeschlossen.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-04T10:32:53.267128+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "EG Wohnung  Mieszkanie",
+      "Cena (€)": 485.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 46.4,
+      "Lokalizacja": "46446 Emmerich am Rhein",
+      "Odległość (km)": 0.6,
+      "Czas dojazdu (min)": 0,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/eg-wohnung-mieszkanie/3571463320-203-1396",
+      "Zdjęcie": null,
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/767291a7-663f-408c-ae83-ee0e5d178faf?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e32e769-a403-4039-a935-9845dd93dd35?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/422aa58d-c691-40ed-b30e-77ebb25d8374?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17deeb52-f9b9-454a-9082-f1c7dfff2af5?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9eacee09-5997-4905-8884-4a8e53196704?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a34aa04-f631-4a1e-9663-52e9d69c5947?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/273f81de-182e-4cf5-a736-2f48968f99cc?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/8616c4b5-f598-44a1-a777-c24c2207ea1d?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c8c11fa3-29a4-4131-9c65-3ae218a86394?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Do wynajecia Czesciowo umeblowane.\nTeilweise möbeliert. Für 1 max. 2 Personen.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-14T19:46:47.460650+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
