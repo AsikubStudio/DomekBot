@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:29:44.025293+00:00",
+  "generated_at": "2026-11-15T18:34:07.130438+00:00",
   "count": 110,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-15T10:29:44.025293+00:00",
+      "last_updated": "2026-11-15T18:34:07.130438+00:00",
       "interval_hours": 3
     }
   },
@@ -866,7 +866,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2,5 Zimmer im Erdgeschoss mit Balkon und Garten",
+      "Tytuł": "2,5 Zimmer im Erdgeschoss mit Balkon und Garten in Walsum",
       "Cena (€)": 1.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 56.0,
@@ -876,7 +876,7 @@
       "Odległość od 's-Heerenberg (km)": null,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-5-zimmer-im-erdgeschoss-mit-balkon-und-garten/3571413120-203-2143",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-5-zimmer-im-erdgeschoss-mit-balkon-und-garten-in-walsum/3571413120-203-2143",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36fbe43d-7376-4aa4-98b4-2718238bc45b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36fbe43d-7376-4aa4-98b4-2718238bc45b?rule=$_59.AUTO",
@@ -890,9 +890,9 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d2ee15ca-f423-41ed-975a-d988c857f51d?rule=$_59.AUTO"
       ],
       "Czynsz z mediami (€)": 664.0,
-      "Opis": "Nachmieter gesucht: Komplett renovierte 2,5-Zimmer-Erdgeschosswohnung mit Balkon und Garten\n\n​Für unsere gepflegte und frisch renovierte 2,5-Zimmer-Wohnung im Erdgeschoss suchen wir ab dem nächstmöglichen Zeitraum einen zuverlässigen Nachmieter.\n\n​Highlights der Wohnung:\n\n​Raumaufteilung: Großzügige 2,5 Zimmer auf ca. 56m² im Erdgeschoss.\n\n​Außenbereich: Eigener Balkon mit direktem Blick ins Grüne sowie Zugang zum Garten.\n\n​Ausstattung: Die Wohnung wurde von uns komplett renoviert (frisch gestrichene Wände und Decken) und im gesamten Wohnbereich mit einem hochwertigen, neuen Vinylboden in Holzoptik ausgestattet.\n\n​Konditionen & Ablösevereinbarung:\n\nDa wir viel Arbeit und Material in die Modernisierung investiert haben, suchen wir einen Nachmieter, der den neu verlegten Vinylboden sowie die durchgeführten Renovierungsarbeiten gehen eine faire Ablösesumme übernimmt.\n\nInteresse?\n\nBei ernsthaftem Interesse und Einverständnis mit der Ablösevereinbarung freuen wir uns über eine kurze Nachricht mit ein paar Informationen zu Ihrer Person (Anzahl der einziehenden Personen, Berufstätigkeit, gewünschtes Einzugsdatum). Besichtigungstermine sind nach Vereinbarung kurzfristig möglich.\n\nBitte Schufanachweis\n3 Gehaltsabrechnungen\nmit dazufügen.\n\nTelefonummer: 015731649723",
+      "Opis": "Nachmieter gesucht: Komplett renovierte 2,5-Zimmer-Erdgeschosswohnung mit Balkon und Garten\n\n​Für unsere gepflegte und frisch renovierte 2,5-Zimmer-Wohnung im Erdgeschoss suchen wir ab dem nächstmöglichen Zeitraum einen zuverlässigen Nachmieter.\n\n​Highlights der Wohnung:\n\n​Raumaufteilung: Großzügige 2,5 Zimmer auf ca. 56m² im Erdgeschoss.\n\n​Außenbereich: Eigener Balkon mit direktem Blick ins Grüne sowie Zugang zum Garten.\n\n​Ausstattung: Die Wohnung wurde von uns komplett renoviert (frisch gestrichene Wände und Decken) und im gesamten Wohnbereich mit einem hochwertigen, neuen Vinylboden in Holzoptik ausgestattet.\n\n​Konditionen & Ablösevereinbarung:\n\nDa wir viel Arbeit und Material in die Modernisierung investiert haben, suchen wir einen Nachmieter, der den neu verlegten Vinylboden sowie die durchgeführten Renovierungsarbeiten gehen eine faire Ablösesumme übernimmt.Doe Ablöse beträgt 2000 Euro.\n\nInteresse?\n\nBei ernsthaftem Interesse und Einverständnis mit der Ablösevereinbarung freuen wir uns über eine kurze Nachricht mit ein paar Informationen zu Ihrer Person (Anzahl der einziehenden Personen, Berufstätigkeit, gewünschtes Einzugsdatum). Besichtigungstermine sind nach Vereinbarung kurzfristig möglich.\n\nBitte Schufanachweis\n3 Gehaltsabrechnungen\nmit dazufügen.\n\nTelefonummer: 015731649723",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-14T19:46:47.460650+00:00"
+      "PierwszyRaz": "2026-11-15T18:34:07.129510+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -993,7 +993,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3820c3-ca23-426a-8e8b-d6d6f53d63ec?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63b66dfc-1e52-4049-90ed-b40aea83d361?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941f70e5-1e6f-45a7-bf71-63fbdaba4549?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d106e7-d1a4-4d71-af58-9d3ca6a8207c?rule=$_59.AUTO",
@@ -1092,7 +1092,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31aec60f-4bd2-43ed-bcf3-752f0df58b75?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24d9e783-75fc-4e59-9dfa-bf32b35ad15a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e369b59-8f19-4617-bc91-62a687ff5d3e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20bd2270-2c0b-43b8-913a-9a614396d097?rule=$_59.AUTO",
@@ -1111,6 +1111,34 @@
       "Opis": "Balkon • Badewanne\n\nDas Ensemble aus Buschstraße 39–45, Dr.-Heinrich-Laakmann-Straße 13–25, Steigerstraße 14–26 sowie Stollenstraße 8–18 in Duisburg umfasst eine beachtliche Anzahl von Wohnhäusern, die gemeinsam ein dichtes, zusammenhängendes Wohnquartier im Stadtgebiet bilden. Die Objekte verteilen sich auf vier Straßen mit jeweils eigenem Charakter – von der gepflasterten Anliegerstraße bis zur ruhigen Wohnstraße – und bieten dadurch eine Vielfalt an Wohnoptionen innerhalb desselben gewachsenen Umfelds. Das Ensemble steht für verlässliches, substanzstarkes Wohnen in einem Viertel mit gelebter Gemeinschaft.\n\nKaltmiete: 345,00 EUR\nBetriebskosten: 155,00 EUR\nHeizkosten: 95,00 EUR\nWarmmiete: 595,00 EUR\n\nACHTUNG!\nDie Anmietung über das Jobcenter für einen Ein-Personenhaushalt ist NICHT möglich. Die Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n__________________________________________________\n\nThe ensemble comprising Buschstraße 39–45, Dr.-Heinrich-Laakmann-Straße 13–25, Steigerstraße 14–26, and Stollenstraße 8–18 in Duisburg encompasses a substantial number of residential buildings that together form a dense, cohesive residential quarter within the city. The properties are spread across four streets, each with its own character – from cobblestone residential access road to quiet side street – offering a variety of living options within the same established environment. The ensemble stands for dependable, substance-rich living in a neighbourhood with a genuine sense of community.\n\nBase rent: EUR 345.00 Service charges (Betriebskosten): EUR 155.00 Heating costs: EUR 95.00 Total rent including utilities (Warmmiete): EUR 595.00\n\nATTENTION! Renting through the job center (Jobcenter) for a single-person household is NOT possible. The gross base rent exceeds the maximum amount set by the authority.\n\n# Ausstattung\n- Gemütliche 2-Zimmer-Wohnung: Wohnzimmer, Schlafzimmer, Diele, Wannenbad, Küche, Balkon\n- alle Räume sind von der Diele aus begehbar\n- geweißte Wände mit Raufasertapete\n- Laminatboden, Eiche\n- Küche mit weißem Fliesenspiegel und Vinylboden\n- Wannenbad mit Fenster, weißgefliest, Vinylboden\n- Balkon mit Zugang über die Küche\n- Außenrollos\n- Gegensprechanlage\n- Hausmeisterservice\n- Treppenhausreinigung\n__________________________________\n\nCozy 2-room apartment: living room, bedroom, hallway, bathroom with bathtub, kitchen, balcony\nAll rooms are accessible from the hallway\nWhitewashed walls with woodchip wallpaper\nOak laminate flooring\nKitchen with white tiled splashback and vinyl flooring\nBathroom with window, white tiles, vinyl flooring\nBalcony accessible via the kitchen\nExterior roller shutters\nIntercom system\nCaretaker service\nStairwell cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Objekte liegen im Stadtteil Alt-Hamborn im Duisburger Norden – dem historischen Kern des Stadtbezirks Hamborn mit rund 73.000 Einwohnern. Alt-Hamborn ist ein lebendiges Wohnviertel mit einer Mischung aus historischer Bausubstanz und internationaler Gemeinschaft. Die Infrastruktur ist gut ausgebaut: Die Jägerstraße als Hauptgeschäftsstraße, der Hamborner Altmarkt mit dreimal wöchentlichem Markt, das St. Johannes-Hospital sowie Kitas und Schulen versorgen den Alltag. Kulturell prägt die Prämonstratenser-Abtei Hamborn – seit dem 12. Jahrhundert im Viertel verwurzelt – das Bild, ergänzt durch das Abteizentrum mit Konzert- und Kulturprogramm. Der Botanische Garten und der Stadtpark bieten grüne Erholungsflächen im direkten Umfeld.\n\n__________________________________________________\n\nThe properties are located in the Alt-Hamborn district in northern Duisburg – the historic core of the Hamborn borough with around 73,000 residents. Alt-Hamborn is a lively residential neighbourhood combining historic building fabric with an international community. Infrastructure is well developed: Jägerstraße as the main shopping street, the Hamborner Altmarkt with its market three times a week, St. Johannes Hospital, nurseries, and schools all support daily life. Culturally, the Premonstratensian Hamborn Abbey – rooted in the neighbourhood since the twelfth century – defines the character of the area, complemented by the Abteizentrum with its concert and cultural programme. The Botanical Garden and city park offer green recreational spaces in the immediate vicinity.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n_______________________________\n\nInterested in this apartment and would like to arrange a viewing?\nThen don't waste any time — get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we'll get back to you.\n\nThis offer is non-binding, subject to errors.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 674-31-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 119.2 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1910\n- Wesentliche Energieträger: Fernwärme, Gas\n\nAnbieter-Objekt-ID: 674-31-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-10T16:50:41.770514+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Charmante 2-Zimmer-Erdgeschosswohnung  im Zentrum von Uedem",
+      "Cena (€)": 350.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 50.0,
+      "Lokalizacja": "47589 Uedem",
+      "Odległość (km)": 19.0,
+      "Czas dojazdu (min)": 34,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-erdgeschosswohnung-im-zentrum-von-uedem/3553207560-203-1148",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9cf2079d-4d23-4401-9516-e4f5fc46c760?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9cf2079d-4d23-4401-9516-e4f5fc46c760?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a45ea666-4606-44c6-94d2-aaa3c4ebe856?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97d644ea-269d-4edf-ab9e-7d0455fc7340?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c320c378-04e5-4059-9ef3-ffc34998516a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/273f81de-182e-4cf5-a736-2f48968f99cc?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c94177a7-6834-4051-8ea9-b83699de507d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8d5d922-bf8f-42e9-bfb8-2475affac721?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 410.0,
+      "Opis": "Möbliert/Teilmöbliert\n\nCharmante 2-Zimmer-Erdgeschosswohnung im Zentrum von Uedem\n\nDiese ansprechende 2-Zimmer-Wohnung mit ca. 50 m² Wohnfläche steht ab dem 01.12.2026 zur Vermietung bereit und überzeugt durch modernen Wohnkomfort in zentraler Lage.\n\nDie Wohnung verfügt zudem über eine moderne Einbauküche sowie ein stilvoll ausgestattetes Badezimmer. Die durchdachte Raumaufteilung eignet sich hervorragend für Singles, Paare oder kleine Haushalte.\n\nDie zentrale Lage im Ortskern von Uedem ermöglicht eine hervorragende Infrastruktur – Einkaufsmöglichkeiten, Gastronomie sowie öffentliche Verkehrsanbindungen sind bequem fußläufig erreichbar.\n\nMietkonditionen:\n\nKaltmiete: 350 € / Monat\nNebenkosten: 60 € p. P. zzgl. Heizkosten (wird vom Mieter selbst übernommen)\nKaution: 700 € (2 Kaltmieten)\n\nSonstiges:\n\nPrimärer Energieträger: Gas\nEin aktueller Energieausweis befindet sich derzeit in Erstellung und wird zeitnah vorgelegt bzw. bei Besichtigung unaufgefordert zur Einsicht bereitgestellt.\n\nHinweise zum Bewerbungsverfahren:\nIm ersten Schritt werden ausschließlich schriftliche Anfragen berücksichtigt. Nach sorgfältiger Prüfung Ihrer Angaben setzen wir uns zeitnah mit Ihnen in Verbindung.\n\nIm weiteren Auswahlverfahren sind folgende Unterlagen vorzulegen:\n\nvollständig ausgefüllte Selbstauskunft\ndie letzten drei Gehaltsnachweise\neine aktuelle SCHUFA-Auskunft\n\nBitte haben Sie Verständnis, dass nur vollständige und aussagekräftige Anfragen im Auswahlprozess berücksichtigt werden können.\n\nAlle Angaben (und evtl. Anlagen) beruhen auf Informationen des Verkäufers bzw. Auftraggebers. Wir sind um Richtigkeit sowie bestmögliche Qualität bemüht, können hierfür jedoch keine Haftung übernehmen.\n\n- Hinweis zur Kaution: 700 EUR\n\n# Lagebeschreibung\nDie Immobilie befindet sich in Uedem. Dank der zentralen Wohnlage sind sämtliche Einrichtungen des täglichen Bedarfs schnell erreicht. Gleichzeitig ist Uedems grünes Umland binnen weniger Gehminuten erreichbar.\nDie kreisangehörige Gemeinde Uedem liegt mit ihren ca. 8.300 Einwohnern nahe der deutsch-niederländischen Grenze am unteren linken Niederrhein im Regierungsbezirk Düsseldorf. Auf dem Gemeindegebiet sind Bildungseinrichtungen von Ganztagskindertagesstätten und Grundschule vorhanden. Zu den zahlreichen weiterführenden Schulen in der Nachbarstadt bestehen gute Busverbindungen. Zahlreiche Einkaufs- und Freizeitangebote innerhalb von 30 Autominuten lassen kaum noch Wünsche offen.\nUmgeben ist die Gemeinde Uedem von Bedburg-Hau und Kalkar im Norden, Xanten und Sonsbeck im Osten, Kevelaer im Süden sowie Goch und Weeze im Westen.\nDer Kreis Kleve beheimatet mehr als 310.000 Einwohner und erstreckt sich von Emmerich am Rhein im Norden entlang der deutsch-niederländischen Grenze im Westen bis nach Wachtendonk im Süden. Neben den ihn durchquerenden Bundesautobahnen A3 (Arnhem/Köln), A40 (Venlo/Dortmund) und A57 (Nijmegen/Köln) verfügt der Kreis durch das Rhein-Waal-Terminal in Emmerich am Rhein sowohl über schiffs- als schienengebundene Anschlüsse an die internationalen Absatz- und Beschaffungsmärkte. Ergänzend hierzu bieten die in Emmerich passierende EC-Strecke Amsterdam-Köln sowie der Airport Niederrhein in Weeze Anbindung an viele internationale Reiseziele.\n\n# Sonstiges\nVerpassen Sie keine Immobilie mehr!\nUnser komplettes Immobilienangebot finden Sie immer zuerst auf www.remax.de/goch\nGerne helfen wir Ihnen auch beim Verkauf oder der Vermietung Ihrer Immobilie.\nKarriere bei REMAX?\nInfos: www.remax.de/karriere\n\n# Energie\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1051-362-1000-349SK",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-26T20:21:29.237633+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1373,7 +1401,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e510efe2-add6-4c95-bf61-7dc55ee38d37?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93638e17-f387-4b3b-a361-f96856f4acf1?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1604,7 +1632,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/854ad701-f683-4b50-a968-cadee2aaaedc?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ea74ff0-98c5-45f7-b73a-9c4168e72ce3?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1689,39 +1717,6 @@
       "Opis": "Balkon • Badewanne\n\nDas 2-stöckige Wohnhaus wurde 1956 erbaut - In der 1. Etage liegt Ihre neue Wohnung.\n\nLebendige Nachbarschaften und Service vor Ort: Um die optimale Pflege der Anlage kümmert sich unser Hausmeisterservice.\n\nSichern Sie sich Ihren privaten Parkplatz!\nIn vielen unserer Objekte bieten wir Ihnen die Möglichkeit, private Parkplätze anzumieten.\nJetzt anfragen und bequem parken – schnell, einfach und stressfrei! Sprechen Sie uns an!\n\n*Erhalten Sie bis zum 31.12.2026 in Duisburg beim Abschluss eines Mietvertrages für eine ausgewählte Aktionswohnung einen 500 € Gutschein für Amazon/Wunschgutschein.\nBitte beachten Sie die Teilnahmebedingungen: https://www.grandcityproperty.de/datenschutz/gutschein-aktionen\n\n# Ausstattung\nDie 2-Zimmer-Wohnung verteilt sich auf ca. 66 m²\n\n- Balkon\n- Laminat/PVC- Bodenbelag und Raufasertapete in den Wohnräumen\n- Anthrazite Boden- und weiße Wandfliesen in der Küche\n- Anthrazite Boden- und weiße Wandfliesen im Bad\n- Tageslichtbad mit Badewanne\n- Haustiere nach Vereinbarung\n- Hausmeisterservice\n- 24/7 für Sie erreichbar - auch im Notfall\n- Moderner Mieterservice über WhatsApp, Telefon, E-Mail und die GCP App: Kontakte, Unterlagen und Anliegen bequem online verwalten\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: vollständig renoviert\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.290,00 EUR\n\n# Lagebeschreibung\nWillkommen in Duisburg - im Stadtteil Marxloh.\nIn einer ruhigen Nebenstraße liegt die gepflegte Wohnanlage.\nIm Umkreis von wenigen hunderten Metern befinden sich Supermärkte und Einkaufsmöglichkeiten des täglichen Bedarfs. Für die Kleinen gibt es Schulen und Kindergärten, die zu Fuß gut erreichbar sind.\nNahegelegene Haltestellen des öffentlichen Nahverkehrs gewährleisten eine gute Anbindung.\nFür die Freizeitgestaltung dienen Parks und Grünanlagen in der Nähe, sowie Sportvereine in der Umgebung.\n\n# Sonstiges\nAlle Informationen zur Datennutzung und Datenschutzrechten durch Grand City Property Ltd – Zweigniederlassung Deutschland finden Sie unter: grandcityproperty.de/datenschutz\n\nWichtige Hinweise:\n•\tBitte senden Sie uns keine vertraulichen personenbezogenen Dokumente (z. B. Gehaltsabrechnungen) vor der Besichtigung zu. Sollten Sie dies dennoch tun, werden diese Dateien umgehend gelöscht.\n•\tDer Energieausweis kann bei der Besichtigung vorgelegt werden (ausgenommen Stellplätze/Garagen).\n•\tDie in der Anzeige verwendeten Fotos können Beispielfotos oder KI-generierte Visualisierungen (Kennzeichnung mit „virtually staged“) sein, die der besseren Veranschaulichung der Immobilie dienen und von den tatsächlichen Gegebenheiten abweichen können.\nSämtliche Daten in diesem Exposé, einschließlich Bilder, Grundrisse und sonstige Beschreibungen wie auch Grundrissgrafiken mit Maßangaben oder Einrichtungen, dienen ausschließlich der allgemeinen Information und stellen keine verbindlichen Zusicherungen dar. Die Daten sind so gründlich wie möglich angegeben, dennoch lassen sich Fehler nicht ausschließen. Alle Angaben im Exposé sind daher unverbindlich und etwaige Änderungen vorbehalten. Wir übernehmen daher keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen. Maßgeblich sind allein die Vereinbarungen des zu schließenden Mietvertrages. Eine Haftung für fahrlässige Fehler oder Abweichungen der Angaben wird – soweit gesetzlich zulässig – ausgeschlossen.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 194 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Baujahr: 1956\n- Letzte Modernisierung: 2025\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5071/01112/001/0002",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Geräumige 2 Zimmer Wohnung in Duisburg-Marxloh",
-      "Cena (€)": 440.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 67.0,
-      "Lokalizacja": "47169 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/geraeumige-2-zimmer-wohnung-in-duisburg-marxloh/3565722507-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c1c229cf-c5b6-4d64-98d9-902e383cdf52?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c1c229cf-c5b6-4d64-98d9-902e383cdf52?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be3ba3a7-ffdc-46f8-8d45-7a31ff07c954?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ef6312e-62cc-4412-9d74-53f81dd936f0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23ab2298-9c93-400d-b93c-01ab18365f12?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e96050f9-57f7-4be1-ab1c-3a6ee14ff0e5?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8af2f8a0-9d98-4097-9857-050594fabb96?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d02d4c8-f124-4dfe-84ca-cba219598d77?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d4f600c-ed1a-45d3-88d1-705922e0c224?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38bf1a91-94d0-43ae-8495-f0cc2821211c?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81287964-289c-411b-8895-6806a29ac7cb?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98998413-8346-4558-9d0e-68db0fb5df39?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c35e2e2-ce3a-48fb-af62-4c823ec90b55?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 620.0,
-      "Opis": "Badewanne • Keller • Dachboden\n\nVermietet wird eine 2 Zimmerwohnung. Die Wohnung verfügt über ein Wohnzimmer, ein Schlafzimmer, Badezimmer mit Badewanne und eine Küche (Ausstattung der Küche und Wohnzimmer kann vom Vormieter übernommen werden). Ebenso gehört zur Wohnung ein abschließbares Kellerabteil.\nStrom und Gas laufen über einen externen Anbieter.\nDie angegebenen Nebenkosten sind für eine Person gültig. Bei zwei Personen wird der Wasserverbrauch entsprechend angepasst.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-08T19:23:34.590854+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1824,36 +1819,36 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Helle und renovierte 2-Zimmer-Wohnung mit Stellplatz",
+      "Tytuł": "Geräumige 2 Zimmer Wohnung in Duisburg-Marxloh",
       "Cena (€)": 450.0,
       "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "46569 Hünxe",
-      "Odległość (km)": 23.0,
-      "Czas dojazdu (min)": 28,
+      "Powierzchnia (m²)": 67.0,
+      "Lokalizacja": "47169 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
       "Odległość od 's-Heerenberg (km)": null,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-und-renovierte-2-zimmer-wohnung-mit-stellplatz/3563689479-203-1383",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16dc9559-0be9-4aca-8981-703f36864028?rule=$_2.AUTO",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/geraeumige-2-zimmer-wohnung-in-duisburg-marxloh/3565722507-203-2146",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c1c229cf-c5b6-4d64-98d9-902e383cdf52?rule=$_2.AUTO",
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16dc9559-0be9-4aca-8981-703f36864028?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d15344fd-1c2b-40f8-9805-5e54bd9d74ad?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/0149c9ea-737e-44bb-964d-f5a7955234bb?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e4/e46fb3d2-a1d3-4f77-ba40-6e3ec7b19504?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad1b7969-0d33-4d2c-81d1-899100f211b1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/03/031ae0d6-f014-4adc-9e58-33c1f53ccad5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7415f21e-9e94-414a-9cbd-e2dccfc63128?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/47f87fba-63f3-4154-9914-67e1197163cd?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/6929424a-a8ae-4201-9af8-356b1237b15e?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6423382-062b-4234-95f4-c6e8b6d25f47?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/6511fe8e-2298-413d-9f94-0148a4b0a856?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fb/fb68fb5a-1f80-41d2-92b4-8980bea394a0?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c1/c1c229cf-c5b6-4d64-98d9-902e383cdf52?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be3ba3a7-ffdc-46f8-8d45-7a31ff07c954?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6ef6312e-62cc-4412-9d74-53f81dd936f0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23ab2298-9c93-400d-b93c-01ab18365f12?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e9/e96050f9-57f7-4be1-ab1c-3a6ee14ff0e5?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8af2f8a0-9d98-4097-9857-050594fabb96?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7d02d4c8-f124-4dfe-84ca-cba219598d77?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d4f600c-ed1a-45d3-88d1-705922e0c224?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38bf1a91-94d0-43ae-8495-f0cc2821211c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81287964-289c-411b-8895-6806a29ac7cb?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98998413-8346-4558-9d0e-68db0fb5df39?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c35e2e2-ce3a-48fb-af62-4c823ec90b55?rule=$_0.AUTO"
       ],
-      "Czynsz z mediami (€)": 650.0,
-      "Opis": "Helle und renovierte 2-Zimmer-Wohnung mit Stellplatz in ruhiger, ländlicher Lage zu vermieten\n\nZur Vermietung steht eine großzügige und frisch renovierte 2-Zimmer-Wohnung mit ca. 60 m² Wohnfläche in ruhiger, ländlicher Umgebung.\n\nDie Wohnung befindet sich im 2. Dachgeschoss eines gepflegten Hauses und überzeugt durch eine angenehme Wohnatmosphäre sowie eine helle und freundliche Raumgestaltung.\n\nDie Wohnung verfügt über:\n\n- einen großzügigen und hellen Wohnbereich mit integrierter Küche\n- ein separates Schlafzimmer\n- ein Badezimmer\n- einen ausreichend großen, praktischen Abstellraum\n- einen eigenen Stellplatz direkt vor dem Hauseingang\n\nDie Wohnung befindet sich in einem frisch renovierten und gepflegten Zustand. Auch die Zentralheizung wurde erneuert.\n\nEin eigener Stellplatz unmittelbar vor dem Hauseingang ist bereits im Mietangebot enthalten.\n\nMietkonditionen\n\n- Kaltmiete: 450 €\n- Strompauschale: 80 €\n- Nebenkostenvorauszahlung: 50 €\n- Heizkostenvorauszahlung: 70 €\n\nMonatliche Gesamtmiete: 650 €\n\nKaution: 1.350 €\n\nMietbeginn: ab sofort\n\nInteresse an der Wohnung?\n\nWenn Sie Interesse haben, freue ich mich über eine kurze Nachricht mit folgenden Angaben:\n\n- Wie viele Personen möchten einziehen?\n- Welche berufliche Tätigkeit üben Sie aus?\n- Haben Sie Haustiere? Wenn ja, welche?\n\nNach Erhalt Ihrer Nachricht können wir gerne einen Besichtigungstermin vereinbaren.\n\nBei Interesse können Sie mich gerne per WhatsApp unter 0157 30830819 kontaktieren.\n\nIch freue mich auf Ihre Nachricht!\n\nHerzliche Grüße Halima Izcikilic\n\nHalima Izcikilic",
+      "Czynsz z mediami (€)": 620.0,
+      "Opis": "Badewanne • Keller • Dachboden\n\nVermietet wird eine 2 Zimmerwohnung. Die Wohnung verfügt über ein Wohnzimmer, ein Schlafzimmer, Badezimmer mit Badewanne und eine Küche (Ausstattung der Küche und Wohnzimmer kann vom Vormieter übernommen werden). Ebenso gehört zur Wohnung ein abschließbares Kellerabteil.\nStrom und Gas laufen über einen externen Anbieter.\nDie angegebenen Nebenkosten sind für eine Person gültig. Bei zwei Personen wird der Wasserverbrauch entsprechend angepasst.",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-07T00:40:46.784029+00:00"
+      "PierwszyRaz": "2026-11-08T19:23:34.590854+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
