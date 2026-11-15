@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T00:50:37.285150+00:00",
+  "generated_at": "2026-11-15T10:29:44.025293+00:00",
   "count": 110,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-15T00:50:37.285150+00:00",
+      "last_updated": "2026-11-15T10:29:44.025293+00:00",
       "interval_hours": 3
     }
   },
@@ -993,7 +993,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6ba415a5-09ab-4282-bcd3-083a03584a3f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f3820c3-ca23-426a-8e8b-d6d6f53d63ec?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941f70e5-1e6f-45a7-bf71-63fbdaba4549?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d106e7-d1a4-4d71-af58-9d3ca6a8207c?rule=$_59.AUTO",
@@ -1092,7 +1092,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/00f6e856-539b-4ac3-8534-ec58c7079da6?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/31/31aec60f-4bd2-43ed-bcf3-752f0df58b75?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6e369b59-8f19-4617-bc91-62a687ff5d3e?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20bd2270-2c0b-43b8-913a-9a614396d097?rule=$_59.AUTO",
@@ -1191,7 +1191,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/649ab05f-8be5-44d0-bd20-5ab9203d2546?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b3b367eb-b69a-4883-a0c1-6ae328618e98?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1274,7 +1274,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e7e36e8c-16a3-4141-b637-cb2e035e88b4?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a0480b8-3a0d-446f-a942-06774a4b8491?rule=$_1.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1373,7 +1373,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/3092575e-fd94-4b20-a91b-1b2e23cce185?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e5/e510efe2-add6-4c95-bf61-7dc55ee38d37?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1604,7 +1604,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23aedab0-79f6-4f7b-b660-cedf25defe36?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/854ad701-f683-4b50-a968-cadee2aaaedc?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -2244,6 +2244,38 @@
       "Opis": "**Zentral gelegene und gemütliche 2-Zimmer-Wohnung mit Balkon!**\n\nNur wenige Minuten von der Innenstadt entfernt und hervorragend angebunden, überzeugt diese gemütliche 2-Zimmer-Wohnung durch ihre attraktive Lage und angenehme Wohnatmosphäre. Beim Betreten der Wohnung gelangt man in den Flur, der Platz für eine kleine Garderobe bietet und von dem aus alle Räume erreichbar sind. Das Badezimmer verfügt über ein großes Fenster, dunkle Fliesen sowie Anschlüsse für Waschmaschine und Trockner. Neben einem gemütlichen Schlafzimmer mit zwei Fenstern bildet der kombinierte Wohn- und Küchenbereich das Herzstück der Wohnung. Von hier aus gelangt man direkt auf den kleinen Balkon, auf dem sich wunderbar die Morgensonne genießen lässt. Ein zusätzlicher Abstellraum sorgt für praktischen Stauraum. Mit Ausnahme des Badezimmers ist die Wohnung mit hellem Mosaikparkett ausgestattet. Große Fensterflächen sorgen in allen Räumen für viel Tageslicht und eine freundliche Wohnatmosphäre. Abgerundet wird das Angebot durch ein eigenes Kellerabteil und einen PKW-Stellplatz.\n\n**Besonderheiten:**\n\n* Waschmaschinen- und Trockneranschlüsse im Badezimmer\n* Große Fensterflächen in allen Räumen\n* Eigenes Kellerabteil und PKW-Stellplatz im Innenhof\n* Kleiner Balkon zum Genießen der Morgensonne\n\n**Lage:**\n\n* Perfekte Anbindung an den Straßenverkehr\n* Optimale Einkaufsmöglichkeiten fußläufig erreichbar\n* Wenige Minuten Fußweg zur Stadtmitte\n\n**Eckdaten auf einen Blick:**\n\n* Wohnfläche: 61,76 m²\n* mtl. Kaltmiete: 520,00 €\n* mtl. Betriebskosten: 100,00 €\n* mtl. Heizkosten: 100,00 €\n* mtl. Stellplatzkosten: 25,00 €\n* Kaution: 1.560,00\n\nEin Energieverbrauchsausweis liegt vor. Der Energieverbrauch des Gebäudes liegt bei 59,70 kWh/(m²\\*a).\n\nWesentlicher Energieträger: Gas / Gas",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-11T21:47:30.484281+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung Souterrain in Dinslaken",
+      "Cena (€)": 520.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 49.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-souterrain-in-dinslaken/3571954040-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d6fe0b-af61-4772-925c-7cf49e3e9aab?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d6fe0b-af61-4772-925c-7cf49e3e9aab?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38bf1a91-94d0-43ae-8495-f0cc2821211c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6bc0421d-c0af-4c37-b8d3-9a880112c051?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c35e2e2-ce3a-48fb-af62-4c823ec90b55?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/aefa5be7-a388-4fa4-b944-a81c939d839a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/795761a9-4682-41d8-a834-36d35b7572dd?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0efe793-bca7-4f9a-99e8-5bcb845f9877?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/8439e6ac-9637-4ed8-ad3f-497c83f3f844?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/07/07ab555b-5640-45b8-826f-f3d2389ea3b4?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2601c702-a6aa-4c1c-bead-539faad404b6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/23/23d4e7d7-8a8c-487b-8415-6c7006ff74dc?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 520.0,
+      "Opis": "Badewanne\n\nNiedliche 2,5 Zimmer Souterrain-Wohnung von privat\n\nDie zur Vermietung stehende, ca. 49 m² große Souterrain-Wohnung, befindet sich in einem Mehrfamilienhaus mit insgesamt sieben Wohneinheiten und einer langjährig gewachsenen, harmonischen Mietergemeinschaft.\n\nRaumaufteilung\nWohnzimmer\nSchlafzimmer\nKüche\ngroßzügiger Flur mit Einbauschrank\nBadezimmer mit Badewanne\n\nWeitere Merkmale\neigener (zusätzlicher) Ausgang zum Hof - von der Küche aus\ngroße Fenster (ca. 1,40mx1,40m) in Wohn- und Schlafzimmer\nFenster und Tür sind mit Außenrollos versehen\nzusätzliches „Abstellräumchen“ unterhalb des Treppenaufgangs im gemeinschaftlichen Treppenhaus (ein bisschen wie bei Harry Potter)\nWaschmaschinenanschluss im gemeinschaftlichen Waschkeller\nLaminatboden in Flur und Wohnzimmer\nHaustiere sind nach individueller Absprache herzlich willkommen\n\nDie Wohnung wird Tapetenfrei übergeben, somit steht einer individuellen Gestaltung nichts im Wege.\n\nSonstiges\nFür die Anmietung werden folgende Unterlagen benötigt:\nMieterselbstauskunft\naktuelle SCHUFA-Bonitätsauskunft\nEinkommensnachweis der letzten drei Monate\n\nBei Interesse freuen wir uns über eine aussagekräftige Vorstellung Ihrer Person mit Informationen zu Name, Alter, Beruf und Einkommensituation.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-15T10:29:44.023771+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -3050,39 +3082,6 @@
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-14T13:04:25.011121+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Appartement für Single - Helle 2 Zimmer Wohnung",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 60.0,
-      "Lokalizacja": "46483 Wesel",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 32,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/appartement-fuer-single-helle-2-zimmer-wohnung/3563727954-203-1867",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba67a970-6219-4e77-bf0f-f4240edaa3b8?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba67a970-6219-4e77-bf0f-f4240edaa3b8?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/dd/dd65e769-4a1a-400a-87b4-903c51b8eca6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f084409c-faec-4d47-a087-b1c39af1bfe7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/819c4be5-6c44-4fd7-a0a9-33b3b556806d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3b1df77-c4bc-4401-ba16-a881b36d5d55?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8ea87a9d-6a7e-46c0-9ce2-cac5a05a5031?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85a4b931-e6cd-4965-827a-a69dfef2b2ae?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/35/35013cab-f2bf-4d5c-bc8b-6ce1021f3307?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f411b452-ce6a-4512-8b05-868b301f1fab?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f3/f3468732-48dc-4a4f-a849-d5e9234f64bf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cf/cff25449-3f26-42fd-aee3-ed9fe6869925?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89cbde4f-fc4f-4414-a3a7-5c9d456020b2?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Helle 2-Zimmer-Wohnung mit Balkon in der Weseler Innenstadt\n\nDiese helle und gemütliche 2-Zimmer-Wohnung in zentraler Lage von Wesel überzeugt durch ihren freundlichen Charakter, eine praktische Raumaufteilung und einen schönen Balkon mit Blick ins Grüne.\n\nDas großzügige Wohn- und Esszimmer bildet den Mittelpunkt der Wohnung. Große Fenster sorgen für viel Tageslicht und schaffen eine angenehme Wohnatmosphäre. Der warme Holzfußboden und die holzverkleidete Decke verleihen dem Raum einen besonderen Charme.\n\nVom Wohnzimmer aus gelangt man direkt auf den Balkon, der Platz für eine kleine Sitzgruppe bietet und zum Entspannen einlädt.\n\nDas Schlafzimmer bietet ausreichend Platz für ein Doppelbett und einen Kleiderschrank.\n\nDie separate Küche ist mit einer Einbauküche ausgestattet. Das kompakte, weiß geflieste Badezimmer verfügt über eine Dusche, ein WC und ein Waschbecken.\n\nHolzfußboden in den Wohnräumen\nEinbauküche mit Elektrogeräten\nBadezimmer mit Dusche\nGroße Fensterflächen\nZentrale Innenstadtlage\nNähe Marienhospital\n\nDie Wohnung befindet sich in der Torfstraße in der Weseler Innenstadt. Einkaufsmöglichkeiten, Cafés, Restaurants und weitere Einrichtungen des täglichen Bedarfs sind bequem zu Fuß erreichbar.\n\nDie zentrale Lage ermöglicht kurze Wege und verbindet urbanes Wohnen mit einem gemütlichen Rückzugsort.\n\nDie Wohnung eignet sich besonders für eine Einzelperson oder ein Paar.\n\nBei Interesse freuen wir uns über eine kurze persönliche Vorstellung mit Angaben zur beruflichen Situation und zum gewünschten Einzugstermin.\n\nBesichtigungstermine können ab Mitte November nach Vereinbarung stattfinden.\n\nHaustiere sind nur bedingt erlaubt.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-07T00:40:46.784029+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
