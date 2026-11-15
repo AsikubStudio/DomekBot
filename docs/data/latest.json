@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-14T19:46:47.461744+00:00",
-  "count": 111,
+  "generated_at": "2026-11-15T00:50:37.285150+00:00",
+  "count": 110,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-14T19:46:47.461744+00:00",
+      "last_updated": "2026-11-15T00:50:37.285150+00:00",
       "interval_hours": 3
     }
   },
@@ -1263,39 +1263,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Für Heimwerker inkl. 500 € Gutschein - Gemütliche 2 Zimmer Wohnung mit Renovierungsgutschein",
-      "Cena (€)": 382.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 56.22,
-      "Lokalizacja": "47169 Marxloh",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/fuer-heimwerker-inkl-500-gutschein-gemuetliche-2-zimmer-wohnung-mit-renovierungsgutschein/3556237074-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fdea25d0-8473-4eb5-ba95-099ff36ffbf7?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a9/a9c7dc0f-206e-44fc-ad06-d35c7ee231c1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0db75340-bf3a-41a0-a734-02a7da5e16ea?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81ffefec-f31e-4e51-81f7-ba430fb64a44?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e0/e095e302-a8e5-4dbe-add9-21d03e811974?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba55364a-e848-4e8a-95c5-441a1cbd5f4b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6a/6a887a7c-d801-4185-baab-b9eae89aa096?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d69ed3e1-e54f-44f8-9e4a-7da9f6740939?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-user/images/10/106dbb0c-12b7-47e3-b289-a0b544032c3a?rule=$_12.JPG",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69bb7265-3b2e-4072-ba09-7430dc717dd1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/489001d2-be4d-40df-9663-0c154c047651?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d354b312-8416-48ad-9b50-702e1e9b6597?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/41cf0bf6-1498-4e32-b7f5-be9faa5853e6?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 646.0,
-      "Opis": "Badewanne\n\nDas 2-stöckige Wohnhaus wurde 1916 erbaut - In der 2. Etage liegt Ihre neue Wohnung.\n\nLebendige Nachbarschaften und Service vor Ort: Unsere Mitarbeiter:innen begrüßen Sie in der regelmäßigen Mietersprechstunde im Mieterservicebüro ganz in der Nähe. Um die optimale Pflege der Anlage kümmert sich unser Hausmeisterservice.\n\nSichern Sie sich Ihren privaten Parkplatz!\nIn vielen unserer Objekte bieten wir Ihnen die Möglichkeit, private Parkplätze anzumieten.\nJetzt anfragen und bequem parken – schnell, einfach und stressfrei! Sprechen Sie uns an!\n\n# Ausstattung\nDie 2-Zimmer-Wohnung verteilt sich auf ca. 56 m²\n\n- Laminat/PVC- Bodenbelag und Raufasertapete in den Wohnräumen\n- Anthrazite Boden- und Wandfliesen in der Küche\n- Weiße Boden- und Wandfliesen im Bad\n- Tageslichtbad mit Badewanne und Dusche\n- Haustiere nach Vereinbarung\n- Gemeinschaftlicher Wasch-/ Trockenraum & Fahrradkeller\n- Hausmeisterservice\n- 24/7 Mieterservice & Mietersprechstunde\n\n# Weitere Angaben\n- Verfügbar ab: 16.11.2026\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Hinweis zur Kaution: 1.146,00 €\n\n- Nutzfläche: ca. 56,22 m²\n\n# Lagebeschreibung\nWillkommen in Duisburg - im Stadtteil Marxloh.\nIn einer ruhigen Nebenstraße liegt die gepflegte Wohnanlage.\nIm Umkreis von wenigen hunderten Metern befinden sich Supermärkte und Einkaufsmöglichkeiten des täglichen Bedarfs. Für die Kleinen gibt es Schulen und Kindergärten, die zu Fuß gut erreichbar sind.\nNahegelegene Haltestellen des öffentlichen Nahverkehrs gewährleisten eine gute Anbindung.\nFür die Freizeitgestaltung dienen Parks und Grünanlagen in der Nähe, sowie Sportvereine in der Umgebung.\n\n# Sonstiges\nAlle Informationen zur Datennutzung und Datenschutzrechten durch Grand City Property Ltd – Zweigniederlassung Deutschland finden Sie unter: grandcityproperty.de/datenschutz.\n\nWichtige Hinweise:\n•\tBitte senden Sie uns keine vertraulichen personenbezogenen Dokumente (z. B. Gehaltsabrechnungen) vor der Besichtigung zu. Sollten Sie dies dennoch tun, werden diese Dateien umgehend gelöscht.\n•\tDer Energieausweis kann bei der Besichtigung vorgelegt werden (ausgenommen Stellplätze/Garagen).\n•\tDie in der Anzeige verwendeten Fotos können Beispielfotos oder KI-generierte Visualisierungen (Kennzeichnung mit „virtually staged“) sein, die der besseren Veranschaulichung der Immobilie dienen und von den tatsächlichen Gegebenheiten abweichen können.\n•\tSämtliche Daten in diesem Exposé, einschließlich Bilder, Grundrisse und sonstige Beschreibungen wie auch Grundrissgrafiken mit Maßangaben oder Einrichtungen, dienen ausschließlich der allgemeinen Information und stellen keine verbindlichen Zusicherungen dar. Die Daten sind so gründlich wie möglich angegeben, dennoch lassen sich Fehler nicht ausschließen. Alle Angaben im Exposé sind daher unverbindlich und etwaige Änderungen vorbehalten. Wir übernehmen daher keine Gewähr für die Richtigkeit, Vollständigkeit und Aktualität der bereitgestellten Informationen. Maßgeblich sind allein die Vereinbarungen des zu schließenden Mietvertrages. Eine Haftung für fahrlässige Fehler oder Abweichungen der Angaben wird – soweit gesetzlich zulässig – ausgeschlossen.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 250 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Baujahr: 1912\n- Letzte Modernisierung: 2022\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 5071/01114/001/0006",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-02T21:28:46.679075+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Renovierte 2 Zimmer Wohnung mit Balkon in Duisburg zu vermieten",
       "Cena (€)": 389.0,
       "Pokoje": 2.0,
@@ -1605,9 +1572,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/-2-0-zimmer-wohnung-im-2-og-mit-balkon-u-aufzug-/3567490903-203-1290",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d3f41e5-70e8-4ff5-98f7-4e564b703b8d?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d3f41e5-70e8-4ff5-98f7-4e564b703b8d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec856709-e3af-4971-98d3-48defc8fb710?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/781c7574-2425-4402-8d19-e74f7d511e0b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1dc57c0e-e671-460c-8f68-3d94e95ee2c6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a7aa8d8b-5557-4786-8698-5a9ff83cae06?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a6c3734-77d5-45fb-af13-540dc63803af?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b910077f-fb5d-4398-8d99-ab7223e6be2d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d461a9b-e34c-4cdd-8036-28d4314f050c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/77ff3ed0-e5e1-47c8-a5d0-e01a88ea5240?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0d7e4b4-0f0e-47ce-b37b-af738630354a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d34480b-1b21-4565-a671-52c3403970b8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8ea7cc6d-2788-4636-ac31-a4ae66aacdb2?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 674.0,
+      "Opis": "Balkon • Badewanne • Stufenloser Zugang • Altbau • Aufzug • Keller • Garage/Stellplatz\n\nMieter ab sofort, für kleine 2-Zimmer-Wohnung mit Balkon und Aufzug, im 2.OG gesucht !!!\n\nSchön aufgeteilte 2- Zimmer- Wohnung mit BALKON im 2. Obergeschoss eines Mehrfamilienhauses in Oberhausen-\nBuschhausen. Bestehend aus einem Wohnzimmer mit Zugang zum kleinem Balkon, einem Schlafzimmer, einer kleinen Küche, und einem Bad mit Wanne und Fenster.\nIm Haus gibt es einen Aufzug, mit dem Sie bequem bis in die 2. Etage gelangen.\nWir suchen 1-2 berufstätige Mieter, mit sauberer Schufa.\n\nGreifen Sie zu ... !!! Gerne ermöglichen wir Ihnen einen unverbindlichen Besichtigungstermin unter der Rufnummer 0157- 57078023.\nTelefonische Erreichbarkeit/Geschäftszeiten: MO. - FR. 9.00 - 18.00 Uhr (außer Feiertage)\n\n# Ausstattung\nWillkommen in der Friesenstraße 21-25 in Oberhausen, einem beeindruckenden Apartmentgebäude, das 1958 erbaut wurde und sich über sieben Stockwerke erstreckt. Mit insgesamt 40 Wohneinheiten bietet dieses Gebäude eine hervorragende Möglichkeit für private Nutzung und schafft ein lebendiges Wohnumfeld. Die zentrale Heizungsanlage sorgt für angenehme Wärme in den kalten Monaten, während der vorhandene Aufzug den Zugang zu den oberen Etagen erleichtert. Zudem steht ein Keller zur Verfügung, der zusätzlichen Stauraum bietet.\n\n# Weitere Angaben\n- Garagen/Stellplätze: 8\n- Verfügbar ab: Sofort\n- Objektzustand: gepflegt\n- Bodenbelag: Laminat\n\n- Hinweis zur Kaution: 1257,00\n\n- Balkon-/Terrassenfläche: ca. 2 m²\n- Kellerfläche: ca. 3 m²\n\n# Lagebeschreibung\nFriesenstraße 21-25 gehört zu Buschhausen, einem charmanten Stadtteil von Oberhausen in Nordrhein-Westfalen. Buschhausen ist eine lebendige Nachbarschaft mit einer vielfältigen Bevölkerung. Die Gegend zeichnet sich durch eine moderate Bevölkerungsdichte aus und bietet eine gute Mischung aus Mehrfamilienhäusern und Einfamilienhäusern. Die öffentlichen Verkehrsmittel sind hier gut erreichbar, mit verschiedenen Buslinien wie der 122 und der 957, die regelmäßig verkehren. Außerdem gibt es eine S-Bahn-Station in der Nähe, die eine bequeme Anbindung an das Stadtzentrum bietet. Buschhausen ist bekannt für seine sichere Umgebung und zieht vor allem Familien und junge Berufstätige an. Die Nachbarschaft bietet viele Grünflächen und Spielplätze, ideal für Familien mit Kindern. Insgesamt ist Buschhausen ein attraktiver Ort zum Leben, besonders für Familien und junge Berufstätige, die eine ruhige Umgebung mit guter Verkehrsanbindung suchen. Hier finden Sie ein Zuhause, das sowohl Komfort als auch Sicherheit bietet.\n\n# Sonstiges\nVereinbaren Sie mit uns einen unverbindlichen Besichtigungstermin.\nUnseren zuständigen Mitarbeiter erreichen Sie unter der Tel.-Nr. 0157-57078023\nin der Zeit von Mo. - Fr. 9.00 - 18.00 Uhr (außer Feiertage).\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: Gas\n- Endenergiebedarf: 153 kWh/(m²*a)\n- Ausstellungsdatum: 22.11.2023\n- Gültig bis: 22.11.2033\n- Baujahr: 1958\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 608301982#ihNhn",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T14:02:14.170456+00:00"
     },
