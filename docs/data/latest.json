@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-16T21:44:00.167078+00:00",
-  "count": 113,
+  "generated_at": "2026-11-17T06:51:59.968402+00:00",
+  "count": 112,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-16T21:44:00.167078+00:00",
+      "last_updated": "2026-11-17T06:51:59.968402+00:00",
       "interval_hours": 3
     }
   },
@@ -993,7 +993,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec718b50-cb13-40f5-8110-03a1cc1c33a0?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f7ee95a-5037-4ce8-bac0-d736e75bdec8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941f70e5-1e6f-45a7-bf71-63fbdaba4549?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d106e7-d1a4-4d71-af58-9d3ca6a8207c?rule=$_59.AUTO",
@@ -1186,7 +1186,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d784f409-348c-4727-a2e2-34438537810c?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/215b1d8a-e993-4ff3-a58f-5d265ca67f88?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1269,7 +1269,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f43c8f38-907c-4266-b42d-22559b82574f?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/2554b6d0-8313-4b59-89aa-c2456bd4a325?rule=$_1.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1368,7 +1368,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/7187f777-4d49-4803-a5bb-11c51bde2a10?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c0/c0c2c0cb-f860-481d-b1a6-1a8034536a19?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1533,7 +1533,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d50f64b-647a-4237-afe6-414d0de1d075?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/47/473ab46a-55f8-4a1d-a9cd-e56e0308d7ec?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1864,9 +1864,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-2-zimmer-wohnung-erste-etage-zum-1-03-2027/3573800060-203-1853",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a8dc7e0-4fa4-4856-a767-c44d26ae8afe?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a8dc7e0-4fa4-4856-a767-c44d26ae8afe?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1e/1ef072e5-efa7-4ae5-be52-834a7adf4f56?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/afca682e-065e-4ed9-9e00-8713b0887fae?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1767bed-94ec-43c2-8716-10a38abafb3f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c976d769-cb3c-4556-9a46-694ddaa6eb29?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/73ab9638-be3d-425c-b093-bf40981fff18?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02b8ba63-1d2f-4394-9288-328a7e74518b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/60/60b5b400-7ebe-430e-9367-8b65ca70d204?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4adf6c62-eafa-40a8-a84b-ee3bfdcc588b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b02fdb08-9bd4-4521-b81a-533498c7de28?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/945c0e46-e26a-4eb6-80b1-a18f2c1b36f6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4d9aca2-c696-42fd-bd6f-9de8710695c9?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 470.0,
+      "Opis": "Ich suche zum 1.03.2027 einen Nachmieter für meine 2 Zimmer Wohnung in Dinslaken Stadtnah. Die Wohnung wird vermietet von einer Grundstücksgesellschaft\n\nWohnfläche: 44,42m²\nZimmer: 2\nEtage : 1\nFrei ab: 1.03.2027\nWarmmiete : 470 Euro\nKaution: 1.020€\n\nDie Wohnung befindet sich relativ Stadtnah dennoch ist es ruhiger, gerade zu Fuß ist alles erreichbar und sehr praktisch.\n\n!!!!!Ich würde gerne ein Teil meiner Möbel abgeben zu einem Bestimmten preis!!!!\n\n*Küche inkl. E Geräte Herd, Backofen\n*Schlafzimmer Schrank\n*Schminktisch\n*Gardinen Stange + Blickdichte Gardinen\n*2 Kleiderschränke\n*Küchenkommode\nSchuhschrank\n*Badezimmerunterschrank\n*Badezimmer Spiegelschrank\n*Wohnzimmer Kommode\n*Alle Hängeschränke der Küche\n*2 Nachtschränke\n*Balkon Möbel\n*Wohnzimmer unterschrank\nDie genannten Dinge wären die Abzugebenen Möbel.\n\nBei ernsthaften Interesse bitte melden.\nBesichtigung nach Absprache möglich.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-16T21:44:00.165503+00:00"
     },
@@ -2111,9 +2124,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-zur-vermietung/3569648373-203-2145",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65a0e839-9a87-484f-9def-bcdf03980641?rule=$_2.AUTO",
-      "Zdjęcia": [],
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/65a0e839-9a87-484f-9def-bcdf03980641?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e4587e6-c09f-4df1-87da-09841ca038ce?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80b6de1a-d056-4132-83f4-127c9927255e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6d/6d2d0314-dc4c-405a-a583-d8a1c6ed70f3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/32/3244c764-95d4-467e-b4f5-91264f8b85e3?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8ae9031-5551-4643-bc96-2302ea14e17f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/73/73446b7b-c5c3-4725-9d36-3d0abaf4d18f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b3/b328fd3c-962f-4f31-9392-7bf44fb6c929?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae4f048c-9918-4d3a-b320-390b1e580376?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/8787609f-2856-4def-ad9d-ac39e2283dd4?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0513795-2176-4bb4-9c5f-4e7056c5d55a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/264c9fc5-aee6-4c91-803e-b490325c7138?rule=$_0.AUTO"
+      ],
       "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Opis": "2 Zimmer Wohnung zur vermieten ab sofort",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-16T21:44:00.165503+00:00"
     },
@@ -3150,26 +3176,6 @@
       "Opis": "Einbauküche • Altbau\n\nDachgeschosswohnung – 2 Zimmer, 48 m²\n\nAb dem 01.10.2026 ist eine gemütliche Dachgeschosswohnung im 2. Obergeschoss zu vermieten.\n\n* 2 Zimmer\n* ca. 48 m² Wohnfläche\n* Dusche\n* Single-Küche\n* frei ab 01.10.2026\n\nBei Interesse oder für weitere Informationen gerne melden.\n\nWeitere Angaben:\nKaltmiete: 650€\nNebenkosten: 75€\nWarmmiete: 75€\nKaution: 1000€\nAdresse/Ort: Emmerich am Rhein",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-01T19:25:38.453519+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Moderne 2-Zimmer-EG-Wohnung in OB Schwarze Heide Neubau",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-zimmer-eg-wohnung-in-ob-schwarze-heide-neubau/3571161912-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93ea46f9-0bd3-4d89-8ee9-4e634b7cdce1?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-16T21:44:00.165503+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
