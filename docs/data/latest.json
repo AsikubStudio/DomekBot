@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T02:47:36.382531+00:00",
-  "count": 110,
+  "generated_at": "2026-11-18T11:14:37.036179+00:00",
+  "count": 109,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-18T02:47:36.382531+00:00",
+      "last_updated": "2026-11-18T11:14:37.036179+00:00",
       "interval_hours": 3
     }
   },
@@ -993,7 +993,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7dce7208-09fd-481b-b20a-c6bd139de72b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/feb4ff96-af0d-483a-822b-ef26f00281fd?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941f70e5-1e6f-45a7-bf71-63fbdaba4549?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d106e7-d1a4-4d71-af58-9d3ca6a8207c?rule=$_59.AUTO",
@@ -1081,34 +1081,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Charmante 2-Zimmer-Erdgeschosswohnung  im Zentrum von Uedem",
-      "Cena (€)": 350.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "47589 Uedem",
-      "Odległość (km)": 19.0,
-      "Czas dojazdu (min)": 34,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-erdgeschosswohnung-im-zentrum-von-uedem/3553207560-203-1148",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9cf2079d-4d23-4401-9516-e4f5fc46c760?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9cf2079d-4d23-4401-9516-e4f5fc46c760?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a45ea666-4606-44c6-94d2-aaa3c4ebe856?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97d644ea-269d-4edf-ab9e-7d0455fc7340?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c3/c320c378-04e5-4059-9ef3-ffc34998516a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/273f81de-182e-4cf5-a736-2f48968f99cc?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c94177a7-6834-4051-8ea9-b83699de507d?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8d5d922-bf8f-42e9-bfb8-2475affac721?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 410.0,
-      "Opis": "Möbliert/Teilmöbliert\n\nCharmante 2-Zimmer-Erdgeschosswohnung im Zentrum von Uedem\n\nDiese ansprechende 2-Zimmer-Wohnung mit ca. 50 m² Wohnfläche steht ab dem 01.12.2026 zur Vermietung bereit und überzeugt durch modernen Wohnkomfort in zentraler Lage.\n\nDie Wohnung verfügt zudem über eine moderne Einbauküche sowie ein stilvoll ausgestattetes Badezimmer. Die durchdachte Raumaufteilung eignet sich hervorragend für Singles, Paare oder kleine Haushalte.\n\nDie zentrale Lage im Ortskern von Uedem ermöglicht eine hervorragende Infrastruktur – Einkaufsmöglichkeiten, Gastronomie sowie öffentliche Verkehrsanbindungen sind bequem fußläufig erreichbar.\n\nMietkonditionen:\n\nKaltmiete: 350 € / Monat\nNebenkosten: 60 € p. P. zzgl. Heizkosten (wird vom Mieter selbst übernommen)\nKaution: 700 € (2 Kaltmieten)\n\nSonstiges:\n\nPrimärer Energieträger: Gas\nEin aktueller Energieausweis befindet sich derzeit in Erstellung und wird zeitnah vorgelegt bzw. bei Besichtigung unaufgefordert zur Einsicht bereitgestellt.\n\nHinweise zum Bewerbungsverfahren:\nIm ersten Schritt werden ausschließlich schriftliche Anfragen berücksichtigt. Nach sorgfältiger Prüfung Ihrer Angaben setzen wir uns zeitnah mit Ihnen in Verbindung.\n\nIm weiteren Auswahlverfahren sind folgende Unterlagen vorzulegen:\n\nvollständig ausgefüllte Selbstauskunft\ndie letzten drei Gehaltsnachweise\neine aktuelle SCHUFA-Auskunft\n\nBitte haben Sie Verständnis, dass nur vollständige und aussagekräftige Anfragen im Auswahlprozess berücksichtigt werden können.\n\nAlle Angaben (und evtl. Anlagen) beruhen auf Informationen des Verkäufers bzw. Auftraggebers. Wir sind um Richtigkeit sowie bestmögliche Qualität bemüht, können hierfür jedoch keine Haftung übernehmen.\n\n- Hinweis zur Kaution: 700 EUR\n\n# Lagebeschreibung\nDie Immobilie befindet sich in Uedem. Dank der zentralen Wohnlage sind sämtliche Einrichtungen des täglichen Bedarfs schnell erreicht. Gleichzeitig ist Uedems grünes Umland binnen weniger Gehminuten erreichbar.\nDie kreisangehörige Gemeinde Uedem liegt mit ihren ca. 8.300 Einwohnern nahe der deutsch-niederländischen Grenze am unteren linken Niederrhein im Regierungsbezirk Düsseldorf. Auf dem Gemeindegebiet sind Bildungseinrichtungen von Ganztagskindertagesstätten und Grundschule vorhanden. Zu den zahlreichen weiterführenden Schulen in der Nachbarstadt bestehen gute Busverbindungen. Zahlreiche Einkaufs- und Freizeitangebote innerhalb von 30 Autominuten lassen kaum noch Wünsche offen.\nUmgeben ist die Gemeinde Uedem von Bedburg-Hau und Kalkar im Norden, Xanten und Sonsbeck im Osten, Kevelaer im Süden sowie Goch und Weeze im Westen.\nDer Kreis Kleve beheimatet mehr als 310.000 Einwohner und erstreckt sich von Emmerich am Rhein im Norden entlang der deutsch-niederländischen Grenze im Westen bis nach Wachtendonk im Süden. Neben den ihn durchquerenden Bundesautobahnen A3 (Arnhem/Köln), A40 (Venlo/Dortmund) und A57 (Nijmegen/Köln) verfügt der Kreis durch das Rhein-Waal-Terminal in Emmerich am Rhein sowohl über schiffs- als schienengebundene Anschlüsse an die internationalen Absatz- und Beschaffungsmärkte. Ergänzend hierzu bieten die in Emmerich passierende EC-Strecke Amsterdam-Köln sowie der Airport Niederrhein in Weeze Anbindung an viele internationale Reiseziele.\n\n# Sonstiges\nVerpassen Sie keine Immobilie mehr!\nUnser komplettes Immobilienangebot finden Sie immer zuerst auf www.remax.de/goch\nGerne helfen wir Ihnen auch beim Verkauf oder der Vermietung Ihrer Immobilie.\nKarriere bei REMAX?\nInfos: www.remax.de/karriere\n\n# Energie\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 1051-362-1000-349SK",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-26T20:21:29.237633+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "2 Zimmer Wohnung mit Gartennutzung im Duisburg-Röttgersbach (WBS",
       "Cena (€)": 350.0,
       "Pokoje": 2.0,
@@ -1186,7 +1158,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/215b1d8a-e993-4ff3-a58f-5d265ca67f88?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/271fe1f1-fb64-4097-ba41-d1fc13ea1cc9?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1276,7 +1248,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/2554b6d0-8313-4b59-89aa-c2456bd4a325?rule=$_1.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/122ca292-2a56-4a49-bdf2-379e9245c24d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1375,7 +1347,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad25aeaa-c498-4841-9dfe-c8be467b5293?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56d7f6ce-caf9-4b6f-84f6-b275deee8935?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1540,7 +1512,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2637e36-51fc-4b41-915e-c0e65012a0b8?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1824c456-2998-4d15-bcd2-797046ad3ed9?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1559,39 +1531,6 @@
       "Opis": "Badewanne • Keller\n\nDie Adressen Bremenstraße 28, 30, 30a, 32, 34, 34a, 36, 38, 38a, 40, 42, 42–44, 44 und 46 bilden einen zusammenhängenden Abschnitt der historischen Josef-Kolonie im Duisburger Stadtteil Alt-Hamborn. Die Siedlung, im Volksmund „Jupp-Kolonie' genannt, wurde im frühen 20. Jahrhundert als Werkswohnungsbau errichtet und ist bis heute als geschlossenes, ruhiges Wohnquartier erhalten. Die Gebäude fügen sich in ein einheitliches städtebauliches Bild ein und bieten ein Wohnumfeld mit eigenem, gewachsenem Charakter in unmittelbarer Nähe zur Abtei Hamborn.\n\nKaltmiete: 425,00 EUR\nBetriebskosten: 190,00 EUR\nHeizkosten: 115,00 EUR\nWarmmiete: 730,00 EUR\n\nACHTUNG!\nDie Anmietung über das Jobcenter für einen Ein- und Zwei-Personenhaushalt ist NICHT möglich!\nDie Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n__________________________________________________\n\nThe addresses Bremenstraße 28, 30, 30a, 32, 34, 34a, 36, 38, 38a, 40, 42, 42–44, 44 and 46 form a cohesive section of the historic Josef-Kolonie in the Duisburg district of Alt-Hamborn. The settlement, known locally as the 'Jupp-Kolonie', was built in the early 20th century as workers' housing and remains intact today as a self-contained, quiet residential quarter. The buildings fit into a uniform urban streetscape and offer a residential environment with its own distinct, organically grown character in immediate proximity to Hamborn Abbey.\n\nBase rent (excluding utilities): EUR425.00\nService charges (operating costs): EUR190.00\nHeating costs: EUR115.00\nTotal rent (including service charges and heating): EUR730.00\n\nNOTICE! Renting through the Jobcenter (German job center) for a one- or two-person household is NOT possible! The gross base rent (base rent plus service charges) exceeds the maximum eligible rent limit set by the authority.\n\n# Ausstattung\n- 2 großzügige Zimmer, Küche, Diele, Bad\n- Zugang zum Schlafzimmer über das Wohnzimmer\n- geweißte Wände mit Raufasertapete\n- Küche mit weißem Fliesenspiegel und Vinylboden\n- Laminatboden in Diele und Wohn- und Schlafzimmer\n- Weißgefliestes Wannenbad, innenliegend\n- Kellerabteil\n- Gegensprechanlage\n- Hausmeisterservice\n- Treppenhausreinigung\n__________________________________________\n\n2 spacious rooms, kitchen, hallway, bathroom\nAccess to the bedroom through the living room\nWhitewashed walls with woodchip wallpaper\nKitchen with white tile splashback and vinyl flooring\nLaminate flooring in the hallway, living room, and bedroom\nBathtub with white tiles, interior bathroom (no window)\nStorage room in the basement\nIntercom system\nCaretaker service\nStaircase cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nAlt-Hamborn ist ein Stadtteil, der hält, was er verspricht. Die Abteischule und die Abtei-Grundschule an der Jägerstraße – gerade neu gedacht und erweitert – geben Kindern im Quartier einen guten Start. Das Abtei-Gymnasium und das Leibniz-Gymnasium begleiten sie weiter. Kitas sind da, das Helios Klinikum und das Katholische Klinikum St. Johannes ebenfalls. Abends lädt das Abteizentrum ein, der Botanische Garten Hamborn gibt Raum zum Durchatmen. Und wer morgens in Bus oder Bahn steigt, ist schnell dort, wo er hin muss. Ein Viertel, das funktioniert – und in dem die Jupp-Kolonie seit über hundert Jahren ihren Platz hat.\n\n__________________________________________________\n\nAlt-Hamborn is a district that delivers on its promises. The Abteischule and the Abtei-Grundschule on Jägerstraße – currently reimagined and expanded – give children in the neighbourhood a strong start. The Abtei-Gymnasium and Leibniz-Gymnasium accompany them further. Childcare is available, as are the Helios Klinikum and the Katholisches Klinikum St. Johannes. In the evenings, the Abteizentrum invites, and the Hamborn Botanical Garden offers space to breathe. And those who board a bus or tram in the morning quickly reach wherever they need to be. A neighbourhood that works – and in which the Jupp-Kolonie has held its place for over a hundred years.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n___________________________________\n\nAre you interested in this apartment and would like to view it? Then don't waste any time and get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we will get back to you.\n\nThis offer is non-binding, subject to errors and changes.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 825-10-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 115.2 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1908\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Fernwärme, Gas\n\nAnbieter-Objekt-ID: 825-10-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T21:15:22.709428+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Zweizimmerwohnung für einen Single-Haushalt",
-      "Cena (€)": 430.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 45.0,
-      "Lokalizacja": "47559 Kranenburg",
-      "Odległość (km)": 14.0,
-      "Czas dojazdu (min)": 32,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/zweizimmerwohnung-fuer-einen-single-haushalt/3558396064-203-1124",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4966dfb1-453d-4945-83e4-23d52589d55e?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/4966dfb1-453d-4945-83e4-23d52589d55e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/39/39a97f0a-ac1f-4ed4-9844-3bcb879b9e01?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a70fb4b9-fa24-4e2a-9e13-01686399c756?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99df8710-d6ee-4cd7-8db9-0ce746979a3e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5fb0d67-1207-4b83-a284-25801186e74a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c77011d-bc64-4634-9ffc-3c9ee552297a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2b9df81-1b08-46ed-9867-3a6f826902b3?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/ffc04764-5772-45b6-a3dc-72863f37545a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bf/bf951b36-fb51-409f-93a0-074aac9e7de0?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/042e79a9-bae3-4198-bb48-506d1559ac29?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/493ccf0d-ec90-4d20-bac0-ad864eb936e2?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/caad3af4-1dbf-4ba7-9f1b-9d0fe87f7164?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 570.0,
-      "Opis": "Einbauküche • Badewanne • Garage/Stellplatz\n\nLage\nDie Wohnung befindet sich in einer freundlichen Nachbarschaft in dem kleinen Dorf Kranenburg-Mehr. Hier können Sie die Ruhe genießen, finden viele schöne Radwege und ein intaktes und aktives Dorfleben.\n\nAusstattung\n• Wohnesszimmer: Genießen Sie den schönen Blick in den Garten, der für eine ruhige und grüne Atmosphäre sorgt. Einbauküche: Eine Küchenzeile mit kleinem Herd und Backofen\n•\tBadezimmer: Das Tageslichtbad mit Fenster und Badewanne bietet Ihnen einen Ort der Entspannung, hier ist auch ein Waschmaschinenanschluss. Alle Fugen im Bad wurden 2026 erneuert.\n•\tSchlafzimmer: Ein gemütlicher Rückzugsort mit ausreichend Platz für Bett und Schrank.\n•\tAbstellraum: Praktischer Stauraum für Utensilien, die man verstauen will. Im Nebengang steht ein Gefrierschrank mit Tiefkühlfächern und hier ist auch eine Garderobe.\n•\tStellplatz vorhanden / ggf. besteht die Möglichkeit ein Fahrrad in die Garage im Haupthaus zu stellen\n\nIn den Nebenkosten sind auch die Heizkosten enthalten, die bei den aktuellen Energiekosten immer am Ende des Jahres noch einmal nach Verbrauch nachkalkuliert werden. Nicht enthalten sind Strom und ein DSL-Anschluss.\n\nBei Interesse senden Sie mir bitte eine kurze Beschreibung ihrer Person und ihrer beruflichen Situation zu. Erste Besichtigungen finden Ende November/Anfang Dezember 2026 statt.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-01T12:47:16.663412+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1790,6 +1729,39 @@
       "Opis": "Möbliert/Teilmöbliert • Einbauküche\n\nIDEAL FÜR STUDENTEN DER FH:\n32 m² große erdgeschossige Einliegerwohnung mit separatem Eingang. 2 Zimmer, Küche und Bad ab sofort zu vermieten. Entfernung zur FH ca. 400 Meter! Auch die Innenstadt ist fußläufig zu erreichen. Bushaltestelle - regional und überregional (Sprinterbus Bocholt - Münster) - vor der Haustür. Euro 460,- WARMMIETE",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-30T17:47:34.219212+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Modernisierte 2 Raum Wohnung",
+      "Cena (€)": 464.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 56.0,
+      "Lokalizacja": "46395 Bocholt",
+      "Odległość (km)": 23.0,
+      "Czas dojazdu (min)": 24,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "tak",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/modernisierte-2-raum-wohnung/3575043756-203-1849",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/171cca3c-a078-4aca-b133-e5573b83eea1?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/171cca3c-a078-4aca-b133-e5573b83eea1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78acb068-d0a5-4f81-95a9-1624664be0da?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be1a4a36-e3c5-4a5c-b369-7809f378daaf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/349787d2-23e3-4999-98e5-7c3593ab3363?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c289323-35f1-4d7d-b25a-7595bcb1414c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1babe33a-84a5-4fbf-954a-6147c7ad1c43?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/171cca3c-a078-4aca-b133-e5573b83eea1?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78acb068-d0a5-4f81-95a9-1624664be0da?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be1a4a36-e3c5-4a5c-b369-7809f378daaf?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/349787d2-23e3-4999-98e5-7c3593ab3363?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c289323-35f1-4d7d-b25a-7595bcb1414c?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1babe33a-84a5-4fbf-954a-6147c7ad1c43?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Hinweis : die abgebildete Einbauküche kann kostenpflichtig übernehmen werden\nDiese komfortable 2-Raum Wohnung befindet sich Nähe der Werther Str in Bicholt. Sie wurde vor 3-4 Jahren komplett modernisiert .\nIn den Nebenkosten sind enthalten:\nGrundsteuer\nVersicherungen\nMüllgebühren\nReinigungsdienst Hausflur\nBei Fragen melden Sie sich gern.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-18T11:14:37.033695+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
