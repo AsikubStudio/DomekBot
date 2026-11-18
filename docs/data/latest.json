@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T11:14:37.036179+00:00",
-  "count": 109,
+  "generated_at": "2026-11-18T20:04:47.792512+00:00",
+  "count": 108,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-18T11:14:37.036179+00:00",
+      "last_updated": "2026-11-18T20:04:47.792512+00:00",
       "interval_hours": 3
     }
   },
@@ -993,7 +993,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fe/feb4ff96-af0d-483a-822b-ef26f00281fd?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/614871b6-ba73-4d89-b639-379e21acf8f1?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941f70e5-1e6f-45a7-bf71-63fbdaba4549?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d106e7-d1a4-4d71-af58-9d3ca6a8207c?rule=$_59.AUTO",
@@ -1347,7 +1347,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/56/56d7f6ce-caf9-4b6f-84f6-b275deee8935?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b596c553-7b74-44dc-a249-233b0305cd19?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1512,7 +1512,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/18/1824c456-2998-4d15-bcd2-797046ad3ed9?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6687ff4a-cafa-4673-ad5d-87fff5d1906b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -2323,7 +2323,7 @@
       "Czas dojazdu (min)": 36,
       "Odległość od 's-Heerenberg (km)": null,
       "Łazienka": "?",
-      "Kuchnia": "?",
+      "Kuchnia": "tak",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-souterrain/3570307230-203-1403",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/eda8af31-04b8-4a41-94a5-54a445da7175?rule=$_2.AUTO",
       "Zdjęcia": [
@@ -2770,7 +2770,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Erdegeschosswohnu in zentraler Lage: Emmerich am Rhein Innenstadt",
+      "Tytuł": "Erdgeschosswohnun in zentraler Lage: Emmerich am Rhein Innenstadt",
       "Cena (€)": 600.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 50.0,
@@ -2780,24 +2780,23 @@
       "Odległość od 's-Heerenberg (km)": null,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/erdegeschosswohnu-in-zentraler-lage-emmerich-am-rhein-innenstadt/3573307503-203-1396",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/erdgeschosswohnun-in-zentraler-lage-emmerich-am-rhein-innenstadt/3573307503-203-1396",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af951db0-a66e-487c-8492-dcfe9a1bc185?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af951db0-a66e-487c-8492-dcfe9a1bc185?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4c/4c594244-303b-4183-a8c9-4f214aa19d60?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b4/b4573b75-e703-4df4-a91f-d080759f94bf?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36cfdbb1-7417-41fb-b8d0-911f1b0e8641?rule=$_0.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a34aa04-f631-4a1e-9663-52e9d69c5947?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d100555f-8ef1-4d34-8a85-a70e3a96ae1e?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0ad5786a-2a8f-447e-8a54-781fd929ef7c?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6ff7ccd4-e242-4d3b-b2cf-5adcac677f68?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c8c11fa3-29a4-4131-9c65-3ae218a86394?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6f6f5298-72f5-4cc8-a1bc-cf54da5ffeac?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/84a7eb7b-d7ba-4f2a-a404-e6cf83febd9a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/767291a7-663f-408c-ae83-ee0e5d178faf?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cb36bb8-4b71-4f1d-8abd-e0723f4d277c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e13423d-090c-44d3-847e-32cbfd09578a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1feab64-b7da-4030-9c26-e437dd5f0143?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88a3f4f1-127a-435b-bd34-a983ba1c92c3?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": 750.0,
       "Opis": "Garten/-mitnutzung\n\nErdgeschosswohnung eines Reihenhauses in zentraler Lage in Emmerich am Rhein in der Gasthausstraße, Gartennutzungsrecht enthalten (leicht räumlich abgetrennt).\nDie Mietwohnung wurde vor einem Jahr erst kernsaniert und befinden sich in sehr guten Zustand.\nKüche und 1 Zimmer mit Blick auf Garten und Garage sowie ein Zimmer mit Blick auf Gasthausstraße.\n\nInteressentinnen und Interessenten sind an nachfolgende Kriterien gebunden:\n\n- Nutzbar durch maximal 2 Personen im Mietvertrag eingetragen\n- Eigenes Einkommen (Selbstzahler) oder Rentenbezüge\n- Keine Haustiernutzung beabsichtigt\n- Aktuelle Schufaauskunft ohne Negativeinträge",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-16T21:44:00.165503+00:00"
+      "PierwszyRaz": "2026-11-18T20:04:47.789761+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2940,39 +2939,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer-Wohnung in Bocholt-Zentrum | Balkon, Aufzug & Tiefgarage",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 67.0,
-      "Lokalizacja": "46399 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 32,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-bocholt-zentrum-balkon-aufzug-tiefgarage/3574398397-203-1851",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e328740-f21d-46d8-bbf1-af32bd0d9163?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e328740-f21d-46d8-bbf1-af32bd0d9163?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da93f12e-2ae8-4e7c-ae1c-e8685ff31a0a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/750204ee-4c26-480e-946b-3be27ac13be7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88552448-b731-4524-b0b2-f4921104f005?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e6f93a6-3f46-44b2-8d33-2e23b4163730?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/373662ab-4b7e-4cb6-8014-00015fe738ff?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e328740-f21d-46d8-bbf1-af32bd0d9163?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da93f12e-2ae8-4e7c-ae1c-e8685ff31a0a?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/750204ee-4c26-480e-946b-3be27ac13be7?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88552448-b731-4524-b0b2-f4921104f005?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e6f93a6-3f46-44b2-8d33-2e23b4163730?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/373662ab-4b7e-4cb6-8014-00015fe738ff?rule=$_1.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "### Helle 2-Zimmer-Wohnung in zentraler Lage von Bocholt – mit Balkon, Aufzug und Tiefgarage\n\nZur Vermietung steht eine ca. 67 m² große 2-Zimmer-Wohnung in zentraler Lage von Bocholt, nur wenige Gehminuten von der Innenstadt entfernt.\n\nDie Wohnung befindet sich im 3. Obergeschoss eines Mehrfamilienhauses mit Aufzug und verfügt über eine großzügige Raumaufteilung mit einem hellen Wohnzimmer und einem separaten Schlafzimmer.\n\n**Ausstattung:**\n- Ca. 67 m² Wohnfläche\n- Großzügiges, helles Wohnzimmer\n- Separates Schlafzimmer\n- Einbaukleiderschrank im Schlafzimmer\n- Zusätzlicher Einbauschrank im Flur\n- Balkon\n- Aufzug\n- Einbauküche vorhanden\n- Badezimmer mit Badewanne\n- Eigener Kellerraum\n- Tiefgaragenstellplatz optional anmietbar\n\nDie vorhandenen Einbauschränke bieten praktischen Stauraum und ermöglichen eine unkomplizierte Einrichtung der Wohnung.\n\n**Mietkonditionen:**\n\nKaltmiete: 650 € monatlich\nNebenkostenvorauszahlung: 220 € monatlich\nWarmmiete: 870 € monatlich\nTiefgaragenstellplatz: optional für 60 € monatlich zusätzlich\nKaution: 1.300 €\n\n**Verfügbarkeit:**\n\nDie Wohnung ist ab Januar 2027 verfügbar. Eine frühere Übernahme im Dezember 2026 ist nach Vereinbarung möglich.\n\nIm Dezember sind noch notwendige Arbeiten an der Wasserinstallation im Badezimmer vorgesehen.\n\n**Kontakt:**\n\nBei Interesse freue ich mich über eine kurze Nachricht mit einigen Angaben zu Ihrer Person, Ihrer beruflichen Situation, der Anzahl der einziehenden Personen und dem gewünschten Einzugstermin.\n\nDie Vermietung erfolgt privat und provisionsfrei.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-18T02:47:36.381038+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Wohnung zur Miete 2 Zimmer",
       "Cena (€)": 650.0,
       "Pokoje": 2.0,
@@ -3050,7 +3016,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-oberhausen-biefang-mit-grossem-garten/3574308803-203-1290",
-      "Zdjęcie": null,
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2d1432a-345a-4ece-82f6-770aca87ecfa?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3aba0fb-786a-4adf-9efe-e57aa7feb617?rule=$_0.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/067988f1-4e86-4b19-8113-e67da696e55d?rule=$_0.AUTO",
