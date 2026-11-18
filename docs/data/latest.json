@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T18:14:11.905430+00:00",
+  "generated_at": "2026-11-18T02:47:36.382531+00:00",
   "count": 110,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-17T18:14:11.905430+00:00",
+      "last_updated": "2026-11-18T02:47:36.382531+00:00",
       "interval_hours": 3
     }
   },
@@ -993,7 +993,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24b1511d-7184-4d07-ba03-4c74d9c42619?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7dce7208-09fd-481b-b20a-c6bd139de72b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941f70e5-1e6f-45a7-bf71-63fbdaba4549?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d106e7-d1a4-4d71-af58-9d3ca6a8207c?rule=$_59.AUTO",
@@ -1375,7 +1375,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ce/ce726e8f-0914-412a-b854-0803ed605c1f?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ad/ad25aeaa-c498-4841-9dfe-c8be467b5293?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1540,7 +1540,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db2a7928-985e-448a-8b2c-85886d3c67e2?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2637e36-51fc-4b41-915e-c0e65012a0b8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -2968,6 +2968,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zimmer-Wohnung in Bocholt-Zentrum | Balkon, Aufzug & Tiefgarage",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 67.0,
+      "Lokalizacja": "46399 Bocholt",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-bocholt-zentrum-balkon-aufzug-tiefgarage/3574398397-203-1851",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e328740-f21d-46d8-bbf1-af32bd0d9163?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e328740-f21d-46d8-bbf1-af32bd0d9163?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da93f12e-2ae8-4e7c-ae1c-e8685ff31a0a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/750204ee-4c26-480e-946b-3be27ac13be7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88552448-b731-4524-b0b2-f4921104f005?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e6f93a6-3f46-44b2-8d33-2e23b4163730?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/373662ab-4b7e-4cb6-8014-00015fe738ff?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e328740-f21d-46d8-bbf1-af32bd0d9163?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/da/da93f12e-2ae8-4e7c-ae1c-e8685ff31a0a?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/75/750204ee-4c26-480e-946b-3be27ac13be7?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88552448-b731-4524-b0b2-f4921104f005?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e6f93a6-3f46-44b2-8d33-2e23b4163730?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/373662ab-4b7e-4cb6-8014-00015fe738ff?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "### Helle 2-Zimmer-Wohnung in zentraler Lage von Bocholt – mit Balkon, Aufzug und Tiefgarage\n\nZur Vermietung steht eine ca. 67 m² große 2-Zimmer-Wohnung in zentraler Lage von Bocholt, nur wenige Gehminuten von der Innenstadt entfernt.\n\nDie Wohnung befindet sich im 3. Obergeschoss eines Mehrfamilienhauses mit Aufzug und verfügt über eine großzügige Raumaufteilung mit einem hellen Wohnzimmer und einem separaten Schlafzimmer.\n\n**Ausstattung:**\n- Ca. 67 m² Wohnfläche\n- Großzügiges, helles Wohnzimmer\n- Separates Schlafzimmer\n- Einbaukleiderschrank im Schlafzimmer\n- Zusätzlicher Einbauschrank im Flur\n- Balkon\n- Aufzug\n- Einbauküche vorhanden\n- Badezimmer mit Badewanne\n- Eigener Kellerraum\n- Tiefgaragenstellplatz optional anmietbar\n\nDie vorhandenen Einbauschränke bieten praktischen Stauraum und ermöglichen eine unkomplizierte Einrichtung der Wohnung.\n\n**Mietkonditionen:**\n\nKaltmiete: 650 € monatlich\nNebenkostenvorauszahlung: 220 € monatlich\nWarmmiete: 870 € monatlich\nTiefgaragenstellplatz: optional für 60 € monatlich zusätzlich\nKaution: 1.300 €\n\n**Verfügbarkeit:**\n\nDie Wohnung ist ab Januar 2027 verfügbar. Eine frühere Übernahme im Dezember 2026 ist nach Vereinbarung möglich.\n\nIm Dezember sind noch notwendige Arbeiten an der Wasserinstallation im Badezimmer vorgesehen.\n\n**Kontakt:**\n\nBei Interesse freue ich mich über eine kurze Nachricht mit einigen Angaben zu Ihrer Person, Ihrer beruflichen Situation, der Anzahl der einziehenden Personen und dem gewünschten Einzugstermin.\n\nDie Vermietung erfolgt privat und provisionsfrei.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-18T02:47:36.381038+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Wohnung zur Miete 2 Zimmer",
       "Cena (€)": 650.0,
       "Pokoje": 2.0,
@@ -3046,31 +3079,22 @@
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-oberhausen-biefang-mit-grossem-garten/3574308803-203-1290",
       "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3aba0fb-786a-4adf-9efe-e57aa7feb617?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/067988f1-4e86-4b19-8113-e67da696e55d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8aec4f2f-247f-4fad-b13a-9c9a0e6999ea?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/22/22b09767-d5ae-492e-b783-681c04f67d6d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2601c702-a6aa-4c1c-bead-539faad404b6?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b628d472-c091-4aad-ac53-83ce56530989?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b531bce-46db-44a1-8e16-4255c2e67931?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/9957bd81-f07a-4200-bade-66494188be66?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/21a4c232-32b1-4231-9c3d-e03f97b67f84?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/52/523e465a-47d4-4897-8fe5-283d25b4af7c?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 650.0,
+      "Opis": "Suche nachmieter für meine 60qm Wohnung in Oberhausen biefang nur Arbeiter !\nAb dem 1.12.\nKein Jobcenter.\nWohnung hat schönes großes Schlafzimmer und großes Wohnzimmer .\nUnd ein großen Garten zur gemeinschaftsnutzung .",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-17T18:14:11.904371+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Moderne 2-Zimmer-EG-Wohnung in OB Schwarze Heide Neubau",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-zimmer-eg-wohnung-in-ob-schwarze-heide-neubau/3571161912-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93ea46f9-0bd3-4d89-8ee9-4e634b7cdce1?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-16T21:44:00.165503+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
