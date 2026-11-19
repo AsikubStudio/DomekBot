@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-19T02:20:34.882315+00:00",
-  "count": 109,
+  "generated_at": "2026-11-19T11:13:35.105894+00:00",
+  "count": 106,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-19T02:20:34.882315+00:00",
+      "last_updated": "2026-11-19T11:13:35.105894+00:00",
       "interval_hours": 3
     }
   },
@@ -993,7 +993,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/platz-fuer-lieblingsmenschen-room-for-the-people-you-love-/3540704174-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/61/614871b6-ba73-4d89-b639-379e21acf8f1?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0c/0ca98a49-c7b1-4206-908b-3ea12ee6e939?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/941f70e5-1e6f-45a7-bf71-63fbdaba4549?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a2/a2d106e7-d1a4-4d71-af58-9d3ca6a8207c?rule=$_59.AUTO",
@@ -1158,7 +1158,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/271fe1f1-fb64-4097-ba41-d1fc13ea1cc9?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c51f4fa-4275-40be-b598-3f20300102ef?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1248,7 +1248,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/12/122ca292-2a56-4a49-bdf2-379e9245c24d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9032ec0-fc91-4f54-9bc2-18c924a9f629?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1303,39 +1303,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Gepflegte 2-Zimmer-Dachgeschosswohnung in Oberhausen – ab 01.12.2026 zu vermieten",
-      "Cena (€)": 390.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 43.0,
-      "Lokalizacja": "46147 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 37,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/gepflegte-2-zimmer-dachgeschosswohnung-in-oberhausen-ab-01-12-2026-zu-vermieten/3570244193-203-1291",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/8439e6ac-9637-4ed8-ad3f-497c83f3f844?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/8439e6ac-9637-4ed8-ad3f-497c83f3f844?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9c/9c3f30d1-e54d-4f72-8d7d-03707f236118?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d9aa083-894b-47c3-acee-2e7a98ddd772?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/43/43d5d142-dfe7-49e9-abdb-3beb20f6ad4e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ea3f6701-411f-4eb0-afe0-e3bf0fef132a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/aba6391d-3986-4eb2-9e13-4e498b03ff98?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a8e9099-bf79-4c17-afd1-436dfc94d28b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9e/9ea5a465-fee0-466e-ae42-5feb024bed6b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/012448c4-2933-4f93-8bfa-05af70760dec?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2b1ba0bc-af57-45ad-88b1-a17ddda099d3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16906d1e-d5f0-4b38-90a6-b58e02f2b89d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/658123f3-8369-40a3-8a3b-bad612208519?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 510.0,
-      "Opis": "Badewanne • Keller\n\nAb dem 01.12.2026 vermieten wir diese gepflegte Dachgeschosswohnung in ruhiger, zentraler Lage im Oberhausener Stadtteil Sterkrade/Dunkelschlag. Die Wohnung verteilt sich über eine Küche, eine kleine Diele, ein Schlafzimmer sowie ein Wohnzimmer und bietet auf rund 43 m² komfortablen Wohnraum für Singles oder Paare.\n\nDas Tageslichtbad ist mit Wanne und WC ausgestattet. Zur Wohnung gehört zudem ein eigener Kellerraum; ein Gemeinschaftstrockenraum sowie eine Waschküche stehen allen Hausbewohnern zur Verfügung.\n\nMietkonditionen\n\n-Kaltmiete: 390 €\n-Nebenkosten (Hausmeister, Treppenhausreinigung, Kabelfernsehen): 120 €\n-Gesamtmiete (kalt + NK): 510 €\n-Heizung & Strom: separat vom Mieter zu tragen (eigener Anschluss)\n-Verfügbar: ab 01.11.2026\n\n# Ausstattung\nKeller, Vollbad, Duschbad, Laminat, Fliesen\n\nBemerkungen:\nAusstattung\n\n-2 Zimmer, 1 Bad\n-Wohnfläche ca. 43 m²\n-Kunststofffenster\n-Tageslichtbad mit Wanne und WC\n-Küche, Wohnzimmer, Schlafzimmer, Abstellraum, Diele\n-Zentralheizung (Gas)\n-Eigener Kellerraum\n-Gemeinschaftstrockenraum und Waschküche im Haus\n\n# Weitere Angaben\n- Verfügbar ab: 01.12.2026\n- Bodenbelag: Fliesen, Laminat\n\n# Lagebeschreibung\nDie Wohnung liegt zentral im ruhigen Stadtteil Oberhausen-Sterkrade. Einkaufsmöglichkeiten (ca. 375 m), Schulen (ca. 650 m) und eine Haltestelle des öffentlichen Nahverkehrs direkt vor der Tür (ca. 50 m) sind fußläufig erreichbar. Die Anschlussstellen der A2/A3/A516 sind mit dem Pkw in wenigen Minuten zu erreichen.\n\n-Supermärkte: Netto (834 m), Edeka Zurheide (910 m), Aldi Süd (955 m)\n-Ärzte/Apotheken: Apotheke am Volkspark (589 m), St. Clemens Hospital (1,7 km)\n-Freizeit: Sternspielplatz (888 m), Volkspark Sterkrade (1,2 km)\nInfrastruktur (im Umkreis von 5 km):\nApotheke, Lebensmittel-Discount, Allgemeinmediziner, Kindergarten, Grundschule, Realschule, Gymnasium, Gesamtschule, Öffentliche Verkehrsmittel\n\n# Sonstiges\nEnergieträger: Gas\n\nImpressum — Angaben gemäß § 5 TMG\nHEMITO ESTATE\n\nMista & Schlünzen eGbR\n\nVertreten durch die Gesellschafter: Daniel Mista, Ole Schlünzen\n\nEssener Straße 5\n46047 Oberhausen\n\nTelefon: 0208 207 985 143\nE-Mail: info@hemito.de\n\nGesellschaftsregister: Amtsgericht Duisburg\nRegisternummer: GsR 43\n\nHinweis: die angegebenen Nebenkosten verstehen sich exkl. Heizkosten!\n\nMakleranfragen nicht erwünscht. Nach § 7 UWG sind unaufgeforderte Kontaktaufnahmen durch Makler ohne ausdrückliche Einwilligung des Empfängers verboten!\n\nohne-makler (OM) ist weder Anbieter noch Vermittler der Immobilie. OM betreibt eine Plattform für Immobilieneigentümer, die unter anderem die gleichzeitige Veröffentlichung einzelner Inserate auf mehreren Immobilienportalen ermöglicht. Die Inhalte dieser Inserate werden ausschließlich von Dritten verantwortet. Für die Richtigkeit, Vollständigkeit oder Rechtmäßigkeit der Angaben übernimmt OM keine Haftung. Hinweise auf mögliche Rechtsverstöße können jederzeit gemeldet werden und werden nach Prüfung umgehend bearbeitet.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 62 kWh/(m²*a)\n- Energieeffizienzklasse: B\n- Baujahr: 1928\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 481029",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-13T21:15:22.709428+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Hier zieht dein Leben ein – du kommst einfach hinterher.",
       "Cena (€)": 390.0,
       "Pokoje": 2.0,
@@ -1347,7 +1314,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b596c553-7b74-44dc-a249-233b0305cd19?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4adf674e-7aa2-43a2-973d-75dc74cbaeb2?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1366,39 +1333,6 @@
       "Opis": "Badewanne • Keller • Haustiere erlaubt\n\nHere's your life, moving in first — you can just follow along.\n\nRentmeisterstraße – der Name klingt, als hätte hier früher jemand die Mieten verwaltet. Heute wohnt man einfach gut in ihr. Neun Einheiten, beide Straßenseiten besetzt, Fahrn. Wer die Oderstraße kennt, weiß, was ihn erwartet: ein Stadtteil, der sich nicht aufspielt, eine Straße, die das auch nicht tut, und Nachbarn, die das ähnlich sehen. Das nennt man Konsistenz.\n\nKaltmiete: 390,00 EUR\nBetriebskosten: 170,00 EUR\nHeizkosten: 110,00 EUR\nWarmmiete: 660,00 EUR\n\nACHTUNG!\nDie Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze für eine bis zwei Personen.\n__________________________________________________\n\nRentmeisterstraße – the name sounds like someone used to manage the rents here. Today, people simply live well on it. Nine units, both sides of the street accounted for, Fahrn. Those who know Oderstraße know what to expect: a district that doesn't put on airs, a street that doesn't either, and neighbours who feel the same. That's what you call consistency.\n\nBase rent: EUR390.00\nUtility costs: EUR170.00\nHeating costs: EUR110.00\nTotal rent (incl. utilities): EUR660.00\n\nNOTICE!\nThe gross base rent (rent plus utility costs) exceeds the assessment threshold set by the authorities for one to two persons.\n\n# Ausstattung\n- Laminatboden in den Wohnräumen\n- Wände müssen vom Mieter selbst gestrichen werden\n- Wohnküche mit weißem Fliesenspiegel und Vinylboden in Holzoptik\n- modernes Wannenbad mit Fenster, weiß geflieste Wände, dunkle Bodenfliesen\n- Zugang zum Wohnzimmer über die Wohnküche\n- Gegensprechanlage\n- Keller\n- Hausmeisterservice\n________________________\n\nLaminate flooring in the living areas\nWalls to be painted by the tenant\nOpen-plan kitchen/living room with white tile splashback and wood-look vinyl flooring\nModern bathroom with tub, window, white tiled walls, and dark floor tiles\nLiving room accessed via the open-plan kitchen/living room\nIntercom system\nCellar\nCaretaker service\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Rentmeisterstraße liegt im Stadtteil Duisburg-Fahrn, einem kleinen, durch einen Grüngürtel vom Umfeld abgetrennten Wohnstadtteil im Norden Duisburgs. Die Grundversorgung ist über die Weseler Straße als Hauptachse gesichert; das benachbarte Aldenrade ergänzt das Angebot. Kindergärten, eine Grund-, Real- und Förderschule sind im Stadtteil vorhanden. Die Straßenbahn 903 sowie Buslinien verbinden Fahrn mit dem weiteren Stadtgebiet. Die A 59 verläuft an der östlichen Stadtteilgrenze.\n\n__________________________________________________\n\nRentmeisterstraße is located in the district of Duisburg-Fahrn, a small residential neighbourhood in northern Duisburg separated from its surroundings by a narrow green belt. Basic amenities are provided along the Weseler Straße as the main artery, with the adjacent district of Aldenrade extending the offering. Kindergartens, a primary school, a secondary modern and a special needs school are available within the district. Tram line 903 and bus routes connect Fahrn to the wider city. The A 59 motorway runs along the eastern district boundary.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich, Irrtum vorbehalten.\nWeitere Wohnungsangebote finden sie auf unserer Homepage: www.velero.com\n_________________________________\n\nInterested in this apartment and would like to arrange a viewing? Don't wait — get in touch with us today!\n\nYou can reach us by phone at 0172-7179864. Or simply send us a request with your full contact details, and we'll get back to you.\n\nThis offer is non-binding. Errors excepted.\nYou'll find more apartment listings on our website:\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 885-1025-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 325 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 05.05.2025\n- Baujahr (gemäß Energieausweis): 1900\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 885-1025-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Möblierte Wohnung zu vermieten, 840€ Warm, verfügbar ab 1.12.2026",
-      "Cena (€)": 400.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 50.0,
-      "Lokalizacja": "46446 Emmerich am Rhein",
-      "Odległość (km)": 2.0,
-      "Czas dojazdu (min)": 0,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/moeblierte-wohnung-zu-vermieten-840-warm-verfuegbar-ab-1-12-2026/3566608867-203-1396",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88a3f4f1-127a-435b-bd34-a983ba1c92c3?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88a3f4f1-127a-435b-bd34-a983ba1c92c3?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72c9e227-5ad6-446a-88d3-7334f3d15a75?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86fe1574-37b6-45d5-9331-6f3e2de9ca8d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11a00f63-ce71-4b0c-9a26-0209f3948395?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/530987d5-56f2-485f-9b10-7606cffc3c7a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/88a3f4f1-127a-435b-bd34-a983ba1c92c3?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/72/72c9e227-5ad6-446a-88d3-7334f3d15a75?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/86fe1574-37b6-45d5-9331-6f3e2de9ca8d?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/11a00f63-ce71-4b0c-9a26-0209f3948395?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/530987d5-56f2-485f-9b10-7606cffc3c7a?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/493ccf0d-ec90-4d20-bac0-ad864eb936e2?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cb36bb8-4b71-4f1d-8abd-e0723f4d277c?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Wir vermieten zum 1. Dezember 2026 unsere möblierte Souterrain Wohnung für 840 Euro Warm all in. Diese hat einen eigenen Eingang sowie eine eigene kleine Terrasse.\n\nLage: In 46446 Emmerich ca. zwischen Kaufland und Obi.\n\nVom Eingang kommt man in einen kleinen Flur der genug Platz für Schuhe und Jacke bietet. Von hier gelangt man in einen weiteren kleinen Flur mit Zugang zum Badezimmer ( inkl. Dusche und Badewanne ) sowie Schlafzimmer und grossem offenen Wohn- Essbereich mit kleiner Küchenzeile.\n\nInsgesamt hat die Wohnung ca 50qm. Die Miete ist eine Pauschalmiete und in den 840 Euro sind alle Nebenkosten sowie Internet enthalten. Auf Wunsch kann gegen Aufpreis ein Stellplatz dazu gemietet werden.\n\nDie Möblierung weicht leicht von den Bildern ab. Aktuell ist die Wohnung noch vermietet daher können noch keine aktuelleren Fotos gemacht werden.\n\nBei Interesse melden Sie sich gern per Nachricht mit ein paar Informationen zu sich. Wir melden uns dann schnellstmöglich bezüglich eines Besichtigungtermins.\n\nAchtung! Rauchen ist in der Wohnung nicht gestattet und es sind leider auch keine Haustiere erlaubt.\n\nBad mit wanne und Dusche, 2 Zimmer, pauschalisieren inkl internet",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-09T22:00:36.968780+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1512,7 +1446,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/66/6687ff4a-cafa-4673-ad5d-87fff5d1906b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fc/fc73dd3c-9223-4b77-b203-b0e36273a6ac?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -2949,26 +2883,6 @@
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-06T18:58:35.163504+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Moderne 2-Zi.-Whg mit Balkon!",
-      "Cena (€)": 633.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 62.0,
-      "Lokalizacja": "46537 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 35,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-zi-whg-mit-balkon-/3562041131-203-1854",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d6/d658af60-ae8f-47ba-899a-95a4df48d1b7?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-14T13:04:25.011121+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
