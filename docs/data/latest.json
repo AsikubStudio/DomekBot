@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-18T20:04:47.792512+00:00",
-  "count": 108,
+  "generated_at": "2026-11-19T02:20:34.882315+00:00",
+  "count": 109,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-18T20:04:47.792512+00:00",
+      "last_updated": "2026-11-19T02:20:34.882315+00:00",
       "interval_hours": 3
     }
   },
@@ -2539,6 +2539,39 @@
       "Opis": "Badewanne • Keller • Garage/Stellplatz\n\nDiese charmante 2-Zimmer-Etagenwohnung mit 48 m² Wohnfläche befindet sich im 1. Obergeschoss eines im Jahr 1937 erbauten Hauses in Bocholt. Das Badezimmer ist mit einem Badfenster ausgestattet und bietet zusätzlichen Komfort. Die Küche ist ohne Einrichtung, sodass Sie sie ganz nach Ihrem Geschmack gestalten können. Die Wohnung wird mit Gas beheizt und besticht durch eine ruhige Atmosphäre – ideal für entspanntes Wohnen.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-64-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\nDie Wohnung besitzt folgende Ausstattung:\n\n• weiß gefliestes Wannenbad mit Fenster\n• Bodenbelag vorhanden\n• moderner weißer Küchenfliesenspiegel\n• weiß gepflegte Decken\n• E-Check vorhanden\n• Parkmöglichkeiten unmittelbar vor dem Haus\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer äußerst attraktiven Lage, die besonders Familien und Berufstätige anspricht. In unmittelbarer Nähe sind gleich mehrere Bildungseinrichtungen zu finden, darunter auch der Biotoplehrgarten, der zum Lernen und Entdecken einlädt. Für Kinder bietet der Kubaai Spielplatz eine ideale Möglichkeit zum Spielen und Toben direkt vor der Haustür. Einkaufsmöglichkeiten sind bequem erreichbar, so sind die Filialen von ALDI Süd und REWE schnell zu Fuß oder mit dem Fahrrad erreichbar. Erholsame Stunden im Grünen können Sie im nahegelegenen Museumsgarten verbringen, der zu entspannten Spaziergängen einlädt. Medizinische Versorgung ist durch die nahe gelegenen Arztpraxen von M.D. Omar Dakik, Dr. med. Ulrich Holtkamp und Dr. Peter E. van de Velde gewährleistet. Die hervorragende Anbindung an den öffentlichen Nahverkehr wird durch zwölf Bushaltestellen in der Umgebung sichergestellt, unter anderem an der Schwartzstraße. Zudem sind die Bahnhöfe Bocholt und ein weiterer Bahnhof in wenigen Fahrminuten erreichbar, was Pendeln und Ausflüge unkompliziert macht.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 224.1 kWh/(m²*a)\n- Energieeffizienzklasse: G\n- Ausstellungsdatum: 19.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-64-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-17T18:14:11.904371+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Charmante 2-Zimmer-Etagenwohnung in ruhiger Lage von Bocholt",
+      "Cena (€)": 559.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-etagenwohnung-in-ruhiger-lage-von-bocholt/3525951041-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25410679-5d79-4fa3-bb7c-326c496c6619?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25410679-5d79-4fa3-bb7c-326c496c6619?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/00/006ee425-618e-4bc8-a539-ef1fc645c597?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/2091a381-68ce-485d-9c3c-87d14bd95b94?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d05ad39d-b8f0-4feb-a2bd-f6118642191d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/77/777c747e-8239-49ef-bb69-cf0cbc9c64bd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b85e68ac-2a07-4f81-bd21-34f07f7a6196?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0926189-2e89-4d8b-a93a-f1bc1f68f5f7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81666977-dc21-4510-919c-b57641752cd9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b9/b92d64ee-7f42-498a-847c-f4db2b62c11a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6bc9fe07-3626-4e09-a2ca-7fe080f9ba36?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33270581-78eb-4f43-b268-fa1b7e3b20f4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/26/2628236f-d9a0-416a-83d9-2d29d7835c4e?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 702.0,
+      "Opis": "Badewanne • Keller • Garage/Stellplatz\n\nDiese gemütliche 48 m² große Etagenwohnung befindet sich im Erdgeschoss eines im Jahr 1937 erbauten Hauses. Das helle Bad ist mit einem Fenster ausgestattet und bietet angenehmen Komfort. Die Küche ist unmöbliert, sodass Sie Ihren eigenen Stil verwirklichen können. Der Bodenbelag sorgt für ein angenehmes Wohngefühl. Beheizt wird die Wohnung mit Gas. In einer ruhigen Umgebung genießen Sie hier entspanntes Wohnen. Besonderheiten: Badfenster.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2282-50-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\nDie Wohnung ist wie folgt ausgestattet:\n\n• Tageslichtbad mit Wanne\n• Neuer Küchenfliesenspiegel\n• Waschküche\n• Mieterkeller\n• Gasetagenheizung\n• Isolierverglasung\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nBocholt hat viel zu bieten. Seien es die Shopping Arkaden und die historische Innenstadt mit zahlreichen Geschäften und Läden, das Freizeitbad Bahia mit Sprungturm, Rutschen und einer großen Saunalandschaft oder der Aa-See, der zum Verweilen, Entspannen oder Sport treiben einlädt. Innerhalb von Bocholt sind die Strecken kurz und die Ziele mit dem Fahrrad, dem Auto oder den öffentlichen Verkehrsmitteln schnell und gut zu erreichen.\nZudem ist Bocholt nahe der niederländischen Grenze, sodass man in kürzester Zeit im sympathischen Nachbarland ist, das weitere Freizeit- und Einkaufsmöglichkeiten bietet.\n\nDie Gertrudenstraße befindet sich Nahe des Stadtkerns und besticht durch ihre zentrale Lage. Supermärkte wie Rewe, Aldi und Netto und Geschäfte des täglichen Bedarfs sind fußläufig erreichbar.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\nDie in den Nebenkosten enthaltenen TV-Gebühren in Höhe von derzeit 12,50 EUR dienen ausschließlich der transparenten Kostendarstellung.\nDiese stellen weder Kaltmiete noch umlagefähige Betriebskosten im klassischen Sinne dar, sondern eine zusätzliche vertragliche Leistung des Vermieters, die im Rahmen des Mietvertrages geregelt wird.\nAusführliche Informationen finden Sie auf www.leg-wohnen.de.Dort stehen Ihnen außerdem die Produktinformationsblätter sowie die Vertragszusammenfassungen zu den jeweiligen Angeboten und Leistungen zur Verfügung.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 233.3 kWh/(m²*a)\n- Energieeffizienzklasse: G\n- Ausstellungsdatum: 19.10.2022\n- Baujahr (gemäß Energieausweis): 1937\n- Heizungsart: Etagenheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2282-50-M",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-19T02:20:34.879732+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
