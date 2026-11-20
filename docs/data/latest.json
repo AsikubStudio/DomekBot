@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T02:04:37.300450+00:00",
-  "count": 104,
+  "generated_at": "2026-11-20T11:00:21.033163+00:00",
+  "count": 103,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-20T02:04:37.300450+00:00",
+      "last_updated": "2026-11-20T11:00:21.033163+00:00",
       "interval_hours": 3
     }
   },
@@ -1081,39 +1081,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung Mietwohnung Etagenwohnung 47169 Duisburg Röttgersbach",
-      "Cena (€)": 350.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 67.0,
-      "Lokalizacja": "47169 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "tak",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-mietwohnung-etagenwohnung-47169-duisburg-roettgersbach/3562187829-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1efaff0-9121-4d15-9643-b7e579d9d8a0?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3a1d619-569e-496f-82c4-c453cfb801ba?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2a2b0c97-bdc7-4506-b23b-be743bc76f85?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/42/422fac3d-fe9c-4188-bd0f-77c5328a5d65?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3765ebc-4e8b-47a3-ac89-77a9d9600735?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ab/ab562be5-7f2c-4e35-a648-8d0079a06153?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/915c85a4-daaf-4437-add1-5f834fbb8246?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ee/ee397d38-3595-4aa7-b395-435876a4eda1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/842b63c6-7d66-4641-a167-ed3d80983e17?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/76700f9f-0a02-4ad7-bf27-66bebcfaef33?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4eec377a-60ef-4ac1-b102-ee26dbc80429?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92b834b3-7e2f-413b-af9b-e52b10cf0af6?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2406bd2-1970-4e11-acc7-7300c33336a3?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 625.0,
-      "Opis": "Einbauküche • Badewanne • Altbau • Keller • Haustiere erlaubt\n\nRuhige Wohnung im 3.OG in 47169 Duisburg-Röttgersbach direkt neben E-Center Engel\n\n•Tageslicht-Bad mit Wanne\n•Anschluss für die Waschmaschine im Bad\n•Einbauküche mit Spülmaschine\n•fußläufig einkaufen\n•Stellplätze bei Edeka auf dem Parkplatz verfügbar (25€/monatlich)\n•für eine Garage darf man sich gerne vormerken\n•Treppenhausreinigung und Winterdienst sind in der Miete enthalten\n\nKaltmiete 350€, Bruttokaltmiete 535€ inkl. 20€ VZ Wasser (Wasseruhr vorhanden), Warmmiete ca. 625€, Energieverbrauchskennwert 140,55kWh, Gas-Etagenheizung,\n\nBei Anfragen bitte folgende Angaben machen:\n•Personenanzahl (max. 2 Personen)\n•Alter der Personen\n•Job/Einkommen\n•Schufa positiv/negativ\n•Email für den Fragebogen\n•Telefonnummer für Rückfragen\n•Haustiere bitte näher erläutern",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-05T10:26:32.682864+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Dachgeschossapartment in Marxloh..",
       "Cena (€)": 355.0,
       "Pokoje": 2.0,
@@ -1125,7 +1092,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c51f4fa-4275-40be-b598-3f20300102ef?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/574abb03-8782-4d9d-9fb0-1b5088bbd644?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1205,7 +1172,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/099e0f48-9e82-43ab-b7d0-d849780e6d2d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/1483f3e8-6a9b-4db6-ae30-9c4cc09e0d5d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1271,7 +1238,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d30bcccb-32c0-44f4-9379-80dc2ee02503?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83cf157f-8292-45fc-a212-85993542a599?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1370,7 +1337,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6a24ba1-0e3d-4a79-87e3-85f7d96d48af?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f15ed032-7601-4686-a590-28b21a4d441d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1524,7 +1491,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Studentenwohnung - möbliert",
+      "Tytuł": "LIEBE STUDIERENDE DER FH IN BOCHOLT! Studentenwohnung - möbliert",
       "Cena (€)": 460.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 32.0,
@@ -1534,7 +1501,7 @@
       "Odległość od 's-Heerenberg (km)": null,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/studentenwohnung-moebliert/3556441633-203-1850",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/liebe-studierende-der-fh-in-bocholt-studentenwohnung-moebliert/3556441633-203-1850",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b240f4b-3ada-4483-8e0c-9e451fc0573f?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b240f4b-3ada-4483-8e0c-9e451fc0573f?rule=$_59.AUTO",
@@ -1548,12 +1515,12 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d4540113-2da9-4009-a76b-55b299debf2c?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/05/05b23603-53b6-4796-ab69-3abf6a981865?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78734b4c-630c-4e52-91b0-595649cec1d1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f44771-c990-4143-9849-faaa8963795a?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b240f4b-3ada-4483-8e0c-9e451fc0573f?rule=$_1.AUTO"
       ],
-      "Czynsz z mediami (€)": 460.0,
-      "Opis": "Möbliert/Teilmöbliert • Einbauküche\n\nIDEAL FÜR STUDENTEN DER FH:\n32 m² große erdgeschossige Einliegerwohnung mit separatem Eingang. 2 Zimmer, Küche und Bad ab sofort zu vermieten. Entfernung zur FH ca. 400 Meter! Auch die Innenstadt ist fußläufig zu erreichen. Bushaltestelle - regional und überregional (Sprinterbus Bocholt - Münster) - vor der Haustür. Euro 460,- WARMMIETE",
+      "Czynsz z mediami (€)": null,
+      "Opis": "IDEAL FÜR STUDENTEN DER FH:\n32 m² große erdgeschossige Einliegerwohnung mit separatem Eingang. 2 Zimmer, Küche und Bad ab sofort zu vermieten. Entfernung zur FH ca. 400 Meter! Auch die Innenstadt ist fußläufig zu erreichen. Bushaltestelle - regional und überregional (Sprinterbus Bocholt - Münster) - vor der Haustür. Euro 460,- WARMMIETE",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-30T17:47:34.219212+00:00"
+      "PierwszyRaz": "2026-11-20T11:00:21.032042+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
