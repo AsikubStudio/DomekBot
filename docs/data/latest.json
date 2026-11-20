@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-20T11:00:21.033163+00:00",
-  "count": 103,
+  "generated_at": "2026-11-20T19:42:12.990358+00:00",
+  "count": 102,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-20T11:00:21.033163+00:00",
+      "last_updated": "2026-11-20T19:42:12.990358+00:00",
       "interval_hours": 3
     }
   },
@@ -962,59 +962,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Sonsbeck, Hübsche kleine DG-Whg. ab 01.01.2027 zu vermieten",
-      "Cena (€)": 300.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 38.0,
-      "Lokalizacja": "47665 Sonsbeck",
-      "Odległość (km)": 27.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "tak",
-      "Kuchnia": "tak",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/sonsbeck-huebsche-kleine-dg-whg-ab-01-01-2027-zu-vermieten/3561290499-203-1404",
-      "Zdjęcie": null,
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Die hübsche 2 Zi- Dachgeschoßwohnung mit separatem Schlafraum, Küche, Abstellraum und Wannenbad wurde kürzlich komplett renoviert. Insbesondere wurden neue Dachflächenfenster mit Verdunkelungsrollos eingebaut und neue Vinylböden verlegt. Zur Whg. gehört ein privater Kellerraum, ein allgemeiner Wasch- und Trockenraum sowie ein allg. Fahrradkeller. Es sind einige Wohnmöbel vorhanden, die vom Vormieter gegen kleines Entgelt übernommen werden können. Eine Innbesichtigung ist nur nach Absprache möglich.\nEin Einkommensnachweis und eine zeitnahe Schufa-Auskunft ist zum Besichtigungstermin vorzulegen. Tel. 0160-90107082",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-04T10:32:53.267128+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Nur mit WBS - Ansprechende Dachgeschosswohnung mit Balkon in Goch",
-      "Cena (€)": 332.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 59.0,
-      "Lokalizacja": "47574 Goch",
-      "Odległość (km)": 19.0,
-      "Czas dojazdu (min)": 33,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/nur-mit-wbs-ansprechende-dachgeschosswohnung-mit-balkon-in-goch/3574477534-203-1147",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b02c5a7-ea9e-45cc-8191-30e6c97f4a56?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b02c5a7-ea9e-45cc-8191-30e6c97f4a56?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2d885df2-a08d-4dd6-9553-16a38ccf4156?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1ac0dfd2-30d1-4f47-861a-655f13ade9a5?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/eb82a489-30a8-4008-8520-96ee544100f7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0b/0bcfa6c1-221e-439f-bd31-09641ef78eaf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b801e3a3-3efb-491c-9885-8571a94b01e2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/859e1797-3512-4454-8520-db6ab1ddcd6e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89eafbf0-fe4d-4c2b-bb13-a6ebf9d6ba2a?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f8/f8368a38-97c6-48c0-9ebb-e549cd9e2d5b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/50/50e2af2d-1d9d-4562-ac4e-540c8daf9fb2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5ea563ee-0631-4011-bd50-b8da4b42f3b7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5b4da54-968a-4476-a496-f62363611924?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "+++ Vorhandener WBS erforderlich +++\n\nAb dem 1.1.2027 kann die freundliche Dachgeschoss-Wohnung im 2. OG bezogen werden. Sie befindet sich in einem ruhigen Drei-Parteien-Haus.\n\nDas Apartment umfasst ein großzügiges Wohnzimmer mit offener Küche, ein Schlafzimmer und einen Hauswirtschaftsraum.\n\nDas Wohnzimmer wurde tapeziert und gestrichen.\n\nNeben dem Badezimmer mit Badewanne ist eine weitere, seperate Dusche vorhanden.\nDer Freiraum unter der Dachschräge wurde umgebaut, sodass dieser zusätzlich als Stauraum genutzt werden kann.\n\nZur Wohnung gehört auch ein Balkon, auf dem es sich wunderbar vom Alltag erholen lässt.\n\nEine Waschmaschine findet im geteilten Waschkeller Platz.\n\nFahrräder, Kisten oder einzulagernde Gegenstände lassen sich im Keller aufbewahren.\n\n----\nLage\n----\nDas Objekt liegt in Goch. Die Innenstadt, die Realschule und der Stadt-Park sind fußläufig erreichbar.\n\nIn Laufnähe des Objekts sind mehrere Buslinien vorhanden.\nÜberregionale Ziele sind durch die nahe verkehrende Bahnlinie RE 10 gut erreichbar.\n\nIn näherer Umgebung finden Sie Restaurants, Ärzte, Bäckereien, Cafés und Supermärkte.\n\n----\nSonstiges\n----\nZur Miete ist zwingend ein Wohnberechtigungsschein (WBS) erforderlich. Es werden nur Anfragen mit vorhandenem WBS berücksichtigt.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-17T18:14:11.904371+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Ab sofort: Emmerich, 2-Zimmer-Wohnung, 345 € kalt",
       "Cena (€)": 345.0,
       "Pokoje": 2.0,
@@ -1045,6 +992,26 @@
       "Opis": "Emmerich, ruhige Lage Nähe Zentrum, 2-Zimmer-Wohnung, davon ein Zimmer mit Wohnküche, Diele und Badezimmer, 46 qm, Erdgeschoss, teilweise möbliert, Balkon, Kellerraum, Mietbeginn ab sofort oder auch später möglich, Kaltmiete 345 €, Kaution 3 Kaltmieten. Nebenkosten 80 € pro Person. Gas + Strom separat.\n\nBei Interesse schreiben Sie mir bitte. Dabei bitte angeben:\nVorname und Nachname\nAlter\nTelefon-Nr.\nE-Mail-Adresse\nSuchen Sie für sich selbst oder für jemand anderen?\nWann soll ein Mietvertrag beginnen?\nWie viele Personen sollen einziehen?\nBeruflicher Status (bspw. Arbeitnehmer, Rentner)\nBei Arbeitnehmern: Befristeter oder unbefristeter Arbeitsvertrag? Seit wann dort beschäftigt? Ist der Arbeitsvertrag ungekündigt?",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-28T20:08:04.572950+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Einziehen leicht gemacht. / Moving in made easy.",
+      "Cena (€)": 345.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 46.63,
+      "Lokalizacja": "47166 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19761640-9fd4-447f-83f8-e1adb1c2d7e0?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-10T16:50:41.770514+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1118,26 +1085,6 @@
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-29T18:07:29.769486+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Renovierte 2-Zimmer-Wohnung im 3. Obergeschoss zu vermieten! 500 € Wunschgutschein* inklusive!",
-      "Cena (€)": 370.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 55.0,
-      "Lokalizacja": "47169 Marxloh",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 42,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-im-3-obergeschoss-zu-vermieten-500-wunschgutschein-inklusive-/3471855237-203-23949",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4a/4a6abd68-2a5c-4466-82c4-589629faedac?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1238,7 +1185,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83cf157f-8292-45fc-a212-85993542a599?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c853a125-3610-49e4-8bbe-ed91615f72df?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1304,7 +1251,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/-2-0-zimmer-wohnung-im-2-og-mit-balkon-u-aufzug-/3567490903-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d3f41e5-70e8-4ff5-98f7-4e564b703b8d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1f919e8-dfe4-4277-a43d-19ae893db788?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d3f41e5-70e8-4ff5-98f7-4e564b703b8d?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec856709-e3af-4971-98d3-48defc8fb710?rule=$_59.AUTO",
@@ -1337,7 +1284,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f15ed032-7601-4686-a590-28b21a4d441d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3ceb2121-597c-4840-a067-c2a301742420?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -2472,7 +2419,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-im-2-og-in-wesel-stadtnah-ab-sofort/3550750263-203-1867",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/765a5878-b158-42bb-a1a6-4e24a3829013?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/704a5850-2b62-42f0-b752-40038243e7e9?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/765a5878-b158-42bb-a1a6-4e24a3829013?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f420c47f-379f-4a42-80f9-a4ebb0080af5?rule=$_59.AUTO",
@@ -2719,6 +2666,26 @@
       "Opis": "Mehr geht wohl kaum, diese 2,5 Zimmer Wohnung punktet mit vielem. Die offen geschnittene Etagenwohnung liegt in der ersten Etage eines gepflegten Vier-Parteien Hauses in der Weseler Innenstadt. Die Wohnung wurde 2023 kernsaniert, neue graue Fliesenböden, neues Duschbad mit weißer Keramag Keramik und grauen Fliesen, Echtglasduschtür, weiße Zimmertüren. Wohnzimmer mit Laminatboden in Old Oak mit Sonnenbalkon Richtung Süden, große helle Wohnküche zum Innenhof mit Fliesenboden, die moderne Einbauküche mit allen Einbaugeräten wird mit vermietet. Zu dem Objekt zählt noch ein separates Schlafzimmer mit Bodentiefen Fenstern, ebenfalls mit neuem Laminatboden in Old Oak, welches auf eine wunderschöne große Dachterrasse zum Innenhof hin führt . Der Eingangsbereich des Objektes wurde im Jahr 2024 neu gefliest. Die Gasheizung in dem Objekt wurde erst im Jahr 2021 erneuert. Ein Kellerraum wird ebenfalls mit vermietet. Es existiert ein gepflegter Gemeinschaftswaschkeller.\n\nDie Ausstattung im Einzelnen:\n\n- Graue Fliesenböden in Küche, Flur und Bad\n- Laminat in Old Oak in Wohnzimmer und Schlafzimmer\n- Weiße Zimmertüren\n- Graue Fliesen im Duschbad\n- Keramag Keramik\n- Echtglasduschtür\n- Einbauküche mit allen E-Geräten\n- Balkon\n- Dachterrasse\n- eigener Kellerraum\n\nDas gepflegte und fortlaufend sanierte Vier-Parteien Haus befindet sich im Herzen von Wesel in einer ruhigen Straße parallel zur Fußgängerzone. Die Anbindung an den Nahverkehr ist ausgezeichnet, der Bahnhof Wesel ist fußläufig zu erreichen. Geschäfte des täglichen Bedarf, viele Einkaufsmöglichkeiten, Restaurants und Kneipen (Kornmarkt) sowie der Heubergpark befinden sich in unmittelbarer Umgebung. Auch das Marienhospital ist fußläufig erreichbar.\n\n--- BITTE BEACHTEN UND VOLLSTÄNDIG LESEN!!!---\n\nPrivatvermietung ohne Courtage! 1. Obergeschoss ohne Aufzug, an Paar oder Einzelperson, nur nach Vorlage von SCHUFA Auskunft, Einkommens- oder Rentennachweisen und Personalausweiskopie. Keine Mieten vom Amt!!! Die Nebenkosten sind auf eine Person bezogen, bei zwei Mietern erhöhen sich diese auf EUR 200,00. Ein Die Wohnung kann von max. zwei Personen bezogen werden. Parkausweis für Anwohnerparken kann bei der Stadt Wesel für 50,00 EUR pro Jahr beantragt werden. Makler zwecklos! Bitte keine Anfragen von Personen, die gewerblich weitervermieten wollen. Die Wohnung steht NICHT zum Verkauf. Nur vollständige Anfragen mit Angabe des Berufes und der Personenanzahl, die einziehen soll, werden bearbeitet und beantwortet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T14:02:14.170456+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Individuelles Wohnen im Grünen mit guter Infrastruktur",
+      "Cena (€)": 625.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 74.0,
+      "Lokalizacja": "46325 Borken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 41,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/individuelles-wohnen-im-gruenen-mit-guter-infrastruktur/3554069816-203-1324",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db7b9f58-40dc-4cc0-b213-5779ff1d0107?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
