@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T10:43:40.229055+00:00",
+  "generated_at": "2026-11-21T18:46:40.718855+00:00",
   "count": 103,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-21T10:43:40.229055+00:00",
+      "last_updated": "2026-11-21T18:46:40.718855+00:00",
       "interval_hours": 3
     }
   },
@@ -1039,7 +1039,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/412be71a-912b-4863-9135-c0d430e05164?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80d06c66-1f5f-49b9-9533-ba6e15b28fa2?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1207,6 +1207,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Balkon Wohnung Mietwohnung 47169 Duisburg Röttgersbach",
+      "Cena (€)": 390.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 56.0,
+      "Lokalizacja": "47169 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "tak",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/balkon-wohnung-mietwohnung-47169-duisburg-roettgersbach/3562187829-203-2146",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f70cf892-01d0-4f93-8276-4a09db145666?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f70cf892-01d0-4f93-8276-4a09db145666?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/9488de98-3798-416f-ba4b-808179fa1a04?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1327f605-8158-4a62-bdc3-6720205892af?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9582627-a5c8-464e-b022-fd0af2f3ab74?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2a/2a66548b-dec5-4cef-bd1b-cd2280f9aec1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1a24bc3f-6d68-43a8-81a0-99935a789594?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/915c85a4-daaf-4437-add1-5f834fbb8246?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3ebba47c-09fc-4d79-95ac-0e1b45919c08?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b55e9143-f12d-4ed9-a5e8-1953c71f5e7e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6130726-f33b-4e01-b03c-0977abf5e8db?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d87df25b-10fd-4218-935c-c9d03bce54b2?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6cb6219-2eda-44ec-9378-87ee26561a5b?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 615.0,
+      "Opis": "Balkon • Altbau • Keller • Haustiere erlaubt\n\nWohnung mit Balkon im 2.OG in 47169 Duisburg-Röttgersbach direkt neben E-Center Engel\n\n•neueres Bad mit Dusche, weiße Türen, neue Gastherme, Balkon, Keller\n•Anschluss für die Waschmaschine im Bad\n•neue 3-fach verglaste Fenster\n•fußläufig einkaufen\n•Stellplätze bei Edeka auf dem Parkplatz verfügbar (25€/monatlich)\n•für eine Garage darf man sich gerne vormerken\n•Treppenhausreinigung und Winterdienst sind in der Miete enthalten\n•das Krankenhaus und der Revierpark Matterbusch, sowie der Jubiläumspark sind fußläufig erreichbar\n•eine Bushaltestelle ist ebenfalls in der Nähe\n\nKaltmiete 390€, Bruttokaltmiete 545€ inkl. 25€ VZ Wasser (Wasseruhr vorhanden), Warmmiete ca. 625€, Energieverbrauchskennwert 140,55kWh, Gas-Etagenheizung\n\nBei Anfragen bitte folgende Angaben machen:\n•Personenanzahl (max. 2 Personen)\n•Alter der Personen\n•Job/Einkommen\n•Schufa positiv/negativ\n•Email für den Fragebogen\n•Telefonnummer für Rückfragen\n•Haustiere bitte näher erläutern",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-21T18:46:40.717191+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Hier zieht dein Leben ein – du kommst einfach hinterher.",
       "Cena (€)": 390.0,
       "Pokoje": 2.0,
@@ -1218,7 +1251,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d48937ea-b6ee-492b-8892-86549398a3c0?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62db131f-20b3-4589-bf7a-f5c15538e7c7?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1350,7 +1383,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2b605b76-0c90-457b-958c-fd96b57babec?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5cb756e0-dcf1-42b4-a218-acac178445f7?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1534,39 +1567,6 @@
       "Opis": "IDEAL FÜR STUDENTEN DER FH:\n32 m² große erdgeschossige Einliegerwohnung mit separatem Eingang. 2 Zimmer, Küche und Bad ab sofort zu vermieten. Entfernung zur FH ca. 400 Meter! Auch die Innenstadt ist fußläufig zu erreichen. Bushaltestelle - regional und überregional (Sprinterbus Bocholt - Münster) - vor der Haustür. Euro 460,- WARMMIETE",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-20T11:00:21.032042+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Modernisierte 2 Raum Wohnung",
-      "Cena (€)": 464.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 56.0,
-      "Lokalizacja": "46395 Bocholt",
-      "Odległość (km)": 23.0,
-      "Czas dojazdu (min)": 24,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "tak",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/modernisierte-2-raum-wohnung/3575043756-203-1849",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/171cca3c-a078-4aca-b133-e5573b83eea1?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/171cca3c-a078-4aca-b133-e5573b83eea1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78acb068-d0a5-4f81-95a9-1624664be0da?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be1a4a36-e3c5-4a5c-b369-7809f378daaf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/349787d2-23e3-4999-98e5-7c3593ab3363?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c289323-35f1-4d7d-b25a-7595bcb1414c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1babe33a-84a5-4fbf-954a-6147c7ad1c43?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/171cca3c-a078-4aca-b133-e5573b83eea1?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78acb068-d0a5-4f81-95a9-1624664be0da?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/be/be1a4a36-e3c5-4a5c-b369-7809f378daaf?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/349787d2-23e3-4999-98e5-7c3593ab3363?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1c/1c289323-35f1-4d7d-b25a-7595bcb1414c?rule=$_1.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1babe33a-84a5-4fbf-954a-6147c7ad1c43?rule=$_1.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Hinweis : die abgebildete Einbauküche kann kostenpflichtig übernehmen werden\nDiese komfortable 2-Raum Wohnung befindet sich Nähe der Werther Str in Bicholt. Sie wurde vor 3-4 Jahren komplett modernisiert .\nIn den Nebenkosten sind enthalten:\nGrundsteuer\nVersicherungen\nMüllgebühren\nReinigungsdienst Hausflur\nBei Fragen melden Sie sich gern.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-18T11:14:37.033695+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1794,36 +1794,6 @@
       "Opis": "Moderne 2-Zimmer-Wohnung mit Balkon & eigenem Garten in Wesel\n\nDie gepflegte, ca. 52 m² große Hochparterre-Wohnung befindet sich auf dem Gelände der ehemaligen Reitzensteinkaserne in Wesel. Sie ist der zweite Bezug nach einer umfassenden Renovierung und überzeugt durch einen durchdachten Grundriss sowie eine helle und freundliche Wohnatmosphäre.\n\nDie Wohnung im Überblick:\n\nDas großzügige Wohn- und Esszimmer mit offener Küche bildet das Herzstück der Wohnung. Hier finden Sie ausreichend Platz zum Wohnen, Entspannen und Wohlfühlen.\n\nDas separate Schlafzimmer bietet einen angenehmen Rückzugsort. Das Badezimmer ist mit einer Badewanne ausgestattet.\n\nEin besonderes Highlight ist der Balkon mit direktem Zugang zum eigenen Garten. Hier können Sie die Ruhe genießen, entspannen und schöne Stunden im Freien verbringen.\n\nLage und Umgebung:\n\nDie Wohnung befindet sich auf einem gepflegten Privatgelände mit viel Grün innerhalb der Anlage und einem privaten Spielplatz.\n\nDer Weseler Bahnhof sowie die Innenstadt sind in wenigen Minuten erreichbar.\n\nAusstattung:\n\n- Ca. 52 m² Wohnfläche\n- Hochparterre\n- Zweiter Bezug nach umfassender Renovierung\n- 2 Zimmer\n- Großzügiger Wohn- und Essbereich mit offener Küche\n- Separates Schlafzimmer\n- Badezimmer mit Badewanne\n- Balkon mit direktem Zugang zum eigenen Garten\n- Eigener, abgeschlossener Kellerraum\n- Außenstellplatz oder Tiefgaragenstellplatz auf Wunsch verfügbar\n- Haustiere sind willkommen\n- Gepflegtes Privatgelände mit viel Grün und Spielplatz\n- Ruhige und dennoch zentrale Lage\n- Gute Anbindung an den öffentlichen Nahverkehr\n\nIdeal für Singles und junge Paare\n\nDie Wohnung eignet sich hervorragend für Singles oder junge Paare, die auf der Suche nach ihrem ersten gemeinsamen Zuhause sind.\n\nAuch Haustiere sind herzlich willkommen!\n\nInteresse geweckt?\n\nDann freuen wir uns auf Ihre Nachricht! Gerne vereinbaren wir mit Ihnen einen persönlichen Besichtigungstermin.\n\nBesichtigungen sind nach Absprache jederzeit möglich.\n\nIn den Nebenkosten sind Heizkosten enthalten.\nDie Nebenkosten wurden auf Grundlage der letzten Mieterin erstellt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-07T17:30:46.734483+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Nachmieter gesucht",
-      "Cena (€)": 500.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 45.0,
-      "Lokalizacja": "46397 Bocholt",
-      "Odległość (km)": 26.0,
-      "Czas dojazdu (min)": 36,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht/3576181900-203-1850",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/8966e6e9-1a43-4ae9-94e8-54d8e505e2d9?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2da90c29-573b-451c-9f80-53e18e4b9744?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/025e01df-c38b-4aa5-ac4e-0c17bb12915d?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/88/8884e0c4-f56b-4ecb-9087-167094985943?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06659123-189c-49dc-b8de-28be1e58fc97?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/203ca5c0-0248-412e-8b52-9f68360c92da?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/171cca3c-a078-4aca-b133-e5573b83eea1?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ff/fff04d7a-299e-4b51-b074-b92bf60f548e?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/25/25410679-5d79-4fa3-bb7c-326c496c6619?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 500.0,
-      "Opis": "Ich suche einen netten Nach-/Zwischenmieter für meine kleine gemütliche Dachgeschosswohnung in zentraler aber ruhiger Lage der bocholter Altstadt.\n\nDie Wohnung eignet sich super als erste eigene Wohnung, da ein Großteil der Möbel übernommen werden kann, und ist daher ideal für Studenten oder Azubis.\n\nBitte schicke mir bei Interesse ein paar Infos über dich.\nGerne können wir dann Fotos austauschen und/oder einen Besichtigungstermin vereinbaren.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-19T20:03:00.498754+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2732,6 +2702,26 @@
       "Opis": "Mehr geht wohl kaum, diese 2,5 Zimmer Wohnung punktet mit vielem. Die offen geschnittene Etagenwohnung liegt in der ersten Etage eines gepflegten Vier-Parteien Hauses in der Weseler Innenstadt. Die Wohnung wurde 2023 kernsaniert, neue graue Fliesenböden, neues Duschbad mit weißer Keramag Keramik und grauen Fliesen, Echtglasduschtür, weiße Zimmertüren. Wohnzimmer mit Laminatboden in Old Oak mit Sonnenbalkon Richtung Süden, große helle Wohnküche zum Innenhof mit Fliesenboden, die moderne Einbauküche mit allen Einbaugeräten wird mit vermietet. Zu dem Objekt zählt noch ein separates Schlafzimmer mit Bodentiefen Fenstern, ebenfalls mit neuem Laminatboden in Old Oak, welches auf eine wunderschöne große Dachterrasse zum Innenhof hin führt . Der Eingangsbereich des Objektes wurde im Jahr 2024 neu gefliest. Die Gasheizung in dem Objekt wurde erst im Jahr 2021 erneuert. Ein Kellerraum wird ebenfalls mit vermietet. Es existiert ein gepflegter Gemeinschaftswaschkeller.\n\nDie Ausstattung im Einzelnen:\n\n- Graue Fliesenböden in Küche, Flur und Bad\n- Laminat in Old Oak in Wohnzimmer und Schlafzimmer\n- Weiße Zimmertüren\n- Graue Fliesen im Duschbad\n- Keramag Keramik\n- Echtglasduschtür\n- Einbauküche mit allen E-Geräten\n- Balkon\n- Dachterrasse\n- eigener Kellerraum\n\nDas gepflegte und fortlaufend sanierte Vier-Parteien Haus befindet sich im Herzen von Wesel in einer ruhigen Straße parallel zur Fußgängerzone. Die Anbindung an den Nahverkehr ist ausgezeichnet, der Bahnhof Wesel ist fußläufig zu erreichen. Geschäfte des täglichen Bedarf, viele Einkaufsmöglichkeiten, Restaurants und Kneipen (Kornmarkt) sowie der Heubergpark befinden sich in unmittelbarer Umgebung. Auch das Marienhospital ist fußläufig erreichbar.\n\n--- BITTE BEACHTEN UND VOLLSTÄNDIG LESEN!!!---\n\nPrivatvermietung ohne Courtage! 1. Obergeschoss ohne Aufzug, an Paar oder Einzelperson, nur nach Vorlage von SCHUFA Auskunft, Einkommens- oder Rentennachweisen und Personalausweiskopie. Keine Mieten vom Amt!!! Die Nebenkosten sind auf eine Person bezogen, bei zwei Mietern erhöhen sich diese auf EUR 200,00. Ein Die Wohnung kann von max. zwei Personen bezogen werden. Parkausweis für Anwohnerparken kann bei der Stadt Wesel für 50,00 EUR pro Jahr beantragt werden. Makler zwecklos! Bitte keine Anfragen von Personen, die gewerblich weitervermieten wollen. Die Wohnung steht NICHT zum Verkauf. Nur vollständige Anfragen mit Angabe des Berufes und der Personenanzahl, die einziehen soll, werden bearbeitet und beantwortet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T14:02:14.170456+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Individuelles Wohnen im Grünen mit guter Infrastruktur",
+      "Cena (€)": 625.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 74.0,
+      "Lokalizacja": "46325 Borken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 41,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/individuelles-wohnen-im-gruenen-mit-guter-infrastruktur/3554069816-203-1324",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db7b9f58-40dc-4cc0-b213-5779ff1d0107?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
