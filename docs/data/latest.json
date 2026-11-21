@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-21T02:01:30.714515+00:00",
-  "count": 104,
+  "generated_at": "2026-11-21T10:43:40.229055+00:00",
+  "count": 103,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-21T02:01:30.714515+00:00",
+      "last_updated": "2026-11-21T10:43:40.229055+00:00",
       "interval_hours": 3
     }
   },
@@ -1039,7 +1039,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/19/19761640-9fd4-447f-83f8-e1adb1c2d7e0?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/41/412be71a-912b-4863-9135-c0d430e05164?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1092,7 +1092,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/57/574abb03-8782-4d9d-9fb0-1b5088bbd644?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c486481-440e-4db6-94b6-461e9cd77539?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1152,7 +1152,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/1483f3e8-6a9b-4db6-ae30-9c4cc09e0d5d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b02f00e9-4bb9-468e-a7ac-f52bef98519d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1218,7 +1218,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c8/c853a125-3610-49e4-8bbe-ed91615f72df?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d4/d48937ea-b6ee-492b-8892-86549398a3c0?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1350,7 +1350,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3ceb2121-597c-4840-a067-c2a301742420?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2b605b76-0c90-457b-958c-fd96b57babec?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1744,7 +1744,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/eg-wohnung-mieszkanie/3571463320-203-1396",
-      "Zdjęcie": null,
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/68/683a031a-47f4-4277-8797-5c623c6715a8?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/767291a7-663f-408c-ae83-ee0e5d178faf?rule=$_2.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3e/3e32e769-a403-4039-a935-9845dd93dd35?rule=$_2.AUTO",
@@ -2849,26 +2849,6 @@
       "Opis": "Suche nachmieter für meine 60qm Wohnung in Oberhausen biefang nur Arbeiter !\nAb dem 1.12.\nKein Jobcenter.\nWohnung hat schönes großes Schlafzimmer und großes Wohnzimmer .\nUnd ein großen Garten zur gemeinschaftsnutzung .",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-17T18:14:11.904371+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Moderne 2-Zimmer-EG-Wohnung in OB Schwarze Heide Neubau",
-      "Cena (€)": 650.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 63.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/moderne-2-zimmer-eg-wohnung-in-ob-schwarze-heide-neubau/3571161912-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/93ea46f9-0bd3-4d89-8ee9-4e634b7cdce1?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-16T21:44:00.165503+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
