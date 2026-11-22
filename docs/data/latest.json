@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-21T18:46:40.718855+00:00",
-  "count": 103,
+  "generated_at": "2026-11-22T01:00:43.851634+00:00",
+  "count": 104,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-21T18:46:40.718855+00:00",
+      "last_updated": "2026-11-22T01:00:43.851634+00:00",
       "interval_hours": 3
     }
   },
@@ -1039,7 +1039,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80d06c66-1f5f-49b9-9533-ba6e15b28fa2?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f94a691-682f-493b-be6d-17f2dfa4c363?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1118,6 +1118,39 @@
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-29T18:07:29.769486+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Mach diesen Ort zu deinem Zuhause /Make this place your home",
+      "Cena (€)": 376.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 52.98,
+      "Lokalizacja": "47166 Hamborn",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 40,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ddb0f-763e-417f-96c1-f1166be9934b?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ddb0f-763e-417f-96c1-f1166be9934b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33d719-b1db-4fba-b022-2198cf1e85c0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c7/c7e9abdd-f2a6-4abf-a3d0-d8f891ad6020?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ef7330e-7bb0-4bcc-ad38-adb355d6ac79?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0cf708d-7b5b-4673-a00c-7344df306c6d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d3fc951f-742e-4298-813a-832663aa328a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f04d25b-4d3d-4693-91c0-acc24372b3fb?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bb/bba8d36e-96e4-4362-a99e-b02cbc337ecd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5919fbe-3b29-47cd-9549-b20d71c768e8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae3072f0-0949-4628-9f7e-aa3f50de8934?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/dbd66e01-d404-4ca5-b963-8967f2b4d2c7?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/97ee9844-c78f-4e3e-a416-f613d47bd9b8?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 546.0,
+      "Opis": "Balkon • Badewanne\n\nDas Ensemble aus Buschstraße 39–45, Dr.-Heinrich-Laakmann-Straße 13–25, Steigerstraße 14–26 sowie Stollenstraße 8–18 in Duisburg umfasst eine beachtliche Anzahl von Wohnhäusern, die gemeinsam ein dichtes, zusammenhängendes Wohnquartier im Stadtgebiet bilden. Die Objekte verteilen sich auf vier Straßen mit jeweils eigenem Charakter – von der gepflasterten Anliegerstraße bis zur ruhigen Wohnstraße – und bieten dadurch eine Vielfalt an Wohnoptionen innerhalb desselben gewachsenen Umfelds. Das Ensemble steht für verlässliches, substanzstarkes Wohnen in einem Viertel mit gelebter Gemeinschaft.\n\nKaltmiete: 376,00 EUR\nBetriebskosten: 170,00 EUR\nHeizkosten: 104,00 EUR\nWarmmiete: 650,00 EUR\n\nACHTUNG!\nDie Anmietung über das Jobcenter für einen Ein-Personenhaushalt ist NICHT möglich. Die Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n_________________________________________________\n\nThe ensemble comprising Buschstraße 39–45, Dr.-Heinrich-Laakmann-Straße 13–25, Steigerstraße 14–26, and Stollenstraße 8–18 in Duisburg encompasses a substantial number of residential buildings that together form a dense, cohesive residential quarter within the city. The properties are spread across four streets, each with its own character – from cobblestone residential access road to quiet side street – offering a variety of living options within the same established environment. The ensemble stands for dependable, substance-rich living in a neighbourhood with a genuine sense of community.\n\nNet cold rent: EUR 376.00\nOperating costs: EUR 170.00\nHeating costs: EUR 104.00\nTotal rent including utilities: EUR 650.00\n\nATTENTION! Renting through the job center is NOT possible for a single-person household. The gross cold rent exceeds the maximum rent limit set by the authority.\n\n# Ausstattung\n- 2 Zimmer, Küche, Diele, Bad\n- Alle Räume von der Diele aus begehbar\n- geweißte Wände mit Raufasertapete\n- Küche mit weißem Fliesenspiegel und Vinylboden\n- Laminatboden in Diele, Schlaf- und Wohnzimmer\n- Weißgefliestes Wannenbad mit Fenster\n- Waschmaschinenanschluss im Badezimmer\n- Balkon\n- Kellerabteil\n- Gegensprechanlage\n- Hausmeisterservice\n- Treppenhausreinigung\n____________________________________\n\n2 rooms, kitchen, hallway, bathroom\nAll rooms accessible from the hallway\nWhitewashed walls with woodchip wallpaper\nKitchen with white tile splashback and vinyl flooring\nLaminate flooring in the hallway, bedroom and living room\nWhite-tiled bathroom with bathtub and window\nWashing machine connection in the bathroom\nBalcony\nBasement storage unit\nIntercom system\nCaretaker service\nStaircase cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Objekte liegen im Stadtteil Alt-Hamborn im Duisburger Norden – dem historischen Kern des Stadtbezirks Hamborn mit rund 73.000 Einwohnern. Alt-Hamborn ist ein lebendiges Wohnviertel mit einer Mischung aus historischer Bausubstanz und internationaler Gemeinschaft. Die Infrastruktur ist gut ausgebaut: Die Jägerstraße als Hauptgeschäftsstraße, der Hamborner Altmarkt mit dreimal wöchentlichem Markt, das St. Johannes-Hospital sowie Kitas und Schulen versorgen den Alltag. Kulturell prägt die Prämonstratenser-Abtei Hamborn – seit dem 12. Jahrhundert im Viertel verwurzelt – das Bild, ergänzt durch das Abteizentrum mit Konzert- und Kulturprogramm. Der Botanische Garten und der Stadtpark bieten grüne Erholungsflächen im direkten Umfeld.\n\n__________________________________________________\n\nThe properties are located in the Alt-Hamborn district in northern Duisburg – the historic core of the Hamborn borough with around 73,000 residents. Alt-Hamborn is a lively residential neighbourhood combining historic building fabric with an international community. Infrastructure is well developed: Jägerstraße as the main shopping street, the Hamborner Altmarkt with its market three times a week, St. Johannes Hospital, nurseries, and schools all support daily life. Culturally, the Premonstratensian Hamborn Abbey – rooted in the neighbourhood since the twelfth century – defines the character of the area, complemented by the Abteizentrum with its concert and cultural programme. The Botanical Garden and city park offer green recreational spaces in the immediate vicinity.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n______________________________________\n\nAre you interested in this apartment and would like to arrange a viewing? Then don't waste any time and get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we will get back to you.\n\nThis offer is non-binding and subject to errors and omissions.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 674-65-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 137.7 kWh/(m²*a)\n- Energieeffizienzklasse: E\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1909\n- Wesentliche Energieträger: Fernwärme, Gas\n\nAnbieter-Objekt-ID: 674-65-M",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-22T16:46:24.726198+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1251,7 +1284,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/62db131f-20b3-4589-bf7a-f5c15538e7c7?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24c30248-d4eb-4326-a4ae-9b3298ca84c4?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1383,7 +1416,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5cb756e0-dcf1-42b4-a218-acac178445f7?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a079529-7754-4d24-8bb0-c8100381feee?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1567,6 +1600,39 @@
       "Opis": "IDEAL FÜR STUDENTEN DER FH:\n32 m² große erdgeschossige Einliegerwohnung mit separatem Eingang. 2 Zimmer, Küche und Bad ab sofort zu vermieten. Entfernung zur FH ca. 400 Meter! Auch die Innenstadt ist fußläufig zu erreichen. Bushaltestelle - regional und überregional (Sprinterbus Bocholt - Münster) - vor der Haustür. Euro 460,- WARMMIETE",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-20T11:00:21.032042+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Altbauflair inklusive!",
+      "Cena (€)": 470.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 70.0,
+      "Lokalizacja": "46395 Bocholt",
+      "Odległość (km)": 25.0,
+      "Czas dojazdu (min)": 24,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/altbauflair-inklusive-/3578562386-203-1849",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1fa1820-cb0b-4adc-8514-79f19dbfcdc4?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1fa1820-cb0b-4adc-8514-79f19dbfcdc4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b94d5c1-fde6-4872-9376-c72aef335c2e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8f156859-17cd-40f6-a198-30b30b92afac?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f96d1ce-5711-467f-8d8f-49a267176c22?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79c976eb-0d6d-46e9-bb7a-4efffb3e5da6?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5d/5dccc210-4e5b-409f-87d0-436d1bf4ac0b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/802a21de-5351-4901-adc4-7d64460ff570?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63423859-2fb3-4974-bb91-60740ae64b81?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1fa1820-cb0b-4adc-8514-79f19dbfcdc4?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6b/6b94d5c1-fde6-4872-9376-c72aef335c2e?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8f/8f156859-17cd-40f6-a198-30b30b92afac?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f96d1ce-5711-467f-8d8f-49a267176c22?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Charmante 2-Zimmer-Altbauwohnung mit offenem Wohnbereich\nDiese gemütliche 2-Zimmer-Wohnung im 1. OG überzeugt mit ihrem besonderen Altbaucharme.\n\nHohe Decken und nostalgische Holztüren verleihen den Räumen eine angenehme Wohnatmosphäre. Der großzügige, offen gestaltete Wohnbereich bietet vielfältige Einrichtungsmöglichkeiten und schafft ein modernes Raumgefühl.\n\nDie separate Küche kann bei Interesse kostenpflichtig vom Vormieter übernommen werden.\nZusätzlichen Stauraum bietet eine praktische Abstellfläche innerhalb der Wohnung. Zudem steht im Keller ein Platz für die Waschmaschine zur Verfügung.\n\nNebenkosten: Die angegebenen Nebenkosten umfassen die kalten Betriebskosten. Die Verbrauchskosten für Gas, Wasser und Strom werden direkt mit der BEW Stadtwerke abgerechnet und sind vom Mieter zusätzlich zu tragen.\n\nHighlights auf einen Blick:\n2 Zimmer\nAltbau mit hohen Decken\nNostalgische Holztüren\nOffener Wohnbereich\nSeparate Küche (Übernahme möglich)\nZusätzliche Abstellfläche\nWaschmaschinenstellplatz im Keller\nDirekte Abrechnung von Gas, Wasser und Strom über die BEW Stadtwerke\nIdeal für alle, die den Charme eines Altbaus mit einer praktischen Raumaufteilung verbinden möchten",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-22T01:00:43.850064+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2702,26 +2768,6 @@
       "Opis": "Mehr geht wohl kaum, diese 2,5 Zimmer Wohnung punktet mit vielem. Die offen geschnittene Etagenwohnung liegt in der ersten Etage eines gepflegten Vier-Parteien Hauses in der Weseler Innenstadt. Die Wohnung wurde 2023 kernsaniert, neue graue Fliesenböden, neues Duschbad mit weißer Keramag Keramik und grauen Fliesen, Echtglasduschtür, weiße Zimmertüren. Wohnzimmer mit Laminatboden in Old Oak mit Sonnenbalkon Richtung Süden, große helle Wohnküche zum Innenhof mit Fliesenboden, die moderne Einbauküche mit allen Einbaugeräten wird mit vermietet. Zu dem Objekt zählt noch ein separates Schlafzimmer mit Bodentiefen Fenstern, ebenfalls mit neuem Laminatboden in Old Oak, welches auf eine wunderschöne große Dachterrasse zum Innenhof hin führt . Der Eingangsbereich des Objektes wurde im Jahr 2024 neu gefliest. Die Gasheizung in dem Objekt wurde erst im Jahr 2021 erneuert. Ein Kellerraum wird ebenfalls mit vermietet. Es existiert ein gepflegter Gemeinschaftswaschkeller.\n\nDie Ausstattung im Einzelnen:\n\n- Graue Fliesenböden in Küche, Flur und Bad\n- Laminat in Old Oak in Wohnzimmer und Schlafzimmer\n- Weiße Zimmertüren\n- Graue Fliesen im Duschbad\n- Keramag Keramik\n- Echtglasduschtür\n- Einbauküche mit allen E-Geräten\n- Balkon\n- Dachterrasse\n- eigener Kellerraum\n\nDas gepflegte und fortlaufend sanierte Vier-Parteien Haus befindet sich im Herzen von Wesel in einer ruhigen Straße parallel zur Fußgängerzone. Die Anbindung an den Nahverkehr ist ausgezeichnet, der Bahnhof Wesel ist fußläufig zu erreichen. Geschäfte des täglichen Bedarf, viele Einkaufsmöglichkeiten, Restaurants und Kneipen (Kornmarkt) sowie der Heubergpark befinden sich in unmittelbarer Umgebung. Auch das Marienhospital ist fußläufig erreichbar.\n\n--- BITTE BEACHTEN UND VOLLSTÄNDIG LESEN!!!---\n\nPrivatvermietung ohne Courtage! 1. Obergeschoss ohne Aufzug, an Paar oder Einzelperson, nur nach Vorlage von SCHUFA Auskunft, Einkommens- oder Rentennachweisen und Personalausweiskopie. Keine Mieten vom Amt!!! Die Nebenkosten sind auf eine Person bezogen, bei zwei Mietern erhöhen sich diese auf EUR 200,00. Ein Die Wohnung kann von max. zwei Personen bezogen werden. Parkausweis für Anwohnerparken kann bei der Stadt Wesel für 50,00 EUR pro Jahr beantragt werden. Makler zwecklos! Bitte keine Anfragen von Personen, die gewerblich weitervermieten wollen. Die Wohnung steht NICHT zum Verkauf. Nur vollständige Anfragen mit Angabe des Berufes und der Personenanzahl, die einziehen soll, werden bearbeitet und beantwortet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T14:02:14.170456+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Individuelles Wohnen im Grünen mit guter Infrastruktur",
-      "Cena (€)": 625.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 74.0,
-      "Lokalizacja": "46325 Borken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 41,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/individuelles-wohnen-im-gruenen-mit-guter-infrastruktur/3554069816-203-1324",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db7b9f58-40dc-4cc0-b213-5779ff1d0107?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
