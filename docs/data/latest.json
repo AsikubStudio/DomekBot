@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T01:00:43.851634+00:00",
+  "generated_at": "2026-11-22T10:48:14.490569+00:00",
   "count": 104,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-22T01:00:43.851634+00:00",
+      "last_updated": "2026-11-22T10:48:14.490569+00:00",
       "interval_hours": 3
     }
   },
@@ -1039,7 +1039,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0f94a691-682f-493b-be6d-17f2dfa4c363?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29a8473f-ba33-4843-9dd9-81a3d60d5825?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1092,7 +1092,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5c486481-440e-4db6-94b6-461e9cd77539?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f44f1027-4d94-4a0f-b931-71bdb5a88ac8?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1132,7 +1132,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ddb0f-763e-417f-96c1-f1166be9934b?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79a23ff6-e146-4da1-8ac8-4a70f5e1d2eb?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ddb0f-763e-417f-96c1-f1166be9934b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33d719-b1db-4fba-b022-2198cf1e85c0?rule=$_59.AUTO",
@@ -1185,7 +1185,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b0/b02f00e9-4bb9-468e-a7ac-f52bef98519d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87dfe7c6-efce-4b35-8389-58fb941e7788?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1284,7 +1284,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24c30248-d4eb-4326-a4ae-9b3298ca84c4?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ea/ead881ec-8fbf-4e31-aa0b-9c7d3b956170?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1339,39 +1339,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Nachmieter gesucht – 2-Zimmer-Wohnung mit Garten in Duisburg",
-      "Cena (€)": 419.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 58.0,
-      "Lokalizacja": "47167 Röttgersbach",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-2-zimmer-wohnung-mit-garten-in-duisburg/3577516363-203-26973",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e0706a2-bf2b-492e-8a0c-538ff7d0a107?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e0706a2-bf2b-492e-8a0c-538ff7d0a107?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8e/8e215805-bfbe-486d-bc3d-46ec939c9899?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f718a027-17a3-47bf-919a-aeaebecc8487?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a073bd26-50ff-401b-a617-0c4b5b50cef1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/930511c9-d422-481b-84a2-aa9cb7748b1c?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b7/b7f0cca1-4efb-40d9-b67d-db43373a3611?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/99/99b21fb7-3754-4b9d-acff-1aaea39802b7?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4e9001e5-a694-4ed7-b8e6-d81fec5be772?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5c/5cfe13b3-a508-4d2e-ab2a-708e769bf2d7?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/95/958201ff-6d35-47fa-80e3-e77d21402f35?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/30ac5ade-00ae-4f0e-a1a0-3316f1ce248a?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/80/80acd2e3-4fb9-43ce-b18b-de202ad8f31f?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 675.0,
-      "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Keller • Garten/-mitnutzung • Haustiere erlaubt\n\nIch suche ab sofort einen Nachmieter für meine schöne 58 m² große 2-Zimmer-Wohnung im Erdgeschoss mit Garten\n\nDie Wohnung befindet sich in einer schönen, ruhigen und grünen Umgebung in Duisburg-Röttgersbach. Besonders hervorzuheben ist die naturnahe Lage mit vielen Grünflächen in der Umgebung. In der Nähe befinden sich ein Golfplatz sowie ein Bauernhof, die der Gegend einen besonderen, ländlichen Charme verleihen.\n\nEckdaten zur Wohnung:\n\n• Hüskenbusch, 47167 Duisburg Röttgersbach\n• Ca. 58,99 m² Wohnfläche\n• 2 Zimmer\n• Erdgeschoss mit Garten\n• Küche kann bei Interesse übernommen werden\n• Gartenmöbel und weiteres Garteninventar können nach Absprache ebenfalls übernommen werden\n• Einzug ab sofort nach Absprache möglich\n\nWeitere Informationen:\n\nDie Wohnung ist aktuell noch bewohnt, kann aber selbstverständlich nach vorheriger Terminabsprache besichtigt werden.\n\nBei ernsthaftem Interesse oder weiteren Fragen freue ich mich über eine private Nachricht.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-21T02:01:30.712135+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "°°°  2,0 Zimmer-Wohnung im 2.OG mit Balkon u. Aufzug °°°",
       "Cena (€)": 419.0,
       "Pokoje": 2.0,
@@ -1416,7 +1383,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a079529-7754-4d24-8bb0-c8100381feee?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4b5a513-eb9a-4508-9051-cfb37a83e113?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -2768,6 +2735,26 @@
       "Opis": "Mehr geht wohl kaum, diese 2,5 Zimmer Wohnung punktet mit vielem. Die offen geschnittene Etagenwohnung liegt in der ersten Etage eines gepflegten Vier-Parteien Hauses in der Weseler Innenstadt. Die Wohnung wurde 2023 kernsaniert, neue graue Fliesenböden, neues Duschbad mit weißer Keramag Keramik und grauen Fliesen, Echtglasduschtür, weiße Zimmertüren. Wohnzimmer mit Laminatboden in Old Oak mit Sonnenbalkon Richtung Süden, große helle Wohnküche zum Innenhof mit Fliesenboden, die moderne Einbauküche mit allen Einbaugeräten wird mit vermietet. Zu dem Objekt zählt noch ein separates Schlafzimmer mit Bodentiefen Fenstern, ebenfalls mit neuem Laminatboden in Old Oak, welches auf eine wunderschöne große Dachterrasse zum Innenhof hin führt . Der Eingangsbereich des Objektes wurde im Jahr 2024 neu gefliest. Die Gasheizung in dem Objekt wurde erst im Jahr 2021 erneuert. Ein Kellerraum wird ebenfalls mit vermietet. Es existiert ein gepflegter Gemeinschaftswaschkeller.\n\nDie Ausstattung im Einzelnen:\n\n- Graue Fliesenböden in Küche, Flur und Bad\n- Laminat in Old Oak in Wohnzimmer und Schlafzimmer\n- Weiße Zimmertüren\n- Graue Fliesen im Duschbad\n- Keramag Keramik\n- Echtglasduschtür\n- Einbauküche mit allen E-Geräten\n- Balkon\n- Dachterrasse\n- eigener Kellerraum\n\nDas gepflegte und fortlaufend sanierte Vier-Parteien Haus befindet sich im Herzen von Wesel in einer ruhigen Straße parallel zur Fußgängerzone. Die Anbindung an den Nahverkehr ist ausgezeichnet, der Bahnhof Wesel ist fußläufig zu erreichen. Geschäfte des täglichen Bedarf, viele Einkaufsmöglichkeiten, Restaurants und Kneipen (Kornmarkt) sowie der Heubergpark befinden sich in unmittelbarer Umgebung. Auch das Marienhospital ist fußläufig erreichbar.\n\n--- BITTE BEACHTEN UND VOLLSTÄNDIG LESEN!!!---\n\nPrivatvermietung ohne Courtage! 1. Obergeschoss ohne Aufzug, an Paar oder Einzelperson, nur nach Vorlage von SCHUFA Auskunft, Einkommens- oder Rentennachweisen und Personalausweiskopie. Keine Mieten vom Amt!!! Die Nebenkosten sind auf eine Person bezogen, bei zwei Mietern erhöhen sich diese auf EUR 200,00. Ein Die Wohnung kann von max. zwei Personen bezogen werden. Parkausweis für Anwohnerparken kann bei der Stadt Wesel für 50,00 EUR pro Jahr beantragt werden. Makler zwecklos! Bitte keine Anfragen von Personen, die gewerblich weitervermieten wollen. Die Wohnung steht NICHT zum Verkauf. Nur vollständige Anfragen mit Angabe des Berufes und der Personenanzahl, die einziehen soll, werden bearbeitet und beantwortet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T14:02:14.170456+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Individuelles Wohnen im Grünen mit guter Infrastruktur",
+      "Cena (€)": 625.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 74.0,
+      "Lokalizacja": "46325 Borken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 41,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/individuelles-wohnen-im-gruenen-mit-guter-infrastruktur/3554069816-203-1324",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db7b9f58-40dc-4cc0-b213-5779ff1d0107?rule=$_2.AUTO",
+      "Zdjęcia": [],
+      "Czynsz z mediami (€)": null,
+      "Opis": "",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
