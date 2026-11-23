@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-22T19:08:27.633360+00:00",
-  "count": 102,
+  "generated_at": "2026-11-23T01:27:07.750225+00:00",
+  "count": 104,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-22T19:08:27.633360+00:00",
+      "last_updated": "2026-11-23T01:27:07.750225+00:00",
       "interval_hours": 3
     }
   },
@@ -1006,7 +1006,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2d260e9-3d5d-48c1-8725-2fdb9432e37a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/53/5364a9a6-a111-4b5c-8c64-dc243c099d95?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1099,7 +1099,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1f/1f887df0-277d-406e-84d8-379c3b2ef4cf?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/97/972ec8d0-2f41-4018-b3ea-0886b089a664?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ddb0f-763e-417f-96c1-f1166be9934b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33d719-b1db-4fba-b022-2198cf1e85c0?rule=$_59.AUTO",
@@ -1251,7 +1251,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/942ecbbb-e440-4324-8ee4-45ae347d7241?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc150035-697d-43b7-8b4c-4f674f757f29?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1350,7 +1350,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b658f7ab-7bd8-4124-a059-086bdb4d27ec?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3b/3b9e343a-29f2-4fb7-b2b4-0010e2b99b76?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1890,6 +1890,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Erdgeschosswohnung mit saniertem Duschbad",
+      "Cena (€)": 520.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 48.0,
+      "Lokalizacja": "46149 Oberhausen",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 39,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/erdgeschosswohnung-mit-saniertem-duschbad/3579995150-203-1290",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78b938bf-38a3-4d5e-84d9-420e1092f5fd?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/78b938bf-38a3-4d5e-84d9-420e1092f5fd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38f15003-a20d-47d1-83e0-09d624db1453?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1e4c6d2-aeb4-4936-8319-0e0223ad31b8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/89dedec0-b11d-4ecf-a6e9-650e5a8950ab?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/94/943d012f-91c6-4577-ac12-028dddd85ee5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/54dbb857-6c01-4620-9ed4-70cd74c2cc0e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b63afd78-e888-4403-a49d-98fddee97aff?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4d8b80d2-4e0c-40fc-b2a7-8f1c116be053?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a0/a0ec030e-1617-4e6c-a128-ed2f699484df?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/498865fa-d55e-43ef-9bfc-16e25151028d?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/09/09aba4bc-bd76-4f68-a26c-d0f6eefcdb49?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ec/ec262bda-eef5-4ae5-a653-adadfc92f45b?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 700.0,
+      "Opis": "Keller\n\nZur Vermietung steht eine frisch renovierte und modern geschnittene 2-Zimmer-Wohnung im Erdgeschoss eines gepflegten Mehrfamilienhauses in Oberhausen.\n\nAuf ca. 47 m² überzeugt die Wohnung durch einen zeitgemäßen, durchdachten Grundriss, der den vorhandenen Platz optimal ausnutzt. Sie eignet sich ideal für Singles oder Paare, die ein modernes Zuhause ohne Renovierungsaufwand suchen.\n\nAusstattung & Highlights:\n\nNagelneues Duschbad: Das Badezimmer wurde gerade erst komplett kernsaniert und erstrahlt in modernem Design.\n\nRenovierter Zustand: Die gesamte Wohnung ist frisch renoviert – einfach einziehen und wohlfühlen.\n\nModerner Grundriss: Helle und gut geschnittene Räume (Wohnzimmer, Schlafzimmer, Küche, Flur und Duschbad).\n\nBequeme Lage im Erdgeschoss: Kaum lästiges Treppensteigen beim Einkaufen.\n\nTop Parksituation: Direkt vor dem Haus stehen zahlreiche Parkplätze zur Verfügung, sodass die Parkplatzsuche entfällt\n\n• Waschmaschine muss in der Küche integriert\nwerden\n\nInteresse geweckt?\nBei Interesse freue ich mich über eine aussagekräftige Nachricht mit ein paar kurzen Informationen zu Ihrer Person (Name, Alter, berufliche Situation, gewünschtes Einzugsdatum). Besichtigungstermine können gerne zeitnah vereinbart werden!",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-23T01:27:07.748879+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Charmante 2-Zimmer-Wohnung in Bocholt – Helle Etagenwohnung mit Badewanne",
       "Cena (€)": 539.0,
       "Pokoje": 2.0,
@@ -2078,6 +2111,35 @@
       "Opis": "Keller\n\nDie angebotene Wohnung kann mit folgenden Merkmalen aufweisen:\n\n•ca. 68,5 m2 Wohnfläche\n•1 Schlafzimmer\n•gemütliche Wohnküche mit Zugang zum Balkon\n•neue Böden, neue Innentüren, frisch renoviert\n•Badezimmer mit Wanne\n•Kellerraum\n•verfügbar Anfang 2027\n•Tierhaltung nach Absprache\n•Nebenkosten: mtl. 190 € (inkl. Heizkosten bei 1-2 Personen)\n\n# Weitere Angaben\n- Objektzustand: vollständig renoviert\n\n# Lagebeschreibung\nDie angebotene Wohnung befindet sich mitten im Zentrum von Wesel. Die Kreisstadt Wesel liegt inmitten der idyllischen Kulturlandschaft Niederrhein und vereint sowohl urbane als auch ländliche Strukturen zu einer besonderen Standort- und Lebensqualität.\n\nGeprägt durch die vielseitigen Erholungs- und Freizeitmöglichkeiten, der Lage direkt an Rhein und Lippe, einem reichhaltigen Kulturangebot sowie ausgeprägten Shoppingmöglichkeiten ist Wesel attraktiver Ausflugs- und Anziehungspunkt in der Region. Mit ihren rund 62.000 Einwohnern gehört die Stadt an Rhein und Lippe der Ballungsrandzone des Ruhrgebiets an und verfügt über eine hervorragende Infrastruktur sowie eine verkehrsgünstige Lage.\n\nFlaniermeile, Prachtboulevard oder Champs-Elysées des Niederrheins: diese selbstbewussten Beinamen kursieren über Wesels neu gestaltete Fußgängerzone. Inmitten dieser befindet sich die angebotene Wohnung.\nVielseitige Geschäfte sowie Gastronomie, die Anbindung an den öffentlichen Nahverkehr sowie die ärztliche Versorgung sind fußläufig erreichbar.\n\nÜber die A3 kommt man innerhalb von 1 Stunde ins Ruhrgebiet, die niederländische Grenze (Venlo) erreichen Sie ebenfalls in nur 1 Stunde Fahrzeit über die A57.\n\n# Sonstiges\nEs liegt ein Energiebedarfsausweis vor.\nDieser ist gültig bis 15.7.2029.\nEndenergiebedarf beträgt 103.00 kwh/(m²*a).\nWesentlicher Energieträger der Heizung ist Gas.\nDas Baujahr des Objekts lt. Energieausweis ist 2007.\nDie Energieeffizienzklasse ist D.\n\nSonstiges:\nEs wird ein Mietverhältnis mit einem befristeten Kündigungsverzicht über 24 Monaten angestrebt.\n\nKaution:\nIm Falle der Anmietung ist eine Kaution in Höhe von 3 Monatskaltmieten in bar, als Bürgschaft oder in Form einer Kautionsversicherung beim Vermieter zu hinterlegen!\n\nHinweis:\nAlle Informationen wurden vom Makler mit der notwendigen Sorgfalt veröffentlicht. Da wir meist auf Informationen der Auftraggeber angewiesen sind, können wir keine Gewähr bzw. Garantie für die Richtigkeit übernehmen.\n\nAllgemeine Geschäftsbedingungen:\nUnsere bei diesem Angebot zugrundeliegenden Allgemeinen Geschäftsbedingungen können in unseren Geschäftsräumen oder auf unserer Homepage unter dem Punkt „Impressum“ eingesehen werden.\n\nEnergieausweis:\nArt: Energieverbrauchsausweis\nVerbrauch: 103 kWh/m² * a\nEnergieträger: Gas\nBaujahr: 2007\nEnergieeffizienzklasse: D\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Wesentliche Energieträger: GAS\n- Endenergiebedarf: 103 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Gültig bis: 2029-07-15\n- Baujahr (gemäß Energieausweis): 2007\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2026-025",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-15T16:26:53.406414+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2ZDB auf 45m² im 7. OG mit Balkon / Aufzug",
+      "Cena (€)": 550.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 45.0,
+      "Lokalizacja": "46446 Emmerich am Rhein",
+      "Odległość (km)": 2.0,
+      "Czas dojazdu (min)": 0,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2zdb-auf-45m-im-7-og-mit-balkon-aufzug/3268574403-203-1396",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba95dc87-5ff4-489f-a498-aaae4ceb90d1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/51/51f7936c-916e-475a-af4b-99f9ad47f793?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2e/2ee8e341-e6d1-47ab-a3a9-1660c2b5480a?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e6/e6ff8279-0eaf-4bf9-83e8-8c68fda6aaf9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13a2b56e-d10b-46a6-8f07-d74301c979ee?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1f6cc9b-eeca-4844-b51b-7cfc1dfc4793?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3ba3308-58d5-48a5-a0c7-350aaba7bfaa?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/1e/1e762340-23aa-44fc-a925-e6a85e7cdeee?rule=$_12.JPG"
+      ],
+      "Czynsz z mediami (€)": 720.0,
+      "Opis": "Balkon • Aufzug\n\nAb dem 01.12.2026 (alternativ 01.01.2027) bieten wir diese Single-Whg in dem Hochhaus Am Busch 41 in 46446 Emmerich am Rhein an.\n\nDie Wohnung ist für max. 2 Personen geeignet und besteht aus\n\n1x Schlafzimmer\n1x Wohnzimmer mit Küchennische\n1x Duschbad\n1x Flur\n1x Balkon\n\nDie Wohnung wurde 2021 saniert. Die Bilder sind von einer anderen vergleichbaren Wohnung und dienen nur der Veranschaulichung.\n\nEs wird eine 2% Staffelmiete vereinbart.\n\nMit Rücksichtnahme auf den derzeitigen Mieter werden so wenig Besichtigungstermine wie möglich vergeben. Aus diesem Grunde bitte ich Sie um Kontaktaufnahme via Nachrichtenfunktion von Kleinanzeigen mit folgenden Informationen zu Ihrer Person:\n\nVorname:\n\nNachname:\n\nHandynummer:\n\nBei Abschluss eines Mietvertrages wird eine Vertragsabschlussgebühr von 250,00€ fällig\n\nUnterlagen die wir vor Vertragsunterzeichnung brauchen:\n- eine Kopie Ihres Personalausweises\n- Nachweis über eine Haftpflichtversicherung\n- Nachweis über eine Glasversicherung\n- Schufa Auskunft\n- die letzten drei Lohnabrechnungen / Bescheid vom Amt\n- Mieterselbstauskunft unterschrieben zurück bitte\n\nIrrtümer vorbehalten",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-23T01:27:07.748879+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2504,6 +2566,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Helle 2-Zimmer-Erdgeschosswohnung in Sonsbeck",
+      "Cena (€)": 580.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 57.0,
+      "Lokalizacja": "47665 Sonsbeck",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 42,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-2-zimmer-erdgeschosswohnung-in-sonsbeck/3580095913-203-1404",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ec02a13-f5f5-4017-b096-10f794037505?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ec02a13-f5f5-4017-b096-10f794037505?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70175b47-4197-4f23-9c92-6f9b2db7ba00?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b81a4c55-17f0-4f8f-b996-bc50f0995c48?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1303a45c-f44b-4230-8725-dda8cc816c63?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2ba79cd3-6706-4baa-b783-61132d1cd395?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69d8774e-5706-458e-b231-5b49a8694f97?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4e/4ec02a13-f5f5-4017-b096-10f794037505?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70175b47-4197-4f23-9c92-6f9b2db7ba00?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b81a4c55-17f0-4f8f-b996-bc50f0995c48?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/1303a45c-f44b-4230-8725-dda8cc816c63?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2ba79cd3-6706-4baa-b783-61132d1cd395?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/69/69d8774e-5706-458e-b231-5b49a8694f97?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Helle 2-Zimmer-Erdgeschosswohnung in zentraler und ruhiger Lage von Sonsbeck\n\nAngeboten wird eine ca. 57 m² große 2-Zimmer-Erdgeschosswohnung in einem gepflegten Mehrfamilienhaus in zentraler und dennoch ruhiger Lage von Sonsbeck.\n\nDie Wohnung befindet sich im Erdgeschoss und verfügt über ein geräumiges Wohnzimmer, ein Schlafzimmer, eine Küche sowie ein Badezimmer mit Dusche.\n\nEin besonderes Highlight ist die neue, moderne Einbauküche in elegantem Hochglanz-Weiß, die bereits in der Kaltmiete enthalten ist. Zur hochwertigen Ausstattung gehören ein Geschirrspüler, ein Induktionskochfeld, ein Umluftbackofen sowie ein großer freistehender Kühlschrank. Damit ist die Küche bestens für den täglichen Gebrauch ausgestattet.\n\nDie Wohnung überzeugt auch durch ihre hochwertige Ausstattung. In der Küche und im Badezimmer sorgen moderne Fliesen für ein gepflegtes Erscheinungsbild, während im Schlaf- und Wohnzimmer ein neuer Laminatboden eine gemütliche Wohnatmosphäre schafft.\n\nZusätzlichen Stauraum bietet ein eigener, abschließbarer Kellerraum. Darüber hinaus steht im Keller ein großzügiger gemeinschaftlicher Hauswirtschaftsraum mit Anschlüssen für Waschmaschine und Trockner zur Verfügung.\n\nFür Fahrräder gibt es eine gemeinschaftlich genutzte Garage. PKW-Stellplätze befinden sich direkt vor der Haustür.\n\nMietkonditionen:\n\nKaltmiete inklusive neuer Einbauküche: 580,00 €\n\nNebenkosten: 75,00 €\n\nHeizkosten (Gas): 80,00 €\n\nGesamtmiete: 735,00 €\n\nKaution: 3 Kaltmieten (1.740,00 €)\n\nStrom ist vom Mieter eigenständig anzumelden.\n\nWeitere Informationen:\n\nEinzug ab dem 01.12.2026 oder nach Absprache.\n\nHaustierhaltung nur nach vorheriger Absprache.\n\nDie Wohnung verfügt über keinen Balkon und keinen Garten.\n\nEin Energieausweis liegt vor.\n\nBei Interesse freuen wir uns über eine Nachricht mit einer kurzen Vorstellung Ihrer Person.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-23T01:27:07.748879+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "Wohnung für 1 Person, zentral, PKW-Stellplatz, teil-möbliert.",
       "Cena (€)": 590.0,
       "Pokoje": 2.0,
@@ -2663,26 +2758,6 @@
       "Opis": "Mehr geht wohl kaum, diese 2,5 Zimmer Wohnung punktet mit vielem. Die offen geschnittene Etagenwohnung liegt in der ersten Etage eines gepflegten Vier-Parteien Hauses in der Weseler Innenstadt. Die Wohnung wurde 2023 kernsaniert, neue graue Fliesenböden, neues Duschbad mit weißer Keramag Keramik und grauen Fliesen, Echtglasduschtür, weiße Zimmertüren. Wohnzimmer mit Laminatboden in Old Oak mit Sonnenbalkon Richtung Süden, große helle Wohnküche zum Innenhof mit Fliesenboden, die moderne Einbauküche mit allen Einbaugeräten wird mit vermietet. Zu dem Objekt zählt noch ein separates Schlafzimmer mit Bodentiefen Fenstern, ebenfalls mit neuem Laminatboden in Old Oak, welches auf eine wunderschöne große Dachterrasse zum Innenhof hin führt . Der Eingangsbereich des Objektes wurde im Jahr 2024 neu gefliest. Die Gasheizung in dem Objekt wurde erst im Jahr 2021 erneuert. Ein Kellerraum wird ebenfalls mit vermietet. Es existiert ein gepflegter Gemeinschaftswaschkeller.\n\nDie Ausstattung im Einzelnen:\n\n- Graue Fliesenböden in Küche, Flur und Bad\n- Laminat in Old Oak in Wohnzimmer und Schlafzimmer\n- Weiße Zimmertüren\n- Graue Fliesen im Duschbad\n- Keramag Keramik\n- Echtglasduschtür\n- Einbauküche mit allen E-Geräten\n- Balkon\n- Dachterrasse\n- eigener Kellerraum\n\nDas gepflegte und fortlaufend sanierte Vier-Parteien Haus befindet sich im Herzen von Wesel in einer ruhigen Straße parallel zur Fußgängerzone. Die Anbindung an den Nahverkehr ist ausgezeichnet, der Bahnhof Wesel ist fußläufig zu erreichen. Geschäfte des täglichen Bedarf, viele Einkaufsmöglichkeiten, Restaurants und Kneipen (Kornmarkt) sowie der Heubergpark befinden sich in unmittelbarer Umgebung. Auch das Marienhospital ist fußläufig erreichbar.\n\n--- BITTE BEACHTEN UND VOLLSTÄNDIG LESEN!!!---\n\nPrivatvermietung ohne Courtage! 1. Obergeschoss ohne Aufzug, an Paar oder Einzelperson, nur nach Vorlage von SCHUFA Auskunft, Einkommens- oder Rentennachweisen und Personalausweiskopie. Keine Mieten vom Amt!!! Die Nebenkosten sind auf eine Person bezogen, bei zwei Mietern erhöhen sich diese auf EUR 200,00. Ein Die Wohnung kann von max. zwei Personen bezogen werden. Parkausweis für Anwohnerparken kann bei der Stadt Wesel für 50,00 EUR pro Jahr beantragt werden. Makler zwecklos! Bitte keine Anfragen von Personen, die gewerblich weitervermieten wollen. Die Wohnung steht NICHT zum Verkauf. Nur vollständige Anfragen mit Angabe des Berufes und der Personenanzahl, die einziehen soll, werden bearbeitet und beantwortet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T14:02:14.170456+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Individuelles Wohnen im Grünen mit guter Infrastruktur",
-      "Cena (€)": 625.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 74.0,
-      "Lokalizacja": "46325 Borken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 41,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/individuelles-wohnen-im-gruenen-mit-guter-infrastruktur/3554069816-203-1324",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/db7b9f58-40dc-4cc0-b213-5779ff1d0107?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-28T12:15:25.328319+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
