@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T23:29:05.615857+00:00",
+  "generated_at": "2026-11-24T08:41:01.871762+00:00",
   "count": 106,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-23T23:29:05.615857+00:00",
+      "last_updated": "2026-11-24T08:41:01.871762+00:00",
       "interval_hours": 3
     }
   },
@@ -1039,7 +1039,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/einziehen-leicht-gemacht-moving-in-made-easy-/3567478209-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/84/8484f3b8-0406-4a29-a5a1-261d04c95787?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2decbd0-7dd4-42e9-9aab-020cd9e83a70?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1059,32 +1059,12 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/1569f061-de8d-4af3-9c88-1a1a211af999?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ad5b752-3d36-4194-b849-08db1bd28ec9?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-04T10:32:53.267128+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Wohnung OB-Buschhausen 52 qm bezugsfertig",
-      "Cena (€)": 360.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 52.0,
-      "Lokalizacja": "46149 Oberhausen",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 39,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-ob-buschhausen-52-qm-bezugsfertig/3555722206-203-1290",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/2969a079-c9d4-45cb-8490-a82acf8f8a61?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-10-29T18:07:29.769486+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1099,7 +1079,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9469ac8-fac9-41c3-a036-bb27bf491425?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1d/1d8009f7-2a47-48f8-8ad1-466f40c89c18?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ddb0f-763e-417f-96c1-f1166be9934b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33d719-b1db-4fba-b022-2198cf1e85c0?rule=$_59.AUTO",
@@ -1132,7 +1112,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7916b349-f8c8-437c-8d2d-904306ec0388?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/712833ef-7dd2-4630-9ccc-925b3b989b38?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1198,7 +1178,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/55/55614f73-2a8a-4775-b73e-fddf713aba8d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/37/370e0975-b37c-4fa4-9322-112b628a284d?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
@@ -1297,7 +1277,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7d/7df580e9-8f44-43ea-9745-0e6929335d56?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a7/a735d342-6558-4f94-ba68-785264a96680?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1410,39 +1390,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Beecker Straße 182 - 2 ZKB Wohnung im 2.OG nur mit Wohnberechtigungsschein !!!",
-      "Cena (€)": 442.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 72.35,
-      "Lokalizacja": "47166 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/beecker-strasse-182-2-zkb-wohnung-im-2-og-nur-mit-wohnberechtigungsschein-/3290438333-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b843ea33-996b-48c8-a056-f699f5938a01?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b8/b843ea33-996b-48c8-a056-f699f5938a01?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/76/769b7785-7152-4b44-9829-ed1c8d3915e2?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/705118b6-51c9-471d-ab4f-badfdfbb083b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1d57ad6-7129-4b10-87a7-2a01c5255f12?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/70/70440387-1786-4211-bb54-1fba2d835c0f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b2/b2d9140a-dbd9-40b1-900f-33dc6872362d?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca35af95-6229-4e0e-9935-effaa32d2d07?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f5cc678c-9bf4-4148-b5f2-0b369b2c5b82?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/de/de96397d-a6a8-4a10-abc0-cfe661898cb0?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/40a49ccd-012d-4ed5-98e3-03d34eb85f3b?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5a/5a2dca0f-48c4-4c0f-a7c5-af75fc19db62?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/63ab9b6b-ceb3-4ae5-b614-1cfa9635626e?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 722.0,
-      "Opis": "Balkon • Badewanne\n\nDiese charmante Etagenwohnung zur Miete in Duisburg bietet ein komfortables und modernes Wohnambiente. Die Wohnung befindet sich in einem gepflegten Mehrfamilienhaus und besticht durch ihre hellen und freundlichen Räumlichkeiten. Für die Anmietung ist ein entsprechender Wohnberechtigungsschein notwendig.\n\nDie Wohnung verfügt über:\n- drei geräumige Zimmer, die ausreichend Platz für Ruhe und Entspannung bieten\n- schöner Balkon mit ordentlich Platz\n\nDie Wohnung ist mit modernen Bodenbelägen und einer ansprechenden Farbgestaltung versehen, die eine warme und einladende Atmosphäre schaffen. Die großzügigen Fenster sorgen für eine optimale Belichtung aller Räume und lassen natürliches Licht in die Wohnung eindringen.\n\nZusätzliche Highlights dieser Immobilie:\n- Ruhige Wohngegend mit guter Anbindung an öffentliche Verkehrsmittel und Einkaufsmöglichkeiten\n\nDiese Etagenwohnung in Duisburg bietet alles, was Sie für ein komfortables und stilvolles Wohnen benötigen. Vereinbaren Sie noch heute einen Besichtigungstermin und überzeugen Sie sich selbst von den Vorzügen dieser Immobilie.\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: modernisiert\n- Qualität der Ausstattung: Standard\n- Bodenbelag: Fliesen, Laminat, Kunststoff\n\n- Hinweis zur Kaution: 1.324,02 €\n\n- Nutzfläche: ca. 72,35 m²\n\n# Lagebeschreibung\nEntdecken Sie Ihr neues Zuhause in der charmanten Stadt Duisburg, einer lebendigen Metropole am Rhein. Diese Mietwohnung befindet sich in einer der begehrtesten Wohnlagen, die sowohl Ruhe als auch urbanes Flair vereint.\n\n- Zentrale Lage: Nur wenige Gehminuten vom Stadtzentrum entfernt, genießen Sie die Nähe zu Einkaufsmöglichkeiten, Restaurants und kulturellen Einrichtungen.\n- Ausgezeichnete Verkehrsanbindung: Die Wohnung liegt verkehrsgünstig mit direkter Anbindung an öffentliche Verkehrsmittel. Die Autobahnen A40 und A59 sind nur wenige Minuten entfernt, sodass Pendler von optimalen Verbindungsmöglichkeiten profitieren.\n- Grüne Oasen: In direkter Umgebung finden Sie zahlreiche Parks und Erholungsgebiete. Der beliebte Duisburger Stadtpark und der Kaiserberg mit seinem Zoo laden zu entspannten Spaziergängen ein.\n- Bildungseinrichtungen: In der Nähe befinden sich renommierte Schulen und Kindergärten, ideal für Familien.\n- Gesundheitswesen: Profitieren Sie von der Nähe zu Krankenhäusern und medizinischen Einrichtungen, die eine hervorragende gesundheitliche Versorgung gewährleisten.\n\nErleben Sie das Beste aus beiden Welten – Stadtleben und Natur – in dieser hervorragenden Lage in Duisburg.Entfernungen:\nFlughafen 24,5 km\nFernbahnhof 1,4 km\nBus 0 km\n\nAnbieter-Objekt-ID: Beecker Straße 182, 2.OG links",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Erstbezug! Moderne 2-Zimmer-Whg in DU-Walsum",
       "Cena (€)": 450.0,
       "Pokoje": 2.0,
@@ -1503,6 +1450,39 @@
       "Opis": "Badewanne • Keller • Dachboden\n\nVermietet wird eine 2 Zimmerwohnung. Die Wohnung verfügt über ein Wohnzimmer, ein Schlafzimmer, Badezimmer mit Badewanne und eine Küche (Ausstattung der Küche und Wohnzimmer kann vom Vormieter übernommen werden). Ebenso gehört zur Wohnung ein abschließbares Kellerabteil.\nStrom und Gas laufen über einen externen Anbieter.\nDie angegebenen Nebenkosten sind für eine Person gültig. Bei zwei Personen wird der Wasserverbrauch entsprechend angepasst.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-08T19:23:34.590854+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Charmante 2 Zimmer Wohnung mit WBS",
+      "Cena (€)": 460.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 65.0,
+      "Lokalizacja": "47546 Kalkar",
+      "Odległość (km)": 11.0,
+      "Czas dojazdu (min)": 21,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-wohnung-mit-wbs/3581033587-203-1388",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/5812d024-8577-4a67-bc22-dec1b0e945f0?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/5812d024-8577-4a67-bc22-dec1b0e945f0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6bd8925-85ba-43ea-8dea-e08cbaadb91d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2dc1d7c3-20d8-42c3-9427-7177243ebb82?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fdbb20c-d592-492e-a6a1-615d641c5463?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/489eeed6-573c-472c-8c89-8da0078fd559?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13ea8b3a-3b8f-439e-a4d7-4298cd2ba780?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/5812d024-8577-4a67-bc22-dec1b0e945f0?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6bd8925-85ba-43ea-8dea-e08cbaadb91d?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2d/2dc1d7c3-20d8-42c3-9427-7177243ebb82?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0f/0fdbb20c-d592-492e-a6a1-615d641c5463?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/489eeed6-573c-472c-8c89-8da0078fd559?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/13ea8b3a-3b8f-439e-a4d7-4298cd2ba780?rule=$_1.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Diese schöne und lichtdurchflutete 2-Zimmer-Wohnung überzeugt durch eine moderne und durchdachte Raumaufteilung. Der offene Wohn- und Essbereich schafft eine angenehme Wohnatmosphäre und bietet direkten Zugang zum Balkon, der zum Entspannen und Verweilen einlädt.\n\nWeitere Vorzüge der Wohnung sind die komfortable Fußbodenheizung, ein Aufzug sowie ein praktischer Hauswirtschaftsraum (HWR) direkt innerhalb der Wohnung, der zusätzlichen Stauraum und Platz für Haushaltsgeräte bietet.\n\nHier erwartet Sie modernes und komfortables Wohnen zum Wohlfühlen!",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-24T08:41:01.870265+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2774,6 +2754,39 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Schöne helle 2 Zimmer Wohnung mit WBS",
+      "Cena (€)": 602.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 65.0,
+      "Lokalizacja": "47533 Kleve",
+      "Odległość (km)": 8.0,
+      "Czas dojazdu (min)": 19,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "tak",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-helle-2-zimmer-wohnung-mit-wbs/3580992411-203-1125",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17afe0dc-3de1-43ba-a7a3-67a5e01748bd?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17afe0dc-3de1-43ba-a7a3-67a5e01748bd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9146668-886b-476d-b131-a3d5e9e55194?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f5/f581e980-d3db-469e-b518-4b2c2af9685b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/87/87ff5844-ae4d-445f-91aa-dd9d71ec8c68?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0a/0a3905bd-7bd6-46b0-a4d8-9fe9223b0ec0?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8a/8a42b862-d4c0-4f9b-9596-11aef8285c49?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4d28162d-6d8b-4f0d-ac1a-c3fcdc130236?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ae/ae92b9e4-c403-4140-a30e-07f5d71525ea?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/1751fa5a-c952-4129-8839-93a7ecb67116?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8a9e1d1-a913-46a3-91db-113cc21d42c1?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f6/f6150f37-bf4b-42b2-9651-0cdf8ba9d9d2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d11b311e-fa42-437d-ac8a-59d2e181c8bb?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Möbliert/Teilmöbliert • Terrasse • Einbauküche • Stufenloser Zugang • Fußbodenheizung • Neubau • Aufzug • WBS benötigt • Garage/Stellplatz • Haustiere erlaubt\n\nBITTE DIE ANZEIGE RICHTIH LESEN, VORALLEM DER TEIL MIT DER KÜCHENÜBERNAHME & DEM WOHNBERECHTIGUNGSSCHEIN!!!\n\nZur Vermietung steht eine schöne, gut geschnittene Erdgeschosswohnung mit ca. 65 m² Wohnfläche und eigener Terrasse.\nDurch die Lage im Erdgeschoss ist die Wohnung bequem erreichbar.\nAußerdem ein Großzügiger, heller Wohnbereich mit integrierter offener Küche und direktem Zugang zur Terrasse.\n\nDie vorhandene Einbauküche mit Geräten wie Backofen, Mikrowelle und Spülmaschine MUSS vom Nachmieter für einen Aufpreis von 5.000€ übernommen werden, da Sie extra für die Wohnung maßangefertigt wurde.\nNeupreis der Küche lag bei 10.999€ und ist erst 1,5 Jahr alt und im super Zustand, bis auf den Riss in der Herdplatte wie auf den Bildern zu sehen ist, funktioniert aber trotzdem einwandfrei und ohne Probleme.\n\nIm Schlafzimmer kann das Bett und der Kleiderschrank ebenfalls übernommen werden mit einem Aufpreis.\nBett 150€ und Schrank 250€.\nDiese sind ebenfalls im super Zustand.\nÜbernahme der genannten Schlafzimmermöbel ist keine Pflicht.\n\nHaustiere sind nach vorheriger Absprache mit dem Vermieter möglich.\nEinen eigenen Stellplatz fürs Auto kann man ebenfalls anmieten.\n\nWohnfläche: ca. 65 m²\nZimmer: 2 (Wohn-/Essbereich mit offener Küche, Schlafzimmer) und Bad\nNebenkosten: 102€\nWarmmiete: 602€\nBezugsfrei ab: 01.03.2027, nach Vereinbarung auch absofort möglich\n\nNUR AN NACHMIETER MIT WOHNBERECHTIGUNGSSCHEIN UND KÜCHENÜBERNAHME ABZUGEBEN!!!",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-24T08:41:01.870265+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "2-Zimmer-EG-Wohnung mit Balkon in Fusternberg",
       "Cena (€)": 610.0,
       "Pokoje": 2.0,
@@ -3000,23 +3013,22 @@
       "Odległość od 's-Heerenberg (km)": null,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/kleine-wohnung-in-emmerich-gesucht/3576373598-203-1396",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/ich-such-kleine-wohnung-in-emmerich-oder-kleve-bis-50-qm/3576373598-203-1396",
       "Zdjęcie": null,
       "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58bab363-3945-4714-ac83-ef5cc879c871?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af951db0-a66e-487c-8492-dcfe9a1bc185?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/36/36cfdbb1-7417-41fb-b8d0-911f1b0e8641?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8cb36bb8-4b71-4f1d-8abd-e0723f4d277c?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a34aa04-f631-4a1e-9663-52e9d69c5947?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d1feab64-b7da-4030-9c26-e437dd5f0143?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/49/49139786-2fd0-4f87-964e-1b4cb6696bac?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/34/342bf3a9-a07b-41fb-a2a6-b884c4c679f4?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3f/3fe7eeb9-d47b-4cb7-a49a-d7fcd1d029da?rule=$_2.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58bab363-3945-4714-ac83-ef5cc879c871?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6ce3970-7512-4c40-bbbf-316325c9bca4?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a34aa04-f631-4a1e-9663-52e9d69c5947?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6fc74f84-6c17-4693-8896-ecd2b1ebdd0c?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/af/af951db0-a66e-487c-8492-dcfe9a1bc185?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc6f6d0a-36df-4fdb-8ba7-ead77255e81e?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/92d04f57-c3a3-489e-8a36-a6ffaf9a2c27?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8c/8c5d5343-5d18-45b9-b412-a4011f9d425a?rule=$_0.AUTO"
       ],
       "Czynsz z mediami (€)": null,
       "Opis": "Wohnung für eine Personen in emmerich gesucht",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-19T20:03:00.498754+00:00"
+      "PierwszyRaz": "2026-11-24T08:41:01.870265+00:00"
     }
   ]
 }
