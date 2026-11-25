@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-24T19:59:59.046015+00:00",
-  "count": 105,
+  "generated_at": "2026-11-25T03:59:29.924358+00:00",
+  "count": 106,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-24T19:59:59.046015+00:00",
+      "last_updated": "2026-11-25T03:59:29.924358+00:00",
       "interval_hours": 3
     }
   },
@@ -1059,7 +1059,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7ad5b752-3d36-4194-b849-08db1bd28ec9?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a6/a6894b02-8ad3-40a4-af84-f76ed95de2ca?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1112,7 +1112,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/renovierte-2-zimmer-wohnung-mit-balkon-in-duisburg-zu-vermieten/3566778305-203-21101",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/71/712833ef-7dd2-4630-9ccc-925b3b989b38?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6f/6fad6241-e9f6-4fb4-8ac9-5573004a0e8e?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fd000eb-616c-43f9-a72a-1df94ad820dd?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f9/f9549d09-500e-447d-8ab4-59a972373595?rule=$_59.AUTO",
@@ -1164,39 +1164,6 @@
       "Opis": "Balkon • Altbau • Keller • Haustiere erlaubt\n\nWohnung mit Balkon im 2.OG in 47169 Duisburg-Röttgersbach direkt neben E-Center Engel\n\n•neueres Bad mit Dusche, weiße Türen, neue Gastherme, Balkon, Keller\n•Anschluss für die Waschmaschine im Bad\n•neue 3-fach verglaste Fenster\n•fußläufig einkaufen\n•Stellplätze bei Edeka auf dem Parkplatz verfügbar (25€/monatlich)\n•für eine Garage darf man sich gerne vormerken\n•Treppenhausreinigung und Winterdienst sind in der Miete enthalten\n•das Krankenhaus und der Revierpark Matterbusch, sowie der Jubiläumspark sind fußläufig erreichbar\n•eine Bushaltestelle ist ebenfalls in der Nähe\n\nKaltmiete 390€, Bruttokaltmiete 545€ inkl. 25€ VZ Wasser (Wasseruhr vorhanden), Warmmiete ca. 625€, Energieverbrauchskennwert 140,55kWh, Gas-Etagenheizung\n\nBei Anfragen bitte folgende Angaben machen:\n•Personenanzahl (max. 2 Personen)\n•Alter der Personen\n•Job/Einkommen\n•Schufa positiv/negativ\n•Email für den Fragebogen\n•Telefonnummer für Rückfragen\n•Haustiere bitte näher erläutern",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-21T18:46:40.717191+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Hier zieht dein Leben ein – du kommst einfach hinterher.",
-      "Cena (€)": 390.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 55.49,
-      "Lokalizacja": "47169 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/82/82755e32-c223-43c4-92a7-dd6a2a35df91?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/5e/5e0f1e88-5dde-4e21-b872-813bd3091e65?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6e/6eb9b9af-6ed2-4650-9a4a-0fb7353e10a6?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/160c2ae1-ad2d-477b-a695-46fa95fe3640?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/15/152bb7e8-b018-4be0-ac5f-4fad73564a83?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/92/925260ff-699a-4c41-92b7-af61f0338b83?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2f/2ff39262-a5a0-48bc-82cf-61ac64a86196?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2ab632d-323e-4c97-b8c0-bc660a02c30e?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e851fa5e-4b7f-4c97-a16f-03afefc9ca48?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a5/a53c213b-200c-47c4-bbff-5a9c44a4cae1?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f455a13d-f6ba-40ad-a96e-81630b318291?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/db/dba94475-cfd8-44c1-b645-7f14c49f02a4?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/58/58db4574-bd6c-4504-be72-9487d422e5a0?rule=$_59.AUTO"
-      ],
-      "Czynsz z mediami (€)": 560.0,
-      "Opis": "Badewanne • Keller • Haustiere erlaubt\n\nHere's your life, moving in first — you can just follow along.\n\nRentmeisterstraße – der Name klingt, als hätte hier früher jemand die Mieten verwaltet. Heute wohnt man einfach gut in ihr. Neun Einheiten, beide Straßenseiten besetzt, Fahrn. Wer die Oderstraße kennt, weiß, was ihn erwartet: ein Stadtteil, der sich nicht aufspielt, eine Straße, die das auch nicht tut, und Nachbarn, die das ähnlich sehen. Das nennt man Konsistenz.\n\nKaltmiete: 390,00 EUR\nBetriebskosten: 170,00 EUR\nHeizkosten: 110,00 EUR\nWarmmiete: 660,00 EUR\n\nACHTUNG!\nDie Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze für eine bis zwei Personen.\n__________________________________________________\n\nRentmeisterstraße – the name sounds like someone used to manage the rents here. Today, people simply live well on it. Nine units, both sides of the street accounted for, Fahrn. Those who know Oderstraße know what to expect: a district that doesn't put on airs, a street that doesn't either, and neighbours who feel the same. That's what you call consistency.\n\nBase rent: EUR390.00\nUtility costs: EUR170.00\nHeating costs: EUR110.00\nTotal rent (incl. utilities): EUR660.00\n\nNOTICE!\nThe gross base rent (rent plus utility costs) exceeds the assessment threshold set by the authorities for one to two persons.\n\n# Ausstattung\n- Laminatboden in den Wohnräumen\n- Wände müssen vom Mieter selbst gestrichen werden\n- Wohnküche mit weißem Fliesenspiegel und Vinylboden in Holzoptik\n- modernes Wannenbad mit Fenster, weiß geflieste Wände, dunkle Bodenfliesen\n- Zugang zum Wohnzimmer über die Wohnküche\n- Gegensprechanlage\n- Keller\n- Hausmeisterservice\n________________________\n\nLaminate flooring in the living areas\nWalls to be painted by the tenant\nOpen-plan kitchen/living room with white tile splashback and wood-look vinyl flooring\nModern bathroom with tub, window, white tiled walls, and dark floor tiles\nLiving room accessed via the open-plan kitchen/living room\nIntercom system\nCellar\nCaretaker service\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Rentmeisterstraße liegt im Stadtteil Duisburg-Fahrn, einem kleinen, durch einen Grüngürtel vom Umfeld abgetrennten Wohnstadtteil im Norden Duisburgs. Die Grundversorgung ist über die Weseler Straße als Hauptachse gesichert; das benachbarte Aldenrade ergänzt das Angebot. Kindergärten, eine Grund-, Real- und Förderschule sind im Stadtteil vorhanden. Die Straßenbahn 903 sowie Buslinien verbinden Fahrn mit dem weiteren Stadtgebiet. Die A 59 verläuft an der östlichen Stadtteilgrenze.\n\n__________________________________________________\n\nRentmeisterstraße is located in the district of Duisburg-Fahrn, a small residential neighbourhood in northern Duisburg separated from its surroundings by a narrow green belt. Basic amenities are provided along the Weseler Straße as the main artery, with the adjacent district of Aldenrade extending the offering. Kindergartens, a primary school, a secondary modern and a special needs school are available within the district. Tram line 903 and bus routes connect Fahrn to the wider city. The A 59 motorway runs along the eastern district boundary.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich, Irrtum vorbehalten.\nWeitere Wohnungsangebote finden sie auf unserer Homepage: www.velero.com\n_________________________________\n\nInterested in this apartment and would like to arrange a viewing? Don't wait — get in touch with us today!\n\nYou can reach us by phone at 0172-7179864. Or simply send us a request with your full contact details, and we'll get back to you.\n\nThis offer is non-binding. Errors excepted.\nYou'll find more apartment listings on our website:\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 885-1025-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 325 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 05.05.2025\n- Baujahr (gemäß Energieausweis): 1900\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 885-1025-M",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1420,6 +1387,37 @@
       "Opis": "Balkon\n\nDiese schöne 2,5 Raum Wohnung mit offener Küche zum Wohnraum und dem großen Balkon bieten ein gemütliches Wohnen. Details entnehmen Sie bitte den Fotos.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-16T21:44:00.165503+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Mietwohnung in Burlo",
+      "Cena (€)": 450.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "46325 Borken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 41,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/mietwohnung-in-burlo/3581739416-203-1324",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/114a9632-b300-4121-8de3-98bf570cf04d?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/11/114a9632-b300-4121-8de3-98bf570cf04d?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/78/787c85b9-8964-4a5e-927d-5632eeb3c67b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e7/e7220e00-5130-4d80-8c0b-f7707c67d446?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1b/1b240f4b-3ada-4483-8e0c-9e451fc0573f?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c2/c2d411dd-f806-491b-bd1a-2bb726297744?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/14383940-f40c-4d31-9cc9-c9d58cc14f8b?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8988622-f454-4a84-8bd9-c67c47201647?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/10/10701d37-bdf7-4272-98bd-ac9062b3cacd?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e8/e8f74102-e995-4987-a51d-688c42fd289a?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b1/b1fa1820-cb0b-4adc-8514-79f19dbfcdc4?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 530.0,
+      "Opis": "Diese Anzeige ist lediglich im Auftrag eingestellt worden. Alles weitere ausschließlich telefonisch auf Anfrage bei den Eigentümern zwischen 9.00 - 18.00 Uhr unter:\n\n0175/6298770",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-25T03:59:29.923027+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2818,6 +2816,39 @@
       "Opis": "Mehr geht wohl kaum, diese 2,5 Zimmer Wohnung punktet mit vielem. Die offen geschnittene Etagenwohnung liegt in der ersten Etage eines gepflegten Vier-Parteien Hauses in der Weseler Innenstadt. Die Wohnung wurde 2023 kernsaniert, neue graue Fliesenböden, neues Duschbad mit weißer Keramag Keramik und grauen Fliesen, Echtglasduschtür, weiße Zimmertüren. Wohnzimmer mit Laminatboden in Old Oak mit Sonnenbalkon Richtung Süden, große helle Wohnküche zum Innenhof mit Fliesenboden, die moderne Einbauküche mit allen Einbaugeräten wird mit vermietet. Zu dem Objekt zählt noch ein separates Schlafzimmer mit Bodentiefen Fenstern, ebenfalls mit neuem Laminatboden in Old Oak, welches auf eine wunderschöne große Dachterrasse zum Innenhof hin führt . Der Eingangsbereich des Objektes wurde im Jahr 2024 neu gefliest. Die Gasheizung in dem Objekt wurde erst im Jahr 2021 erneuert. Ein Kellerraum wird ebenfalls mit vermietet. Es existiert ein gepflegter Gemeinschaftswaschkeller.\n\nDie Ausstattung im Einzelnen:\n\n- Graue Fliesenböden in Küche, Flur und Bad\n- Laminat in Old Oak in Wohnzimmer und Schlafzimmer\n- Weiße Zimmertüren\n- Graue Fliesen im Duschbad\n- Keramag Keramik\n- Echtglasduschtür\n- Einbauküche mit allen E-Geräten\n- Balkon\n- Dachterrasse\n- eigener Kellerraum\n\nDas gepflegte und fortlaufend sanierte Vier-Parteien Haus befindet sich im Herzen von Wesel in einer ruhigen Straße parallel zur Fußgängerzone. Die Anbindung an den Nahverkehr ist ausgezeichnet, der Bahnhof Wesel ist fußläufig zu erreichen. Geschäfte des täglichen Bedarf, viele Einkaufsmöglichkeiten, Restaurants und Kneipen (Kornmarkt) sowie der Heubergpark befinden sich in unmittelbarer Umgebung. Auch das Marienhospital ist fußläufig erreichbar.\n\n--- BITTE BEACHTEN UND VOLLSTÄNDIG LESEN!!!---\n\nPrivatvermietung ohne Courtage! 1. Obergeschoss ohne Aufzug, an Paar oder Einzelperson, nur nach Vorlage von SCHUFA Auskunft, Einkommens- oder Rentennachweisen und Personalausweiskopie. Keine Mieten vom Amt!!! Die Nebenkosten sind auf eine Person bezogen, bei zwei Mietern erhöhen sich diese auf EUR 200,00. Ein Die Wohnung kann von max. zwei Personen bezogen werden. Parkausweis für Anwohnerparken kann bei der Stadt Wesel für 50,00 EUR pro Jahr beantragt werden. Makler zwecklos! Bitte keine Anfragen von Personen, die gewerblich weitervermieten wollen. Die Wohnung steht NICHT zum Verkauf. Nur vollständige Anfragen mit Angabe des Berufes und der Personenanzahl, die einziehen soll, werden bearbeitet und beantwortet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T14:02:14.170456+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Wohnung für Single in der City von Wesel - Nähe Marienhospital",
+      "Cena (€)": 650.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 60.0,
+      "Lokalizacja": "46483 Wesel",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 32,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-fuer-single-in-der-city-von-wesel-naehe-marienhospital/3581794044-203-1867",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20839bbb-919b-4642-85b0-c5fa94155f8b?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20839bbb-919b-4642-85b0-c5fa94155f8b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4b/4be82a4a-c558-4893-87e5-79ed456501ba?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/54/544f6e1d-a238-4126-b07e-7a93934cdd43?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9af897d0-7455-40b1-82f4-17b30ca75f62?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/27/279508ba-5bba-4e5c-a86b-92dad548dc42?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/65/6503c6cf-88f0-43a1-8c1d-c5656129859f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/89/895543d9-3922-4f9b-83fe-3d60e987d48f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/cabe7fba-ba21-4657-aee6-c6c7e4348c8f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4f/4fb9660f-207f-4791-ac55-f6ed474b1615?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2a8dfff-8053-4e6b-81e5-89b643f25cf4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/74/7415b4c6-1a5d-46a1-acdc-fdd0098f181f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/8d/8d17931d-c069-47f0-9fc4-aa74bc3e3cf3?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Charmantes 2-Zimmer-Appartement mit Holzfußboden und Balkon in zentraler Lage von Wesel. 4 Minuten Gehzeit zum Marienhospital.\n\nIn der Torfstraße 3, mitten in der Weseler Innenstadt, befindet sich dieses charmante, ca. 60 m² große Appartement im 1. Obergeschoss eines gepflegten Mehrfamilienhauses.\n\nDie Wohnung besticht durch ihren schönen Holzfußboden, eine angenehme Wohnatmosphäre und die zentrale Lage mit kurzen Wegen zu Einkaufsmöglichkeiten, Gastronomie und öffentlichen Verkehrsmitteln.\n\nAusstattung:\nCa. 60 m² Wohnfläche\n2 Zimmer und gefliestem Bad\nGasheizung, Gas- und Stromabschlag zahlt der Mieter\n\nObergeschoss:\nSchöner Holzfußboden\nEinbauküche und Balkon\n\nDie Wohnung eignet sich ideal für eine Einzelperson. Gesucht werden zuverlässige Mieter mit Interesse an einem langfristigen Mietverhältnis.\n\nVoraussetzungen für die Anmietung:\n\n- Positive SCHUFA-Auskunft\n- Aktueller Einkommensnachweis\n- Vermieternachweis (Mietschuldenfreiheitsbescheinigung)\n\nEine Vermietung im Rahmen einer WBS-geförderten Wohnraumvermittlung ist nicht vorgesehen.\n\nBitte richten Sie Ihre Anfrage mit aussagekräftigen Angaben zu Ihrer Person, Ihrer beruflichen Situation, Ihrem monatlichen Nettoeinkommen und dem gewünschten Einzugstermin an mich.\n\nAnfragen ohne entsprechende Angaben können leider nicht berücksichtigt werden!",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-25T03:59:29.923027+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
