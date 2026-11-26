@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-25T16:54:17.362576+00:00",
-  "count": 103,
+  "generated_at": "2026-11-26T01:39:58.768029+00:00",
+  "count": 105,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-25T16:54:17.362576+00:00",
+      "last_updated": "2026-11-26T01:39:58.768029+00:00",
       "interval_hours": 3
     }
   },
@@ -866,6 +866,35 @@
     },
     {
       "Portal": "Kleinanzeigen",
+      "Tytuł": "Nachmieter gesucht",
+      "Cena (€)": 1.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 58.0,
+      "Lokalizacja": "46535 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 41,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht/3582657878-203-1853",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f5668e7-581c-43b1-88f0-7a3d9b31697f?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f5668e7-581c-43b1-88f0-7a3d9b31697f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9542925-1ce5-4711-b50e-1bbae0c78976?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33bdbc43-8d09-448d-aa4f-a95d2e6bcdbf?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4fc28dc-0e31-4ed4-a858-db4a57ad6797?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/3066b705-8dbd-4b33-be39-f6d604e2fc5f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7939f4dc-0673-49ca-9f8a-dfa9cb094f3f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbd64f17-d945-4e8f-8ecb-f2f0c60cb0ff?rule=$_0.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2b114cf9-f008-43fb-84e2-95eb4e3f3db2?rule=$_0.AUTO"
+      ],
+      "Czynsz z mediami (€)": 640.0,
+      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nIch (Jan Rimböck) suche ab Januar 2027 einen Nachmieter für meine Wohnung in der Grenzstraße 41a in Dinslaken.\n\nDie Wohnung kostet mich aktuell 640€ Warmmiete, ein dazugehöriger Stellplatz für 30€ monatlich ist vor dem Gebäude verfügbar.\n\nDie Wohnung hat einen geräumigen Balkon und ein zugehöriges Kellerabteil.\n\nDie Einbauküche sollte vom neuen Mieter übernommen werden (VB).\nDie Möbel auf den Bildern sind zum Großteil auch einzeln inseriert, was bei Besichtigung noch da ist kann auch gerne übernommen werden falls gewünscht.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-26T01:39:58.766850+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
       "Tytuł": "2,5 Zimmer im Erdgeschoss mit Balkon und Garten in Walsum",
       "Cena (€)": 1.0,
       "Pokoje": 2.0,
@@ -1059,7 +1088,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/96/96f5b545-8f5b-4ac3-a814-50ecb49693c7?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d2/d2328515-92d4-41da-adc6-d2eae96b34a1?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ddb0f-763e-417f-96c1-f1166be9934b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33d719-b1db-4fba-b022-2198cf1e85c0?rule=$_59.AUTO",
@@ -1257,7 +1286,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/62/6200ee1f-777b-47d8-8b1e-41553f3fce1e?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/2413c08e-45cf-4ca2-8203-c92eee56489b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1276,31 +1305,6 @@
       "Opis": "Badewanne • Keller\n\nDie Adressen Bremenstraße 28, 30, 30a, 32, 34, 34a, 36, 38, 38a, 40, 42, 42–44, 44 und 46 bilden einen zusammenhängenden Abschnitt der historischen Josef-Kolonie im Duisburger Stadtteil Alt-Hamborn. Die Siedlung, im Volksmund „Jupp-Kolonie' genannt, wurde im frühen 20. Jahrhundert als Werkswohnungsbau errichtet und ist bis heute als geschlossenes, ruhiges Wohnquartier erhalten. Die Gebäude fügen sich in ein einheitliches städtebauliches Bild ein und bieten ein Wohnumfeld mit eigenem, gewachsenem Charakter in unmittelbarer Nähe zur Abtei Hamborn.\n\nKaltmiete: 425,00 EUR\nBetriebskosten: 190,00 EUR\nHeizkosten: 115,00 EUR\nWarmmiete: 730,00 EUR\n\nACHTUNG!\nDie Anmietung über das Jobcenter für einen Ein- und Zwei-Personenhaushalt ist NICHT möglich!\nDie Bruttokaltmiete übersteigt die vom Amt festgesetzte Bemessungsgrenze.\n__________________________________________________\n\nThe addresses Bremenstraße 28, 30, 30a, 32, 34, 34a, 36, 38, 38a, 40, 42, 42–44, 44 and 46 form a cohesive section of the historic Josef-Kolonie in the Duisburg district of Alt-Hamborn. The settlement, known locally as the 'Jupp-Kolonie', was built in the early 20th century as workers' housing and remains intact today as a self-contained, quiet residential quarter. The buildings fit into a uniform urban streetscape and offer a residential environment with its own distinct, organically grown character in immediate proximity to Hamborn Abbey.\n\nBase rent (excluding utilities): EUR425.00\nService charges (operating costs): EUR190.00\nHeating costs: EUR115.00\nTotal rent (including service charges and heating): EUR730.00\n\nNOTICE! Renting through the Jobcenter (German job center) for a one- or two-person household is NOT possible! The gross base rent (base rent plus service charges) exceeds the maximum eligible rent limit set by the authority.\n\n# Ausstattung\n- 2 großzügige Zimmer, Küche, Diele, Bad\n- Zugang zum Schlafzimmer über das Wohnzimmer\n- geweißte Wände mit Raufasertapete\n- Küche mit weißem Fliesenspiegel und Vinylboden\n- Laminatboden in Diele und Wohn- und Schlafzimmer\n- Weißgefliestes Wannenbad, innenliegend\n- Kellerabteil\n- Gegensprechanlage\n- Hausmeisterservice\n- Treppenhausreinigung\n__________________________________________\n\n2 spacious rooms, kitchen, hallway, bathroom\nAccess to the bedroom through the living room\nWhitewashed walls with woodchip wallpaper\nKitchen with white tile splashback and vinyl flooring\nLaminate flooring in the hallway, living room, and bedroom\nBathtub with white tiles, interior bathroom (no window)\nStorage room in the basement\nIntercom system\nCaretaker service\nStaircase cleaning\n\n# Weitere Angaben\n- Verfügbar ab: sofort\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nAlt-Hamborn ist ein Stadtteil, der hält, was er verspricht. Die Abteischule und die Abtei-Grundschule an der Jägerstraße – gerade neu gedacht und erweitert – geben Kindern im Quartier einen guten Start. Das Abtei-Gymnasium und das Leibniz-Gymnasium begleiten sie weiter. Kitas sind da, das Helios Klinikum und das Katholische Klinikum St. Johannes ebenfalls. Abends lädt das Abteizentrum ein, der Botanische Garten Hamborn gibt Raum zum Durchatmen. Und wer morgens in Bus oder Bahn steigt, ist schnell dort, wo er hin muss. Ein Viertel, das funktioniert – und in dem die Jupp-Kolonie seit über hundert Jahren ihren Platz hat.\n\n__________________________________________________\n\nAlt-Hamborn is a district that delivers on its promises. The Abteischule and the Abtei-Grundschule on Jägerstraße – currently reimagined and expanded – give children in the neighbourhood a strong start. The Abtei-Gymnasium and Leibniz-Gymnasium accompany them further. Childcare is available, as are the Helios Klinikum and the Katholisches Klinikum St. Johannes. In the evenings, the Abteizentrum invites, and the Hamborn Botanical Garden offers space to breathe. And those who board a bus or tram in the morning quickly reach wherever they need to be. A neighbourhood that works – and in which the Jupp-Kolonie has held its place for over a hundred years.\n\n# Sonstiges\nSie haben Interesse an dieser Wohnung und möchten diese besichtigen?\nDann sollten Sie keine Zeit verlieren und mit uns Kontakt aufnehmen!\n\nSie erreichen uns telefonisch unter 0172-7179864. Oder senden Sie uns einfach eine Anfrage mit Ihren vollständigen Kontaktdaten, wir setzen uns dann mit Ihnen in Verbindung.\n\nDieses Angebot ist unverbindlich- Irrtum vorbehalten.\n\nwww.velero.com\n___________________________________\n\nAre you interested in this apartment and would like to view it? Then don't waste any time and get in touch with us!\n\nYou can reach us by phone at 0172-7179864. Or simply send us an inquiry with your full contact details, and we will get back to you.\n\nThis offer is non-binding, subject to errors and changes.\n\nwww.velero.com\n\nHaben Sie Interesse? Sie erreichen uns jederzeit via Messenger! Senden Sie die Objekt-Id 825-10-M per WhatsApp, Telegram oder Signal an 0151-424 843 28. Oder per Threema an *VELERO8.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Energieverbrauch: 115.2 kWh/(m²*a)\n- Energieeffizienzklasse: D\n- Gültig bis: 11-2023\n- Baujahr (gemäß Energieausweis): 1908\n- Heizungsart: Zentralheizung\n- Wesentliche Energieträger: Fernwärme, Gas\n\nAnbieter-Objekt-ID: 825-10-M",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T21:15:22.709428+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Wohnung in Haldern zu Vermieten",
-      "Cena (€)": 430.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 79.0,
-      "Lokalizacja": "46459 Rees",
-      "Odległość (km)": 16.0,
-      "Czas dojazdu (min)": 19,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/wohnung-in-haldern-zu-vermieten/3579814300-203-1389",
-      "Zdjęcie": null,
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/81f44771-c990-4143-9849-faaa8963795a?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/012eb23d-5d4a-47a8-aed5-2bff6a0dc81b?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3a/3a34aa04-f631-4a1e-9663-52e9d69c5947?rule=$_2.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/17/17deeb52-f9b9-454a-9082-f1c7dfff2af5?rule=$_2.AUTO"
-      ],
-      "Czynsz z mediami (€)": null,
-      "Opis": "Schöne Wohnung in Haldern zu Vermieten.\n\n- 79qm\n- Süd Balkon\n- Großer Kellerraum\n- Ab 01.03.27 oder früher\n- Gas Etagen Heizung\n\nBei Interesse unter 01719206195 melden",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-22T19:08:27.632326+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1330,6 +1334,39 @@
       "Opis": "Einbauküche • Badewanne • Garage/Stellplatz\n\nLage\nDie Wohnung befindet sich in einer freundlichen Nachbarschaft in dem kleinen Dorf Kranenburg-Mehr. Hier können Sie die Ruhe genießen, finden viele schöne Radwege und ein intaktes und aktives Dorfleben.\n\nAusstattung\n• Wohnesszimmer: Genießen Sie den schönen Blick in den Garten, der für eine ruhige und grüne Atmosphäre sorgt. Einbauküche: Eine Küchenzeile mit kleinem Herd und Backofen\n•\tBadezimmer: Das Tageslichtbad mit Fenster und Badewanne bietet Ihnen einen Ort der Entspannung, hier ist auch ein Waschmaschinenanschluss. Alle Fugen im Bad wurden 2026 erneuert.\n•\tSchlafzimmer: Ein gemütlicher Rückzugsort mit ausreichend Platz für Bett und Schrank.\n•\tAbstellraum: Praktischer Stauraum für Utensilien, die man verstauen will. Im Nebengang steht ein Gefrierschrank mit Tiefkühlfächern und hier ist auch eine Garderobe.\n•\tStellplatz vorhanden / ggf. besteht die Möglichkeit ein Fahrrad in die Garage im Haupthaus zu stellen\n\nIn den Nebenkosten sind auch die Heizkosten enthalten, die bei den aktuellen Energiekosten immer am Ende des Jahres noch einmal nach Verbrauch nachkalkuliert werden. Nicht enthalten sind Strom und ein DSL-Anschluss.\n\nBei Interesse senden Sie mir bitte eine kurze Beschreibung ihrer Person und ihrer beruflichen Situation zu. Erste Besichtigungen finden Ende November/Anfang Dezember 2026 statt.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-01T12:47:16.663412+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "2-Zi-Wohnung KDB, 51m², 2. OG, komplett renoviert, einzugsbereit",
+      "Cena (€)": 430.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 51.0,
+      "Lokalizacja": "47167 Neumühl",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 38,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zi-wohnung-kdb-51m-2-og-komplett-renoviert-einzugsbereit/3582527932-203-21101",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5b8c2a8-2dc2-41e0-bc8e-3dd343ddc548?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c5/c5b8c2a8-2dc2-41e0-bc8e-3dd343ddc548?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/04/04b1ae73-dc68-4ea9-b772-c913f27a8ac8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d17e82cb-ec2e-42a8-9e37-bd510adf8952?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02a83a46-16dc-4e80-99bb-48f2b7369599?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f78af442-2457-4533-b8dc-b210d0975067?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7b/7bcf6755-4443-43db-9c10-8b0543fc7a24?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2bb36fde-f129-472c-806f-dda10889ac19?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/16/16b002ed-a2ee-485d-b4a3-f736f8165f0b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/45/454246da-3158-46ef-aeb1-aa6dca1e37e9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/98d1bd69-46bc-4e0a-9ff4-eeda99f43ab4?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38bb2a57-acd1-42f8-84d9-ad69d6a2ef01?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5d667b9-40a5-4fca-b5f9-76390ed40fd7?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 650.0,
+      "Opis": "Badewanne • Keller • Dachboden • Garten/-mitnutzung\n\n2. OG Dachgeschoss, DU-Neumühl, Grenze OB-Buschhausen & OB-Biefang, komplett renoviert, neue Fenster und neue Elektrik, hochwertiges Vinyl in WZ, SZ, Flur und KÜ, neues Bad mit Fliesen, Wanne und Fenster, alles frisch gestrichen, einzugsbereit, Satelliten-TV, Gegensprechanlage, Keller, Waschküche, Trockenspeicher, Kaution: 3 Netto-Monatsmieten, ruhiges 6-Parteien-Haus, Gartenmitbenutzung, Energieausweis vorhanden.\nEntfernungen Bäcker: 230m, Metzger: 260m, Supermarkt: 1,2km, Autobahn: 2,2km, Grundschule: 1,2km.\nFür Terminvereinbarung bitte Namen, Telefonnummer und derzeitige Tätigkeit angeben",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-26T01:39:58.766850+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1818,6 +1855,39 @@
       "Opis": "Modernisierte 2-Zimmer-Dachgeschosswohnung mit zusätzlichem Raum – ca. 53 m² in Emmerich\n\nObjektbeschreibung\n\nZur Vermietung steht eine gepflegte, im Jahr 2021 umfassend modernisierte 2-Zimmer-Dachgeschosswohnung mit einer Wohnfläche von ca. 53 m² in der ’s-Heerenberger Straße 81, 46446 Emmerich am Rhein.\n\nDie Wohnung eignet sich ideal für eine Einzelperson oder einen Haushalt mit maximal zwei Personen.\n\nDurch die umfassende Modernisierung im Jahr 2021 präsentiert sich die Wohnung in einem gepflegten und zeitgemäßen Zustand.\n\nEin besonderes Extra ist ein zusätzlicher Raum, der sich vielseitig nutzen lässt – beispielsweise als Homeoffice, Spielzimmer, Hobbyraum oder Vorratsraum.\n\nEin eigener Balkon ist nicht vorhanden. Es besteht jedoch die Möglichkeit, einen kleinen Gemeinschaftsgarten mitzunutzen.\n\nEin separater Kellerraum gehört ebenfalls zur Wohnung. Ein PKW-Stellplatz steht für monatlich 30 € zur Verfügung.\n\nLage und Umgebung\n\nDie Wohnung befindet sich in einer zentralen Lage von Emmerich am Rhein und überzeugt durch ihre gute Infrastruktur.\n\n* Supermarkt in nur ca. 2–3 Gehminuten erreichbar\n* Schwimmbad ebenfalls nur ca. 2–3 Gehminuten entfernt\n* Weitere Einkaufsmöglichkeiten und Supermärkte in unmittelbarer Umgebung\n* Gymnasium in direkter Nähe\n* Kurze Wege zu Einrichtungen des täglichen Bedarfs\n\nMietkonditionen\n\nWohnfläche: ca. 53 m²\nZimmer: 2 zzgl. zusätzlichem Raum\nKaltmiete: 515,00 € monatlich\nPKW-Stellplatz: 30,00 € monatlich\nKaution: 1.545,00 € (3 Nettokaltmieten)\n\nNebenkostenvorauszahlung:\n\n* 1 Person: ca. 170,00 € monatlich\n* 2 Personen: ca. 195,00 € monatlich\n\nMonatliche Gesamtmiete inklusive Stellplatz:\n\n* 1 Person: ca. 715,00 €\n* 2 Personen: ca. 740,00 €\n\nWichtige Hinweise für Mietinteressenten\n\nAufgrund der erfahrungsgemäß hohen Anzahl an Wohnungsanfragen bitten wir um Verständnis, dass ausschließlich vollständige und aussagekräftige Anfragen berücksichtigt werden können.\n\nBitte teilen Sie uns bereits bei Ihrer ersten Kontaktaufnahme folgende Informationen mit:\n\n1. Vollständiger Vor- und Nachname aller einziehenden Personen\n2. Aktuelle Wohnanschrift und Wohnort\n3. Telefonnummer für eine mögliche Kontaktaufnahme\n4. Anzahl der einziehenden Personen\n5. Aktuelle berufliche Tätigkeit und Arbeitgeber\n6. Dauer des bestehenden Beschäftigungsverhältnisses\n7. Angaben zu eventuell vorhandenen Haustieren\n\nEin Beschäftigungsnachweis kann bei weitergehendem Interesse im Rahmen des Bewerbungsverfahrens angefordert werden.\n\nBitte beachten Sie: Anfragen ohne die oben genannten Informationen können aufgrund der Vielzahl an Interessenten leider nicht berücksichtigt werden.\n\nWir freuen uns auf Ihre aussagekräftige Anfrage",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-10-25T15:40:46.138730+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Gemütliche 2-Zimmer-Etagenwohnung in Bocholt – Ideal für Singles oder Paare",
+      "Cena (€)": 519.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 40.0,
+      "Lokalizacja": "46397 Bocholt",
+      "Odległość (km)": 27.0,
+      "Czas dojazdu (min)": 36,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/gemuetliche-2-zimmer-etagenwohnung-in-bocholt-ideal-fuer-singles-oder-paare/3582474863-203-1850",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48f08880-e60e-4694-8bd0-76e0c38c6c99?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48f08880-e60e-4694-8bd0-76e0c38c6c99?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20ad0675-07dd-4a34-b72b-26f6808d4cf3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02f5b4ce-a6f3-4b51-9698-5f4b3425ccde?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a4834a1-3049-4d53-b793-d6a1b1fbb831?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/938e06a4-ff76-43db-bd21-d437ff18e146?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/48/48f08880-e60e-4694-8bd0-76e0c38c6c99?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/20/20ad0675-07dd-4a34-b72b-26f6808d4cf3?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/02/02f5b4ce-a6f3-4b51-9698-5f4b3425ccde?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7a4834a1-3049-4d53-b793-d6a1b1fbb831?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/93/938e06a4-ff76-43db-bd21-d437ff18e146?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/5c/5c7cc3a0-d7d1-4d43-bae2-1b8f4986d7ed?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b5/b5b57e03-87f5-4af1-89f4-39926f7db80f?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "In einem gepflegten Gebäude aus dem Jahr 1957 erwartet Sie diese charmante 40 m² große Wohnung im 1. Obergeschoss, rechts gelegen. Die Wohnung besticht durch eine gemütliche Atmosphäre und bietet Ihnen ein Wohnzimmer, ein Schlafzimmer sowie ein Badezimmer mit Wanne. Die Küche ist ohne Einrichtung, sodass Sie Ihren eigenen Stil verwirklichen können. Ein Kinderspielplatz befindet sich direkt in der Nachbarschaft – perfekt für Familien mit Kindern. Nutzen Sie diese attraktive Gelegenheit und vereinbaren Sie einen Besichtigungstermin!\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 2299-965-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\n- Mieterkeller\n- Fahrradkeller\n- Waschkeller\n- Bad mit Badewanne\n- Spielplatz in unmittelbarer Nähe\n\n# Weitere Angaben\n- Verfügbar ab: Nach Vereinbarung\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nDie Wohnung befindet sich in einer angenehmen Wohngegend mit guter Anbindung an den öffentlichen Nahverkehr. Innerhalb weniger Gehminuten sind zahlreiche Bushaltestellen, darunter die Haltestelle Eichendorffstraße, bequem erreichbar. Für Familien bietet sich die Diepenbrockschule in unmittelbarer Nähe als schulische Einrichtung an. Einkaufsmöglichkeiten sind ebenfalls optimal vorhanden, so liegt der Netto Marken-Discount direkt um die Ecke. Für Freizeit und Erholung steht der Spielplatz BaBaLuu zur Verfügung, der in etwa 15 Minuten zu Fuß erreichbar ist.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 255.3 kWh/(m²*a)\n- Energieeffizienzklasse: H\n- Ausstellungsdatum: 16.09.2022\n- Baujahr (gemäß Energieausweis): 1957\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2299-965-M",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-26T01:39:58.766850+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
