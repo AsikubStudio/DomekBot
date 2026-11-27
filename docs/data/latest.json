@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:11:16.709941+00:00",
+  "generated_at": "2026-11-27T06:59:20.138754+00:00",
   "count": 102,
   "sources": {
     "ImmoScout24": {
@@ -7,7 +7,7 @@
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-26T21:11:16.709941+00:00",
+      "last_updated": "2026-11-27T06:59:20.138754+00:00",
       "interval_hours": 3
     }
   },
@@ -1026,7 +1026,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/dachgeschossapartment-in-marxloh-/3561259244-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/6304e5d7-7713-415d-902b-c5280f6ba898?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d09798ad-f431-4b62-9913-2b4dcf345af6?rule=$_2.AUTO",
       "Zdjęcia": [],
       "Czynsz z mediami (€)": null,
       "Opis": "",
@@ -1046,7 +1046,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ed/ed846073-8011-464b-884b-4bdd7ccad717?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f1/f1a12a23-2b4b-4d21-88ac-046e660b567b?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ddb0f-763e-417f-96c1-f1166be9934b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33d719-b1db-4fba-b022-2198cf1e85c0?rule=$_59.AUTO",
@@ -1244,7 +1244,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a4/a4a02b8b-fed4-48b0-820a-740e57224922?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1a509b94-d401-4548-902e-d6e83eac9672?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1952,7 +1952,7 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "Schöne 2 Zimmer Wohnung Nähe Ev. Krankenhaus",
+      "Tytuł": "Anfrage Stop !  Schöne 2 Zimmer Wohnung Nähe Ev. Krankenhaus",
       "Cena (€)": 540.0,
       "Pokoje": 2.0,
       "Powierzchnia (m²)": 54.0,
@@ -1962,7 +1962,7 @@
       "Odległość od 's-Heerenberg (km)": null,
       "Łazienka": "?",
       "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/schoene-2-zimmer-wohnung-naehe-ev-krankenhaus/3583268780-203-1866",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/anfrage-stop-schoene-2-zimmer-wohnung-naehe-ev-krankenhaus/3583268780-203-1866",
       "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85be1b18-e3b8-467e-a466-c82c2470deee?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85be1b18-e3b8-467e-a466-c82c2470deee?rule=$_59.AUTO",
@@ -1973,15 +1973,15 @@
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/81/810af406-223b-4caa-bb43-b938b4f5990c?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7c/7ccbbcc8-fa8c-49a8-b25e-06c71ede2115?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c02b4a5-0359-4a85-8d19-243d4c72bbac?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d2b7552-3b87-4c9f-bc6b-274c970fd485?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a8/a8282909-3e6d-4102-8574-f0b83f8c7a52?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/40/407a6da9-3dc1-4145-bd6f-d8373241d237?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/38bf1a91-94d0-43ae-8495-f0cc2821211c?rule=$_0.AUTO"
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/85be1b18-e3b8-467e-a466-c82c2470deee?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/24/24f59261-b802-4eec-9cc8-c287ddcd4666?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d0/d0b56719-17c9-4241-8cb4-164128a151d7?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d8/d8297b83-5f39-4d15-a009-6d224ecff57d?rule=$_1.AUTO"
       ],
-      "Czynsz z mediami (€)": 540.0,
-      "Opis": "Balkon • Einbauküche • Keller\n\nSuche einen Nachmieter für eine Schöne 2 Zimmer Wohnung 54qm mit Balkon im 1.OG in Wesel obrighoven Nähe evangelisches Krankenhaus.\n\nDie Wohnung befindet sich in einem gepflegten 6 Parteienhaus.\n\nKellerraum,Trockenkeller, Wäschekeller sind vorhanden.\n\nDie Einbauküche müsste übernommen werden.\n\nDie Kaltmiete beträgt 400€, Nebenkosten/ Heizkosten 140€ . Gesamtmiete 540€\n\nDie Wohnung wäre ab dem 1.3.2027 frei, kann aber auch vorraussichtlich zum 1.1.2027 übernommen werden.\n\nHaustiere sind nicht erlaubt.\n\nDie Bilder sind mit KI bearbeitet da die Wohnung derzeit noch bewohnt ist.\n\nBei Interesse kannst du mich gerne anschreiben.",
+      "Czynsz z mediami (€)": null,
+      "Opis": "Suche einen Nachmieter für eine Schöne 2 Zimmer Wohnung 54qm mit Balkon im 1.OG in Wesel obrighoven Nähe evangelisches Krankenhaus.\n\nDie Wohnung befindet sich in einem gepflegten 6 Parteienhaus.\n\nKellerraum,Trockenkeller, Wäschekeller sind vorhanden.\n\nDie Einbauküche müsste übernommen werden.\n\nDie Kaltmiete beträgt 400€, Nebenkosten/ Heizkosten 140€ . Gesamtmiete 540€\n\nDie Wohnung wäre ab dem 1.3.2027 frei, kann aber auch vorraussichtlich zum 1.1.2027 übernommen werden.\n\nHaustiere sind nicht erlaubt.\n\nDie Bilder sind mit KI bearbeitet da die Wohnung derzeit noch bewohnt ist.\n\nBei Interesse kannst du mich gerne anschreiben.",
       "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-26T21:11:16.705956+00:00"
+      "PierwszyRaz": "2026-11-27T06:59:20.136477+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2046,6 +2046,39 @@
       "Opis": "Balkon • Keller\n\nDiese ansprechende 2-Zimmer-Wohnung in Duisburg präsentiert sich nach einer umfassenden Modernisierung im Jahr 2026 als Erstbezug. Die 62 m² Wohnfläche verteilen sich auf zwei helle Zimmer sowie ein Badezimmer und befinden sich in der zweiten Etage eines gepflegten Mehrfamilienhauses aus dem Jahr 1970. Ein besonderes Highlight ist der Balkon, der zum Verweilen einlädt. Zusätzlich sorgt ein eigener Kellerraum für praktischen Stauraum. Die Beheizung erfolgt über eine Etagenheizung (moderne Infrarotheizung). Das Objekt ist ab sofort verfügbar und bietet eine flexible Regelung bezüglich der Tierhaltung.\n\n\\- neues Bad\n\n\\- moderne Infrarotheizungen\n\nDie Holtener Straße liegt im Duisburger Stadtteil Obermarxloh, der durch eine gute Anbindung an den öffentlichen Nahverkehr überzeugt. Buslinien und die U-Bahn-Linie U79 ermöglichen eine schnelle Verbindung zum Stadtzentrum. Das lebendige Viertel bietet eine angenehme Infrastruktur mit einer Mischung aus Familien und Berufstätigen.\n\nHeizkosten sind nicht in den Nebenkosten enthalten und laufen über den privaten Stromtarif.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Helle Dachgeschosswohnung mit Küche und Möbeln abzugeben",
+      "Cena (€)": 541.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 47.0,
+      "Lokalizacja": "46537 Dinslaken",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 35,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "tak",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/helle-dachgeschosswohnung-mit-kueche-und-moebeln-abzugeben/3583443050-203-1854",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/864ec768-f454-4270-9fe3-129acf6fea44?rule=$_1.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/86/864ec768-f454-4270-9fe3-129acf6fea44?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/4d/4daa2ee8-84d3-4368-8612-3a31cf5a9489?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7e/7e3452bd-27f3-41b6-9ee0-bc8837c47f31?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/85/8552db15-a4be-4821-926d-322f6a41f16b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3c/3c15b3c2-2f04-46dc-a607-325734f7d4cd?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bcf36024-671f-4ef6-b817-22c83a6c20ee?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e3/e3542fbb-e6e0-4a1c-9969-2c9ca2499d02?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/0d/0d16b765-28f2-4203-b421-f769bfb5125f?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/01/01f499b2-ae92-42b8-bfa8-d36e1b606fd5?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/7a/7aa6b6f0-2019-4164-8668-0f9fa2d663ac?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f7/f7e6de09-10ad-4d82-91e7-0b5866e33a53?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/64/64b94f36-7a90-475f-ad57-6b6073bd4bc9?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 541.0,
+      "Opis": "Möbliert/Teilmöbliert • Einbauküche • Badewanne • Keller\n\nBitte Lessen!!\nSchöne, helle Dachgeschosswohnung abzugeben – inklusive Möbel und Küche\n\nIch biete eine schöne, helle und gut beleuchtete Dachgeschosswohnung mit 47 m² zur Übernahme an.\n\nVerfügbar ab Ende Januar / Anfang Februar. Sollte jemand die Wohnung bereits früher benötigen, können wir gerne individuell darüber sprechen und einen früheren Übergabetermin vereinbaren.\n\nMietkosten:\n\n- Warmmiete: 541,50 €\n- Kaution: 1.145 €\n\nMöbel und Ausstattung:\n\nDie Wohnung wird weitgehend möbliert übergeben. Folgende Gegenstände bleiben in der Wohnung:\n\n- Waschmaschine (erst 6 Monate alt)\n- Sofa (erst 9 Monate alt)\n- Einbauküche inklusive Elektrogeräte\n- Spülmaschine\n- Klimaanlage\n- Weitere vorhandene Möbel und Einrichtungsgegenstände\n\nNicht im Angebot enthalten sind lediglich:\n\n- Fernseher\n- Airfryer\n- Tisch im Wohnzimmer\n\nPreis für die komplette Möbel- und Küchenausstattung: 1.540 € VB\n\nEin weiterer Vorteil: Die Wohnung wurde im August frisch gestrichen. Ein erneutes Streichen ist daher nicht erforderlich.\n\nIm Folgenden finden Sie Bilder, die zeigen, wie ich die Wohnung bei meinem Einzug übernommen habe und in welchem Zustand ich sie nun übergebe.\n\nBei Interesse oder Fragen können Sie mich gerne kontaktieren.",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-27T06:59:20.136477+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2699,39 +2732,6 @@
       "Opis": "Mehr geht wohl kaum, diese 2,5 Zimmer Wohnung punktet mit vielem. Die offen geschnittene Etagenwohnung liegt in der ersten Etage eines gepflegten Vier-Parteien Hauses in der Weseler Innenstadt. Die Wohnung wurde 2023 kernsaniert, neue graue Fliesenböden, neues Duschbad mit weißer Keramag Keramik und grauen Fliesen, Echtglasduschtür, weiße Zimmertüren. Wohnzimmer mit Laminatboden in Old Oak mit Sonnenbalkon Richtung Süden, große helle Wohnküche zum Innenhof mit Fliesenboden, die moderne Einbauküche mit allen Einbaugeräten wird mit vermietet. Zu dem Objekt zählt noch ein separates Schlafzimmer mit Bodentiefen Fenstern, ebenfalls mit neuem Laminatboden in Old Oak, welches auf eine wunderschöne große Dachterrasse zum Innenhof hin führt . Der Eingangsbereich des Objektes wurde im Jahr 2024 neu gefliest. Die Gasheizung in dem Objekt wurde erst im Jahr 2021 erneuert. Ein Kellerraum wird ebenfalls mit vermietet. Es existiert ein gepflegter Gemeinschaftswaschkeller.\n\nDie Ausstattung im Einzelnen:\n\n- Graue Fliesenböden in Küche, Flur und Bad\n- Laminat in Old Oak in Wohnzimmer und Schlafzimmer\n- Weiße Zimmertüren\n- Graue Fliesen im Duschbad\n- Keramag Keramik\n- Echtglasduschtür\n- Einbauküche mit allen E-Geräten\n- Balkon\n- Dachterrasse\n- eigener Kellerraum\n\nDas gepflegte und fortlaufend sanierte Vier-Parteien Haus befindet sich im Herzen von Wesel in einer ruhigen Straße parallel zur Fußgängerzone. Die Anbindung an den Nahverkehr ist ausgezeichnet, der Bahnhof Wesel ist fußläufig zu erreichen. Geschäfte des täglichen Bedarf, viele Einkaufsmöglichkeiten, Restaurants und Kneipen (Kornmarkt) sowie der Heubergpark befinden sich in unmittelbarer Umgebung. Auch das Marienhospital ist fußläufig erreichbar.\n\n--- BITTE BEACHTEN UND VOLLSTÄNDIG LESEN!!!---\n\nPrivatvermietung ohne Courtage! 1. Obergeschoss ohne Aufzug, an Paar oder Einzelperson, nur nach Vorlage von SCHUFA Auskunft, Einkommens- oder Rentennachweisen und Personalausweiskopie. Keine Mieten vom Amt!!! Die Nebenkosten sind auf eine Person bezogen, bei zwei Mietern erhöhen sich diese auf EUR 200,00. Ein Die Wohnung kann von max. zwei Personen bezogen werden. Parkausweis für Anwohnerparken kann bei der Stadt Wesel für 50,00 EUR pro Jahr beantragt werden. Makler zwecklos! Bitte keine Anfragen von Personen, die gewerblich weitervermieten wollen. Die Wohnung steht NICHT zum Verkauf. Nur vollständige Anfragen mit Angabe des Berufes und der Personenanzahl, die einziehen soll, werden bearbeitet und beantwortet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T14:02:14.170456+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Nachmieter gesucht 2 Zimmer-Wohnung",
-      "Cena (€)": 640.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 58.0,
-      "Lokalizacja": "46535 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 41,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/nachmieter-gesucht-2-zimmer-wohnung/3582657878-203-1853",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f5668e7-581c-43b1-88f0-7a3d9b31697f?rule=$_2.AUTO",
-      "Zdjęcia": [
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9f/9f5668e7-581c-43b1-88f0-7a3d9b31697f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/c9/c9542925-1ce5-4711-b50e-1bbae0c78976?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/33/33bdbc43-8d09-448d-aa4f-a95d2e6bcdbf?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f4/f4fc28dc-0e31-4ed4-a858-db4a57ad6797?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/30/3066b705-8dbd-4b33-be39-f6d604e2fc5f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/7939f4dc-0673-49ca-9f8a-dfa9cb094f3f?rule=$_59.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cb/cbd64f17-d945-4e8f-8ecb-f2f0c60cb0ff?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/2b/2b114cf9-f008-43fb-84e2-95eb4e3f3db2?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9adacb04-0424-447a-a5ac-b01f11010c3e?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/1a/1a60a551-25be-4f06-9357-3397a96b2e8f?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/13/135aaa3c-037d-49fc-ad3b-3df4445afc82?rule=$_0.AUTO",
-        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83b98cac-f38f-4468-93c6-761605af39df?rule=$_0.AUTO"
-      ],
-      "Czynsz z mediami (€)": 640.0,
-      "Opis": "Möbliert/Teilmöbliert • Balkon • Einbauküche • Keller • Garage/Stellplatz\n\nIch (Jan Rimböck) suche ab Januar 2027 einen Nachmieter für meine Wohnung in der Grenzstraße 41a 1OG rechts in Dinslaken.\n\nDie Wohnung kostet mich aktuell 640€ Warmmiete, ein dazugehöriger Stellplatz für 30€ monatlich ist vor dem Gebäude verfügbar.\n\nDie Wohnung hat einen geräumigen Balkon und ein zugehöriges Kellerabteil.\n\nDie Einbauküche sollte vom neuen Mieter übernommen werden (VB).\nDie Möbel auf den Bildern sind zum Großteil auch einzeln inseriert, was bei Besichtigung noch da ist kann auch gerne übernommen werden falls gewünscht.",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-26T11:58:47.997864+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
