@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-27T18:44:26.460819+00:00",
-  "count": 102,
+  "generated_at": "2026-11-28T03:08:35.771425+00:00",
+  "count": 101,
   "sources": {
     "ImmoScout24": {
       "last_updated": "2026-10-02T19:11:38.018289+00:00",
       "interval_hours": 1
     },
     "Kleinanzeigen": {
-      "last_updated": "2026-11-27T18:44:26.460819+00:00",
+      "last_updated": "2026-11-28T03:08:35.771425+00:00",
       "interval_hours": 3
     }
   },
@@ -1079,7 +1079,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/mach-diesen-ort-zu-deinem-zuhause-make-this-place-your-home/3548765193-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/79/79d637b8-67c9-46ba-9c7a-7f69406e0d0a?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/e2/e2620689-f443-44f6-a8bf-c6036451083a?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a38ddb0f-763e-417f-96c1-f1166be9934b?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/bc/bc33d719-b1db-4fba-b022-2198cf1e85c0?rule=$_59.AUTO",
@@ -1131,26 +1131,6 @@
       "Opis": "Balkon • Altbau • Keller • Haustiere erlaubt\n\nWohnung mit Balkon im 2.OG in 47169 Duisburg-Röttgersbach direkt neben E-Center Engel\n\n•neueres Bad mit Dusche, weiße Türen, neue Gastherme, Balkon, Keller\n•Anschluss für die Waschmaschine im Bad\n•neue 3-fach verglaste Fenster\n•fußläufig einkaufen\n•Stellplätze bei Edeka auf dem Parkplatz verfügbar (25€/monatlich)\n•für eine Garage darf man sich gerne vormerken\n•Treppenhausreinigung und Winterdienst sind in der Miete enthalten\n•das Krankenhaus und der Revierpark Matterbusch, sowie der Jubiläumspark sind fußläufig erreichbar\n•eine Bushaltestelle ist ebenfalls in der Nähe\n\nKaltmiete 390€, Bruttokaltmiete 545€ inkl. 25€ VZ Wasser (Wasseruhr vorhanden), Warmmiete ca. 625€, Energieverbrauchskennwert 140,55kWh, Gas-Etagenheizung\n\nBei Anfragen bitte folgende Angaben machen:\n•Personenanzahl (max. 2 Personen)\n•Alter der Personen\n•Job/Einkommen\n•Schufa positiv/negativ\n•Email für den Fragebogen\n•Telefonnummer für Rückfragen\n•Haustiere bitte näher erläutern",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-21T18:46:40.717191+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "Hier zieht dein Leben ein – du kommst einfach hinterher.",
-      "Cena (€)": 390.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 55.49,
-      "Lokalizacja": "47169 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/hier-zieht-dein-leben-ein-du-kommst-einfach-hinterher-/3501361886-203-2146",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/83/83e9263d-852c-4316-9a7f-ffd59dc60140?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-09-20T21:06:14.931647+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1264,7 +1244,7 @@
       "Łazienka": "?",
       "Kuchnia": "?",
       "Link": "https://www.kleinanzeigen.de/s-anzeige/nette-nachbarn-gesucht-looking-for-friendly-neighbors/3570370817-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ba/ba9c2824-570e-4649-9250-d58a1d5e675d?rule=$_2.AUTO",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/ca/ca1461de-05f8-4434-a59a-561cae7f79e1?rule=$_2.AUTO",
       "Zdjęcia": [
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9a/9a886822-0d92-48aa-a21c-edc2a800f9f2?rule=$_59.AUTO",
         "https://img.kleinanzeigen.de/api/v1/prod-ads/images/eb/ebe27fce-8b17-4c97-96c0-38e7a374afda?rule=$_59.AUTO",
@@ -1542,6 +1522,39 @@
       "Opis": "Badewanne • Keller • Dachboden\n\nVermietet wird eine 2 Zimmerwohnung. Die Wohnung verfügt über ein Wohnzimmer, ein Schlafzimmer, Badezimmer mit Badewanne und eine Küche (Ausstattung der Küche und Wohnzimmer kann vom Vormieter übernommen werden). Ebenso gehört zur Wohnung ein abschließbares Kellerabteil.\nStrom und Gas laufen über einen externen Anbieter.\nDie angegebenen Nebenkosten sind für eine Person gültig. Bei zwei Personen wird der Wasserverbrauch entsprechend angepasst.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-08T19:23:34.590854+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Komplett neu renovierte 59 m² 2-Zimmer-Balkonwohnung in zentraler Lage von Walsum",
+      "Cena (€)": 459.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 58.63,
+      "Lokalizacja": "47179 Walsum",
+      "Odległość (km)": 30.0,
+      "Czas dojazdu (min)": 42,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/komplett-neu-renovierte-59-m-2-zimmer-balkonwohnung-in-zentraler-lage-von-walsum/3584270948-203-2143",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0b85f68-974a-45b0-b787-a459125bc918?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/f0/f0b85f68-974a-45b0-b787-a459125bc918?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d5/d5ca85be-5345-437b-9163-ca95e2151dd8?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/cd/cdcf41af-0f1c-482d-8bf0-440be18d13ec?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/38/383248d2-c686-4bab-adce-157d036aaaf2?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/fd/fd62cd63-59b9-4092-b4d3-1d46bd0fb49b?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d7/d7babbe0-8d6d-4bb0-a1b6-db2028e60387?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/21/218d91a1-111a-4a71-80a3-a36817daea32?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/9d/9d1bb38a-7fff-4865-9a68-e7eb810b7cae?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d1/d14e112b-c310-4f8b-8dc8-a57134a2dc5c?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/b6/b6181af2-3886-4f3c-86f2-1d83c3edbd64?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/a3/a396005e-c83b-4790-9a56-31ca664d1be3?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/98/986b70ef-2783-44f5-867c-b32335e13e11?rule=$_59.AUTO"
+      ],
+      "Czynsz z mediami (€)": 601.0,
+      "Opis": "Balkon • Badewanne • Keller\n\nDiese toll geschnittene 2-Zimmer-Wohnung verfügt über einen Balkon und wird komplett neu renoviert. Sie erhält einen neuen Vinylboden bzw. verfügt über weißen Fliesenboden und neue Wand- und Deckentapeten. Die geräumige Abstellkammer bietet ausreichend Stauraum.\n\nUnsere Mietobjekte auf der Dr. Hans-Böckler-Straße und Friedrich-Ebert-Straße befinden sich in einer zentraler Lage von Duisburg-Walsum. Die Gebäude sind mehrgeschossig und überwiegend mit Balkonen ausgestattet.\n\nHaben Sie Interesse? Dann senden Sie die Objekt-Id 3911-47-M per WhatsApp an 0211 740 70 99 90, per Signal an 0172 8877030 oder per Threema an *LEGCHAT.\n\nWichtiger Hinweis: Nachdem Sie das Kontaktformular im Portal ausgefüllt und verschickt haben, erhalten Sie von uns innerhalb von 15 Minuten eine E-Mail.\n\nBitte folgen Sie dem dort angegebenen Link, um Ihre E-Mail-Adresse und Ihre Angaben zu bestätigen.\n\n# Ausstattung\nDie Bilder zeigen eine andere Wohnung mit selbem Schnitt, da diese aktuell noch renoviert wird. Diese Wohnung ist bzw. wird wie folgt ausgestattet:\n\n- Balkon\n- weiß gefliestes Bad mit Wanne und neuem WC\n- neuer Vinylboden bzw. weißer Fliesenboden in gesamter Wohnung\n- neu tapezierte und weiß gestrichene Decken und Wände\n- neue Elektrik samt Schaltermaterial in gesamter Wohnung\n- geräumige Abstellkammer\n- eigener Kellerraum\n\n# Weitere Angaben\n- Verfügbar ab: 01.01.2027\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n# Lagebeschreibung\nIm Westen grenzt Walsum an den Niederrhein, im Norden an Dinslaken, im Osten an Oberhausen und im Süden an Hamborn.\nFür die Medizinische Versorgung und die Schulische Bildung ist auch gesorgt. Arztpraxen, Lebensmittelgeschäfte, Kindergärten und Schulen liegen in unmittelbarer Umgebung.\nDie Autobahn 59 mit ihren Verbindungen zur A40 und A42 befindet sich in unmittelbarer Umgebung.\nAuch der ÖPNV ermöglicht Ihnen schnelle Verbindungen in umliegende Stadtteile und Städte.\n\n# Sonstiges\nSie wünschen einen Besichtigungstermin? Wir freuen uns auf Sie!\n\nWir von der LEG sind Ihre kompetenten Vermieter mit vielen Jahrzehnten Erfahrung in der Wohnungswirtschaft.\n\nGerne beraten wir Sie bei der Kaution als Ratenzahlung. Zudem können Sie über plusForta eine Kautionsbürgschaft hinterlegen lassen. Sprechen Sie uns einfach an!\n\nDieses Angebot ist unverbindlich. Irrtum vorbehalten. Der Grundriss ist nicht maßstabsgetreu.\n\n# Energie\n- Energieausweis: Energiebedarfsausweis\n- Endenergiebedarf: 190.3 kWh/(m²*a)\n- Energieeffizienzklasse: F\n- Ausstellungsdatum: 24.09.2018\n- Baujahr (gemäß Energieausweis): 1973\n- Heizungsart: Fernwärme\n- Wesentliche Energieträger: Fernwärme\n\nAnbieter-Objekt-ID: 3911-47-M",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-28T03:08:35.769667+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -1903,26 +1916,6 @@
       "Opis": "Keller\n\nZur Vermietung steht eine frisch renovierte und modern geschnittene 2-Zimmer-Wohnung im Erdgeschoss eines gepflegten Mehrfamilienhauses in Oberhausen.\n\nAuf ca. 47 m² überzeugt die Wohnung durch einen zeitgemäßen, durchdachten Grundriss, der den vorhandenen Platz optimal ausnutzt. Sie eignet sich ideal für Singles oder Paare, die ein modernes Zuhause ohne Renovierungsaufwand suchen.\n\nAusstattung & Highlights:\n\nNagelneues Duschbad: Das Badezimmer wurde gerade erst komplett kernsaniert und erstrahlt in modernem Design.\n\nRenovierter Zustand: Die gesamte Wohnung ist frisch renoviert – einfach einziehen und wohlfühlen.\n\nModerner Grundriss: Helle und gut geschnittene Räume (Wohnzimmer, Schlafzimmer, Küche, Flur und Duschbad).\n\nBequeme Lage im Erdgeschoss: Kaum lästiges Treppensteigen beim Einkaufen.\n\nTop Parksituation: Direkt vor dem Haus stehen zahlreiche Parkplätze zur Verfügung, sodass die Parkplatzsuche entfällt\n\n• Waschmaschine muss in der Küche integriert\nwerden\n\nInteresse geweckt?\nBei Interesse freue ich mich über eine aussagekräftige Nachricht mit ein paar kurzen Informationen zu Ihrer Person (Name, Alter, berufliche Situation, gewünschtes Einzugsdatum). Besichtigungstermine können gerne zeitnah vereinbart werden!",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-23T01:27:07.748879+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
-      "Tytuł": "2-Zimmer-Etagenwohnung in Duisburg-Alt-Hamborn",
-      "Cena (€)": 525.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 69.63,
-      "Lokalizacja": "47166 Hamborn",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 40,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-etagenwohnung-in-duisburg-alt-hamborn/3581191085-203-2144",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/6c/6c783b61-0c2a-4f06-b323-b42f5ab2909b?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-26T11:58:47.997864+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
@@ -2643,26 +2636,6 @@
     },
     {
       "Portal": "Kleinanzeigen",
-      "Tytuł": "2 Zimmer Wohnung in Dinslaken Mitte",
-      "Cena (€)": 600.0,
-      "Pokoje": 2.0,
-      "Powierzchnia (m²)": 65.0,
-      "Lokalizacja": "46535 Dinslaken",
-      "Odległość (km)": 30.0,
-      "Czas dojazdu (min)": 41,
-      "Odległość od 's-Heerenberg (km)": null,
-      "Łazienka": "?",
-      "Kuchnia": "?",
-      "Link": "https://www.kleinanzeigen.de/s-anzeige/2-zimmer-wohnung-in-dinslaken-mitte/3582184091-203-1853",
-      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/14/146930c6-3591-4985-8376-48a6590eb202?rule=$_2.AUTO",
-      "Zdjęcia": [],
-      "Czynsz z mediami (€)": null,
-      "Opis": "",
-      "OfertyPracy": [],
-      "PierwszyRaz": "2026-11-27T18:44:26.459223+00:00"
-    },
-    {
-      "Portal": "Kleinanzeigen",
       "Tytuł": "Sanierte 2 Zi. Stadtwohnung mit EBK, Balkon und Dachterrasse!!!",
       "Cena (€)": 625.0,
       "Pokoje": 2.0,
@@ -2693,6 +2666,37 @@
       "Opis": "Mehr geht wohl kaum, diese 2,5 Zimmer Wohnung punktet mit vielem. Die offen geschnittene Etagenwohnung liegt in der ersten Etage eines gepflegten Vier-Parteien Hauses in der Weseler Innenstadt. Die Wohnung wurde 2023 kernsaniert, neue graue Fliesenböden, neues Duschbad mit weißer Keramag Keramik und grauen Fliesen, Echtglasduschtür, weiße Zimmertüren. Wohnzimmer mit Laminatboden in Old Oak mit Sonnenbalkon Richtung Süden, große helle Wohnküche zum Innenhof mit Fliesenboden, die moderne Einbauküche mit allen Einbaugeräten wird mit vermietet. Zu dem Objekt zählt noch ein separates Schlafzimmer mit Bodentiefen Fenstern, ebenfalls mit neuem Laminatboden in Old Oak, welches auf eine wunderschöne große Dachterrasse zum Innenhof hin führt . Der Eingangsbereich des Objektes wurde im Jahr 2024 neu gefliest. Die Gasheizung in dem Objekt wurde erst im Jahr 2021 erneuert. Ein Kellerraum wird ebenfalls mit vermietet. Es existiert ein gepflegter Gemeinschaftswaschkeller.\n\nDie Ausstattung im Einzelnen:\n\n- Graue Fliesenböden in Küche, Flur und Bad\n- Laminat in Old Oak in Wohnzimmer und Schlafzimmer\n- Weiße Zimmertüren\n- Graue Fliesen im Duschbad\n- Keramag Keramik\n- Echtglasduschtür\n- Einbauküche mit allen E-Geräten\n- Balkon\n- Dachterrasse\n- eigener Kellerraum\n\nDas gepflegte und fortlaufend sanierte Vier-Parteien Haus befindet sich im Herzen von Wesel in einer ruhigen Straße parallel zur Fußgängerzone. Die Anbindung an den Nahverkehr ist ausgezeichnet, der Bahnhof Wesel ist fußläufig zu erreichen. Geschäfte des täglichen Bedarf, viele Einkaufsmöglichkeiten, Restaurants und Kneipen (Kornmarkt) sowie der Heubergpark befinden sich in unmittelbarer Umgebung. Auch das Marienhospital ist fußläufig erreichbar.\n\n--- BITTE BEACHTEN UND VOLLSTÄNDIG LESEN!!!---\n\nPrivatvermietung ohne Courtage! 1. Obergeschoss ohne Aufzug, an Paar oder Einzelperson, nur nach Vorlage von SCHUFA Auskunft, Einkommens- oder Rentennachweisen und Personalausweiskopie. Keine Mieten vom Amt!!! Die Nebenkosten sind auf eine Person bezogen, bei zwei Mietern erhöhen sich diese auf EUR 200,00. Ein Die Wohnung kann von max. zwei Personen bezogen werden. Parkausweis für Anwohnerparken kann bei der Stadt Wesel für 50,00 EUR pro Jahr beantragt werden. Makler zwecklos! Bitte keine Anfragen von Personen, die gewerblich weitervermieten wollen. Die Wohnung steht NICHT zum Verkauf. Nur vollständige Anfragen mit Angabe des Berufes und der Personenanzahl, die einziehen soll, werden bearbeitet und beantwortet.",
       "OfertyPracy": [],
       "PierwszyRaz": "2026-11-13T14:02:14.170456+00:00"
+    },
+    {
+      "Portal": "Kleinanzeigen",
+      "Tytuł": "Charmante 2-Zimmer Souterrain-Wohnung in Hamminkeln-Dingden",
+      "Cena (€)": 649.0,
+      "Pokoje": 2.0,
+      "Powierzchnia (m²)": 66.13,
+      "Lokalizacja": "46499 Hamminkeln",
+      "Odległość (km)": 26.0,
+      "Czas dojazdu (min)": 22,
+      "Odległość od 's-Heerenberg (km)": null,
+      "Łazienka": "?",
+      "Kuchnia": "?",
+      "Link": "https://www.kleinanzeigen.de/s-anzeige/charmante-2-zimmer-souterrain-wohnung-in-hamminkeln-dingden/3583835880-203-1386",
+      "Zdjęcie": "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/632463d1-e348-4619-84d9-c0556c53e19e?rule=$_2.AUTO",
+      "Zdjęcia": [
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/632463d1-e348-4619-84d9-c0556c53e19e?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d34f51cb-beb3-43cb-ae47-697cc5a7abb9?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d650cc0-3c3c-4413-be92-3b12240d7707?rule=$_59.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/63/632463d1-e348-4619-84d9-c0556c53e19e?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/d3/d34f51cb-beb3-43cb-ae47-697cc5a7abb9?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/3d/3d650cc0-3c3c-4413-be92-3b12240d7707?rule=$_1.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-user/images/97/973ef816-0a18-4d35-bf1b-f10aa61e7b90?rule=$_12.JPG",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/06/06659123-189c-49dc-b8de-28be1e58fc97?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/29/29538693-33e5-4557-8376-b94d02905891?rule=$_2.AUTO",
+        "https://img.kleinanzeigen.de/api/v1/prod-ads/images/91/9132bef7-473d-4a87-89ee-cca3b2640645?rule=$_2.AUTO"
+      ],
+      "Czynsz z mediami (€)": null,
+      "Opis": "Diese gepflegte Souterrainwohnung in Hamminkeln bietet auf ca. 66 m² Wohnfläche eine gut durchdachte Raumaufteilung und eignet sich ideal für Singles oder Paare, die eine solide Mietwohnung in angenehmer Wohnlage suchen.\n\nDie Wohnung befindet sich in einem im Jahr 1990 erbauten, unterkellerten Mehrfamilienhaus mit insgesamt drei Etagen. Sie verfügt über zwei Zimmer, darunter ein Schlafzimmer, ein Badezimmer sowie einen Wohnbereich mit angenehmer Größe.\n\nIm Jahr 2023 wurde die Wohnung renoviert und umgebaut. Dadurch präsentiert sie sich heute in einem zeitgemäßen, gepflegten Zustand und bietet ein ansprechendes Wohnumfeld für Mieter, die Wert auf eine praktische und zugleich wohnliche Gestaltung legen.\n\nEin Stellplatz gehört ebenfalls zur Wohnung und rundet das Angebot komfortabel ab. Die Immobilie ist ab dem 01.03.2027 verfügbar und stellt eine attraktive Mietmöglichkeit für alle dar, die eine gut aufgeteilte Wohnung in Hamminkeln-Dingden suchen.\n\n# Ausstattung\n- 2 Zimmer\n-> 1 Wohn-/Essbereich mit offener Küche\n-> 1 Schlafzimmer\n- 1 Badezimmer\n- 1 Stellplatz\n\n# Weitere Angaben\n- Garagen/Stellplätze: 1\n- Verfügbar ab: 01.03.2027\n- Objektzustand: gepflegt\n- Qualität der Ausstattung: Standard\n\n- Garagen/Stellplatzmiete: 30,00 €\n\n# Lagebeschreibung\nDie angebotene Souterrainwohnung befindet sich in einer ruhigen, gewachsenen Wohnlage von Hamminkeln-Dingden. Das Umfeld ist geprägt von gepflegter Wohnbebauung und einer angenehmen Nachbarschaft, wodurch sich ein entspanntes und zugleich alltagstaugliches Wohnumfeld ergibt.\n\nEinkaufsmöglichkeiten für den täglichen Bedarf, ärztliche Versorgung sowie weitere Dienstleister sind in der näheren Umgebung erreichbar. Darüber hinaus bietet Hamminkeln ein familienfreundliches Angebot an Kindergärten und Schulen sowie vielfältige Freizeitmöglichkeiten im Grünen, die zu Spaziergängen, Radtouren und Erholung einladen.\n\nDie Verkehrsanbindung ist als vorteilhaft zu bewerten: Über die regionalen Straßenverbindungen lassen sich umliegende Ortsteile und benachbarte Städte zügig erreichen. Auch der öffentliche Nahverkehr steht in der Umgebung zur Verfügung und ermöglicht eine flexible Mobilität im Alltag.\n\n# Sonstiges\nHaftungsausschluss für inhaltliche Richtigkeit übermittelter Daten: Der Makler weist darauf hin, dass für die inhaltliche Richtigkeit der übermittelten Daten des oben genannten Objektes nicht gehaftet werden kann, da er diese vom Eigentümer lediglich zur Verfügung gestellt bekommen hat.\n\nUnsere Angebote sind freibleibend. Zwischenverkauf oder -vermietung, Irrtum und Auslassungen bleiben vorbehalten. Mit dieser Immobilienanfrage erklärt sich der Interessent einverstanden, dass die Butzke & Schroer Real Invest GmbH Ihn bzgl. dieses und weiterer Angebote telefonisch, schriftlich oder per E-Mail-Kontakt erfasst und informiert.\n\nBitte richten Sie Ihre Anfrage an:\n\ninfo@bs-realinvest.de\n\nWir bitten um Ihr Verständnis, dass wir die vollständigen Angaben zur Immobilie nur übermitteln können, wenn uns alle Kontaktdaten des Interessenten (Postanschrift, Telefon, E-Mail-Adresse) vorliegen.\n\n# Energie\n- Energieausweis: Energieverbrauchsausweis\n- Wesentliche Energieträger: GAS\n- Energieverbrauch: 83.2 kWh/(m²*a)\n- Energieeffizienzklasse: C\n- Gültig bis: 2036-07-26\n- Baujahr (gemäß Energieausweis): 1990\n- Wesentliche Energieträger: Gas\n\nAnbieter-Objekt-ID: 2026-1306",
+      "OfertyPracy": [],
+      "PierwszyRaz": "2026-11-28T03:08:35.769667+00:00"
     },
     {
       "Portal": "Kleinanzeigen",
